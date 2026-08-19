@@ -1,0 +1,4 @@
+# No third-party dependencies required.
+# github-trending-rss runs on Python 3.8+ using only the standard library
+# (urllib, xml.etree.ElementTree, html.parser, concurrent.futures, ...).
+# Optional: set the GITHUB_TOKEN environment variable to raise API rate limits.

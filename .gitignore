@@ -1,0 +1,39 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Generated artifacts ---
+# feed.xml is a build artifact; the daily GitHub Actions workflow must use
+# `git add -f feed.xml` if it publishes the feed via a committed file.
+feed.xml
+*-feed.xml
+*.log
+smoke.xml
+test-feed.xml
+
+# --- Temporary debug / validation scripts (root-level, dev only) ---
+/_*.py
+/_*.html
+
+# --- Secrets ---
+.env
+.env.*
+
+# --- OS / editors ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

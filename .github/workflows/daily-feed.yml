@@ -1,0 +1,61 @@
+# Daily Feed 工作流：每日定时抓取 GitHub Trending 并生成/提交 feed.xml
+#
+# 触发方式：
+#   1. schedule cron —— 每天 00:00 UTC（北京时间 08:00）自动运行
+#      （GitHub 文档：https://docs.github.com/zh/actions/writing-workflows/choosing-when-your-workflow-runs/events-that-trigger-workflows#schedule）
+#      注意：schedule 触发有分钟级延迟，且仓库 60 天无活动时可能被暂停，属 GitHub 平台行为。
+#   2. workflow_dispatch —— 仓库 Actions 页面手动触发（用于调试/补跑）
+#
+# 运行步骤：checkout → 安装依赖 → python main.py 生成 feed.xml → commit + push
+# 产物：feed.xml 提交到默认分支，可通过以下地址订阅：
+#   - raw:      https://raw.githubusercontent.com/<user>/<repo>/main/feed.xml
+#   - Pages:    仓库 Settings → Pages → Deploy from a branch (main / root) 启用后，
+#               https://<user>.github.io/<repo>/feed.xml
+name: Daily Feed
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天 00:00 UTC（北京时间 08:00）
+  workflow_dispatch: {} # 支持手动触发，便于调试
+
+# GITHUB_TOKEN 默认只读；这里显式放开 contents 写权限，用于提交 feed.xml
+permissions:
+  contents: write
+
+jobs:
+  build-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        # 当前 requirements.txt 为纯标准库实现（无第三方依赖），本步为 no-op；
+        # 保留以便未来加入依赖时无需改动 workflow。
+        run: pip install -r requirements.txt
+
+      - name: Generate feed.xml
+        env:
+          # 可选：Search API 兜底时提升限流（Actions 自动注入，无需手动配置 Secret）
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # --self-link：写入 atom:link rel=self，便于阅读器自动发现 feed
+        run: python main.py --self-link "https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/feed.xml"
+
+      - name: Commit and push feed.xml
+        # feed.xml 在 .gitignore 中（构建产物），需用 `git add -f` 强制提交才能发布
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f feed.xml
+          if git diff --cached --quiet; then
+            echo "feed.xml 无变化，跳过提交"
+          else
+            git commit -m "chore: update daily trending feed ($(date -u +%F))"
+            git push
+          fi
