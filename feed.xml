@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GitHub Trending Repositories</title>
+    <link>https://github.com/trending</link>
+    <description>Trending and hot open-source repositories on GitHub, updated daily.</description>
+    <language>zh-CN</language>
+    <generator>github-trending-rss/1.0.0</generator>
+    <ttl>1440</ttl>
+    <lastBuildDate>Thu, 20 Aug 2026 02:52:45 GMT</lastBuildDate>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
+    <item>
+      <title>harry0703/MoneyPrinterTurbo</title>
+      <link>https://github.com/harry0703/MoneyPrinterTurbo</link>
+      <guid isPermaLink="true">https://github.com/harry0703/MoneyPrinterTurbo</guid>
+      <pubDate>Thu, 20 Aug 2026 02:52:45 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频&lt;b 主题&lt;/b 或&lt;b 关键词&lt;/b ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 ![Version](https://github.com/harry0703/MoneyPrinterTurbo/releases) ![Platform](https://github.com/harry0703/MoneyPrinterTurbo/releases/latest) — +2,221 stars today · 111,012 stars · 16,822 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频&amp;lt;b 主题&amp;lt;/b 或&amp;lt;b 关键词&amp;lt;/b ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 ![Version](https://github.com/harry0703/MoneyPrinterTurbo/releases) ![Platform](https://github.com/harry0703/MoneyPrinterTurbo/releases/latest)&lt;/p&gt;&lt;p&gt;🔥 +2,221 stars today · ⭐ &lt;b&gt;111,012&lt;/b&gt; stars · 🍴 &lt;b&gt;16,822&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/harry0703/MoneyPrinterTurbo&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>mattpocock/skills</title>
+      <link>https://github.com/mattpocock/skills</link>
+      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
+      <pubDate>Thu, 20 Aug 2026 02:52:45 GMT</pubDate>
+      <description>&lt;p &lt;a href=&quot;https://www.aihero.dev/s/skills newsletter&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&quot; — +1,894 stars today · 223,977 stars · 19,264 forks · Language: Shell</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p &amp;lt;a href=&amp;quot;https://www.aihero.dev/s/skills newsletter&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,894 stars today · ⭐ &lt;b&gt;223,977&lt;/b&gt; stars · 🍴 &lt;b&gt;19,264&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mattpocock/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>amadeusprotocol/node</title>
+      <link>https://github.com/amadeusprotocol/node</link>
+      <guid isPermaLink="true">https://github.com/amadeusprotocol/node</guid>
+      <pubDate>Thu, 20 Aug 2026 02:52:45 GMT</pubDate>
+      <description>node Tested Distro/Env Linux Kernel 6.8 Ubuntu 24.04 Building Using podman or docker — +1,397 stars today · 4,611 stars · 85 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;node Tested Distro/Env Linux Kernel 6.8 Ubuntu 24.04 Building Using podman or docker&lt;/p&gt;&lt;p&gt;🔥 +1,397 stars today · ⭐ &lt;b&gt;4,611&lt;/b&gt; stars · 🍴 &lt;b&gt;85&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/amadeusprotocol/node&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>volcengine/OpenViking</title>
+      <link>https://github.com/volcengine/OpenViking</link>
+      <guid isPermaLink="true">https://github.com/volcengine/OpenViking</guid>
+      <pubDate>Thu, 20 Aug 2026 02:52:45 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;a href=&quot;https://openviking.ai/&quot; target=&quot; blank&quot; &lt;picture &lt;img alt=&quot;OpenViking&quot; src=&quot;docs/images/ov logo.png&quot; width=&quot;200px&quot; height=&quot;auto&quot; &lt;/picture &lt;/a — +804 stars today · 30,317 stars · 2,342 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://openviking.ai/&amp;quot; target=&amp;quot; blank&amp;quot; &amp;lt;picture &amp;lt;img alt=&amp;quot;OpenViking&amp;quot; src=&amp;quot;docs/images/ov logo.png&amp;quot; width=&amp;quot;200px&amp;quot; height=&amp;quot;auto&amp;quot; &amp;lt;/picture &amp;lt;/a&lt;/p&gt;&lt;p&gt;🔥 +804 stars today · ⭐ &lt;b&gt;30,317&lt;/b&gt; stars · 🍴 &lt;b&gt;2,342&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/volcengine/OpenViking&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>chaitanyagiri/munder-difflin</title>
+      <link>https://github.com/chaitanyagiri/munder-difflin</link>
+      <guid isPermaLink="true">https://github.com/chaitanyagiri/munder-difflin</guid>
+      <pubDate>Thu, 20 Aug 2026 02:52:45 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;./docs/logo.png&quot; alt=&quot;Munder Difflin — agent harness to run an office of your clones&quot; width=&quot;340&quot; Munder Difflin Agent harness to run an office of your clones Free, open source and performant — a multi agent harness that works with the — +795 stars today · 2,744 stars · 324 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;./docs/logo.png&amp;quot; alt=&amp;quot;Munder Difflin — agent harness to run an office of your clones&amp;quot; width=&amp;quot;340&amp;quot; Munder Difflin Agent harness to run an office of your clones Free, open source and performant — a multi agent harness that works with the&lt;/p&gt;&lt;p&gt;🔥 +795 stars today · ⭐ &lt;b&gt;2,744&lt;/b&gt; stars · 🍴 &lt;b&gt;324&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/chaitanyagiri/munder-difflin&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>mukul975/Anthropic-Cybersecurity-Skills</title>
+      <link>https://github.com/mukul975/Anthropic-Cybersecurity-Skills</link>
+      <guid isPermaLink="true">https://github.com/mukul975/Anthropic-Cybersecurity-Skills</guid>
+      <pubDate>Thu, 20 Aug 2026 02:52:45 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/banner.png&quot; alt=&quot;Anthropic Cybersecurity Skills&quot; width=&quot;100%&quot; &lt;/p &lt;div align=&quot;center&quot; Anthropic Cybersecurity Skills The largest open source cybersecurity skills library for AI agents — +766 stars today · 29,896 stars · 3,543 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/banner.png&amp;quot; alt=&amp;quot;Anthropic Cybersecurity Skills&amp;quot; width=&amp;quot;100%&amp;quot; &amp;lt;/p &amp;lt;div align=&amp;quot;center&amp;quot; Anthropic Cybersecurity Skills The largest open source cybersecurity skills library for AI agents&lt;/p&gt;&lt;p&gt;🔥 +766 stars today · ⭐ &lt;b&gt;29,896&lt;/b&gt; stars · 🍴 &lt;b&gt;3,543&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mukul975/Anthropic-Cybersecurity-Skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>obra/superpowers</title>
+      <link>https://github.com/obra/superpowers</link>
+      <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
+      <pubDate>Thu, 20 Aug 2026 02:52:45 GMT</pubDate>
+      <description>Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started — +557 stars today · 274,349 stars · 24,560 forks · Language: Shell</description>
+      <content:encoded>&lt;p&gt;Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started&lt;/p&gt;&lt;p&gt;🔥 +557 stars today · ⭐ &lt;b&gt;274,349&lt;/b&gt; stars · 🍴 &lt;b&gt;24,560&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/obra/superpowers&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>jundot/omlx</title>
+      <link>https://github.com/jundot/omlx</link>
+      <guid isPermaLink="true">https://github.com/jundot/omlx</guid>
+      <pubDate>Thu, 20 Aug 2026 02:52:45 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/images/icon rounded dark.svg&quot; width=&quot;140&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;docs/images/icon rounded light.svg&quot; width=&quot;140&quot; &lt;img alt=&quot;oMLX&quot; src=&quot;docs/images/icon rounded light.svg&quot; width=&quot;140&quot; — +472 stars today · 19,867 stars · 1,695 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/images/icon rounded dark.svg&amp;quot; width=&amp;quot;140&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;docs/images/icon rounded light.svg&amp;quot; width=&amp;quot;140&amp;quot; &amp;lt;img alt=&amp;quot;oMLX&amp;quot; src=&amp;quot;docs/images/icon rounded light.svg&amp;quot; width=&amp;quot;140&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +472 stars today · ⭐ &lt;b&gt;19,867&lt;/b&gt; stars · 🍴 &lt;b&gt;1,695&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/jundot/omlx&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>genlayerlabs/genlayer-project-boilerplate</title>
+      <link>https://github.com/genlayerlabs/genlayer-project-boilerplate</link>
+      <guid isPermaLink="true">https://github.com/genlayerlabs/genlayer-project-boilerplate</guid>
+      <pubDate>Thu, 20 Aug 2026 02:52:45 GMT</pubDate>
+      <description>Sample GenLayer project ![License: MIT](https://opensource.org/license/mit/) ![Discord](https://discord.gg/8Jm4v89VAu) ![Telegram](https://t.me/genlayer) ![Twitter](https://x.com/GenLayer) ![GitHub star chart](https://star history.com/ yeagerai/genlayer js) — +430 stars today · 16,233 stars · 810 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;Sample GenLayer project ![License: MIT](https://opensource.org/license/mit/) ![Discord](https://discord.gg/8Jm4v89VAu) ![Telegram](https://t.me/genlayer) ![Twitter](https://x.com/GenLayer) ![GitHub star chart](https://star history.com/ yeagerai/genlayer js)&lt;/p&gt;&lt;p&gt;🔥 +430 stars today · ⭐ &lt;b&gt;16,233&lt;/b&gt; stars · 🍴 &lt;b&gt;810&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/genlayerlabs/genlayer-project-boilerplate&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>santifer/career-ops</title>
+      <link>https://github.com/santifer/career-ops</link>
+      <guid isPermaLink="true">https://github.com/santifer/career-ops</guid>
+      <pubDate>Thu, 20 Aug 2026 02:52:45 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/wordmark dark.svg&quot; &lt;img src=&quot;docs/wordmark light.svg&quot; alt=&quot;career ops&quot; width=&quot;250&quot; height=&quot;56&quot; &lt;/picture &lt;/p &lt;div align=&quot;center&quot; — +198 stars today · 65,872 stars · 12,747 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/wordmark dark.svg&amp;quot; &amp;lt;img src=&amp;quot;docs/wordmark light.svg&amp;quot; alt=&amp;quot;career ops&amp;quot; width=&amp;quot;250&amp;quot; height=&amp;quot;56&amp;quot; &amp;lt;/picture &amp;lt;/p &amp;lt;div align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +198 stars today · ⭐ &lt;b&gt;65,872&lt;/b&gt; stars · 🍴 &lt;b&gt;12,747&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/santifer/career-ops&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>immich-app/immich</title>
+      <link>https://github.com/immich-app/immich</link>
+      <guid isPermaLink="true">https://github.com/immich-app/immich</guid>
+      <pubDate>Thu, 20 Aug 2026 02:52:45 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;br/ &lt;a href=&quot;https://opensource.org/license/agpl v3&quot; &lt;img src=&quot;https://img.shields.io/badge/License AGPL v3 blue.svg?color=3F51B5&amp;style=for the badge&amp;label=License&amp;logoColor=000000&amp;labelColor=ececec&quot; alt=&quot;License: AGPLv3&quot; &lt;/a &lt;a href=&quot;https://discord.immich.app&quot; — +128 stars today · 111,919 stars · 6,633 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;br/ &amp;lt;a href=&amp;quot;https://opensource.org/license/agpl v3&amp;quot; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/License AGPL v3 blue.svg?color=3F51B5&amp;amp;style=for the badge&amp;amp;label=License&amp;amp;logoColor=000000&amp;amp;labelColor=ececec&amp;quot; alt=&amp;quot;License: AGPLv3&amp;quot; &amp;lt;/a &amp;lt;a href=&amp;quot;https://discord.immich.app&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +128 stars today · ⭐ &lt;b&gt;111,919&lt;/b&gt; stars · 🍴 &lt;b&gt;6,633&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/immich-app/immich&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>nautechsystems/nautilus_trader</title>
+      <link>https://github.com/nautechsystems/nautilus_trader</link>
+      <guid isPermaLink="true">https://github.com/nautechsystems/nautilus_trader</guid>
+      <pubDate>Thu, 20 Aug 2026 02:52:45 GMT</pubDate>
+      <description>&lt;img src=&quot;https://github.com/nautechsystems/nautilus trader/raw/develop/assets/nautilus trader logo.png&quot; alt=&quot;NautilusTrader&quot; width=&quot;500&quot; ![rustc](https://crates.io/crates/nautilus core) ![crates.io](https://crates.io/crates/nautilus core) — +80 stars today · 26,475 stars · 3,422 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;&amp;lt;img src=&amp;quot;https://github.com/nautechsystems/nautilus trader/raw/develop/assets/nautilus trader logo.png&amp;quot; alt=&amp;quot;NautilusTrader&amp;quot; width=&amp;quot;500&amp;quot; ![rustc](https://crates.io/crates/nautilus core) ![crates.io](https://crates.io/crates/nautilus core)&lt;/p&gt;&lt;p&gt;🔥 +80 stars today · ⭐ &lt;b&gt;26,475&lt;/b&gt; stars · 🍴 &lt;b&gt;3,422&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/nautechsystems/nautilus_trader&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>marceloprates/prettymaps</title>
+      <link>https://github.com/marceloprates/prettymaps</link>
+      <guid isPermaLink="true">https://github.com/marceloprates/prettymaps</guid>
+      <pubDate>Thu, 20 Aug 2026 02:52:45 GMT</pubDate>
+      <description>prettymaps A minimal Python library to draw customized maps from OpenStreetMap created using the osmnx, matplotlib, shapely and vsketch packages. ![Docs](https://marceloprates.github.io/prettymaps/) ![PyPI](https://pypi.org/project/prettymaps/) ![Python](https://www.python.org/) ![License](LICENSE) — +63 stars today · 13,192 stars · 659 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;prettymaps A minimal Python library to draw customized maps from OpenStreetMap created using the osmnx, matplotlib, shapely and vsketch packages. ![Docs](https://marceloprates.github.io/prettymaps/) ![PyPI](https://pypi.org/project/prettymaps/) ![Python](https://www.python.org/) ![License](LICENSE)&lt;/p&gt;&lt;p&gt;🔥 +63 stars today · ⭐ &lt;b&gt;13,192&lt;/b&gt; stars · 🍴 &lt;b&gt;659&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/marceloprates/prettymaps&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+  </channel>
+</rss>
