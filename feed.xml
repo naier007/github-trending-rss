@@ -7,144 +7,144 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Fri, 21 Aug 2026 01:25:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 01:21:20 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
-    <item>
-      <title>harry0703/MoneyPrinterTurbo</title>
-      <link>https://github.com/harry0703/MoneyPrinterTurbo</link>
-      <guid isPermaLink="true">https://github.com/harry0703/MoneyPrinterTurbo</guid>
-      <pubDate>Fri, 21 Aug 2026 01:25:45 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频&lt;b 主题&lt;/b 或&lt;b 关键词&lt;/b ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 ![Version](https://github.com/harry0703/MoneyPrinterTurbo/releases) ![Platform](https://github.com/harry0703/MoneyPrinterTurbo/releases/latest) — +2,761 stars today · 112,975 stars · 17,122 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频&amp;lt;b 主题&amp;lt;/b 或&amp;lt;b 关键词&amp;lt;/b ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 ![Version](https://github.com/harry0703/MoneyPrinterTurbo/releases) ![Platform](https://github.com/harry0703/MoneyPrinterTurbo/releases/latest)&lt;/p&gt;&lt;p&gt;🔥 +2,761 stars today · ⭐ &lt;b&gt;112,975&lt;/b&gt; stars · 🍴 &lt;b&gt;17,122&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/harry0703/MoneyPrinterTurbo&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
     <item>
       <title>mattpocock/skills</title>
       <link>https://github.com/mattpocock/skills</link>
       <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
-      <pubDate>Fri, 21 Aug 2026 01:25:45 GMT</pubDate>
-      <description>&lt;p &lt;a href=&quot;https://www.aihero.dev/s/skills newsletter&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&quot; — +2,192 stars today · 226,570 stars · 19,428 forks · Language: Shell</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p &amp;lt;a href=&amp;quot;https://www.aihero.dev/s/skills newsletter&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +2,192 stars today · ⭐ &lt;b&gt;226,570&lt;/b&gt; stars · 🍴 &lt;b&gt;19,428&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mattpocock/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 22 Aug 2026 01:21:20 GMT</pubDate>
+      <description>&lt;p &lt;a href=&quot;https://www.aihero.dev/s/skills newsletter&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&quot; — +3,362 stars today · 229,530 stars · 19,618 forks · Language: Shell</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p &amp;lt;a href=&amp;quot;https://www.aihero.dev/s/skills newsletter&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +3,362 stars today · ⭐ &lt;b&gt;229,530&lt;/b&gt; stars · 🍴 &lt;b&gt;19,618&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mattpocock/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>AprilNEA/OpenLogi</title>
       <link>https://github.com/AprilNEA/OpenLogi</link>
       <guid isPermaLink="true">https://github.com/AprilNEA/OpenLogi</guid>
-      <pubDate>Fri, 21 Aug 2026 01:25:45 GMT</pubDate>
-      <description>[!WARNING] OpenLogi is under active development and not yet stable — features and config may still change. Give the repo a Star ⭐ and Watch 👀 it to get notified when a new release lands. — +1,545 stars today · 11,909 stars · 322 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;[!WARNING] OpenLogi is under active development and not yet stable — features and config may still change. Give the repo a Star ⭐ and Watch 👀 it to get notified when a new release lands.&lt;/p&gt;&lt;p&gt;🔥 +1,545 stars today · ⭐ &lt;b&gt;11,909&lt;/b&gt; stars · 🍴 &lt;b&gt;322&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/AprilNEA/OpenLogi&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 22 Aug 2026 01:21:20 GMT</pubDate>
+      <description>[!WARNING] OpenLogi is under active development and not yet stable — features and config may still change. Give the repo a Star ⭐ and Watch 👀 it to get notified when a new release lands. — +1,380 stars today · 12,958 stars · 351 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;[!WARNING] OpenLogi is under active development and not yet stable — features and config may still change. Give the repo a Star ⭐ and Watch 👀 it to get notified when a new release lands.&lt;/p&gt;&lt;p&gt;🔥 +1,380 stars today · ⭐ &lt;b&gt;12,958&lt;/b&gt; stars · 🍴 &lt;b&gt;351&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/AprilNEA/OpenLogi&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>volcengine/OpenViking</title>
-      <link>https://github.com/volcengine/OpenViking</link>
-      <guid isPermaLink="true">https://github.com/volcengine/OpenViking</guid>
-      <pubDate>Fri, 21 Aug 2026 01:25:45 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;a href=&quot;https://openviking.ai/&quot; target=&quot; blank&quot; &lt;picture &lt;img alt=&quot;OpenViking&quot; src=&quot;docs/images/ov logo.png&quot; width=&quot;200px&quot; height=&quot;auto&quot; &lt;/picture &lt;/a — +950 stars today · 31,040 stars · 2,394 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://openviking.ai/&amp;quot; target=&amp;quot; blank&amp;quot; &amp;lt;picture &amp;lt;img alt=&amp;quot;OpenViking&amp;quot; src=&amp;quot;docs/images/ov logo.png&amp;quot; width=&amp;quot;200px&amp;quot; height=&amp;quot;auto&amp;quot; &amp;lt;/picture &amp;lt;/a&lt;/p&gt;&lt;p&gt;🔥 +950 stars today · ⭐ &lt;b&gt;31,040&lt;/b&gt; stars · 🍴 &lt;b&gt;2,394&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/volcengine/OpenViking&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>santifer/career-ops</title>
-      <link>https://github.com/santifer/career-ops</link>
-      <guid isPermaLink="true">https://github.com/santifer/career-ops</guid>
-      <pubDate>Fri, 21 Aug 2026 01:25:45 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/wordmark dark.svg&quot; &lt;img src=&quot;docs/wordmark light.svg&quot; alt=&quot;career ops&quot; width=&quot;250&quot; height=&quot;56&quot; &lt;/picture &lt;/p &lt;div align=&quot;center&quot; — +816 stars today · 66,699 stars · 12,819 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/wordmark dark.svg&amp;quot; &amp;lt;img src=&amp;quot;docs/wordmark light.svg&amp;quot; alt=&amp;quot;career ops&amp;quot; width=&amp;quot;250&amp;quot; height=&amp;quot;56&amp;quot; &amp;lt;/picture &amp;lt;/p &amp;lt;div align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +816 stars today · ⭐ &lt;b&gt;66,699&lt;/b&gt; stars · 🍴 &lt;b&gt;12,819&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/santifer/career-ops&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>obra/superpowers</title>
-      <link>https://github.com/obra/superpowers</link>
-      <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-      <pubDate>Fri, 21 Aug 2026 01:25:45 GMT</pubDate>
-      <description>Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started — +727 stars today · 274,961 stars · 24,607 forks · Language: Shell</description>
-      <content:encoded>&lt;p&gt;Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started&lt;/p&gt;&lt;p&gt;🔥 +727 stars today · ⭐ &lt;b&gt;274,961&lt;/b&gt; stars · 🍴 &lt;b&gt;24,607&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/obra/superpowers&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>harry0703/MoneyPrinterTurbo</title>
+      <link>https://github.com/harry0703/MoneyPrinterTurbo</link>
+      <guid isPermaLink="true">https://github.com/harry0703/MoneyPrinterTurbo</guid>
+      <pubDate>Sat, 22 Aug 2026 01:21:20 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频&lt;b 主题&lt;/b 或&lt;b 关键词&lt;/b ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 ![Version](https://github.com/harry0703/MoneyPrinterTurbo/releases) ![Platform](https://github.com/harry0703/MoneyPrinterTurbo/releases/latest) — +1,201 stars today · 113,931 stars · 17,287 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频&amp;lt;b 主题&amp;lt;/b 或&amp;lt;b 关键词&amp;lt;/b ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 ![Version](https://github.com/harry0703/MoneyPrinterTurbo/releases) ![Platform](https://github.com/harry0703/MoneyPrinterTurbo/releases/latest)&lt;/p&gt;&lt;p&gt;🔥 +1,201 stars today · ⭐ &lt;b&gt;113,931&lt;/b&gt; stars · 🍴 &lt;b&gt;17,287&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/harry0703/MoneyPrinterTurbo&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>mahlernim/google-timeline-visualizer</title>
       <link>https://github.com/mahlernim/google-timeline-visualizer</link>
       <guid isPermaLink="true">https://github.com/mahlernim/google-timeline-visualizer</guid>
-      <pubDate>Fri, 21 Aug 2026 01:25:45 GMT</pubDate>
-      <description>Timeline Visualizer 한국어 안내 · 日本語 Turn your Timeline file into an animated travel video on your Android phone. Choose exact dates, preview the Journey, and create an MP4 ready to watch or share. Use on iPhone Open the iPhone web app — +657 stars today · 1,584 stars · 174 forks · Language: Kotlin</description>
-      <content:encoded>&lt;p&gt;Timeline Visualizer 한국어 안내 · 日本語 Turn your Timeline file into an animated travel video on your Android phone. Choose exact dates, preview the Journey, and create an MP4 ready to watch or share. Use on iPhone Open the iPhone web app&lt;/p&gt;&lt;p&gt;🔥 +657 stars today · ⭐ &lt;b&gt;1,584&lt;/b&gt; stars · 🍴 &lt;b&gt;174&lt;/b&gt; forks · &lt;b&gt;Kotlin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mahlernim/google-timeline-visualizer&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 22 Aug 2026 01:21:20 GMT</pubDate>
+      <description>Timeline Visualizer 한국어 안내 · 日本語 Turn your Timeline file into an animated travel video on your Android phone. Choose exact dates, preview the Journey, and create an MP4 ready to watch or share. Use on iPhone Open the iPhone web app — +1,053 stars today · 2,227 stars · 257 forks · Language: Kotlin</description>
+      <content:encoded>&lt;p&gt;Timeline Visualizer 한국어 안내 · 日本語 Turn your Timeline file into an animated travel video on your Android phone. Choose exact dates, preview the Journey, and create an MP4 ready to watch or share. Use on iPhone Open the iPhone web app&lt;/p&gt;&lt;p&gt;🔥 +1,053 stars today · ⭐ &lt;b&gt;2,227&lt;/b&gt; stars · 🍴 &lt;b&gt;257&lt;/b&gt; forks · &lt;b&gt;Kotlin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mahlernim/google-timeline-visualizer&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>chaitanyagiri/munder-difflin</title>
-      <link>https://github.com/chaitanyagiri/munder-difflin</link>
-      <guid isPermaLink="true">https://github.com/chaitanyagiri/munder-difflin</guid>
-      <pubDate>Fri, 21 Aug 2026 01:25:45 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;./docs/logo.png&quot; alt=&quot;Munder Difflin — agent harness to run an office of your clones&quot; width=&quot;340&quot; Munder Difflin Agent harness to run an office of your clones Free, open source and performant — a multi agent harness that works with the — +507 stars today · 3,136 stars · 351 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;./docs/logo.png&amp;quot; alt=&amp;quot;Munder Difflin — agent harness to run an office of your clones&amp;quot; width=&amp;quot;340&amp;quot; Munder Difflin Agent harness to run an office of your clones Free, open source and performant — a multi agent harness that works with the&lt;/p&gt;&lt;p&gt;🔥 +507 stars today · ⭐ &lt;b&gt;3,136&lt;/b&gt; stars · 🍴 &lt;b&gt;351&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/chaitanyagiri/munder-difflin&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>cursor/plugins</title>
-      <link>https://github.com/cursor/plugins</link>
-      <guid isPermaLink="true">https://github.com/cursor/plugins</guid>
-      <pubDate>Fri, 21 Aug 2026 01:25:45 GMT</pubDate>
-      <description>Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor plugin/plugin.json manifest. Plugins name Plugin Author Category description (from marketplace) : : : : : — +449 stars today · 4,089 stars · 340 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor plugin/plugin.json manifest. Plugins name Plugin Author Category description (from marketplace) : : : : :&lt;/p&gt;&lt;p&gt;🔥 +449 stars today · ⭐ &lt;b&gt;4,089&lt;/b&gt; stars · 🍴 &lt;b&gt;340&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cursor/plugins&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>akitaonrails/ai-memory</title>
-      <link>https://github.com/akitaonrails/ai-memory</link>
-      <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
-      <pubDate>Fri, 21 Aug 2026 01:25:45 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/logo dark.png&quot; &lt;img alt=&quot;ai memory&quot; src=&quot;docs/logo light.png&quot; width=&quot;480&quot; &lt;/picture &lt;/p — +332 stars today · 3,624 stars · 280 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/logo dark.png&amp;quot; &amp;lt;img alt=&amp;quot;ai memory&amp;quot; src=&amp;quot;docs/logo light.png&amp;quot; width=&amp;quot;480&amp;quot; &amp;lt;/picture &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +332 stars today · ⭐ &lt;b&gt;3,624&lt;/b&gt; stars · 🍴 &lt;b&gt;280&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/akitaonrails/ai-memory&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>santifer/career-ops</title>
+      <link>https://github.com/santifer/career-ops</link>
+      <guid isPermaLink="true">https://github.com/santifer/career-ops</guid>
+      <pubDate>Sat, 22 Aug 2026 01:21:20 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/wordmark dark.svg&quot; &lt;img src=&quot;docs/wordmark light.svg&quot; alt=&quot;career ops&quot; width=&quot;250&quot; height=&quot;56&quot; &lt;/picture &lt;/p &lt;div align=&quot;center&quot; — +921 stars today · 67,455 stars · 12,873 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/wordmark dark.svg&amp;quot; &amp;lt;img src=&amp;quot;docs/wordmark light.svg&amp;quot; alt=&amp;quot;career ops&amp;quot; width=&amp;quot;250&amp;quot; height=&amp;quot;56&amp;quot; &amp;lt;/picture &amp;lt;/p &amp;lt;div align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +921 stars today · ⭐ &lt;b&gt;67,455&lt;/b&gt; stars · 🍴 &lt;b&gt;12,873&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/santifer/career-ops&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>modular/modular</title>
       <link>https://github.com/modular/modular</link>
       <guid isPermaLink="true">https://github.com/modular/modular</guid>
-      <pubDate>Fri, 21 Aug 2026 01:25:45 GMT</pubDate>
-      <description>&lt;! rumdl disable file MD033 MD041 MD075 &lt;div align=&quot;center&quot; &lt;img src=&quot;https://modular assets.s3.us east 1.amazonaws.com/images/modular banner github.png&quot; [About Modular] [MAX docs] [Mojo docs] [Contributing] &lt;/div Modular Platform — +268 stars today · 27,963 stars · 3,001 forks · Language: Mojo</description>
-      <content:encoded>&lt;p&gt;&amp;lt;! rumdl disable file MD033 MD041 MD075 &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;https://modular assets.s3.us east 1.amazonaws.com/images/modular banner github.png&amp;quot; [About Modular] [MAX docs] [Mojo docs] [Contributing] &amp;lt;/div Modular Platform&lt;/p&gt;&lt;p&gt;🔥 +268 stars today · ⭐ &lt;b&gt;27,963&lt;/b&gt; stars · 🍴 &lt;b&gt;3,001&lt;/b&gt; forks · &lt;b&gt;Mojo&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/modular/modular&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 22 Aug 2026 01:21:20 GMT</pubDate>
+      <description>&lt;! rumdl disable file MD033 MD041 MD075 &lt;div align=&quot;center&quot; &lt;img src=&quot;https://modular assets.s3.us east 1.amazonaws.com/images/modular banner github.png&quot; [About Modular] [MAX docs] [Mojo docs] [Contributing] &lt;/div Modular Platform — +913 stars today · 28,689 stars · 3,053 forks · Language: Mojo</description>
+      <content:encoded>&lt;p&gt;&amp;lt;! rumdl disable file MD033 MD041 MD075 &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;https://modular assets.s3.us east 1.amazonaws.com/images/modular banner github.png&amp;quot; [About Modular] [MAX docs] [Mojo docs] [Contributing] &amp;lt;/div Modular Platform&lt;/p&gt;&lt;p&gt;🔥 +913 stars today · ⭐ &lt;b&gt;28,689&lt;/b&gt; stars · 🍴 &lt;b&gt;3,053&lt;/b&gt; forks · &lt;b&gt;Mojo&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/modular/modular&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>JuliusBrussee/caveman</title>
-      <link>https://github.com/JuliusBrussee/caveman</link>
-      <guid isPermaLink="true">https://github.com/JuliusBrussee/caveman</guid>
-      <pubDate>Fri, 21 Aug 2026 01:25:45 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;docs/assets/caveman logo banner.png&quot; alt=&quot;Caveman&quot; width=&quot;720&quot; &lt;/p &lt;p align=&quot;center&quot; &lt;strong why use many token when few do trick&lt;/strong &lt;/p — +258 stars today · 99,648 stars · 5,770 forks · Language: Go</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/assets/caveman logo banner.png&amp;quot; alt=&amp;quot;Caveman&amp;quot; width=&amp;quot;720&amp;quot; &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong why use many token when few do trick&amp;lt;/strong &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +258 stars today · ⭐ &lt;b&gt;99,648&lt;/b&gt; stars · 🍴 &lt;b&gt;5,770&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/JuliusBrussee/caveman&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>obra/superpowers</title>
+      <link>https://github.com/obra/superpowers</link>
+      <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
+      <pubDate>Sat, 22 Aug 2026 01:21:20 GMT</pubDate>
+      <description>Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started — +790 stars today · 275,666 stars · 24,644 forks · Language: Shell</description>
+      <content:encoded>&lt;p&gt;Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started&lt;/p&gt;&lt;p&gt;🔥 +790 stars today · ⭐ &lt;b&gt;275,666&lt;/b&gt; stars · 🍴 &lt;b&gt;24,644&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/obra/superpowers&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>RyanCodrai/turbovec</title>
-      <link>https://github.com/RyanCodrai/turbovec</link>
-      <guid isPermaLink="true">https://github.com/RyanCodrai/turbovec</guid>
-      <pubDate>Fri, 21 Aug 2026 01:25:45 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;https://raw.githubusercontent.com/RyanCodrai/turbovec/main/docs/header.png&quot; alt=&quot;turbovec — Google's TurboQuant for vector search&quot; width=&quot;100%&quot; &lt;/p &lt;p align=&quot;center&quot; — +230 stars today · 15,956 stars · 1,386 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;https://raw.githubusercontent.com/RyanCodrai/turbovec/main/docs/header.png&amp;quot; alt=&amp;quot;turbovec — Google&amp;#x27;s TurboQuant for vector search&amp;quot; width=&amp;quot;100%&amp;quot; &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +230 stars today · ⭐ &lt;b&gt;15,956&lt;/b&gt; stars · 🍴 &lt;b&gt;1,386&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/RyanCodrai/turbovec&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>cursor/plugins</title>
+      <link>https://github.com/cursor/plugins</link>
+      <guid isPermaLink="true">https://github.com/cursor/plugins</guid>
+      <pubDate>Sat, 22 Aug 2026 01:21:20 GMT</pubDate>
+      <description>Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor plugin/plugin.json manifest. Plugins name Plugin Author Category description (from marketplace) : : : : : — +388 stars today · 4,409 stars · 367 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor plugin/plugin.json manifest. Plugins name Plugin Author Category description (from marketplace) : : : : :&lt;/p&gt;&lt;p&gt;🔥 +388 stars today · ⭐ &lt;b&gt;4,409&lt;/b&gt; stars · 🍴 &lt;b&gt;367&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cursor/plugins&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>makeplane/plane</title>
-      <link>https://github.com/makeplane/plane</link>
-      <guid isPermaLink="true">https://github.com/makeplane/plane</guid>
-      <pubDate>Fri, 21 Aug 2026 01:25:45 GMT</pubDate>
-      <description>&lt;br / &lt;br / &lt;p align=&quot;center&quot; &lt;a href=&quot;https://plane.so&quot; &lt;img src=&quot;https://media.docs.plane.so/logo/plane github readme.png&quot; alt=&quot;Plane Logo&quot; width=&quot;400&quot; &lt;/a &lt;/p — +98 stars today · 56,516 stars · 5,397 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;br / &amp;lt;br / &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://plane.so&amp;quot; &amp;lt;img src=&amp;quot;https://media.docs.plane.so/logo/plane github readme.png&amp;quot; alt=&amp;quot;Plane Logo&amp;quot; width=&amp;quot;400&amp;quot; &amp;lt;/a &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +98 stars today · ⭐ &lt;b&gt;56,516&lt;/b&gt; stars · 🍴 &lt;b&gt;5,397&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/makeplane/plane&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>affaan-m/ECC</title>
+      <link>https://github.com/affaan-m/ECC</link>
+      <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
+      <pubDate>Sat, 22 Aug 2026 01:21:20 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/hero.png&quot; alt=&quot;ECC the agent harness operating system&quot; width=&quot;100%&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot;https://www.star history.com/affaan m/ecc&quot; &lt;picture — +357 stars today · 241,801 stars · 36,655 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/hero.png&amp;quot; alt=&amp;quot;ECC the agent harness operating system&amp;quot; width=&amp;quot;100%&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://www.star history.com/affaan m/ecc&amp;quot; &amp;lt;picture&lt;/p&gt;&lt;p&gt;🔥 +357 stars today · ⭐ &lt;b&gt;241,801&lt;/b&gt; stars · 🍴 &lt;b&gt;36,655&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/affaan-m/ECC&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>PostHog/posthog</title>
       <link>https://github.com/PostHog/posthog</link>
       <guid isPermaLink="true">https://github.com/PostHog/posthog</guid>
-      <pubDate>Fri, 21 Aug 2026 01:25:45 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img alt=&quot;posthoglogo&quot; src=&quot;https://user images.githubusercontent.com/65415371/205059737 c8a4f836 4889 4654 902e f302b187b6a0.png&quot; &lt;/p &lt;p align=&quot;center&quot; — +60 stars today · 38,010 stars · 3,217 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img alt=&amp;quot;posthoglogo&amp;quot; src=&amp;quot;https://user images.githubusercontent.com/65415371/205059737 c8a4f836 4889 4654 902e f302b187b6a0.png&amp;quot; &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +60 stars today · ⭐ &lt;b&gt;38,010&lt;/b&gt; stars · 🍴 &lt;b&gt;3,217&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/PostHog/posthog&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 22 Aug 2026 01:21:20 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img alt=&quot;posthoglogo&quot; src=&quot;https://user images.githubusercontent.com/65415371/205059737 c8a4f836 4889 4654 902e f302b187b6a0.png&quot; &lt;/p &lt;p align=&quot;center&quot; — +335 stars today · 38,294 stars · 3,232 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img alt=&amp;quot;posthoglogo&amp;quot; src=&amp;quot;https://user images.githubusercontent.com/65415371/205059737 c8a4f836 4889 4654 902e f302b187b6a0.png&amp;quot; &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +335 stars today · ⭐ &lt;b&gt;38,294&lt;/b&gt; stars · 🍴 &lt;b&gt;3,232&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/PostHog/posthog&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>Tencent/AI-Infra-Guard</title>
-      <link>https://github.com/Tencent/AI-Infra-Guard</link>
-      <guid isPermaLink="true">https://github.com/Tencent/AI-Infra-Guard</guid>
-      <pubDate>Fri, 21 Aug 2026 01:25:45 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;h1 align=&quot;center&quot; &lt;img vertical align=&quot;middle&quot; width=&quot;400px&quot; src=&quot;img/logo full new.png&quot; alt=&quot;A.I.G&quot;/ &lt;/h1 &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot;https://tencent.github.io/AI Infra Guard/&quot; 📖 Documentation&lt;/a &amp;nbsp; &amp;nbsp; — +50 stars today · 4,975 stars · 482 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;img vertical align=&amp;quot;middle&amp;quot; width=&amp;quot;400px&amp;quot; src=&amp;quot;img/logo full new.png&amp;quot; alt=&amp;quot;A.I.G&amp;quot;/ &amp;lt;/h1 &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://tencent.github.io/AI Infra Guard/&amp;quot; 📖 Documentation&amp;lt;/a &amp;amp;nbsp; &amp;amp;nbsp;&lt;/p&gt;&lt;p&gt;🔥 +50 stars today · ⭐ &lt;b&gt;4,975&lt;/b&gt; stars · 🍴 &lt;b&gt;482&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Tencent/AI-Infra-Guard&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>apache/maka</title>
+      <link>https://github.com/apache/maka</link>
+      <guid isPermaLink="true">https://github.com/apache/maka</guid>
+      <pubDate>Sat, 22 Aug 2026 01:21:20 GMT</pubDate>
+      <description>Maka ![CI](https://github.com/apache/maka/actions/workflows/ci.yml) ![License](./LICENSE) ![docs](./README.zh CN.md) A local first Agent workspace built for real work. — +148 stars today · 2,024 stars · 241 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;Maka ![CI](https://github.com/apache/maka/actions/workflows/ci.yml) ![License](./LICENSE) ![docs](./README.zh CN.md) A local first Agent workspace built for real work.&lt;/p&gt;&lt;p&gt;🔥 +148 stars today · ⭐ &lt;b&gt;2,024&lt;/b&gt; stars · 🍴 &lt;b&gt;241&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/apache/maka&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>agent-substrate/substrate</title>
-      <link>https://github.com/agent-substrate/substrate</link>
-      <guid isPermaLink="true">https://github.com/agent-substrate/substrate</guid>
-      <pubDate>Fri, 21 Aug 2026 01:25:45 GMT</pubDate>
-      <description>Agent Substrate ![License](https://opensource.org/licenses/Apache 2.0) NOTE: This is not an officially supported Google product. This project is not eligible for the Google Open Source Software Vulnerability Rewards Program. What is Agent Substrate? — +22 stars today · 1,400 stars · 252 forks · Language: Go</description>
-      <content:encoded>&lt;p&gt;Agent Substrate ![License](https://opensource.org/licenses/Apache 2.0) NOTE: This is not an officially supported Google product. This project is not eligible for the Google Open Source Software Vulnerability Rewards Program. What is Agent Substrate?&lt;/p&gt;&lt;p&gt;🔥 +22 stars today · ⭐ &lt;b&gt;1,400&lt;/b&gt; stars · 🍴 &lt;b&gt;252&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/agent-substrate/substrate&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>ruvnet/ruflo</title>
+      <link>https://github.com/ruvnet/ruflo</link>
+      <guid isPermaLink="true">https://github.com/ruvnet/ruflo</guid>
+      <pubDate>Sat, 22 Aug 2026 01:21:20 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; ![Ruflo Banner](https://cognitum.one/agentic engineering) &lt;! Try Ruflo — the 4 badges first time visitors actually act on ![Try the UI Beta — flo.ruv.io](https://flo.ruv.io/) ![npm version (ruflo)](https://www.npmjs.com/package/ruflo) — +140 stars today · 68,649 stars · 8,246 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; ![Ruflo Banner](https://cognitum.one/agentic engineering) &amp;lt;! Try Ruflo — the 4 badges first time visitors actually act on ![Try the UI Beta — flo.ruv.io](https://flo.ruv.io/) ![npm version (ruflo)](https://www.npmjs.com/package/ruflo)&lt;/p&gt;&lt;p&gt;🔥 +140 stars today · ⭐ &lt;b&gt;68,649&lt;/b&gt; stars · 🍴 &lt;b&gt;8,246&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ruvnet/ruflo&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>microsoft/TypeScript</title>
+      <link>https://github.com/microsoft/TypeScript</link>
+      <guid isPermaLink="true">https://github.com/microsoft/TypeScript</guid>
+      <pubDate>Sat, 22 Aug 2026 01:21:20 GMT</pubDate>
+      <description>TypeScript ![CI](https://github.com/microsoft/TypeScript/actions/workflows/ci.yml) ![npm version](https://www.npmjs.com/package/typescript) ![Downloads](https://www.npmjs.com/package/typescript) ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/microsoft/TypeScript) — +65 stars today · 110,380 stars · 13,742 forks · Language: Go</description>
+      <content:encoded>&lt;p&gt;TypeScript ![CI](https://github.com/microsoft/TypeScript/actions/workflows/ci.yml) ![npm version](https://www.npmjs.com/package/typescript) ![Downloads](https://www.npmjs.com/package/typescript) ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/microsoft/TypeScript)&lt;/p&gt;&lt;p&gt;🔥 +65 stars today · ⭐ &lt;b&gt;110,380&lt;/b&gt; stars · 🍴 &lt;b&gt;13,742&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/microsoft/TypeScript&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>elder-plinius/OBLITERATUS</title>
+      <link>https://github.com/elder-plinius/OBLITERATUS</link>
+      <guid isPermaLink="true">https://github.com/elder-plinius/OBLITERATUS</guid>
+      <pubDate>Sat, 22 Aug 2026 01:21:20 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;strong O B L I T E R A T U S&lt;/strong &lt;/p &lt;p align=&quot;center&quot; &lt;em Break the chains. Free the mind. Keep the brain.&lt;/em &lt;/p — +63 stars today · 7,793 stars · 1,432 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong O B L I T E R A T U S&amp;lt;/strong &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;em Break the chains. Free the mind. Keep the brain.&amp;lt;/em &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +63 stars today · ⭐ &lt;b&gt;7,793&lt;/b&gt; stars · 🍴 &lt;b&gt;1,432&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/elder-plinius/OBLITERATUS&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>TryGhost/Ghost</title>
+      <link>https://github.com/TryGhost/Ghost</link>
+      <guid isPermaLink="true">https://github.com/TryGhost/Ghost</guid>
+      <pubDate>Sat, 22 Aug 2026 01:21:20 GMT</pubDate>
+      <description>&amp;nbsp; &lt;p align=&quot;center&quot; &lt;a href=&quot;https://ghost.org/ gh light mode only&quot; target=&quot; blank&quot; &lt;img src=&quot;https://user images.githubusercontent.com/65487235/157884383 1b75feb1 45d8 4430 b636 3f7e06577347.png&quot; alt=&quot;Ghost&quot; width=&quot;200px&quot; &lt;/a &lt;a href=&quot;https://ghost.org/ gh dark mode only&quot; target=&quot; blank&quot; — +32 stars today · 54,892 stars · 11,903 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;amp;nbsp; &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://ghost.org/ gh light mode only&amp;quot; target=&amp;quot; blank&amp;quot; &amp;lt;img src=&amp;quot;https://user images.githubusercontent.com/65487235/157884383 1b75feb1 45d8 4430 b636 3f7e06577347.png&amp;quot; alt=&amp;quot;Ghost&amp;quot; width=&amp;quot;200px&amp;quot; &amp;lt;/a &amp;lt;a href=&amp;quot;https://ghost.org/ gh dark mode only&amp;quot; target=&amp;quot; blank&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +32 stars today · ⭐ &lt;b&gt;54,892&lt;/b&gt; stars · 🍴 &lt;b&gt;11,903&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/TryGhost/Ghost&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>microsoft/onnxruntime</title>
+      <link>https://github.com/microsoft/onnxruntime</link>
+      <guid isPermaLink="true">https://github.com/microsoft/onnxruntime</guid>
+      <pubDate>Sat, 22 Aug 2026 01:21:20 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img width=&quot;50%&quot; src=&quot;docs/images/ONNX Runtime logo dark.png&quot; / &lt;/p ONNX Runtime is a cross platform inference and training machine learning accelerator . — +5 stars today · 21,454 stars · 4,149 forks · Language: C++</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img width=&amp;quot;50%&amp;quot; src=&amp;quot;docs/images/ONNX Runtime logo dark.png&amp;quot; / &amp;lt;/p ONNX Runtime is a cross platform inference and training machine learning accelerator .&lt;/p&gt;&lt;p&gt;🔥 +5 stars today · ⭐ &lt;b&gt;21,454&lt;/b&gt; stars · 🍴 &lt;b&gt;4,149&lt;/b&gt; forks · &lt;b&gt;C++&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/microsoft/onnxruntime&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>protocolbuffers/protobuf</title>
+      <link>https://github.com/protocolbuffers/protobuf</link>
+      <guid isPermaLink="true">https://github.com/protocolbuffers/protobuf</guid>
+      <pubDate>Sat, 22 Aug 2026 01:21:20 GMT</pubDate>
+      <description>Protocol Buffers Google's data interchange format =================================================== ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview — +4 stars today · 71,771 stars · 16,236 forks · Language: C++</description>
+      <content:encoded>&lt;p&gt;Protocol Buffers Google&amp;#x27;s data interchange format =================================================== ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview&lt;/p&gt;&lt;p&gt;🔥 +4 stars today · ⭐ &lt;b&gt;71,771&lt;/b&gt; stars · 🍴 &lt;b&gt;16,236&lt;/b&gt; forks · &lt;b&gt;C++&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/protocolbuffers/protobuf&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
