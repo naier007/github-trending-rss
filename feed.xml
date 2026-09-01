@@ -7,160 +7,136 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Mon, 31 Aug 2026 04:28:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 04:11:56 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
     <item>
       <title>tt-a1i/archify</title>
       <link>https://github.com/tt-a1i/archify</link>
       <guid isPermaLink="true">https://github.com/tt-a1i/archify</guid>
-      <pubDate>Mon, 31 Aug 2026 04:28:59 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;strong English&lt;/strong · &lt;a href=&quot;./README ZH.md&quot; 简体中文&lt;/a &lt;/p &lt;p align=&quot;center&quot; — +3,722 stars today · 35,461 stars · 2,267 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong English&amp;lt;/strong · &amp;lt;a href=&amp;quot;./README ZH.md&amp;quot; 简体中文&amp;lt;/a &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +3,722 stars today · ⭐ &lt;b&gt;35,461&lt;/b&gt; stars · 🍴 &lt;b&gt;2,267&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/tt-a1i/archify&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 01 Sep 2026 04:11:56 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;strong English&lt;/strong · &lt;a href=&quot;./README ZH.md&quot; 简体中文&lt;/a &lt;/p &lt;p align=&quot;center&quot; — +3,991 stars today · 39,427 stars · 2,516 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong English&amp;lt;/strong · &amp;lt;a href=&amp;quot;./README ZH.md&amp;quot; 简体中文&amp;lt;/a &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +3,991 stars today · ⭐ &lt;b&gt;39,427&lt;/b&gt; stars · 🍴 &lt;b&gt;2,516&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/tt-a1i/archify&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>THU-MAIC/OpenMAIC</title>
       <link>https://github.com/THU-MAIC/OpenMAIC</link>
       <guid isPermaLink="true">https://github.com/THU-MAIC/OpenMAIC</guid>
-      <pubDate>Mon, 31 Aug 2026 04:28:59 GMT</pubDate>
-      <description>&lt;! &lt;p align=&quot;center&quot; &lt;img src=&quot;assets/logo horizontal.png&quot; alt=&quot;OpenMAIC&quot; width=&quot;420&quot;/ &lt;/p &lt;p align=&quot;center&quot; &lt;img src=&quot;assets/banner.png&quot; alt=&quot;OpenMAIC Banner&quot; width=&quot;680&quot;/ &lt;/p — +1,370 stars today · 24,623 stars · 4,526 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;! &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/logo horizontal.png&amp;quot; alt=&amp;quot;OpenMAIC&amp;quot; width=&amp;quot;420&amp;quot;/ &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/banner.png&amp;quot; alt=&amp;quot;OpenMAIC Banner&amp;quot; width=&amp;quot;680&amp;quot;/ &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +1,370 stars today · ⭐ &lt;b&gt;24,623&lt;/b&gt; stars · 🍴 &lt;b&gt;4,526&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/THU-MAIC/OpenMAIC&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 01 Sep 2026 04:11:56 GMT</pubDate>
+      <description>&lt;! &lt;p align=&quot;center&quot; &lt;img src=&quot;assets/logo horizontal.png&quot; alt=&quot;OpenMAIC&quot; width=&quot;420&quot;/ &lt;/p &lt;p align=&quot;center&quot; &lt;img src=&quot;assets/banner.png&quot; alt=&quot;OpenMAIC Banner&quot; width=&quot;680&quot;/ &lt;/p — +2,824 stars today · 27,656 stars · 4,809 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;! &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/logo horizontal.png&amp;quot; alt=&amp;quot;OpenMAIC&amp;quot; width=&amp;quot;420&amp;quot;/ &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/banner.png&amp;quot; alt=&amp;quot;OpenMAIC Banner&amp;quot; width=&amp;quot;680&amp;quot;/ &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +2,824 stars today · ⭐ &lt;b&gt;27,656&lt;/b&gt; stars · 🍴 &lt;b&gt;4,809&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/THU-MAIC/OpenMAIC&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>K-Dense-AI/scientific-agent-skills</title>
       <link>https://github.com/K-Dense-AI/scientific-agent-skills</link>
       <guid isPermaLink="true">https://github.com/K-Dense-AI/scientific-agent-skills</guid>
-      <pubDate>Mon, 31 Aug 2026 04:28:59 GMT</pubDate>
-      <description>Scientific Agent Skills ![License: MIT](LICENSE.md) ![Version](pyproject.toml) ![Skills]( whats included) ![Databases]( whats included) ![Agent Skills](https://agentskills.io/) — +1,114 stars today · 39,596 stars · 3,683 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Scientific Agent Skills ![License: MIT](LICENSE.md) ![Version](pyproject.toml) ![Skills]( whats included) ![Databases]( whats included) ![Agent Skills](https://agentskills.io/)&lt;/p&gt;&lt;p&gt;🔥 +1,114 stars today · ⭐ &lt;b&gt;39,596&lt;/b&gt; stars · 🍴 &lt;b&gt;3,683&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/K-Dense-AI/scientific-agent-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 01 Sep 2026 04:11:56 GMT</pubDate>
+      <description>Scientific Agent Skills ![License: MIT](LICENSE.md) ![Version](pyproject.toml) ![Skills]( whats included) ![Databases]( whats included) ![Agent Skills](https://agentskills.io/) — +1,980 stars today · 40,888 stars · 3,781 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;Scientific Agent Skills ![License: MIT](LICENSE.md) ![Version](pyproject.toml) ![Skills]( whats included) ![Databases]( whats included) ![Agent Skills](https://agentskills.io/)&lt;/p&gt;&lt;p&gt;🔥 +1,980 stars today · ⭐ &lt;b&gt;40,888&lt;/b&gt; stars · 🍴 &lt;b&gt;3,781&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/K-Dense-AI/scientific-agent-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>tashfeenahmed/freellmapi</title>
-      <link>https://github.com/tashfeenahmed/freellmapi</link>
-      <guid isPermaLink="true">https://github.com/tashfeenahmed/freellmapi</guid>
-      <pubDate>Mon, 31 Aug 2026 04:28:59 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI compatible endpoint. — +504 stars today · 22,932 stars · 3,162 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; FreeLLMAPI 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI compatible endpoint.&lt;/p&gt;&lt;p&gt;🔥 +504 stars today · ⭐ &lt;b&gt;22,932&lt;/b&gt; stars · 🍴 &lt;b&gt;3,162&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/tashfeenahmed/freellmapi&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>zhaoxuya520/reverse-skill</title>
+      <link>https://github.com/zhaoxuya520/reverse-skill</link>
+      <guid isPermaLink="true">https://github.com/zhaoxuya520/reverse-skill</guid>
+      <pubDate>Tue, 01 Sep 2026 04:11:56 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;reverse skill.png&quot; alt=&quot;reverse skill&quot; width=&quot;140&quot; / &lt;/p &lt;h1 align=&quot;center&quot; reverse skill&lt;/h1 &lt;h3 align=&quot;center&quot; Cybersecurity Skills Router · 逆向技能路由包&lt;/h3 — +1,401 stars today · 33,317 stars · 4,520 forks · Language: PowerShell</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;reverse skill.png&amp;quot; alt=&amp;quot;reverse skill&amp;quot; width=&amp;quot;140&amp;quot; / &amp;lt;/p &amp;lt;h1 align=&amp;quot;center&amp;quot; reverse skill&amp;lt;/h1 &amp;lt;h3 align=&amp;quot;center&amp;quot; Cybersecurity Skills Router · 逆向技能路由包&amp;lt;/h3&lt;/p&gt;&lt;p&gt;🔥 +1,401 stars today · ⭐ &lt;b&gt;33,317&lt;/b&gt; stars · 🍴 &lt;b&gt;4,520&lt;/b&gt; forks · &lt;b&gt;PowerShell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/zhaoxuya520/reverse-skill&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>every-app/open-seo</title>
       <link>https://github.com/every-app/open-seo</link>
       <guid isPermaLink="true">https://github.com/every-app/open-seo</guid>
-      <pubDate>Mon, 31 Aug 2026 04:28:59 GMT</pubDate>
-      <description>OpenSEO Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for the people . If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay as you go alternative that you actually control. All in one SEO tool for you and your AI agent. — +469 stars today · 15,278 stars · 1,828 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;OpenSEO Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for the people . If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay as you go alternative that you actually control. All in one SEO tool for you and your AI agent.&lt;/p&gt;&lt;p&gt;🔥 +469 stars today · ⭐ &lt;b&gt;15,278&lt;/b&gt; stars · 🍴 &lt;b&gt;1,828&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/every-app/open-seo&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 01 Sep 2026 04:11:56 GMT</pubDate>
+      <description>OpenSEO Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for the people . If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay as you go alternative that you actually control. All in one SEO tool for you and your AI agent. — +610 stars today · 15,833 stars · 1,906 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;OpenSEO Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for the people . If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay as you go alternative that you actually control. All in one SEO tool for you and your AI agent.&lt;/p&gt;&lt;p&gt;🔥 +610 stars today · ⭐ &lt;b&gt;15,833&lt;/b&gt; stars · 🍴 &lt;b&gt;1,906&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/every-app/open-seo&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>p-e-w/heretic</title>
-      <link>https://github.com/p-e-w/heretic</link>
-      <guid isPermaLink="true">https://github.com/p-e-w/heretic</guid>
-      <pubDate>Mon, 31 Aug 2026 04:28:59 GMT</pubDate>
-      <description>&lt;img width=&quot;128&quot; align=&quot;right&quot; alt=&quot;Logo&quot; src=&quot;https://github.com/user attachments/assets/df5f2840 2f92 4991 aa57 252747d7182e&quot; / — +369 stars today · 29,260 stars · 3,211 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;img width=&amp;quot;128&amp;quot; align=&amp;quot;right&amp;quot; alt=&amp;quot;Logo&amp;quot; src=&amp;quot;https://github.com/user attachments/assets/df5f2840 2f92 4991 aa57 252747d7182e&amp;quot; /&lt;/p&gt;&lt;p&gt;🔥 +369 stars today · ⭐ &lt;b&gt;29,260&lt;/b&gt; stars · 🍴 &lt;b&gt;3,211&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/p-e-w/heretic&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Lakr233/vphone-cli</title>
-      <link>https://github.com/Lakr233/vphone-cli</link>
-      <guid isPermaLink="true">https://github.com/Lakr233/vphone-cli</guid>
-      <pubDate>Mon, 31 Aug 2026 04:28:59 GMT</pubDate>
-      <description>&lt;div align=&quot;right&quot; &lt;strong &lt;a href=&quot;./docs/README ko.md&quot; 🇰🇷한국어&lt;/a &lt;/strong &lt;strong &lt;a href=&quot;./docs/README ja.md&quot; 🇯🇵日本語&lt;/a &lt;/strong &lt;strong &lt;a href=&quot;./docs/README zh.md&quot; 🇨🇳中文&lt;/a &lt;/strong &lt;strong 🇬🇧English&lt;/strong &lt;/div vphone cli — +361 stars today · 9,754 stars · 1,293 forks · Language: Swift</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;right&amp;quot; &amp;lt;strong &amp;lt;a href=&amp;quot;./docs/README ko.md&amp;quot; 🇰🇷한국어&amp;lt;/a &amp;lt;/strong &amp;lt;strong &amp;lt;a href=&amp;quot;./docs/README ja.md&amp;quot; 🇯🇵日本語&amp;lt;/a &amp;lt;/strong &amp;lt;strong &amp;lt;a href=&amp;quot;./docs/README zh.md&amp;quot; 🇨🇳中文&amp;lt;/a &amp;lt;/strong &amp;lt;strong 🇬🇧English&amp;lt;/strong &amp;lt;/div vphone cli&lt;/p&gt;&lt;p&gt;🔥 +361 stars today · ⭐ &lt;b&gt;9,754&lt;/b&gt; stars · 🍴 &lt;b&gt;1,293&lt;/b&gt; forks · &lt;b&gt;Swift&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Lakr233/vphone-cli&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>mvanhorn/last30days-skill</title>
-      <link>https://github.com/mvanhorn/last30days-skill</link>
-      <guid isPermaLink="true">https://github.com/mvanhorn/last30days-skill</guid>
-      <pubDate>Mon, 31 Aug 2026 04:28:59 GMT</pubDate>
-      <description>/last30days English Français Deutsch Español Português (Brasil) 日本語 简体中文 &lt;p align=&quot;center&quot; &lt;img src=&quot;media/pr assets/last30days ad.gif&quot; width=&quot;720&quot; alt=&quot;last30days an AI agent led search engine that searches people, not editors&quot; / &lt;/p &lt;p align=&quot;center&quot; — +230 stars today · 60,591 stars · 5,302 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;/last30days English Français Deutsch Español Português (Brasil) 日本語 简体中文 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;media/pr assets/last30days ad.gif&amp;quot; width=&amp;quot;720&amp;quot; alt=&amp;quot;last30days an AI agent led search engine that searches people, not editors&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +230 stars today · ⭐ &lt;b&gt;60,591&lt;/b&gt; stars · 🍴 &lt;b&gt;5,302&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mvanhorn/last30days-skill&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>unclecode/crawl4ai</title>
-      <link>https://github.com/unclecode/crawl4ai</link>
-      <guid isPermaLink="true">https://github.com/unclecode/crawl4ai</guid>
-      <pubDate>Mon, 31 Aug 2026 04:28:59 GMT</pubDate>
-      <description>🚀🤖 Crawl4AI: Open source LLM Friendly Web Crawler &amp; Scraper. &lt;div align=&quot;center&quot; — +221 stars today · 80,343 stars · 8,315 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;🚀🤖 Crawl4AI: Open source LLM Friendly Web Crawler &amp;amp; Scraper. &amp;lt;div align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +221 stars today · ⭐ &lt;b&gt;80,343&lt;/b&gt; stars · 🍴 &lt;b&gt;8,315&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/unclecode/crawl4ai&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>NationalSecurityAgency/ghidra</title>
-      <link>https://github.com/NationalSecurityAgency/ghidra</link>
-      <guid isPermaLink="true">https://github.com/NationalSecurityAgency/ghidra</guid>
-      <pubDate>Mon, 31 Aug 2026 04:28:59 GMT</pubDate>
-      <description>&lt;img src=&quot;Ghidra/Features/Base/src/main/resources/images/GHIDRA 3.png&quot; width=&quot;400&quot; Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the — +198 stars today · 73,983 stars · 8,067 forks · Language: Java</description>
-      <content:encoded>&lt;p&gt;&amp;lt;img src=&amp;quot;Ghidra/Features/Base/src/main/resources/images/GHIDRA 3.png&amp;quot; width=&amp;quot;400&amp;quot; Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the&lt;/p&gt;&lt;p&gt;🔥 +198 stars today · ⭐ &lt;b&gt;73,983&lt;/b&gt; stars · 🍴 &lt;b&gt;8,067&lt;/b&gt; forks · &lt;b&gt;Java&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/NationalSecurityAgency/ghidra&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>abhigyanpatwari/GitNexus</title>
-      <link>https://github.com/abhigyanpatwari/GitNexus</link>
-      <guid isPermaLink="true">https://github.com/abhigyanpatwari/GitNexus</guid>
-      <pubDate>Mon, 31 Aug 2026 04:28:59 GMT</pubDate>
-      <description>GitNexus (Akon Labs) — +182 stars today · 46,629 stars · 5,129 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;GitNexus (Akon Labs)&lt;/p&gt;&lt;p&gt;🔥 +182 stars today · ⭐ &lt;b&gt;46,629&lt;/b&gt; stars · 🍴 &lt;b&gt;5,129&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/abhigyanpatwari/GitNexus&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>pollen-robotics/microduck_rl</title>
-      <link>https://github.com/pollen-robotics/microduck_rl</link>
-      <guid isPermaLink="true">https://github.com/pollen-robotics/microduck_rl</guid>
-      <pubDate>Mon, 31 Aug 2026 04:28:59 GMT</pubDate>
-      <description>Microduck RL &lt;img width=&quot;2215&quot; height=&quot;884&quot; alt=&quot;image&quot; src=&quot;https://github.com/user attachments/assets/5db7cc83 b3ce 4f7c 83f0 0572a63baed7&quot; / RL training environments for Microduck — a 800 g, 25 cm tall bipedal robot — built on mjlab (MuJoCo Warp) with PPO. — +168 stars today · 868 stars · 150 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Microduck RL &amp;lt;img width=&amp;quot;2215&amp;quot; height=&amp;quot;884&amp;quot; alt=&amp;quot;image&amp;quot; src=&amp;quot;https://github.com/user attachments/assets/5db7cc83 b3ce 4f7c 83f0 0572a63baed7&amp;quot; / RL training environments for Microduck — a 800 g, 25 cm tall bipedal robot — built on mjlab (MuJoCo Warp) with PPO.&lt;/p&gt;&lt;p&gt;🔥 +168 stars today · ⭐ &lt;b&gt;868&lt;/b&gt; stars · 🍴 &lt;b&gt;150&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pollen-robotics/microduck_rl&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>livekit/agents</title>
-      <link>https://github.com/livekit/agents</link>
-      <guid isPermaLink="true">https://github.com/livekit/agents</guid>
-      <pubDate>Mon, 31 Aug 2026 04:28:59 GMT</pubDate>
-      <description>&lt;! BEGIN BANNER IMAGE &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;/.github/banner dark.png&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;/.github/banner light.png&quot; — +132 stars today · 13,813 stars · 3,660 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;! BEGIN BANNER IMAGE &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;/.github/banner dark.png&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;/.github/banner light.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +132 stars today · ⭐ &lt;b&gt;13,813&lt;/b&gt; stars · 🍴 &lt;b&gt;3,660&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/livekit/agents&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>corsairdev/corsair</title>
-      <link>https://github.com/corsairdev/corsair</link>
-      <guid isPermaLink="true">https://github.com/corsairdev/corsair</guid>
-      <pubDate>Mon, 31 Aug 2026 04:28:59 GMT</pubDate>
-      <description>Corsair: Connect your users to their apps &lt;div align=&quot;center&quot; Website · Discord · X ![npm](https://npm.chart.dev/corsair?primary=neutral&amp;gray=neutral&amp;theme=dark) — +126 stars today · 11,013 stars · 528 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;Corsair: Connect your users to their apps &amp;lt;div align=&amp;quot;center&amp;quot; Website · Discord · X ![npm](https://npm.chart.dev/corsair?primary=neutral&amp;amp;gray=neutral&amp;amp;theme=dark)&lt;/p&gt;&lt;p&gt;🔥 +126 stars today · ⭐ &lt;b&gt;11,013&lt;/b&gt; stars · 🍴 &lt;b&gt;528&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/corsairdev/corsair&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>checkstyle/checkstyle</title>
-      <link>https://github.com/checkstyle/checkstyle</link>
-      <guid isPermaLink="true">https://github.com/checkstyle/checkstyle</guid>
-      <pubDate>Mon, 31 Aug 2026 04:28:59 GMT</pubDate>
-      <description>Checkstyle Java Code Quality Tool Checkstyle is a tool that ensures adherence to a code standard or a set of best practices. [![][appveyor img]][appveyor] [![][circleci img]][circleci] [![][cirrusci img]][cirrusci] [![][coverage img]][coverage] — +115 stars today · 9,234 stars · 4,197 forks · Language: Java</description>
-      <content:encoded>&lt;p&gt;Checkstyle Java Code Quality Tool Checkstyle is a tool that ensures adherence to a code standard or a set of best practices. [![][appveyor img]][appveyor] [![][circleci img]][circleci] [![][cirrusci img]][cirrusci] [![][coverage img]][coverage]&lt;/p&gt;&lt;p&gt;🔥 +115 stars today · ⭐ &lt;b&gt;9,234&lt;/b&gt; stars · 🍴 &lt;b&gt;4,197&lt;/b&gt; forks · &lt;b&gt;Java&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/checkstyle/checkstyle&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>punkpeye/awesome-mcp-servers</title>
-      <link>https://github.com/punkpeye/awesome-mcp-servers</link>
-      <guid isPermaLink="true">https://github.com/punkpeye/awesome-mcp-servers</guid>
-      <pubDate>Mon, 31 Aug 2026 04:28:59 GMT</pubDate>
-      <description>![ไทย](README th.md) ![English](README.md) ![繁體中文](README zh TW.md) ![简体中文](README zh.md) ![日本語](README ja.md) ![한국어](README ko.md) — +96 stars today · 93,427 stars · 15,322 forks</description>
-      <content:encoded>&lt;p&gt;![ไทย](README th.md) ![English](README.md) ![繁體中文](README zh TW.md) ![简体中文](README zh.md) ![日本語](README ja.md) ![한국어](README ko.md)&lt;/p&gt;&lt;p&gt;🔥 +96 stars today · ⭐ &lt;b&gt;93,427&lt;/b&gt; stars · 🍴 &lt;b&gt;15,322&lt;/b&gt; forks&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/punkpeye/awesome-mcp-servers&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>k1tbyte/Wand-Enhancer</title>
+      <link>https://github.com/k1tbyte/Wand-Enhancer</link>
+      <guid isPermaLink="true">https://github.com/k1tbyte/Wand-Enhancer</guid>
+      <pubDate>Tue, 01 Sep 2026 04:11:56 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; WandEnhancer ![GitLab Mirror](https://gitlab.com/kitbyte/wand enhancer) &lt;/div &lt;h4 An open source interoperability tool designed to extend local client side configurations and improve the UX of the Wand application.&lt;/h4 — +582 stars today · 23,448 stars · 59,672 forks · Language: C#</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; WandEnhancer ![GitLab Mirror](https://gitlab.com/kitbyte/wand enhancer) &amp;lt;/div &amp;lt;h4 An open source interoperability tool designed to extend local client side configurations and improve the UX of the Wand application.&amp;lt;/h4&lt;/p&gt;&lt;p&gt;🔥 +582 stars today · ⭐ &lt;b&gt;23,448&lt;/b&gt; stars · 🍴 &lt;b&gt;59,672&lt;/b&gt; forks · &lt;b&gt;C#&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/k1tbyte/Wand-Enhancer&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>handsomestWei/patent-disclosure-skill</title>
       <link>https://github.com/handsomestWei/patent-disclosure-skill</link>
       <guid isPermaLink="true">https://github.com/handsomestWei/patent-disclosure-skill</guid>
-      <pubDate>Mon, 31 Aug 2026 04:28:59 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; 中国专利.skill 专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 ![License: MIT](LICENSE) ![Python 3.9+](https://www.python.org/) ![Playwright](https://playwright.dev/) — +62 stars today · 5,829 stars · 709 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; 中国专利.skill 专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 ![License: MIT](LICENSE) ![Python 3.9+](https://www.python.org/) ![Playwright](https://playwright.dev/)&lt;/p&gt;&lt;p&gt;🔥 +62 stars today · ⭐ &lt;b&gt;5,829&lt;/b&gt; stars · 🍴 &lt;b&gt;709&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/handsomestWei/patent-disclosure-skill&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 01 Sep 2026 04:11:56 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; 中国专利.skill 按发明人/申请人检索公开专利清单，专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 ![License: MIT](LICENSE) ![Python 3.9+](https://www.python.org/) ![Playwright](https://playwright.dev/) — +571 stars today · 6,347 stars · 739 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; 中国专利.skill 按发明人/申请人检索公开专利清单，专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 ![License: MIT](LICENSE) ![Python 3.9+](https://www.python.org/) ![Playwright](https://playwright.dev/)&lt;/p&gt;&lt;p&gt;🔥 +571 stars today · ⭐ &lt;b&gt;6,347&lt;/b&gt; stars · 🍴 &lt;b&gt;739&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/handsomestWei/patent-disclosure-skill&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>p-e-w/heretic</title>
+      <link>https://github.com/p-e-w/heretic</link>
+      <guid isPermaLink="true">https://github.com/p-e-w/heretic</guid>
+      <pubDate>Tue, 01 Sep 2026 04:11:56 GMT</pubDate>
+      <description>&lt;img width=&quot;128&quot; align=&quot;right&quot; alt=&quot;Logo&quot; src=&quot;https://github.com/user attachments/assets/df5f2840 2f92 4991 aa57 252747d7182e&quot; / — +537 stars today · 29,736 stars · 3,255 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;img width=&amp;quot;128&amp;quot; align=&amp;quot;right&amp;quot; alt=&amp;quot;Logo&amp;quot; src=&amp;quot;https://github.com/user attachments/assets/df5f2840 2f92 4991 aa57 252747d7182e&amp;quot; /&lt;/p&gt;&lt;p&gt;🔥 +537 stars today · ⭐ &lt;b&gt;29,736&lt;/b&gt; stars · 🍴 &lt;b&gt;3,255&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/p-e-w/heretic&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>affaan-m/ECC</title>
+      <link>https://github.com/affaan-m/ECC</link>
+      <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
+      <pubDate>Tue, 01 Sep 2026 04:11:56 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/hero.png&quot; alt=&quot;ECC the agent harness operating system&quot; width=&quot;100%&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot;https://www.star history.com/affaan m/ecc&quot; &lt;picture — +512 stars today · 245,345 stars · 37,060 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/hero.png&amp;quot; alt=&amp;quot;ECC the agent harness operating system&amp;quot; width=&amp;quot;100%&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://www.star history.com/affaan m/ecc&amp;quot; &amp;lt;picture&lt;/p&gt;&lt;p&gt;🔥 +512 stars today · ⭐ &lt;b&gt;245,345&lt;/b&gt; stars · 🍴 &lt;b&gt;37,060&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/affaan-m/ECC&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>jingyaogong/minimind</title>
+      <link>https://github.com/jingyaogong/minimind</link>
+      <guid isPermaLink="true">https://github.com/jingyaogong/minimind</guid>
+      <pubDate>Tue, 01 Sep 2026 04:11:56 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;/div &lt;div align=&quot;center&quot; ![GitHub Repo stars](https://github.com/jingyaogong/minimind/stargazers) ![GitHub Code License](LICENSE) ![GitHub last commit](https://github.com/jingyaogong/minimind/commits/master) — +495 stars today · 56,331 stars · 7,343 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;/div &amp;lt;div align=&amp;quot;center&amp;quot; ![GitHub Repo stars](https://github.com/jingyaogong/minimind/stargazers) ![GitHub Code License](LICENSE) ![GitHub last commit](https://github.com/jingyaogong/minimind/commits/master)&lt;/p&gt;&lt;p&gt;🔥 +495 stars today · ⭐ &lt;b&gt;56,331&lt;/b&gt; stars · 🍴 &lt;b&gt;7,343&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/jingyaogong/minimind&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>pollen-robotics/microduck_rl</title>
+      <link>https://github.com/pollen-robotics/microduck_rl</link>
+      <guid isPermaLink="true">https://github.com/pollen-robotics/microduck_rl</guid>
+      <pubDate>Tue, 01 Sep 2026 04:11:56 GMT</pubDate>
+      <description>Microduck RL &lt;img width=&quot;2215&quot; height=&quot;884&quot; alt=&quot;image&quot; src=&quot;https://github.com/user attachments/assets/5db7cc83 b3ce 4f7c 83f0 0572a63baed7&quot; / RL training environments for Microduck — a 800 g, 25 cm tall bipedal robot — built on mjlab (MuJoCo Warp) with PPO. — +385 stars today · 1,215 stars · 205 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;Microduck RL &amp;lt;img width=&amp;quot;2215&amp;quot; height=&amp;quot;884&amp;quot; alt=&amp;quot;image&amp;quot; src=&amp;quot;https://github.com/user attachments/assets/5db7cc83 b3ce 4f7c 83f0 0572a63baed7&amp;quot; / RL training environments for Microduck — a 800 g, 25 cm tall bipedal robot — built on mjlab (MuJoCo Warp) with PPO.&lt;/p&gt;&lt;p&gt;🔥 +385 stars today · ⭐ &lt;b&gt;1,215&lt;/b&gt; stars · 🍴 &lt;b&gt;205&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pollen-robotics/microduck_rl&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>majd/ipatool</title>
       <link>https://github.com/majd/ipatool</link>
       <guid isPermaLink="true">https://github.com/majd/ipatool</guid>
-      <pubDate>Mon, 31 Aug 2026 04:28:59 GMT</pubDate>
-      <description>IPATool ![Release](https://GitHub.com/majd/ipatool/releases/) ![License](https://github.com/majd/ipatool/blob/main/LICENSE) — +58 stars today · 10,281 stars · 885 forks · Language: Go</description>
-      <content:encoded>&lt;p&gt;IPATool ![Release](https://GitHub.com/majd/ipatool/releases/) ![License](https://github.com/majd/ipatool/blob/main/LICENSE)&lt;/p&gt;&lt;p&gt;🔥 +58 stars today · ⭐ &lt;b&gt;10,281&lt;/b&gt; stars · 🍴 &lt;b&gt;885&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/majd/ipatool&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 01 Sep 2026 04:11:56 GMT</pubDate>
+      <description>IPATool ![Release](https://GitHub.com/majd/ipatool/releases/) ![License](https://github.com/majd/ipatool/blob/main/LICENSE) — +373 stars today · 10,599 stars · 897 forks · Language: Go</description>
+      <content:encoded>&lt;p&gt;IPATool ![Release](https://GitHub.com/majd/ipatool/releases/) ![License](https://github.com/majd/ipatool/blob/main/LICENSE)&lt;/p&gt;&lt;p&gt;🔥 +373 stars today · ⭐ &lt;b&gt;10,599&lt;/b&gt; stars · 🍴 &lt;b&gt;897&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/majd/ipatool&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>colinhacks/zod</title>
-      <link>https://github.com/colinhacks/zod</link>
-      <guid isPermaLink="true">https://github.com/colinhacks/zod</guid>
-      <pubDate>Mon, 31 Aug 2026 04:28:59 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;logo.svg&quot; width=&quot;200px&quot; align=&quot;center&quot; alt=&quot;Zod logo&quot; / &lt;h1 align=&quot;center&quot; Zod&lt;/h1 &lt;p align=&quot;center&quot; TypeScript first schema validation with static type inference &lt;br/ — +31 stars today · 43,672 stars · 2,159 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;logo.svg&amp;quot; width=&amp;quot;200px&amp;quot; align=&amp;quot;center&amp;quot; alt=&amp;quot;Zod logo&amp;quot; / &amp;lt;h1 align=&amp;quot;center&amp;quot; Zod&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; TypeScript first schema validation with static type inference &amp;lt;br/&lt;/p&gt;&lt;p&gt;🔥 +31 stars today · ⭐ &lt;b&gt;43,672&lt;/b&gt; stars · 🍴 &lt;b&gt;2,159&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/colinhacks/zod&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>firecrawl/pdf-inspector</title>
+      <link>https://github.com/firecrawl/pdf-inspector</link>
+      <guid isPermaLink="true">https://github.com/firecrawl/pdf-inspector</guid>
+      <pubDate>Tue, 01 Sep 2026 04:11:56 GMT</pubDate>
+      <description>pdf inspector ![Crates.io](https://crates.io/crates/pdf inspector) ![npm](https://www.npmjs.com/package/@firecrawl/pdf inspector) ![PyPI](https://pypi.org/project/pdf inspector/) ![License: MIT](LICENSE) — +228 stars today · 17,451 stars · 1,203 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;pdf inspector ![Crates.io](https://crates.io/crates/pdf inspector) ![npm](https://www.npmjs.com/package/@firecrawl/pdf inspector) ![PyPI](https://pypi.org/project/pdf inspector/) ![License: MIT](LICENSE)&lt;/p&gt;&lt;p&gt;🔥 +228 stars today · ⭐ &lt;b&gt;17,451&lt;/b&gt; stars · 🍴 &lt;b&gt;1,203&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/firecrawl/pdf-inspector&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>checkstyle/checkstyle</title>
+      <link>https://github.com/checkstyle/checkstyle</link>
+      <guid isPermaLink="true">https://github.com/checkstyle/checkstyle</guid>
+      <pubDate>Tue, 01 Sep 2026 04:11:56 GMT</pubDate>
+      <description>Checkstyle Java Code Quality Tool Checkstyle is a tool that ensures adherence to a code standard or a set of best practices. [![][appveyor img]][appveyor] [![][circleci img]][circleci] [![][cirrusci img]][cirrusci] [![][coverage img]][coverage] — +198 stars today · 9,440 stars · 4,207 forks · Language: Java</description>
+      <content:encoded>&lt;p&gt;Checkstyle Java Code Quality Tool Checkstyle is a tool that ensures adherence to a code standard or a set of best practices. [![][appveyor img]][appveyor] [![][circleci img]][circleci] [![][cirrusci img]][cirrusci] [![][coverage img]][coverage]&lt;/p&gt;&lt;p&gt;🔥 +198 stars today · ⭐ &lt;b&gt;9,440&lt;/b&gt; stars · 🍴 &lt;b&gt;4,207&lt;/b&gt; forks · &lt;b&gt;Java&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/checkstyle/checkstyle&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>kaifcodec/user-scanner</title>
+      <link>https://github.com/kaifcodec/user-scanner</link>
+      <guid isPermaLink="true">https://github.com/kaifcodec/user-scanner</guid>
+      <pubDate>Tue, 01 Sep 2026 04:11:56 GMT</pubDate>
+      <description>User Scanner &lt;p align=&quot;center&quot; &lt;img src=&quot;https://github.com/user attachments/assets/49ec8d24 665b 4115 8525 01a8d0ca2ef4&quot; alt=&quot;User Scanner Logo&quot; width=&quot;600&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;img src=&quot;https://img.shields.io/badge/Version 1.5.1.1 blueviolet?style=for the badge&amp;logo=github&quot; / — +93 stars today · 4,346 stars · 452 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;User Scanner &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;https://github.com/user attachments/assets/49ec8d24 665b 4115 8525 01a8d0ca2ef4&amp;quot; alt=&amp;quot;User Scanner Logo&amp;quot; width=&amp;quot;600&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/Version 1.5.1.1 blueviolet?style=for the badge&amp;amp;logo=github&amp;quot; /&lt;/p&gt;&lt;p&gt;🔥 +93 stars today · ⭐ &lt;b&gt;4,346&lt;/b&gt; stars · 🍴 &lt;b&gt;452&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/kaifcodec/user-scanner&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Osmantic/ODS</title>
+      <link>https://github.com/Osmantic/ODS</link>
+      <guid isPermaLink="true">https://github.com/Osmantic/ODS</guid>
+      <pubDate>Tue, 01 Sep 2026 04:11:56 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; ODS Osmantic Deployment System &lt;p align=&quot;center&quot; &lt;a href=&quot;https://osmantic.com&quot; target=&quot; blank&quot; rel=&quot;noopener noreferrer&quot; &lt;img src=&quot;ods/docs/images/osmantic lockup.png&quot; alt=&quot;Osmantic&quot; width=&quot;800&quot; — +77 stars today · 5,597 stars · 785 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; ODS Osmantic Deployment System &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://osmantic.com&amp;quot; target=&amp;quot; blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot; &amp;lt;img src=&amp;quot;ods/docs/images/osmantic lockup.png&amp;quot; alt=&amp;quot;Osmantic&amp;quot; width=&amp;quot;800&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +77 stars today · ⭐ &lt;b&gt;5,597&lt;/b&gt; stars · 🍴 &lt;b&gt;785&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Osmantic/ODS&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
