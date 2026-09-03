@@ -7,120 +7,160 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Wed, 02 Sep 2026 03:34:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 03:34:17 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
     <item>
-      <title>THU-MAIC/OpenMAIC</title>
-      <link>https://github.com/THU-MAIC/OpenMAIC</link>
-      <guid isPermaLink="true">https://github.com/THU-MAIC/OpenMAIC</guid>
-      <pubDate>Wed, 02 Sep 2026 03:34:28 GMT</pubDate>
-      <description>&lt;! &lt;p align=&quot;center&quot; &lt;img src=&quot;assets/logo horizontal.png&quot; alt=&quot;OpenMAIC&quot; width=&quot;420&quot;/ &lt;/p &lt;p align=&quot;center&quot; &lt;img src=&quot;assets/banner.png&quot; alt=&quot;OpenMAIC Banner&quot; width=&quot;680&quot;/ &lt;/p — +3,128 stars today · 29,687 stars · 4,994 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;! &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/logo horizontal.png&amp;quot; alt=&amp;quot;OpenMAIC&amp;quot; width=&amp;quot;420&amp;quot;/ &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/banner.png&amp;quot; alt=&amp;quot;OpenMAIC Banner&amp;quot; width=&amp;quot;680&amp;quot;/ &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +3,128 stars today · ⭐ &lt;b&gt;29,687&lt;/b&gt; stars · 🍴 &lt;b&gt;4,994&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/THU-MAIC/OpenMAIC&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>DietrichGebert/ponytail</title>
+      <link>https://github.com/DietrichGebert/ponytail</link>
+      <guid isPermaLink="true">https://github.com/DietrichGebert/ponytail</guid>
+      <pubDate>Thu, 03 Sep 2026 03:34:17 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;assets/logo dark.png&quot; &lt;img src=&quot;assets/logo.png&quot; width=&quot;220&quot; alt=&quot;Ponytail, the lazy senior dev&quot; &lt;/picture &lt;/p — +1,354 stars today · 121,879 stars · 6,584 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;assets/logo dark.png&amp;quot; &amp;lt;img src=&amp;quot;assets/logo.png&amp;quot; width=&amp;quot;220&amp;quot; alt=&amp;quot;Ponytail, the lazy senior dev&amp;quot; &amp;lt;/picture &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +1,354 stars today · ⭐ &lt;b&gt;121,879&lt;/b&gt; stars · 🍴 &lt;b&gt;6,584&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/DietrichGebert/ponytail&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>jingyaogong/minimind</title>
-      <link>https://github.com/jingyaogong/minimind</link>
-      <guid isPermaLink="true">https://github.com/jingyaogong/minimind</guid>
-      <pubDate>Wed, 02 Sep 2026 03:34:28 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;/div &lt;div align=&quot;center&quot; ![GitHub Repo stars](https://github.com/jingyaogong/minimind/stargazers) ![GitHub Code License](LICENSE) ![GitHub last commit](https://github.com/jingyaogong/minimind/commits/master) — +1,005 stars today · 57,221 stars · 7,442 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;/div &amp;lt;div align=&amp;quot;center&amp;quot; ![GitHub Repo stars](https://github.com/jingyaogong/minimind/stargazers) ![GitHub Code License](LICENSE) ![GitHub last commit](https://github.com/jingyaogong/minimind/commits/master)&lt;/p&gt;&lt;p&gt;🔥 +1,005 stars today · ⭐ &lt;b&gt;57,221&lt;/b&gt; stars · 🍴 &lt;b&gt;7,442&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/jingyaogong/minimind&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>mattpocock/skills</title>
+      <link>https://github.com/mattpocock/skills</link>
+      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
+      <pubDate>Thu, 03 Sep 2026 03:34:17 GMT</pubDate>
+      <description>&lt;p &lt;a href=&quot;https://www.aihero.dev/s/skills newsletter&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&quot; — +1,166 stars today · 245,413 stars · 20,865 forks · Language: Shell</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p &amp;lt;a href=&amp;quot;https://www.aihero.dev/s/skills newsletter&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,166 stars today · ⭐ &lt;b&gt;245,413&lt;/b&gt; stars · 🍴 &lt;b&gt;20,865&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mattpocock/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>K-Dense-AI/scientific-agent-skills</title>
-      <link>https://github.com/K-Dense-AI/scientific-agent-skills</link>
-      <guid isPermaLink="true">https://github.com/K-Dense-AI/scientific-agent-skills</guid>
-      <pubDate>Wed, 02 Sep 2026 03:34:28 GMT</pubDate>
-      <description>Scientific Agent Skills ![License: MIT](LICENSE.md) ![Version](pyproject.toml) ![Skills]( whats included) ![Databases]( whats included) ![Agent Skills](https://agentskills.io/) — +912 stars today · 41,645 stars · 3,830 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Scientific Agent Skills ![License: MIT](LICENSE.md) ![Version](pyproject.toml) ![Skills]( whats included) ![Databases]( whats included) ![Agent Skills](https://agentskills.io/)&lt;/p&gt;&lt;p&gt;🔥 +912 stars today · ⭐ &lt;b&gt;41,645&lt;/b&gt; stars · 🍴 &lt;b&gt;3,830&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/K-Dense-AI/scientific-agent-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>pacifio/atlas</title>
+      <link>https://github.com/pacifio/atlas</link>
+      <guid isPermaLink="true">https://github.com/pacifio/atlas</guid>
+      <pubDate>Thu, 03 Sep 2026 03:34:17 GMT</pubDate>
+      <description>![Atlas](https://www.tryatlas.cc/) &lt;div align=&quot;center&quot; ![Discord](https://discord.gg/GmnFggaPfP) ![License: MIT](LICENSE) ![Latest release](https://github.com/pacifio/atlas/releases) ![Contributors](https://github.com/pacifio/atlas/graphs/contributors) — +888 stars today · 2,961 stars · 193 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;![Atlas](https://www.tryatlas.cc/) &amp;lt;div align=&amp;quot;center&amp;quot; ![Discord](https://discord.gg/GmnFggaPfP) ![License: MIT](LICENSE) ![Latest release](https://github.com/pacifio/atlas/releases) ![Contributors](https://github.com/pacifio/atlas/graphs/contributors)&lt;/p&gt;&lt;p&gt;🔥 +888 stars today · ⭐ &lt;b&gt;2,961&lt;/b&gt; stars · 🍴 &lt;b&gt;193&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pacifio/atlas&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>affaan-m/ECC</title>
-      <link>https://github.com/affaan-m/ECC</link>
-      <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
-      <pubDate>Wed, 02 Sep 2026 03:34:28 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/hero.png&quot; alt=&quot;ECC the agent harness operating system&quot; width=&quot;100%&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot;https://www.star history.com/affaan m/ecc&quot; &lt;picture — +623 stars today · 245,816 stars · 37,094 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/hero.png&amp;quot; alt=&amp;quot;ECC the agent harness operating system&amp;quot; width=&amp;quot;100%&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://www.star history.com/affaan m/ecc&amp;quot; &amp;lt;picture&lt;/p&gt;&lt;p&gt;🔥 +623 stars today · ⭐ &lt;b&gt;245,816&lt;/b&gt; stars · 🍴 &lt;b&gt;37,094&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/affaan-m/ECC&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>iv-org/invidious</title>
-      <link>https://github.com/iv-org/invidious</link>
-      <guid isPermaLink="true">https://github.com/iv-org/invidious</guid>
-      <pubDate>Wed, 02 Sep 2026 03:34:28 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;assets/invidious colored vector.svg&quot; width=&quot;192&quot; height=&quot;192&quot; alt=&quot;Invidious logo&quot; &lt;h1 Invidious&lt;/h1 &lt;a href=&quot;https://www.gnu.org/licenses/agpl 3.0.en.html&quot; &lt;img alt=&quot;License: AGPLv3&quot; src=&quot;https://shields.io/badge/License AGPL%20v3 blue.svg&quot; &lt;/a — +577 stars today · 23,811 stars · 2,674 forks · Language: Crystal</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/invidious colored vector.svg&amp;quot; width=&amp;quot;192&amp;quot; height=&amp;quot;192&amp;quot; alt=&amp;quot;Invidious logo&amp;quot; &amp;lt;h1 Invidious&amp;lt;/h1 &amp;lt;a href=&amp;quot;https://www.gnu.org/licenses/agpl 3.0.en.html&amp;quot; &amp;lt;img alt=&amp;quot;License: AGPLv3&amp;quot; src=&amp;quot;https://shields.io/badge/License AGPL%20v3 blue.svg&amp;quot; &amp;lt;/a&lt;/p&gt;&lt;p&gt;🔥 +577 stars today · ⭐ &lt;b&gt;23,811&lt;/b&gt; stars · 🍴 &lt;b&gt;2,674&lt;/b&gt; forks · &lt;b&gt;Crystal&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/iv-org/invidious&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>firecrawl/pdf-inspector</title>
-      <link>https://github.com/firecrawl/pdf-inspector</link>
-      <guid isPermaLink="true">https://github.com/firecrawl/pdf-inspector</guid>
-      <pubDate>Wed, 02 Sep 2026 03:34:28 GMT</pubDate>
-      <description>pdf inspector ![Crates.io](https://crates.io/crates/pdf inspector) ![npm](https://www.npmjs.com/package/@firecrawl/pdf inspector) ![PyPI](https://pypi.org/project/pdf inspector/) ![License: MIT](LICENSE) — +541 stars today · 18,017 stars · 1,229 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;pdf inspector ![Crates.io](https://crates.io/crates/pdf inspector) ![npm](https://www.npmjs.com/package/@firecrawl/pdf inspector) ![PyPI](https://pypi.org/project/pdf inspector/) ![License: MIT](LICENSE)&lt;/p&gt;&lt;p&gt;🔥 +541 stars today · ⭐ &lt;b&gt;18,017&lt;/b&gt; stars · 🍴 &lt;b&gt;1,229&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/firecrawl/pdf-inspector&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>handsomestWei/patent-disclosure-skill</title>
-      <link>https://github.com/handsomestWei/patent-disclosure-skill</link>
-      <guid isPermaLink="true">https://github.com/handsomestWei/patent-disclosure-skill</guid>
-      <pubDate>Wed, 02 Sep 2026 03:34:28 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; 中国专利.skill 按发明人/申请人检索公开专利清单，专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 ![License: MIT](LICENSE) ![Python 3.9+](https://www.python.org/) ![Playwright](https://playwright.dev/) — +501 stars today · 6,816 stars · 765 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; 中国专利.skill 按发明人/申请人检索公开专利清单，专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 ![License: MIT](LICENSE) ![Python 3.9+](https://www.python.org/) ![Playwright](https://playwright.dev/)&lt;/p&gt;&lt;p&gt;🔥 +501 stars today · ⭐ &lt;b&gt;6,816&lt;/b&gt; stars · 🍴 &lt;b&gt;765&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/handsomestWei/patent-disclosure-skill&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>browser-use/video-use</title>
-      <link>https://github.com/browser-use/video-use</link>
-      <guid isPermaLink="true">https://github.com/browser-use/video-use</guid>
-      <pubDate>Wed, 02 Sep 2026 03:34:28 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;static/video use banner.png&quot; alt=&quot;video use&quot; width=&quot;100%&quot; &lt;/p video use Introducing video use — edit videos with Claude Code. 100% open source. — +472 stars today · 23,062 stars · 2,820 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;static/video use banner.png&amp;quot; alt=&amp;quot;video use&amp;quot; width=&amp;quot;100%&amp;quot; &amp;lt;/p video use Introducing video use — edit videos with Claude Code. 100% open source.&lt;/p&gt;&lt;p&gt;🔥 +472 stars today · ⭐ &lt;b&gt;23,062&lt;/b&gt; stars · 🍴 &lt;b&gt;2,820&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/browser-use/video-use&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>VoltAgent/awesome-design-md</title>
-      <link>https://github.com/VoltAgent/awesome-design-md</link>
-      <guid isPermaLink="true">https://github.com/VoltAgent/awesome-design-md</guid>
-      <pubDate>Wed, 02 Sep 2026 03:34:28 GMT</pubDate>
-      <description>&lt;a href=&quot;https://github.com/VoltAgent/voltagent&quot; &lt;img width=&quot;1500&quot; alt=&quot;claude skills&quot; src=&quot;https://cdn.voltagent.dev/awesome repo/logo.json.svg&quot; / &lt;/a &lt;br/ &lt;br/ &lt;div align=&quot;center&quot; — +323 stars today · 112,952 stars · 12,786 forks</description>
-      <content:encoded>&lt;p&gt;&amp;lt;a href=&amp;quot;https://github.com/VoltAgent/voltagent&amp;quot; &amp;lt;img width=&amp;quot;1500&amp;quot; alt=&amp;quot;claude skills&amp;quot; src=&amp;quot;https://cdn.voltagent.dev/awesome repo/logo.json.svg&amp;quot; / &amp;lt;/a &amp;lt;br/ &amp;lt;br/ &amp;lt;div align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +323 stars today · ⭐ &lt;b&gt;112,952&lt;/b&gt; stars · 🍴 &lt;b&gt;12,786&lt;/b&gt; forks&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/VoltAgent/awesome-design-md&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>debpalash/VoiceStudio</title>
+      <link>https://github.com/debpalash/VoiceStudio</link>
+      <guid isPermaLink="true">https://github.com/debpalash/VoiceStudio</guid>
+      <pubDate>Thu, 03 Sep 2026 03:34:17 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; — +832 stars today · 14,993 stars · 2,127 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +832 stars today · ⭐ &lt;b&gt;14,993&lt;/b&gt; stars · 🍴 &lt;b&gt;2,127&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/debpalash/VoiceStudio&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>Imbad0202/academic-research-skills</title>
       <link>https://github.com/Imbad0202/academic-research-skills</link>
       <guid isPermaLink="true">https://github.com/Imbad0202/academic-research-skills</guid>
-      <pubDate>Wed, 02 Sep 2026 03:34:28 GMT</pubDate>
-      <description>Academic Research Skills for Claude Code ![Version](https://github.com/Imbad0202/academic research skills/releases/tag/v3.21.1) ![DOI](https://doi.org/10.5281/zenodo.20696614) ![License: CC BY NC 4.0](https://creativecommons.org/licenses/by nc/4.0/) ![Sponsor](https://buymeacoffee.com/crucify020v) — +193 stars today · 45,020 stars · 3,553 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Academic Research Skills for Claude Code ![Version](https://github.com/Imbad0202/academic research skills/releases/tag/v3.21.1) ![DOI](https://doi.org/10.5281/zenodo.20696614) ![License: CC BY NC 4.0](https://creativecommons.org/licenses/by nc/4.0/) ![Sponsor](https://buymeacoffee.com/crucify020v)&lt;/p&gt;&lt;p&gt;🔥 +193 stars today · ⭐ &lt;b&gt;45,020&lt;/b&gt; stars · 🍴 &lt;b&gt;3,553&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Imbad0202/academic-research-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>unclecode/crawl4ai</title>
-      <link>https://github.com/unclecode/crawl4ai</link>
-      <guid isPermaLink="true">https://github.com/unclecode/crawl4ai</guid>
-      <pubDate>Wed, 02 Sep 2026 03:34:28 GMT</pubDate>
-      <description>🚀🤖 Crawl4AI: Open source LLM Friendly Web Crawler &amp; Scraper. &lt;div align=&quot;center&quot; — +145 stars today · 80,915 stars · 8,361 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;🚀🤖 Crawl4AI: Open source LLM Friendly Web Crawler &amp;amp; Scraper. &amp;lt;div align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +145 stars today · ⭐ &lt;b&gt;80,915&lt;/b&gt; stars · 🍴 &lt;b&gt;8,361&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/unclecode/crawl4ai&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>3b1b/manim</title>
-      <link>https://github.com/3b1b/manim</link>
-      <guid isPermaLink="true">https://github.com/3b1b/manim</guid>
-      <pubDate>Wed, 02 Sep 2026 03:34:28 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://github.com/3b1b/manim&quot; &lt;img src=&quot;https://raw.githubusercontent.com/3b1b/manim/master/logo/cropped.png&quot; &lt;/a &lt;/p ![pypi version](https://pypi.org/project/manimgl/) — +86 stars today · 92,626 stars · 7,622 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://github.com/3b1b/manim&amp;quot; &amp;lt;img src=&amp;quot;https://raw.githubusercontent.com/3b1b/manim/master/logo/cropped.png&amp;quot; &amp;lt;/a &amp;lt;/p ![pypi version](https://pypi.org/project/manimgl/)&lt;/p&gt;&lt;p&gt;🔥 +86 stars today · ⭐ &lt;b&gt;92,626&lt;/b&gt; stars · 🍴 &lt;b&gt;7,622&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/3b1b/manim&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Thu, 03 Sep 2026 03:34:17 GMT</pubDate>
+      <description>Academic Research Skills for Claude Code ![Version](https://github.com/Imbad0202/academic research skills/releases/tag/v3.21.1) ![DOI](https://doi.org/10.5281/zenodo.20696614) ![License: CC BY NC 4.0](https://creativecommons.org/licenses/by nc/4.0/) ![Sponsor](https://buymeacoffee.com/crucify020v) — +799 stars today · 45,630 stars · 3,586 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;Academic Research Skills for Claude Code ![Version](https://github.com/Imbad0202/academic research skills/releases/tag/v3.21.1) ![DOI](https://doi.org/10.5281/zenodo.20696614) ![License: CC BY NC 4.0](https://creativecommons.org/licenses/by nc/4.0/) ![Sponsor](https://buymeacoffee.com/crucify020v)&lt;/p&gt;&lt;p&gt;🔥 +799 stars today · ⭐ &lt;b&gt;45,630&lt;/b&gt; stars · 🍴 &lt;b&gt;3,586&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Imbad0202/academic-research-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>Gitlawb/openclaude</title>
       <link>https://github.com/Gitlawb/openclaude</link>
       <guid isPermaLink="true">https://github.com/Gitlawb/openclaude</guid>
-      <pubDate>Wed, 02 Sep 2026 03:34:28 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;docs/assets/openclaude wordmark.png&quot; alt=&quot;OpenClaude — Open terminal for any LLM&quot; width=&quot;830&quot; &lt;p — +80 stars today · 31,415 stars · 8,955 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/assets/openclaude wordmark.png&amp;quot; alt=&amp;quot;OpenClaude — Open terminal for any LLM&amp;quot; width=&amp;quot;830&amp;quot; &amp;lt;p&lt;/p&gt;&lt;p&gt;🔥 +80 stars today · ⭐ &lt;b&gt;31,415&lt;/b&gt; stars · 🍴 &lt;b&gt;8,955&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Gitlawb/openclaude&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Thu, 03 Sep 2026 03:34:17 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;docs/assets/openclaude wordmark.png&quot; alt=&quot;OpenClaude — Open terminal for any LLM&quot; width=&quot;830&quot; &lt;p — +775 stars today · 32,033 stars · 9,001 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/assets/openclaude wordmark.png&amp;quot; alt=&amp;quot;OpenClaude — Open terminal for any LLM&amp;quot; width=&amp;quot;830&amp;quot; &amp;lt;p&lt;/p&gt;&lt;p&gt;🔥 +775 stars today · ⭐ &lt;b&gt;32,033&lt;/b&gt; stars · 🍴 &lt;b&gt;9,001&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Gitlawb/openclaude&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>averygan/reclip</title>
-      <link>https://github.com/averygan/reclip</link>
-      <guid isPermaLink="true">https://github.com/averygan/reclip</guid>
-      <pubDate>Wed, 02 Sep 2026 03:34:28 GMT</pubDate>
-      <description>ReClip A self hosted, open source video and audio downloader with a clean web UI. Paste links from YouTube, TikTok, Instagram, Twitter/X, and 1000+ other sites — download as MP4 or MP3. https://github.com/user attachments/assets/419d3e50 c933 444b 8cab a9724986ba05 Features — +56 stars today · 7,775 stars · 1,322 forks · Language: HTML</description>
-      <content:encoded>&lt;p&gt;ReClip A self hosted, open source video and audio downloader with a clean web UI. Paste links from YouTube, TikTok, Instagram, Twitter/X, and 1000+ other sites — download as MP4 or MP3. https://github.com/user attachments/assets/419d3e50 c933 444b 8cab a9724986ba05 Features&lt;/p&gt;&lt;p&gt;🔥 +56 stars today · ⭐ &lt;b&gt;7,775&lt;/b&gt; stars · 🍴 &lt;b&gt;1,322&lt;/b&gt; forks · &lt;b&gt;HTML&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/averygan/reclip&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>firecrawl/pdf-inspector</title>
+      <link>https://github.com/firecrawl/pdf-inspector</link>
+      <guid isPermaLink="true">https://github.com/firecrawl/pdf-inspector</guid>
+      <pubDate>Thu, 03 Sep 2026 03:34:17 GMT</pubDate>
+      <description>pdf inspector ![Crates.io](https://crates.io/crates/pdf inspector) ![npm](https://www.npmjs.com/package/@firecrawl/pdf inspector) ![PyPI](https://pypi.org/project/pdf inspector/) ![License: MIT](LICENSE) — +586 stars today · 18,576 stars · 1,247 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;pdf inspector ![Crates.io](https://crates.io/crates/pdf inspector) ![npm](https://www.npmjs.com/package/@firecrawl/pdf inspector) ![PyPI](https://pypi.org/project/pdf inspector/) ![License: MIT](LICENSE)&lt;/p&gt;&lt;p&gt;🔥 +586 stars today · ⭐ &lt;b&gt;18,576&lt;/b&gt; stars · 🍴 &lt;b&gt;1,247&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/firecrawl/pdf-inspector&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>NousResearch/hermes-agent</title>
+      <link>https://github.com/NousResearch/hermes-agent</link>
+      <guid isPermaLink="true">https://github.com/NousResearch/hermes-agent</guid>
+      <pubDate>Thu, 03 Sep 2026 03:34:17 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/banner.png&quot; alt=&quot;Hermes Agent&quot; width=&quot;100%&quot; &lt;/p Hermes Agent ☤ &lt;p align=&quot;center&quot; &lt;a href=&quot;https://hermes agent.nousresearch.com/&quot; Hermes Agent&lt;/a &lt;a href=&quot;https://hermes agent.nousresearch.com/&quot; Hermes Desktop&lt;/a — +533 stars today · 240,212 stars · 49,161 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/banner.png&amp;quot; alt=&amp;quot;Hermes Agent&amp;quot; width=&amp;quot;100%&amp;quot; &amp;lt;/p Hermes Agent ☤ &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://hermes agent.nousresearch.com/&amp;quot; Hermes Agent&amp;lt;/a &amp;lt;a href=&amp;quot;https://hermes agent.nousresearch.com/&amp;quot; Hermes Desktop&amp;lt;/a&lt;/p&gt;&lt;p&gt;🔥 +533 stars today · ⭐ &lt;b&gt;240,212&lt;/b&gt; stars · 🍴 &lt;b&gt;49,161&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/NousResearch/hermes-agent&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>affaan-m/ECC</title>
+      <link>https://github.com/affaan-m/ECC</link>
+      <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
+      <pubDate>Thu, 03 Sep 2026 03:34:17 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/hero.png&quot; alt=&quot;ECC the agent harness operating system&quot; width=&quot;100%&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot;https://www.star history.com/affaan m/ecc&quot; &lt;picture — +516 stars today · 246,426 stars · 37,160 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/hero.png&amp;quot; alt=&amp;quot;ECC the agent harness operating system&amp;quot; width=&amp;quot;100%&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://www.star history.com/affaan m/ecc&amp;quot; &amp;lt;picture&lt;/p&gt;&lt;p&gt;🔥 +516 stars today · ⭐ &lt;b&gt;246,426&lt;/b&gt; stars · 🍴 &lt;b&gt;37,160&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/affaan-m/ECC&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>blader/humanizer</title>
+      <link>https://github.com/blader/humanizer</link>
+      <guid isPermaLink="true">https://github.com/blader/humanizer</guid>
+      <pubDate>Thu, 03 Sep 2026 03:34:17 GMT</pubDate>
+      <description>Humanizer ![skills.sh installs](https://skills.sh/blader/humanizer) Humanizer rewrites AI sounding text so it reads like a person wrote it, without changing what it says. Because it is just Markdown, it works with any agent that supports skills. How it works — +374 stars today · 40,555 stars · 3,505 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;Humanizer ![skills.sh installs](https://skills.sh/blader/humanizer) Humanizer rewrites AI sounding text so it reads like a person wrote it, without changing what it says. Because it is just Markdown, it works with any agent that supports skills. How it works&lt;/p&gt;&lt;p&gt;🔥 +374 stars today · ⭐ &lt;b&gt;40,555&lt;/b&gt; stars · 🍴 &lt;b&gt;3,505&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/blader/humanizer&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>google-research/timesfm</title>
+      <link>https://github.com/google-research/timesfm</link>
+      <guid isPermaLink="true">https://github.com/google-research/timesfm</guid>
+      <pubDate>Thu, 03 Sep 2026 03:34:17 GMT</pubDate>
+      <description>TimesFM TimesFM (Time Series Foundation Model) is a pretrained time series foundation model developed by Google Research for time series forecasting. Paper: A decoder only foundation model for time series forecasting, ICML 2024. — +343 stars today · 29,998 stars · 2,875 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;TimesFM TimesFM (Time Series Foundation Model) is a pretrained time series foundation model developed by Google Research for time series forecasting. Paper: A decoder only foundation model for time series forecasting, ICML 2024.&lt;/p&gt;&lt;p&gt;🔥 +343 stars today · ⭐ &lt;b&gt;29,998&lt;/b&gt; stars · 🍴 &lt;b&gt;2,875&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/google-research/timesfm&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>JuliusBrussee/caveman</title>
+      <link>https://github.com/JuliusBrussee/caveman</link>
+      <guid isPermaLink="true">https://github.com/JuliusBrussee/caveman</guid>
+      <pubDate>Thu, 03 Sep 2026 03:34:17 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;docs/assets/caveman logo banner.png&quot; alt=&quot;Caveman&quot; width=&quot;720&quot; &lt;/p &lt;p align=&quot;center&quot; &lt;strong why use many token when few do trick&lt;/strong &lt;/p — +238 stars today · 102,700 stars · 5,973 forks · Language: Go</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/assets/caveman logo banner.png&amp;quot; alt=&amp;quot;Caveman&amp;quot; width=&amp;quot;720&amp;quot; &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong why use many token when few do trick&amp;lt;/strong &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +238 stars today · ⭐ &lt;b&gt;102,700&lt;/b&gt; stars · 🍴 &lt;b&gt;5,973&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/JuliusBrussee/caveman&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>ChromeDevTools/chrome-devtools-mcp</title>
+      <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
+      <guid isPermaLink="true">https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
+      <pubDate>Thu, 03 Sep 2026 03:34:17 GMT</pubDate>
+      <description>Chrome DevTools for agents ![npm chrome devtools mcp package](https://npmjs.org/package/chrome devtools mcp) Chrome DevTools for agents ( chrome devtools mcp ) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) — +148 stars today · 50,692 stars · 3,555 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;Chrome DevTools for agents ![npm chrome devtools mcp package](https://npmjs.org/package/chrome devtools mcp) Chrome DevTools for agents ( chrome devtools mcp ) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot)&lt;/p&gt;&lt;p&gt;🔥 +148 stars today · ⭐ &lt;b&gt;50,692&lt;/b&gt; stars · 🍴 &lt;b&gt;3,555&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ChromeDevTools/chrome-devtools-mcp&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>vercel-labs/portless</title>
+      <link>https://github.com/vercel-labs/portless</link>
+      <guid isPermaLink="true">https://github.com/vercel-labs/portless</guid>
+      <pubDate>Thu, 03 Sep 2026 03:34:17 GMT</pubDate>
+      <description>portless Replace port numbers with stable, named .localhost URLs for local development. For humans and agents. &quot;dev&quot;: &quot;next dev&quot; http://localhost:3000 + &quot;dev&quot;: &quot;portless run next dev&quot; https://myapp.localhost Install Global (recommended): — +73 stars today · 11,834 stars · 384 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;portless Replace port numbers with stable, named .localhost URLs for local development. For humans and agents. &amp;quot;dev&amp;quot;: &amp;quot;next dev&amp;quot; http://localhost:3000 + &amp;quot;dev&amp;quot;: &amp;quot;portless run next dev&amp;quot; https://myapp.localhost Install Global (recommended):&lt;/p&gt;&lt;p&gt;🔥 +73 stars today · ⭐ &lt;b&gt;11,834&lt;/b&gt; stars · 🍴 &lt;b&gt;384&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/vercel-labs/portless&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>sngyai/Sequoia-X</title>
+      <link>https://github.com/sngyai/Sequoia-X</link>
+      <guid isPermaLink="true">https://github.com/sngyai/Sequoia-X</guid>
+      <pubDate>Thu, 03 Sep 2026 03:34:17 GMT</pubDate>
+      <description>Sequoia X: 王者回归 The King Returns A 股量化选股系统 V2 A Share Quantitative Stock Selection System V2 简介 Introduction Sequoia X V2 是面向 A 股市场的量化选股系统，基于现代 Python 工程化标准从零重构。 系统以 OOP 架构、向量化计算和增量数据更新为核心设计原则，每日收盘后自动选股并推送至飞书群。 数据层使用 baostock（免费、无需注册、无限流）拉取历史及增量日 K 数据（后复权）， — +63 stars today · 6,207 stars · 1,272 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;Sequoia X: 王者回归 The King Returns A 股量化选股系统 V2 A Share Quantitative Stock Selection System V2 简介 Introduction Sequoia X V2 是面向 A 股市场的量化选股系统，基于现代 Python 工程化标准从零重构。 系统以 OOP 架构、向量化计算和增量数据更新为核心设计原则，每日收盘后自动选股并推送至飞书群。 数据层使用 baostock（免费、无需注册、无限流）拉取历史及增量日 K 数据（后复权），&lt;/p&gt;&lt;p&gt;🔥 +63 stars today · ⭐ &lt;b&gt;6,207&lt;/b&gt; stars · 🍴 &lt;b&gt;1,272&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/sngyai/Sequoia-X&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>superlinked/sie</title>
+      <link>https://github.com/superlinked/sie</link>
+      <guid isPermaLink="true">https://github.com/superlinked/sie</guid>
+      <pubDate>Thu, 03 Sep 2026 03:34:17 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;picture &lt;source srcset=&quot;https://cdn.prod.website files.com/65dce6831bf9f730421e2915/66ef0317ed8616151ee1d451 superlinked logo white.png&quot; media=&quot;(prefers color scheme: dark)&quot; &lt;img width=&quot;320&quot; — +60 stars today · 3,099 stars · 299 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source srcset=&amp;quot;https://cdn.prod.website files.com/65dce6831bf9f730421e2915/66ef0317ed8616151ee1d451 superlinked logo white.png&amp;quot; media=&amp;quot;(prefers color scheme: dark)&amp;quot; &amp;lt;img width=&amp;quot;320&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +60 stars today · ⭐ &lt;b&gt;3,099&lt;/b&gt; stars · 🍴 &lt;b&gt;299&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/superlinked/sie&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>zyronon/TypeWords</title>
+      <link>https://github.com/zyronon/TypeWords</link>
+      <guid isPermaLink="true">https://github.com/zyronon/TypeWords</guid>
+      <pubDate>Thu, 03 Sep 2026 03:34:17 GMT</pubDate>
+      <description>&lt;h1 align=center &lt;img src=&quot;https://github.com/user attachments/assets/9d626e0f 0601 4640 8981 ad66d8ac4853&quot; alt=&quot;TypeWords&quot; style=&quot;width: 500px;&quot;/ &lt;/h1 &lt;p align=&quot;center&quot; &lt;a href=&quot;/README.md&quot; English&lt;/a &lt;a href=&quot;/docs/README.es.md&quot; Español&lt;/a — +21 stars today · 9,396 stars · 1,137 forks · Language: Vue</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h1 align=center &amp;lt;img src=&amp;quot;https://github.com/user attachments/assets/9d626e0f 0601 4640 8981 ad66d8ac4853&amp;quot; alt=&amp;quot;TypeWords&amp;quot; style=&amp;quot;width: 500px;&amp;quot;/ &amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;/README.md&amp;quot; English&amp;lt;/a &amp;lt;a href=&amp;quot;/docs/README.es.md&amp;quot; Español&amp;lt;/a&lt;/p&gt;&lt;p&gt;🔥 +21 stars today · ⭐ &lt;b&gt;9,396&lt;/b&gt; stars · 🍴 &lt;b&gt;1,137&lt;/b&gt; forks · &lt;b&gt;Vue&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/zyronon/TypeWords&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>protocolbuffers/protobuf</title>
+      <link>https://github.com/protocolbuffers/protobuf</link>
+      <guid isPermaLink="true">https://github.com/protocolbuffers/protobuf</guid>
+      <pubDate>Thu, 03 Sep 2026 03:34:17 GMT</pubDate>
+      <description>Protocol Buffers Google's data interchange format =================================================== ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview — +18 stars today · 71,947 stars · 16,271 forks · Language: C++</description>
+      <content:encoded>&lt;p&gt;Protocol Buffers Google&amp;#x27;s data interchange format =================================================== ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview&lt;/p&gt;&lt;p&gt;🔥 +18 stars today · ⭐ &lt;b&gt;71,947&lt;/b&gt; stars · 🍴 &lt;b&gt;16,271&lt;/b&gt; forks · &lt;b&gt;C++&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/protocolbuffers/protobuf&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>fmtlib/fmt</title>
+      <link>https://github.com/fmtlib/fmt</link>
+      <guid isPermaLink="true">https://github.com/fmtlib/fmt</guid>
+      <pubDate>Thu, 03 Sep 2026 03:34:17 GMT</pubDate>
+      <description>&lt;img src=&quot;https://user images.githubusercontent.com/576385/156254208 f5b743a9 88cf 439d b0c0 923d53e8d551.png&quot; alt=&quot;{fmt}&quot; width=&quot;25%&quot;/ ![image]( https://github.com/fmtlib/fmt/actions?query=workflow%3Alinux) ![image]( https://github.com/fmtlib/fmt/actions?query=workflow%3Amacos) ![image]( — +14 stars today · 24,370 stars · 2,991 forks · Language: C++</description>
+      <content:encoded>&lt;p&gt;&amp;lt;img src=&amp;quot;https://user images.githubusercontent.com/576385/156254208 f5b743a9 88cf 439d b0c0 923d53e8d551.png&amp;quot; alt=&amp;quot;{fmt}&amp;quot; width=&amp;quot;25%&amp;quot;/ ![image]( https://github.com/fmtlib/fmt/actions?query=workflow%3Alinux) ![image]( https://github.com/fmtlib/fmt/actions?query=workflow%3Amacos) ![image](&lt;/p&gt;&lt;p&gt;🔥 +14 stars today · ⭐ &lt;b&gt;24,370&lt;/b&gt; stars · 🍴 &lt;b&gt;2,991&lt;/b&gt; forks · &lt;b&gt;C++&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/fmtlib/fmt&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
