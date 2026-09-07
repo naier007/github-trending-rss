@@ -7,136 +7,152 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Sun, 06 Sep 2026 03:36:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 03:35:46 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
-    <item>
-      <title>DietrichGebert/ponytail</title>
-      <link>https://github.com/DietrichGebert/ponytail</link>
-      <guid isPermaLink="true">https://github.com/DietrichGebert/ponytail</guid>
-      <pubDate>Sun, 06 Sep 2026 03:36:15 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;assets/logo dark.png&quot; &lt;img src=&quot;assets/logo.png&quot; width=&quot;220&quot; alt=&quot;Ponytail, the lazy senior dev&quot; &lt;/picture &lt;/p — +2,845 stars today · 128,089 stars · 6,852 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;assets/logo dark.png&amp;quot; &amp;lt;img src=&amp;quot;assets/logo.png&amp;quot; width=&amp;quot;220&amp;quot; alt=&amp;quot;Ponytail, the lazy senior dev&amp;quot; &amp;lt;/picture &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +2,845 stars today · ⭐ &lt;b&gt;128,089&lt;/b&gt; stars · 🍴 &lt;b&gt;6,852&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/DietrichGebert/ponytail&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
     <item>
       <title>mattpocock/skills</title>
       <link>https://github.com/mattpocock/skills</link>
       <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
-      <pubDate>Sun, 06 Sep 2026 03:36:15 GMT</pubDate>
-      <description>&lt;p &lt;a href=&quot;https://www.aihero.dev/s/skills newsletter&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&quot; — +2,692 stars today · 252,844 stars · 21,332 forks · Language: Shell</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p &amp;lt;a href=&amp;quot;https://www.aihero.dev/s/skills newsletter&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +2,692 stars today · ⭐ &lt;b&gt;252,844&lt;/b&gt; stars · 🍴 &lt;b&gt;21,332&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mattpocock/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Mon, 07 Sep 2026 03:35:46 GMT</pubDate>
+      <description>&lt;p &lt;a href=&quot;https://www.aihero.dev/s/skills newsletter&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&quot; — +2,207 stars today · 254,874 stars · 21,486 forks · Language: Shell</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p &amp;lt;a href=&amp;quot;https://www.aihero.dev/s/skills newsletter&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +2,207 stars today · ⭐ &lt;b&gt;254,874&lt;/b&gt; stars · 🍴 &lt;b&gt;21,486&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mattpocock/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>DietrichGebert/ponytail</title>
+      <link>https://github.com/DietrichGebert/ponytail</link>
+      <guid isPermaLink="true">https://github.com/DietrichGebert/ponytail</guid>
+      <pubDate>Mon, 07 Sep 2026 03:35:46 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;assets/logo dark.png&quot; &lt;img src=&quot;assets/logo.png&quot; width=&quot;220&quot; alt=&quot;Ponytail, the lazy senior dev&quot; &lt;/picture &lt;/p — +1,539 stars today · 129,636 stars · 6,943 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;assets/logo dark.png&amp;quot; &amp;lt;img src=&amp;quot;assets/logo.png&amp;quot; width=&amp;quot;220&amp;quot; alt=&amp;quot;Ponytail, the lazy senior dev&amp;quot; &amp;lt;/picture &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +1,539 stars today · ⭐ &lt;b&gt;129,636&lt;/b&gt; stars · 🍴 &lt;b&gt;6,943&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/DietrichGebert/ponytail&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>affaan-m/ECC</title>
       <link>https://github.com/affaan-m/ECC</link>
       <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
-      <pubDate>Sun, 06 Sep 2026 03:36:15 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/hero.png&quot; alt=&quot;ECC the agent harness operating system&quot; width=&quot;100%&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot;https://www.star history.com/affaan m/ecc&quot; &lt;picture — +1,314 stars today · 250,040 stars · 37,627 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/hero.png&amp;quot; alt=&amp;quot;ECC the agent harness operating system&amp;quot; width=&amp;quot;100%&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://www.star history.com/affaan m/ecc&amp;quot; &amp;lt;picture&lt;/p&gt;&lt;p&gt;🔥 +1,314 stars today · ⭐ &lt;b&gt;250,040&lt;/b&gt; stars · 🍴 &lt;b&gt;37,627&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/affaan-m/ECC&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Mon, 07 Sep 2026 03:35:46 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/hero.png&quot; alt=&quot;ECC the agent harness operating system&quot; width=&quot;100%&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot;https://www.star history.com/affaan m/ecc&quot; &lt;picture — +1,485 stars today · 251,579 stars · 37,809 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/hero.png&amp;quot; alt=&amp;quot;ECC the agent harness operating system&amp;quot; width=&amp;quot;100%&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://www.star history.com/affaan m/ecc&amp;quot; &amp;lt;picture&lt;/p&gt;&lt;p&gt;🔥 +1,485 stars today · ⭐ &lt;b&gt;251,579&lt;/b&gt; stars · 🍴 &lt;b&gt;37,809&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/affaan-m/ECC&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>blader/humanizer</title>
       <link>https://github.com/blader/humanizer</link>
       <guid isPermaLink="true">https://github.com/blader/humanizer</guid>
-      <pubDate>Sun, 06 Sep 2026 03:36:15 GMT</pubDate>
-      <description>Humanizer ![skills.sh installs](https://skills.sh/blader/humanizer) Humanizer rewrites AI sounding text so it reads like a person wrote it, without changing what it says. Because it is just Markdown, it works with any agent that supports skills. How it works — +990 stars today · 43,552 stars · 3,650 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Humanizer ![skills.sh installs](https://skills.sh/blader/humanizer) Humanizer rewrites AI sounding text so it reads like a person wrote it, without changing what it says. Because it is just Markdown, it works with any agent that supports skills. How it works&lt;/p&gt;&lt;p&gt;🔥 +990 stars today · ⭐ &lt;b&gt;43,552&lt;/b&gt; stars · 🍴 &lt;b&gt;3,650&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/blader/humanizer&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Mon, 07 Sep 2026 03:35:46 GMT</pubDate>
+      <description>Humanizer ![skills.sh installs](https://skills.sh/blader/humanizer) Humanizer rewrites AI sounding text so it reads like a person wrote it, without changing what it says. Because it is just Markdown, it works with any agent that supports skills. Installation Install Humanizer with the Skills CLI: — +748 stars today · 44,421 stars · 3,687 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;Humanizer ![skills.sh installs](https://skills.sh/blader/humanizer) Humanizer rewrites AI sounding text so it reads like a person wrote it, without changing what it says. Because it is just Markdown, it works with any agent that supports skills. Installation Install Humanizer with the Skills CLI:&lt;/p&gt;&lt;p&gt;🔥 +748 stars today · ⭐ &lt;b&gt;44,421&lt;/b&gt; stars · 🍴 &lt;b&gt;3,687&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/blader/humanizer&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>cathrynlavery/diagram-design</title>
       <link>https://github.com/cathrynlavery/diagram-design</link>
       <guid isPermaLink="true">https://github.com/cathrynlavery/diagram-design</guid>
-      <pubDate>Sun, 06 Sep 2026 03:36:15 GMT</pubDate>
-      <description>Diagram Design Editorial diagrams your designer won't hate. — +855 stars today · 31,764 stars · 2,046 forks · Language: HTML</description>
-      <content:encoded>&lt;p&gt;Diagram Design Editorial diagrams your designer won&amp;#x27;t hate.&lt;/p&gt;&lt;p&gt;🔥 +855 stars today · ⭐ &lt;b&gt;31,764&lt;/b&gt; stars · 🍴 &lt;b&gt;2,046&lt;/b&gt; forks · &lt;b&gt;HTML&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cathrynlavery/diagram-design&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>anomalyco/opencode</title>
-      <link>https://github.com/anomalyco/opencode</link>
-      <guid isPermaLink="true">https://github.com/anomalyco/opencode</guid>
-      <pubDate>Sun, 06 Sep 2026 03:36:15 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://opencode.ai&quot; &lt;picture &lt;source srcset=&quot;packages/console/app/src/asset/logo ornate dark.svg&quot; media=&quot;(prefers color scheme: dark)&quot; &lt;source srcset=&quot;packages/console/app/src/asset/logo ornate light.svg&quot; media=&quot;(prefers color scheme: light)&quot; — +725 stars today · 204,730 stars · 26,707 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://opencode.ai&amp;quot; &amp;lt;picture &amp;lt;source srcset=&amp;quot;packages/console/app/src/asset/logo ornate dark.svg&amp;quot; media=&amp;quot;(prefers color scheme: dark)&amp;quot; &amp;lt;source srcset=&amp;quot;packages/console/app/src/asset/logo ornate light.svg&amp;quot; media=&amp;quot;(prefers color scheme: light)&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +725 stars today · ⭐ &lt;b&gt;204,730&lt;/b&gt; stars · 🍴 &lt;b&gt;26,707&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Mon, 07 Sep 2026 03:35:46 GMT</pubDate>
+      <description>Diagram Design Editorial diagrams your designer won't hate. — +620 stars today · 32,553 stars · 2,085 forks · Language: HTML</description>
+      <content:encoded>&lt;p&gt;Diagram Design Editorial diagrams your designer won&amp;#x27;t hate.&lt;/p&gt;&lt;p&gt;🔥 +620 stars today · ⭐ &lt;b&gt;32,553&lt;/b&gt; stars · 🍴 &lt;b&gt;2,085&lt;/b&gt; forks · &lt;b&gt;HTML&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cathrynlavery/diagram-design&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>magnitudedev/magnitude</title>
       <link>https://github.com/magnitudedev/magnitude</link>
       <guid isPermaLink="true">https://github.com/magnitudedev/magnitude</guid>
-      <pubDate>Sun, 06 Sep 2026 03:36:15 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;assets/brand/icon dark.svg&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;assets/brand/icon light.svg&quot; &lt;img alt=&quot;Magnitude icon&quot; src=&quot;assets/brand/icon light.svg&quot; width=&quot;120&quot; &lt;/picture — +674 stars today · 3,260 stars · 233 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;assets/brand/icon dark.svg&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;assets/brand/icon light.svg&amp;quot; &amp;lt;img alt=&amp;quot;Magnitude icon&amp;quot; src=&amp;quot;assets/brand/icon light.svg&amp;quot; width=&amp;quot;120&amp;quot; &amp;lt;/picture&lt;/p&gt;&lt;p&gt;🔥 +674 stars today · ⭐ &lt;b&gt;3,260&lt;/b&gt; stars · 🍴 &lt;b&gt;233&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/magnitudedev/magnitude&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Mon, 07 Sep 2026 03:35:46 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;assets/brand/icon dark.svg&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;assets/brand/icon light.svg&quot; &lt;img alt=&quot;Magnitude icon&quot; src=&quot;assets/brand/icon light.svg&quot; width=&quot;120&quot; &lt;/picture — +604 stars today · 3,747 stars · 266 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;assets/brand/icon dark.svg&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;assets/brand/icon light.svg&amp;quot; &amp;lt;img alt=&amp;quot;Magnitude icon&amp;quot; src=&amp;quot;assets/brand/icon light.svg&amp;quot; width=&amp;quot;120&amp;quot; &amp;lt;/picture&lt;/p&gt;&lt;p&gt;🔥 +604 stars today · ⭐ &lt;b&gt;3,747&lt;/b&gt; stars · 🍴 &lt;b&gt;266&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/magnitudedev/magnitude&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>anomalyco/opencode</title>
+      <link>https://github.com/anomalyco/opencode</link>
+      <guid isPermaLink="true">https://github.com/anomalyco/opencode</guid>
+      <pubDate>Mon, 07 Sep 2026 03:35:46 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://opencode.ai&quot; &lt;picture &lt;source srcset=&quot;packages/console/app/src/asset/logo ornate dark.svg&quot; media=&quot;(prefers color scheme: dark)&quot; &lt;source srcset=&quot;packages/console/app/src/asset/logo ornate light.svg&quot; media=&quot;(prefers color scheme: light)&quot; — +551 stars today · 205,336 stars · 26,782 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://opencode.ai&amp;quot; &amp;lt;picture &amp;lt;source srcset=&amp;quot;packages/console/app/src/asset/logo ornate dark.svg&amp;quot; media=&amp;quot;(prefers color scheme: dark)&amp;quot; &amp;lt;source srcset=&amp;quot;packages/console/app/src/asset/logo ornate light.svg&amp;quot; media=&amp;quot;(prefers color scheme: light)&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +551 stars today · ⭐ &lt;b&gt;205,336&lt;/b&gt; stars · 🍴 &lt;b&gt;26,782&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>NousResearch/hermes-agent</title>
       <link>https://github.com/NousResearch/hermes-agent</link>
       <guid isPermaLink="true">https://github.com/NousResearch/hermes-agent</guid>
-      <pubDate>Sun, 06 Sep 2026 03:36:15 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/banner.png&quot; alt=&quot;Hermes Agent&quot; width=&quot;100%&quot; &lt;/p Hermes Agent ☤ &lt;p align=&quot;center&quot; &lt;a href=&quot;https://hermes agent.nousresearch.com/&quot; Hermes Agent&lt;/a &lt;a href=&quot;https://hermes agent.nousresearch.com/&quot; Hermes Desktop&lt;/a — +575 stars today · 242,068 stars · 49,739 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/banner.png&amp;quot; alt=&amp;quot;Hermes Agent&amp;quot; width=&amp;quot;100%&amp;quot; &amp;lt;/p Hermes Agent ☤ &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://hermes agent.nousresearch.com/&amp;quot; Hermes Agent&amp;lt;/a &amp;lt;a href=&amp;quot;https://hermes agent.nousresearch.com/&amp;quot; Hermes Desktop&amp;lt;/a&lt;/p&gt;&lt;p&gt;🔥 +575 stars today · ⭐ &lt;b&gt;242,068&lt;/b&gt; stars · 🍴 &lt;b&gt;49,739&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/NousResearch/hermes-agent&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>anthropics/skills</title>
-      <link>https://github.com/anthropics/skills</link>
-      <guid isPermaLink="true">https://github.com/anthropics/skills</guid>
-      <pubDate>Sun, 06 Sep 2026 03:36:15 GMT</pubDate>
-      <description>Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. ![skills.sh](https://skills.sh/anthropics/skills) Skills — +475 stars today · 174,604 stars · 20,678 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Note: This repository contains Anthropic&amp;#x27;s implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. ![skills.sh](https://skills.sh/anthropics/skills) Skills&lt;/p&gt;&lt;p&gt;🔥 +475 stars today · ⭐ &lt;b&gt;174,604&lt;/b&gt; stars · 🍴 &lt;b&gt;20,678&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Mon, 07 Sep 2026 03:35:46 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/banner.png&quot; alt=&quot;Hermes Agent&quot; width=&quot;100%&quot; &lt;/p Hermes Agent ☤ &lt;p align=&quot;center&quot; &lt;a href=&quot;https://hermes agent.nousresearch.com/&quot; Hermes Agent&lt;/a &lt;a href=&quot;https://hermes agent.nousresearch.com/&quot; Hermes Desktop&lt;/a — +520 stars today · 242,629 stars · 49,899 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/banner.png&amp;quot; alt=&amp;quot;Hermes Agent&amp;quot; width=&amp;quot;100%&amp;quot; &amp;lt;/p Hermes Agent ☤ &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://hermes agent.nousresearch.com/&amp;quot; Hermes Agent&amp;lt;/a &amp;lt;a href=&amp;quot;https://hermes agent.nousresearch.com/&amp;quot; Hermes Desktop&amp;lt;/a&lt;/p&gt;&lt;p&gt;🔥 +520 stars today · ⭐ &lt;b&gt;242,629&lt;/b&gt; stars · 🍴 &lt;b&gt;49,899&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/NousResearch/hermes-agent&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>humanlayer/skills</title>
       <link>https://github.com/humanlayer/skills</link>
       <guid isPermaLink="true">https://github.com/humanlayer/skills</guid>
-      <pubDate>Sun, 06 Sep 2026 03:36:15 GMT</pubDate>
-      <description>skills Claude Code skills from HumanLayer. Installation npx skills add humanlayer/skills skill SKILLNAME Available Skills improve claude md — +442 stars today · 2,766 stars · 77 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;skills Claude Code skills from HumanLayer. Installation npx skills add humanlayer/skills skill SKILLNAME Available Skills improve claude md&lt;/p&gt;&lt;p&gt;🔥 +442 stars today · ⭐ &lt;b&gt;2,766&lt;/b&gt; stars · 🍴 &lt;b&gt;77&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/humanlayer/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>bikini/exploitarium</title>
-      <link>https://github.com/bikini/exploitarium</link>
-      <guid isPermaLink="true">https://github.com/bikini/exploitarium</guid>
-      <pubDate>Sun, 06 Sep 2026 03:36:15 GMT</pubDate>
-      <description>Statement This repo was incomplete when published. — +230 stars today · 4,720 stars · 1,254 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Statement This repo was incomplete when published.&lt;/p&gt;&lt;p&gt;🔥 +230 stars today · ⭐ &lt;b&gt;4,720&lt;/b&gt; stars · 🍴 &lt;b&gt;1,254&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/bikini/exploitarium&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>ruvnet/ruflo</title>
-      <link>https://github.com/ruvnet/ruflo</link>
-      <guid isPermaLink="true">https://github.com/ruvnet/ruflo</guid>
-      <pubDate>Sun, 06 Sep 2026 03:36:15 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; ![Ruflo Banner](https://cognitum.one/agentic engineering) &lt;! Try Ruflo — the 4 badges first time visitors actually act on ![Try the UI Beta — flo.ruv.io](https://flo.ruv.io/) ![npm version (ruflo)](https://www.npmjs.com/package/ruflo) — +136 stars today · 70,721 stars · 8,419 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; ![Ruflo Banner](https://cognitum.one/agentic engineering) &amp;lt;! Try Ruflo — the 4 badges first time visitors actually act on ![Try the UI Beta — flo.ruv.io](https://flo.ruv.io/) ![npm version (ruflo)](https://www.npmjs.com/package/ruflo)&lt;/p&gt;&lt;p&gt;🔥 +136 stars today · ⭐ &lt;b&gt;70,721&lt;/b&gt; stars · 🍴 &lt;b&gt;8,419&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ruvnet/ruflo&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>fmtlib/fmt</title>
-      <link>https://github.com/fmtlib/fmt</link>
-      <guid isPermaLink="true">https://github.com/fmtlib/fmt</guid>
-      <pubDate>Sun, 06 Sep 2026 03:36:15 GMT</pubDate>
-      <description>&lt;img src=&quot;https://user images.githubusercontent.com/576385/156254208 f5b743a9 88cf 439d b0c0 923d53e8d551.png&quot; alt=&quot;{fmt}&quot; width=&quot;25%&quot;/ ![image]( https://github.com/fmtlib/fmt/actions?query=workflow%3Alinux) ![image]( https://github.com/fmtlib/fmt/actions?query=workflow%3Amacos) ![image]( — +134 stars today · 25,576 stars · 3,043 forks · Language: C++</description>
-      <content:encoded>&lt;p&gt;&amp;lt;img src=&amp;quot;https://user images.githubusercontent.com/576385/156254208 f5b743a9 88cf 439d b0c0 923d53e8d551.png&amp;quot; alt=&amp;quot;{fmt}&amp;quot; width=&amp;quot;25%&amp;quot;/ ![image]( https://github.com/fmtlib/fmt/actions?query=workflow%3Alinux) ![image]( https://github.com/fmtlib/fmt/actions?query=workflow%3Amacos) ![image](&lt;/p&gt;&lt;p&gt;🔥 +134 stars today · ⭐ &lt;b&gt;25,576&lt;/b&gt; stars · 🍴 &lt;b&gt;3,043&lt;/b&gt; forks · &lt;b&gt;C++&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/fmtlib/fmt&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>WorldFlowAI/everything-claude-code</title>
-      <link>https://github.com/WorldFlowAI/everything-claude-code</link>
-      <guid isPermaLink="true">https://github.com/WorldFlowAI/everything-claude-code</guid>
-      <pubDate>Sun, 06 Sep 2026 03:36:15 GMT</pubDate>
-      <description>Everything Claude Code ![Stars](https://github.com/affaan m/everything claude code/stargazers) ![License](LICENSE) The complete collection of Claude Code configs from an Anthropic hackathon winner. — +95 stars today · 2,388 stars · 365 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;Everything Claude Code ![Stars](https://github.com/affaan m/everything claude code/stargazers) ![License](LICENSE) The complete collection of Claude Code configs from an Anthropic hackathon winner.&lt;/p&gt;&lt;p&gt;🔥 +95 stars today · ⭐ &lt;b&gt;2,388&lt;/b&gt; stars · 🍴 &lt;b&gt;365&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/WorldFlowAI/everything-claude-code&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Mon, 07 Sep 2026 03:35:46 GMT</pubDate>
+      <description>skills Claude Code skills from HumanLayer. Installation npx skills add humanlayer/skills skill SKILLNAME Available Skills improve claude md — +451 stars today · 3,213 stars · 95 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;skills Claude Code skills from HumanLayer. Installation npx skills add humanlayer/skills skill SKILLNAME Available Skills improve claude md&lt;/p&gt;&lt;p&gt;🔥 +451 stars today · ⭐ &lt;b&gt;3,213&lt;/b&gt; stars · 🍴 &lt;b&gt;95&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/humanlayer/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>BraveOPotato/FckSignups</title>
       <link>https://github.com/BraveOPotato/FckSignups</link>
       <guid isPermaLink="true">https://github.com/BraveOPotato/FckSignups</guid>
-      <pubDate>Sun, 06 Sep 2026 03:36:15 GMT</pubDate>
-      <description>NoSignups (formerly FckSignups) ![Discord](https://discord.gg/hbDDqdmcm) ![Reddit](https://www.reddit.com/r/fucksignups/) Open Source Tools. Zero Bullsh t. A curated collection of open source tools you can use instantly in your browser. no accounts, no emails, no tracking. Just tools that work. — +68 stars today · 2,931 stars · 200 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;NoSignups (formerly FckSignups) ![Discord](https://discord.gg/hbDDqdmcm) ![Reddit](https://www.reddit.com/r/fucksignups/) Open Source Tools. Zero Bullsh t. A curated collection of open source tools you can use instantly in your browser. no accounts, no emails, no tracking. Just tools that work.&lt;/p&gt;&lt;p&gt;🔥 +68 stars today · ⭐ &lt;b&gt;2,931&lt;/b&gt; stars · 🍴 &lt;b&gt;200&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/BraveOPotato/FckSignups&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Mon, 07 Sep 2026 03:35:46 GMT</pubDate>
+      <description>NoSignups (formerly FckSignups) ![Discord](https://discord.gg/hbDDqdmcm) ![Reddit](https://www.reddit.com/r/fucksignups/) Open Source Tools. Zero Bullsh t. A curated collection of open source tools you can use instantly in your browser. no accounts, no emails, no tracking. Just tools that work. — +436 stars today · 3,382 stars · 211 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;NoSignups (formerly FckSignups) ![Discord](https://discord.gg/hbDDqdmcm) ![Reddit](https://www.reddit.com/r/fucksignups/) Open Source Tools. Zero Bullsh t. A curated collection of open source tools you can use instantly in your browser. no accounts, no emails, no tracking. Just tools that work.&lt;/p&gt;&lt;p&gt;🔥 +436 stars today · ⭐ &lt;b&gt;3,382&lt;/b&gt; stars · 🍴 &lt;b&gt;211&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/BraveOPotato/FckSignups&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>nvm-sh/nvm</title>
-      <link>https://github.com/nvm-sh/nvm</link>
-      <guid isPermaLink="true">https://github.com/nvm-sh/nvm</guid>
-      <pubDate>Sun, 06 Sep 2026 03:36:15 GMT</pubDate>
-      <description>&lt;a href=&quot;https://github.com/nvm sh/logos&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://raw.githubusercontent.com/nvm sh/logos/HEAD/nvm logo white.svg&quot; / &lt;img src=&quot;https://raw.githubusercontent.com/nvm sh/logos/HEAD/nvm logo color.svg&quot; height=&quot;50&quot; alt=&quot;nvm project logo&quot; / — +22 stars today · 94,934 stars · 10,424 forks · Language: Shell</description>
-      <content:encoded>&lt;p&gt;&amp;lt;a href=&amp;quot;https://github.com/nvm sh/logos&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://raw.githubusercontent.com/nvm sh/logos/HEAD/nvm logo white.svg&amp;quot; / &amp;lt;img src=&amp;quot;https://raw.githubusercontent.com/nvm sh/logos/HEAD/nvm logo color.svg&amp;quot; height=&amp;quot;50&amp;quot; alt=&amp;quot;nvm project logo&amp;quot; /&lt;/p&gt;&lt;p&gt;🔥 +22 stars today · ⭐ &lt;b&gt;94,934&lt;/b&gt; stars · 🍴 &lt;b&gt;10,424&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/nvm-sh/nvm&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>coreyhaines31/marketingskills</title>
+      <link>https://github.com/coreyhaines31/marketingskills</link>
+      <guid isPermaLink="true">https://github.com/coreyhaines31/marketingskills</guid>
+      <pubDate>Mon, 07 Sep 2026 03:35:46 GMT</pubDate>
+      <description>Marketing Skills for AI Agents — +329 stars today · 47,598 stars · 7,394 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;Marketing Skills for AI Agents&lt;/p&gt;&lt;p&gt;🔥 +329 stars today · ⭐ &lt;b&gt;47,598&lt;/b&gt; stars · 🍴 &lt;b&gt;7,394&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/coreyhaines31/marketingskills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>ruvnet/ruflo</title>
+      <link>https://github.com/ruvnet/ruflo</link>
+      <guid isPermaLink="true">https://github.com/ruvnet/ruflo</guid>
+      <pubDate>Mon, 07 Sep 2026 03:35:46 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; ![Ruflo Banner](https://cognitum.one/agentic engineering) &lt;! Try Ruflo — the 4 badges first time visitors actually act on ![Try the UI Beta — flo.ruv.io](https://flo.ruv.io/) ![npm version (ruflo)](https://www.npmjs.com/package/ruflo) — +276 stars today · 71,051 stars · 8,441 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; ![Ruflo Banner](https://cognitum.one/agentic engineering) &amp;lt;! Try Ruflo — the 4 badges first time visitors actually act on ![Try the UI Beta — flo.ruv.io](https://flo.ruv.io/) ![npm version (ruflo)](https://www.npmjs.com/package/ruflo)&lt;/p&gt;&lt;p&gt;🔥 +276 stars today · ⭐ &lt;b&gt;71,051&lt;/b&gt; stars · 🍴 &lt;b&gt;8,441&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ruvnet/ruflo&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>aipoch/open-science</title>
+      <link>https://github.com/aipoch/open-science</link>
+      <guid isPermaLink="true">https://github.com/aipoch/open-science</guid>
+      <pubDate>Mon, 07 Sep 2026 03:35:46 GMT</pubDate>
+      <description>&lt;h1 align=&quot;center&quot; AIPOCH Open Science&lt;/h1 &lt;p align=&quot;center&quot; Open source, local first, model agnostic AI research workbench for reproducible science. &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot;https://github.com/aipoch/open science/releases/latest&quot; — +146 stars today · 3,921 stars · 242 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; AIPOCH Open Science&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; Open source, local first, model agnostic AI research workbench for reproducible science. &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://github.com/aipoch/open science/releases/latest&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +146 stars today · ⭐ &lt;b&gt;3,921&lt;/b&gt; stars · 🍴 &lt;b&gt;242&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/aipoch/open-science&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>The-Swarm-Corporation/AutoHedge</title>
+      <link>https://github.com/The-Swarm-Corporation/AutoHedge</link>
+      <guid isPermaLink="true">https://github.com/The-Swarm-Corporation/AutoHedge</guid>
+      <pubDate>Mon, 07 Sep 2026 03:35:46 GMT</pubDate>
+      <description>AutoHedge ![Join our Discord](https://discord.gg/VapjxpSyHC3) ![Subscribe on YouTube](https://www.youtube.com/@kyegomez3242) ![Connect on LinkedIn](https://www.linkedin.com/in/kye g 38759a207/) ![Follow on X.com](https://x.com/swarms corp) — +142 stars today · 4,810 stars · 781 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;AutoHedge ![Join our Discord](https://discord.gg/VapjxpSyHC3) ![Subscribe on YouTube](https://www.youtube.com/@kyegomez3242) ![Connect on LinkedIn](https://www.linkedin.com/in/kye g 38759a207/) ![Follow on X.com](https://x.com/swarms corp)&lt;/p&gt;&lt;p&gt;🔥 +142 stars today · ⭐ &lt;b&gt;4,810&lt;/b&gt; stars · 🍴 &lt;b&gt;781&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/The-Swarm-Corporation/AutoHedge&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Stremio/stremio-web</title>
+      <link>https://github.com/Stremio/stremio-web</link>
+      <guid isPermaLink="true">https://github.com/Stremio/stremio-web</guid>
+      <pubDate>Mon, 07 Sep 2026 03:35:46 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;/assets/images/stremio symbol.png&quot; width=&quot;90&quot; alt=&quot;Stremio logo&quot; Stremio Web Freedom to Stream — the official web UI of Stremio, a modern media center that's a one stop solution for your video entertainment. — +122 stars today · 13,527 stars · 1,548 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;/assets/images/stremio symbol.png&amp;quot; width=&amp;quot;90&amp;quot; alt=&amp;quot;Stremio logo&amp;quot; Stremio Web Freedom to Stream — the official web UI of Stremio, a modern media center that&amp;#x27;s a one stop solution for your video entertainment.&lt;/p&gt;&lt;p&gt;🔥 +122 stars today · ⭐ &lt;b&gt;13,527&lt;/b&gt; stars · 🍴 &lt;b&gt;1,548&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Stremio/stremio-web&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>OpenWhispr/openwhispr</title>
+      <link>https://github.com/OpenWhispr/openwhispr</link>
+      <guid isPermaLink="true">https://github.com/OpenWhispr/openwhispr</guid>
+      <pubDate>Mon, 07 Sep 2026 03:35:46 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;src/assets/logo.svg&quot; alt=&quot;OpenWhispr&quot; width=&quot;120&quot; / &lt;/p &lt;h1 align=&quot;center&quot; OpenWhispr&lt;/h1 &lt;p align=&quot;center&quot; — +121 stars today · 7,469 stars · 934 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;src/assets/logo.svg&amp;quot; alt=&amp;quot;OpenWhispr&amp;quot; width=&amp;quot;120&amp;quot; / &amp;lt;/p &amp;lt;h1 align=&amp;quot;center&amp;quot; OpenWhispr&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +121 stars today · ⭐ &lt;b&gt;7,469&lt;/b&gt; stars · 🍴 &lt;b&gt;934&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/OpenWhispr/openwhispr&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>openai/skills</title>
+      <link>https://github.com/openai/skills</link>
+      <guid isPermaLink="true">https://github.com/openai/skills</guid>
+      <pubDate>Mon, 07 Sep 2026 03:35:46 GMT</pubDate>
+      <description>[!IMPORTANT] This repository is deprecated. For current Codex skill and plugin examples, use the OpenAI Plugins repository. If you want to add your own skills to Codex, follow the Build plugins guide, which includes instructions for creating a skill only plugin. Agent Skills — +46 stars today · 25,669 stars · 1,733 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;[!IMPORTANT] This repository is deprecated. For current Codex skill and plugin examples, use the OpenAI Plugins repository. If you want to add your own skills to Codex, follow the Build plugins guide, which includes instructions for creating a skill only plugin. Agent Skills&lt;/p&gt;&lt;p&gt;🔥 +46 stars today · ⭐ &lt;b&gt;25,669&lt;/b&gt; stars · 🍴 &lt;b&gt;1,733&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>llvm/llvm-project</title>
+      <link>https://github.com/llvm/llvm-project</link>
+      <guid isPermaLink="true">https://github.com/llvm/llvm-project</guid>
+      <pubDate>Mon, 07 Sep 2026 03:35:46 GMT</pubDate>
+      <description>The LLVM Compiler Infrastructure ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/llvm/llvm project) ![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8273) — +23 stars today · 40,244 stars · 18,562 forks · Language: LLVM</description>
+      <content:encoded>&lt;p&gt;The LLVM Compiler Infrastructure ![OpenSSF Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/llvm/llvm project) ![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8273)&lt;/p&gt;&lt;p&gt;🔥 +23 stars today · ⭐ &lt;b&gt;40,244&lt;/b&gt; stars · 🍴 &lt;b&gt;18,562&lt;/b&gt; forks · &lt;b&gt;LLVM&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/llvm/llvm-project&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
