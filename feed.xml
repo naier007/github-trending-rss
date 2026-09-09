@@ -7,120 +7,136 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Tue, 08 Sep 2026 03:40:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 03:45:57 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
     <item>
-      <title>affaan-m/ECC</title>
-      <link>https://github.com/affaan-m/ECC</link>
-      <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
-      <pubDate>Tue, 08 Sep 2026 03:40:48 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/hero.png&quot; alt=&quot;ECC the agent harness operating system&quot; width=&quot;100%&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot;https://www.star history.com/affaan m/ecc&quot; &lt;picture — +1,897 stars today · 253,003 stars · 37,947 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/hero.png&amp;quot; alt=&amp;quot;ECC the agent harness operating system&amp;quot; width=&amp;quot;100%&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://www.star history.com/affaan m/ecc&amp;quot; &amp;lt;picture&lt;/p&gt;&lt;p&gt;🔥 +1,897 stars today · ⭐ &lt;b&gt;253,003&lt;/b&gt; stars · 🍴 &lt;b&gt;37,947&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/affaan-m/ECC&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>heygen-com/hyperframes</title>
+      <link>https://github.com/heygen-com/hyperframes</link>
+      <guid isPermaLink="true">https://github.com/heygen-com/hyperframes</guid>
+      <pubDate>Wed, 09 Sep 2026 03:45:57 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/logo/dark.svg&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;docs/logo/light.svg&quot; &lt;img alt=&quot;HyperFrames&quot; src=&quot;docs/logo/light.svg&quot; width=&quot;300&quot; &lt;/picture — +2,627 stars today · 47,895 stars · 4,400 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/logo/dark.svg&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;docs/logo/light.svg&amp;quot; &amp;lt;img alt=&amp;quot;HyperFrames&amp;quot; src=&amp;quot;docs/logo/light.svg&amp;quot; width=&amp;quot;300&amp;quot; &amp;lt;/picture&lt;/p&gt;&lt;p&gt;🔥 +2,627 stars today · ⭐ &lt;b&gt;47,895&lt;/b&gt; stars · 🍴 &lt;b&gt;4,400&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/heygen-com/hyperframes&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>microsoft/markitdown</title>
       <link>https://github.com/microsoft/markitdown</link>
       <guid isPermaLink="true">https://github.com/microsoft/markitdown</guid>
-      <pubDate>Tue, 08 Sep 2026 03:40:48 GMT</pubDate>
-      <description>MarkItDown ![PyPI](https://pypi.org/project/markitdown/) [!IMPORTANT] — +886 stars today · 180,533 stars · 13,273 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;MarkItDown ![PyPI](https://pypi.org/project/markitdown/) [!IMPORTANT]&lt;/p&gt;&lt;p&gt;🔥 +886 stars today · ⭐ &lt;b&gt;180,533&lt;/b&gt; stars · 🍴 &lt;b&gt;13,273&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/microsoft/markitdown&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 09 Sep 2026 03:45:57 GMT</pubDate>
+      <description>MarkItDown ![PyPI](https://pypi.org/project/markitdown/) [!IMPORTANT] — +2,047 stars today · 181,812 stars · 13,353 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;MarkItDown ![PyPI](https://pypi.org/project/markitdown/) [!IMPORTANT]&lt;/p&gt;&lt;p&gt;🔥 +2,047 stars today · ⭐ &lt;b&gt;181,812&lt;/b&gt; stars · 🍴 &lt;b&gt;13,353&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/microsoft/markitdown&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>coreyhaines31/marketingskills</title>
-      <link>https://github.com/coreyhaines31/marketingskills</link>
-      <guid isPermaLink="true">https://github.com/coreyhaines31/marketingskills</guid>
-      <pubDate>Tue, 08 Sep 2026 03:40:48 GMT</pubDate>
-      <description>Marketing Skills for AI Agents — +580 stars today · 48,233 stars · 7,446 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;Marketing Skills for AI Agents&lt;/p&gt;&lt;p&gt;🔥 +580 stars today · ⭐ &lt;b&gt;48,233&lt;/b&gt; stars · 🍴 &lt;b&gt;7,446&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/coreyhaines31/marketingskills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>The-Swarm-Corporation/AutoHedge</title>
-      <link>https://github.com/The-Swarm-Corporation/AutoHedge</link>
-      <guid isPermaLink="true">https://github.com/The-Swarm-Corporation/AutoHedge</guid>
-      <pubDate>Tue, 08 Sep 2026 03:40:48 GMT</pubDate>
-      <description>AutoHedge ![Join our Discord](https://discord.gg/VapjxpSyHC3) ![Subscribe on YouTube](https://www.youtube.com/@kyegomez3242) ![Connect on LinkedIn](https://www.linkedin.com/in/kye g 38759a207/) ![Follow on X.com](https://x.com/swarms corp) — +517 stars today · 5,323 stars · 815 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;AutoHedge ![Join our Discord](https://discord.gg/VapjxpSyHC3) ![Subscribe on YouTube](https://www.youtube.com/@kyegomez3242) ![Connect on LinkedIn](https://www.linkedin.com/in/kye g 38759a207/) ![Follow on X.com](https://x.com/swarms corp)&lt;/p&gt;&lt;p&gt;🔥 +517 stars today · ⭐ &lt;b&gt;5,323&lt;/b&gt; stars · 🍴 &lt;b&gt;815&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/The-Swarm-Corporation/AutoHedge&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>BraveOPotato/FckSignups</title>
-      <link>https://github.com/BraveOPotato/FckSignups</link>
-      <guid isPermaLink="true">https://github.com/BraveOPotato/FckSignups</guid>
-      <pubDate>Tue, 08 Sep 2026 03:40:48 GMT</pubDate>
-      <description>NoSignups (formerly FckSignups) ![Discord](https://discord.gg/hbDDqdmcm) ![Reddit](https://www.reddit.com/r/fucksignups/) Open Source Tools. Zero Bullsh t. A curated collection of open source tools you can use instantly in your browser. no accounts, no emails, no tracking. Just tools that work. — +501 stars today · 3,881 stars · 230 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;NoSignups (formerly FckSignups) ![Discord](https://discord.gg/hbDDqdmcm) ![Reddit](https://www.reddit.com/r/fucksignups/) Open Source Tools. Zero Bullsh t. A curated collection of open source tools you can use instantly in your browser. no accounts, no emails, no tracking. Just tools that work.&lt;/p&gt;&lt;p&gt;🔥 +501 stars today · ⭐ &lt;b&gt;3,881&lt;/b&gt; stars · 🍴 &lt;b&gt;230&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/BraveOPotato/FckSignups&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>heygen-com/hyperframes</title>
-      <link>https://github.com/heygen-com/hyperframes</link>
-      <guid isPermaLink="true">https://github.com/heygen-com/hyperframes</guid>
-      <pubDate>Tue, 08 Sep 2026 03:40:48 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/logo/dark.svg&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;docs/logo/light.svg&quot; &lt;img alt=&quot;HyperFrames&quot; src=&quot;docs/logo/light.svg&quot; width=&quot;300&quot; &lt;/picture — +474 stars today · 46,324 stars · 4,333 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/logo/dark.svg&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;docs/logo/light.svg&amp;quot; &amp;lt;img alt=&amp;quot;HyperFrames&amp;quot; src=&amp;quot;docs/logo/light.svg&amp;quot; width=&amp;quot;300&amp;quot; &amp;lt;/picture&lt;/p&gt;&lt;p&gt;🔥 +474 stars today · ⭐ &lt;b&gt;46,324&lt;/b&gt; stars · 🍴 &lt;b&gt;4,333&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/heygen-com/hyperframes&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>ruvnet/ruflo</title>
-      <link>https://github.com/ruvnet/ruflo</link>
-      <guid isPermaLink="true">https://github.com/ruvnet/ruflo</guid>
-      <pubDate>Tue, 08 Sep 2026 03:40:48 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; ![Ruflo Banner](https://cognitum.one/agentic engineering) &lt;! Try Ruflo — the 4 badges first time visitors actually act on ![Try the UI Beta — flo.ruv.io](https://flo.ruv.io/) ![npm version (ruflo)](https://www.npmjs.com/package/ruflo) — +394 stars today · 71,443 stars · 8,463 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; ![Ruflo Banner](https://cognitum.one/agentic engineering) &amp;lt;! Try Ruflo — the 4 badges first time visitors actually act on ![Try the UI Beta — flo.ruv.io](https://flo.ruv.io/) ![npm version (ruflo)](https://www.npmjs.com/package/ruflo)&lt;/p&gt;&lt;p&gt;🔥 +394 stars today · ⭐ &lt;b&gt;71,443&lt;/b&gt; stars · 🍴 &lt;b&gt;8,463&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ruvnet/ruflo&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>openai/skills</title>
-      <link>https://github.com/openai/skills</link>
-      <guid isPermaLink="true">https://github.com/openai/skills</guid>
-      <pubDate>Tue, 08 Sep 2026 03:40:48 GMT</pubDate>
-      <description>[!IMPORTANT] This repository is deprecated. For current Codex skill and plugin examples, use the OpenAI Plugins repository. If you want to add your own skills to Codex, follow the Build plugins guide, which includes instructions for creating a skill only plugin. Agent Skills — +351 stars today · 26,101 stars · 1,750 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;[!IMPORTANT] This repository is deprecated. For current Codex skill and plugin examples, use the OpenAI Plugins repository. If you want to add your own skills to Codex, follow the Build plugins guide, which includes instructions for creating a skill only plugin. Agent Skills&lt;/p&gt;&lt;p&gt;🔥 +351 stars today · ⭐ &lt;b&gt;26,101&lt;/b&gt; stars · 🍴 &lt;b&gt;1,750&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>MoonTechLab/LunaTV</title>
-      <link>https://github.com/MoonTechLab/LunaTV</link>
-      <guid isPermaLink="true">https://github.com/MoonTechLab/LunaTV</guid>
-      <pubDate>Tue, 08 Sep 2026 03:40:48 GMT</pubDate>
-      <description>MoonTV &lt;div align=&quot;center&quot; &lt;img src=&quot;public/logo.png&quot; alt=&quot;MoonTV Logo&quot; width=&quot;120&quot; &lt;/div 🎬 MoonTV 是一个开箱即用的、跨平台的影视聚合播放器。它基于 Next.js 14 + Tailwind&amp;nbsp;CSS + TypeScript 构建，支持多资源搜索、在线播放、收藏同步、播放记录、云端存储，让你可以随时随地畅享海量免费影视内容。 &lt;div align=&quot;center&quot; — +197 stars today · 9,849 stars · 9,005 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;MoonTV &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;public/logo.png&amp;quot; alt=&amp;quot;MoonTV Logo&amp;quot; width=&amp;quot;120&amp;quot; &amp;lt;/div 🎬 MoonTV 是一个开箱即用的、跨平台的影视聚合播放器。它基于 Next.js 14 + Tailwind&amp;amp;nbsp;CSS + TypeScript 构建，支持多资源搜索、在线播放、收藏同步、播放记录、云端存储，让你可以随时随地畅享海量免费影视内容。 &amp;lt;div align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +197 stars today · ⭐ &lt;b&gt;9,849&lt;/b&gt; stars · 🍴 &lt;b&gt;9,005&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/MoonTechLab/LunaTV&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>bytedance/deer-flow</title>
-      <link>https://github.com/bytedance/deer-flow</link>
-      <guid isPermaLink="true">https://github.com/bytedance/deer-flow</guid>
-      <pubDate>Tue, 08 Sep 2026 03:40:48 GMT</pubDate>
-      <description>🦌 DeerFlow 2.0 English 中文 日本語 Français Русский ![Python](./backend/pyproject.toml) ![Node.js](./Makefile) ![License: MIT](./LICENSE) — +195 stars today · 81,895 stars · 11,294 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;🦌 DeerFlow 2.0 English 中文 日本語 Français Русский ![Python](./backend/pyproject.toml) ![Node.js](./Makefile) ![License: MIT](./LICENSE)&lt;/p&gt;&lt;p&gt;🔥 +195 stars today · ⭐ &lt;b&gt;81,895&lt;/b&gt; stars · 🍴 &lt;b&gt;11,294&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/bytedance/deer-flow&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>pascalorg/editor</title>
-      <link>https://github.com/pascalorg/editor</link>
-      <guid isPermaLink="true">https://github.com/pascalorg/editor</guid>
-      <pubDate>Tue, 08 Sep 2026 03:40:48 GMT</pubDate>
-      <description>Pascal Editor A 3D building editor built with React Three Fiber and WebGPU. ![MIT License](LICENSE) ![npm @pascal app/core](https://www.npmjs.com/package/@pascal app/core) ![npm @pascal app/viewer](https://www.npmjs.com/package/@pascal app/viewer) — +168 stars today · 22,397 stars · 2,862 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;Pascal Editor A 3D building editor built with React Three Fiber and WebGPU. ![MIT License](LICENSE) ![npm @pascal app/core](https://www.npmjs.com/package/@pascal app/core) ![npm @pascal app/viewer](https://www.npmjs.com/package/@pascal app/viewer)&lt;/p&gt;&lt;p&gt;🔥 +168 stars today · ⭐ &lt;b&gt;22,397&lt;/b&gt; stars · 🍴 &lt;b&gt;2,862&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pascalorg/editor&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>affaan-m/ECC</title>
+      <link>https://github.com/affaan-m/ECC</link>
+      <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
+      <pubDate>Wed, 09 Sep 2026 03:45:57 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/hero.png&quot; alt=&quot;ECC the agent harness operating system&quot; width=&quot;100%&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot;https://www.star history.com/affaan m/ecc&quot; &lt;picture — +1,427 stars today · 254,421 stars · 38,119 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/hero.png&amp;quot; alt=&amp;quot;ECC the agent harness operating system&amp;quot; width=&amp;quot;100%&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://www.star history.com/affaan m/ecc&amp;quot; &amp;lt;picture&lt;/p&gt;&lt;p&gt;🔥 +1,427 stars today · ⭐ &lt;b&gt;254,421&lt;/b&gt; stars · 🍴 &lt;b&gt;38,119&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/affaan-m/ECC&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>jo-inc/camofox-browser</title>
       <link>https://github.com/jo-inc/camofox-browser</link>
       <guid isPermaLink="true">https://github.com/jo-inc/camofox-browser</guid>
-      <pubDate>Tue, 08 Sep 2026 03:40:48 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;fox.png&quot; alt=&quot;camofox browser&quot; width=&quot;200&quot; / &lt;h1 camofox browser&lt;/h1 &lt;p &lt;strong Anti detection browser server for AI agents, powered by Camoufox&lt;/strong &lt;/p &lt;p &lt;a href=&quot;LICENSE&quot; &lt;img src=&quot;https://img.shields.io/badge/License MIT yellow.svg&quot; alt=&quot;License: MIT&quot; / &lt;/a — +135 stars today · 9,853 stars · 1,027 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;fox.png&amp;quot; alt=&amp;quot;camofox browser&amp;quot; width=&amp;quot;200&amp;quot; / &amp;lt;h1 camofox browser&amp;lt;/h1 &amp;lt;p &amp;lt;strong Anti detection browser server for AI agents, powered by Camoufox&amp;lt;/strong &amp;lt;/p &amp;lt;p &amp;lt;a href=&amp;quot;LICENSE&amp;quot; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/License MIT yellow.svg&amp;quot; alt=&amp;quot;License: MIT&amp;quot; / &amp;lt;/a&lt;/p&gt;&lt;p&gt;🔥 +135 stars today · ⭐ &lt;b&gt;9,853&lt;/b&gt; stars · 🍴 &lt;b&gt;1,027&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/jo-inc/camofox-browser&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 09 Sep 2026 03:45:57 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;fox.png&quot; alt=&quot;camofox browser&quot; width=&quot;200&quot; / &lt;h1 camofox browser&lt;/h1 &lt;p &lt;strong Anti detection browser server for AI agents, powered by Camoufox&lt;/strong &lt;/p &lt;p &lt;a href=&quot;LICENSE&quot; &lt;img src=&quot;https://img.shields.io/badge/License MIT yellow.svg&quot; alt=&quot;License: MIT&quot; / &lt;/a — +871 stars today · 10,599 stars · 1,059 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;fox.png&amp;quot; alt=&amp;quot;camofox browser&amp;quot; width=&amp;quot;200&amp;quot; / &amp;lt;h1 camofox browser&amp;lt;/h1 &amp;lt;p &amp;lt;strong Anti detection browser server for AI agents, powered by Camoufox&amp;lt;/strong &amp;lt;/p &amp;lt;p &amp;lt;a href=&amp;quot;LICENSE&amp;quot; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/License MIT yellow.svg&amp;quot; alt=&amp;quot;License: MIT&amp;quot; / &amp;lt;/a&lt;/p&gt;&lt;p&gt;🔥 +871 stars today · ⭐ &lt;b&gt;10,599&lt;/b&gt; stars · 🍴 &lt;b&gt;1,059&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/jo-inc/camofox-browser&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>cathrynlavery/diagram-design</title>
+      <link>https://github.com/cathrynlavery/diagram-design</link>
+      <guid isPermaLink="true">https://github.com/cathrynlavery/diagram-design</guid>
+      <pubDate>Wed, 09 Sep 2026 03:45:57 GMT</pubDate>
+      <description>Diagram Design Editorial diagrams your designer won't hate. — +710 stars today · 35,131 stars · 2,213 forks · Language: HTML</description>
+      <content:encoded>&lt;p&gt;Diagram Design Editorial diagrams your designer won&amp;#x27;t hate.&lt;/p&gt;&lt;p&gt;🔥 +710 stars today · ⭐ &lt;b&gt;35,131&lt;/b&gt; stars · 🍴 &lt;b&gt;2,213&lt;/b&gt; forks · &lt;b&gt;HTML&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cathrynlavery/diagram-design&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>coreyhaines31/marketingskills</title>
+      <link>https://github.com/coreyhaines31/marketingskills</link>
+      <guid isPermaLink="true">https://github.com/coreyhaines31/marketingskills</guid>
+      <pubDate>Wed, 09 Sep 2026 03:45:57 GMT</pubDate>
+      <description>Marketing Skills for AI Agents — +666 stars today · 48,912 stars · 7,498 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;Marketing Skills for AI Agents&lt;/p&gt;&lt;p&gt;🔥 +666 stars today · ⭐ &lt;b&gt;48,912&lt;/b&gt; stars · 🍴 &lt;b&gt;7,498&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/coreyhaines31/marketingskills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>ayghri/i-have-adhd</title>
+      <link>https://github.com/ayghri/i-have-adhd</link>
+      <guid isPermaLink="true">https://github.com/ayghri/i-have-adhd</guid>
+      <pubDate>Wed, 09 Sep 2026 03:45:57 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;./logo.png&quot; alt=&quot;i have adhd&quot; width=&quot;140&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;strong align=&quot;center&quot; ADHD friendly outputs. No ADHD diagnosis needed!&lt;/strong &lt;/p — +656 stars today · 31,042 stars · 1,876 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;./logo.png&amp;quot; alt=&amp;quot;i have adhd&amp;quot; width=&amp;quot;140&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong align=&amp;quot;center&amp;quot; ADHD friendly outputs. No ADHD diagnosis needed!&amp;lt;/strong &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +656 stars today · ⭐ &lt;b&gt;31,042&lt;/b&gt; stars · 🍴 &lt;b&gt;1,876&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ayghri/i-have-adhd&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>mksglu/context-mode</title>
       <link>https://github.com/mksglu/context-mode</link>
       <guid isPermaLink="true">https://github.com/mksglu/context-mode</guid>
-      <pubDate>Tue, 08 Sep 2026 03:40:48 GMT</pubDate>
-      <description>Context Mode The other half of the context problem. — +96 stars today · 20,953 stars · 1,523 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;Context Mode The other half of the context problem.&lt;/p&gt;&lt;p&gt;🔥 +96 stars today · ⭐ &lt;b&gt;20,953&lt;/b&gt; stars · 🍴 &lt;b&gt;1,523&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mksglu/context-mode&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 09 Sep 2026 03:45:57 GMT</pubDate>
+      <description>Context Mode The other half of the context problem. — +651 stars today · 21,456 stars · 1,545 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;Context Mode The other half of the context problem.&lt;/p&gt;&lt;p&gt;🔥 +651 stars today · ⭐ &lt;b&gt;21,456&lt;/b&gt; stars · 🍴 &lt;b&gt;1,545&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mksglu/context-mode&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>lightpanda-io/browser</title>
-      <link>https://github.com/lightpanda-io/browser</link>
-      <guid isPermaLink="true">https://github.com/lightpanda-io/browser</guid>
-      <pubDate>Tue, 08 Sep 2026 03:40:48 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://lightpanda.io&quot; &lt;img src=&quot;https://cdn.lightpanda.io/assets/images/logo/lpd logo.png&quot; alt=&quot;Logo&quot; height=170 &lt;/a &lt;/p &lt;h1 align=&quot;center&quot; Lightpanda Browser&lt;/h1 &lt;p align=&quot;center&quot; &lt;strong The headless browser built from scratch for AI agents and automation.&lt;/strong &lt;br — +58 stars today · 34,932 stars · 1,652 forks · Language: Zig</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://lightpanda.io&amp;quot; &amp;lt;img src=&amp;quot;https://cdn.lightpanda.io/assets/images/logo/lpd logo.png&amp;quot; alt=&amp;quot;Logo&amp;quot; height=170 &amp;lt;/a &amp;lt;/p &amp;lt;h1 align=&amp;quot;center&amp;quot; Lightpanda Browser&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong The headless browser built from scratch for AI agents and automation.&amp;lt;/strong &amp;lt;br&lt;/p&gt;&lt;p&gt;🔥 +58 stars today · ⭐ &lt;b&gt;34,932&lt;/b&gt; stars · 🍴 &lt;b&gt;1,652&lt;/b&gt; forks · &lt;b&gt;Zig&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/lightpanda-io/browser&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>MoonTechLab/LunaTV</title>
+      <link>https://github.com/MoonTechLab/LunaTV</link>
+      <guid isPermaLink="true">https://github.com/MoonTechLab/LunaTV</guid>
+      <pubDate>Wed, 09 Sep 2026 03:45:57 GMT</pubDate>
+      <description>MoonTV &lt;div align=&quot;center&quot; &lt;img src=&quot;public/logo.png&quot; alt=&quot;MoonTV Logo&quot; width=&quot;120&quot; &lt;/div 🎬 MoonTV 是一个开箱即用的、跨平台的影视聚合播放器。它基于 Next.js 14 + Tailwind&amp;nbsp;CSS + TypeScript 构建，支持多资源搜索、在线播放、收藏同步、播放记录、云端存储，让你可以随时随地畅享海量免费影视内容。 &lt;div align=&quot;center&quot; — +505 stars today · 10,240 stars · 9,056 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;MoonTV &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;public/logo.png&amp;quot; alt=&amp;quot;MoonTV Logo&amp;quot; width=&amp;quot;120&amp;quot; &amp;lt;/div 🎬 MoonTV 是一个开箱即用的、跨平台的影视聚合播放器。它基于 Next.js 14 + Tailwind&amp;amp;nbsp;CSS + TypeScript 构建，支持多资源搜索、在线播放、收藏同步、播放记录、云端存储，让你可以随时随地畅享海量免费影视内容。 &amp;lt;div align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +505 stars today · ⭐ &lt;b&gt;10,240&lt;/b&gt; stars · 🍴 &lt;b&gt;9,056&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/MoonTechLab/LunaTV&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>The-Swarm-Corporation/AutoHedge</title>
+      <link>https://github.com/The-Swarm-Corporation/AutoHedge</link>
+      <guid isPermaLink="true">https://github.com/The-Swarm-Corporation/AutoHedge</guid>
+      <pubDate>Wed, 09 Sep 2026 03:45:57 GMT</pubDate>
+      <description>AutoHedge ![Join our Discord](https://discord.gg/VapjxpSyHC3) ![Subscribe on YouTube](https://www.youtube.com/@kyegomez3242) ![Connect on LinkedIn](https://www.linkedin.com/in/kye g 38759a207/) ![Follow on X.com](https://x.com/swarms corp) — +494 stars today · 5,760 stars · 842 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;AutoHedge ![Join our Discord](https://discord.gg/VapjxpSyHC3) ![Subscribe on YouTube](https://www.youtube.com/@kyegomez3242) ![Connect on LinkedIn](https://www.linkedin.com/in/kye g 38759a207/) ![Follow on X.com](https://x.com/swarms corp)&lt;/p&gt;&lt;p&gt;🔥 +494 stars today · ⭐ &lt;b&gt;5,760&lt;/b&gt; stars · 🍴 &lt;b&gt;842&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/The-Swarm-Corporation/AutoHedge&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>openai/skills</title>
+      <link>https://github.com/openai/skills</link>
+      <guid isPermaLink="true">https://github.com/openai/skills</guid>
+      <pubDate>Wed, 09 Sep 2026 03:45:57 GMT</pubDate>
+      <description>[!IMPORTANT] This repository is deprecated. For current Codex skill and plugin examples, use the OpenAI Plugins repository. If you want to add your own skills to Codex, follow the Build plugins guide, which includes instructions for creating a skill only plugin. Agent Skills — +490 stars today · 26,582 stars · 1,781 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;[!IMPORTANT] This repository is deprecated. For current Codex skill and plugin examples, use the OpenAI Plugins repository. If you want to add your own skills to Codex, follow the Build plugins guide, which includes instructions for creating a skill only plugin. Agent Skills&lt;/p&gt;&lt;p&gt;🔥 +490 stars today · ⭐ &lt;b&gt;26,582&lt;/b&gt; stars · 🍴 &lt;b&gt;1,781&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>obra/superpowers</title>
+      <link>https://github.com/obra/superpowers</link>
+      <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
+      <pubDate>Wed, 09 Sep 2026 03:45:57 GMT</pubDate>
+      <description>Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started — +452 stars today · 283,447 stars · 25,376 forks · Language: Shell</description>
+      <content:encoded>&lt;p&gt;Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started&lt;/p&gt;&lt;p&gt;🔥 +452 stars today · ⭐ &lt;b&gt;283,447&lt;/b&gt; stars · 🍴 &lt;b&gt;25,376&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/obra/superpowers&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>multica-ai/andrej-karpathy-skills</title>
+      <link>https://github.com/multica-ai/andrej-karpathy-skills</link>
+      <guid isPermaLink="true">https://github.com/multica-ai/andrej-karpathy-skills</guid>
+      <pubDate>Wed, 09 Sep 2026 03:45:57 GMT</pubDate>
+      <description>Karpathy Inspired Claude Code Guidelines Check out my new project Multica — an open source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuan jy — +333 stars today · 211,547 stars · 21,475 forks</description>
+      <content:encoded>&lt;p&gt;Karpathy Inspired Claude Code Guidelines Check out my new project Multica — an open source platform for running and managing coding agents with reusable skills. Follow me on X: https://x.com/jiayuan jy&lt;/p&gt;&lt;p&gt;🔥 +333 stars today · ⭐ &lt;b&gt;211,547&lt;/b&gt; stars · 🍴 &lt;b&gt;21,475&lt;/b&gt; forks&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/multica-ai/andrej-karpathy-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>browser-use/browser-use</title>
+      <link>https://github.com/browser-use/browser-use</link>
+      <guid isPermaLink="true">https://github.com/browser-use/browser-use</guid>
+      <pubDate>Wed, 09 Sep 2026 03:45:57 GMT</pubDate>
+      <description>&lt;! mcp name: com.browser use/browser use &lt;picture &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;https://github.com/user attachments/assets/2ccdb752 22fb 41c7 8948 857fc1ad7e24&quot; — +228 stars today · 113,623 stars · 12,495 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;! mcp name: com.browser use/browser use &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;https://github.com/user attachments/assets/2ccdb752 22fb 41c7 8948 857fc1ad7e24&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +228 stars today · ⭐ &lt;b&gt;113,623&lt;/b&gt; stars · 🍴 &lt;b&gt;12,495&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/browser-use/browser-use&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>viarotel-org/escrcpy</title>
+      <link>https://github.com/viarotel-org/escrcpy</link>
+      <guid isPermaLink="true">https://github.com/viarotel-org/escrcpy</guid>
+      <pubDate>Wed, 09 Sep 2026 03:45:57 GMT</pubDate>
+      <description>&lt;div style=&quot;display:flex;&quot; &lt;img src=&quot;https://cdn.jsdelivr.net/gh/viarotel/resources@latest/logos/escrcpy.png&quot; alt=&quot;viarotel escrcpy&quot; width=&quot;108px&quot; &lt;/div Escrcpy ![GitCode](https://gitcode.com/viarotel org/escrcpy) ![Gitee](https://gitee.com/viarotel org/escrcpy) — +178 stars today · 11,455 stars · 798 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div style=&amp;quot;display:flex;&amp;quot; &amp;lt;img src=&amp;quot;https://cdn.jsdelivr.net/gh/viarotel/resources@latest/logos/escrcpy.png&amp;quot; alt=&amp;quot;viarotel escrcpy&amp;quot; width=&amp;quot;108px&amp;quot; &amp;lt;/div Escrcpy ![GitCode](https://gitcode.com/viarotel org/escrcpy) ![Gitee](https://gitee.com/viarotel org/escrcpy)&lt;/p&gt;&lt;p&gt;🔥 +178 stars today · ⭐ &lt;b&gt;11,455&lt;/b&gt; stars · 🍴 &lt;b&gt;798&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/viarotel-org/escrcpy&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>openai/plugins</title>
+      <link>https://github.com/openai/plugins</link>
+      <guid isPermaLink="true">https://github.com/openai/plugins</guid>
+      <pubDate>Wed, 09 Sep 2026 03:45:57 GMT</pubDate>
+      <description>Plugins This repository contains a curated collection of Codex plugin examples. Each plugin lives under plugins/&lt;name / with a required .codex plugin/plugin.json manifest and optional companion surfaces such as skills/ , .app.json , .mcp.json , plugin level agents/ , commands/ , — +105 stars today · 5,874 stars · 804 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;Plugins This repository contains a curated collection of Codex plugin examples. Each plugin lives under plugins/&amp;lt;name / with a required .codex plugin/plugin.json manifest and optional companion surfaces such as skills/ , .app.json , .mcp.json , plugin level agents/ , commands/ ,&lt;/p&gt;&lt;p&gt;🔥 +105 stars today · ⭐ &lt;b&gt;5,874&lt;/b&gt; stars · 🍴 &lt;b&gt;804&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/plugins&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
