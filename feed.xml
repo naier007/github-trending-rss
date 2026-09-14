@@ -7,136 +7,160 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Sun, 13 Sep 2026 03:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 04:00:30 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
     <item>
       <title>bilawalsidhu/gods-eye-view</title>
       <link>https://github.com/bilawalsidhu/gods-eye-view</link>
       <guid isPermaLink="true">https://github.com/bilawalsidhu/gods-eye-view</guid>
-      <pubDate>Sun, 13 Sep 2026 03:53:20 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; 🌐 God's Eye View ![CI](https://github.com/bilawalsidhu/gods eye view/actions/workflows/ci.yml) A spy satellite simulator in your browser — then you realize the sources are public and the data is real. — +2,265 stars today · 30,164 stars · 6,066 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; 🌐 God&amp;#x27;s Eye View ![CI](https://github.com/bilawalsidhu/gods eye view/actions/workflows/ci.yml) A spy satellite simulator in your browser — then you realize the sources are public and the data is real.&lt;/p&gt;&lt;p&gt;🔥 +2,265 stars today · ⭐ &lt;b&gt;30,164&lt;/b&gt; stars · 🍴 &lt;b&gt;6,066&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/bilawalsidhu/gods-eye-view&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Mon, 14 Sep 2026 04:00:30 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; 🌐 God's Eye View ![CI](https://github.com/bilawalsidhu/gods eye view/actions/workflows/ci.yml) A spy satellite simulator in your browser — then you realize the sources are public and the data is real. — +2,680 stars today · 32,193 stars · 6,454 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; 🌐 God&amp;#x27;s Eye View ![CI](https://github.com/bilawalsidhu/gods eye view/actions/workflows/ci.yml) A spy satellite simulator in your browser — then you realize the sources are public and the data is real.&lt;/p&gt;&lt;p&gt;🔥 +2,680 stars today · ⭐ &lt;b&gt;32,193&lt;/b&gt; stars · 🍴 &lt;b&gt;6,454&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/bilawalsidhu/gods-eye-view&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>melgarafael/DeskcommCRM</title>
-      <link>https://github.com/melgarafael/DeskcommCRM</link>
-      <guid isPermaLink="true">https://github.com/melgarafael/DeskcommCRM</guid>
-      <pubDate>Sun, 13 Sep 2026 03:53:20 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; 🇧🇷 Português · 🇺🇸 English · 🇪🇸 Español &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/brand/deskcomm logo dark.svg&quot; &lt;img src=&quot;docs/brand/deskcomm logo.svg&quot; alt=&quot;Deskcomm CRM&quot; width=&quot;420&quot; &lt;/picture — +504 stars today · 1,858 stars · 558 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; 🇧🇷 Português · 🇺🇸 English · 🇪🇸 Español &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/brand/deskcomm logo dark.svg&amp;quot; &amp;lt;img src=&amp;quot;docs/brand/deskcomm logo.svg&amp;quot; alt=&amp;quot;Deskcomm CRM&amp;quot; width=&amp;quot;420&amp;quot; &amp;lt;/picture&lt;/p&gt;&lt;p&gt;🔥 +504 stars today · ⭐ &lt;b&gt;1,858&lt;/b&gt; stars · 🍴 &lt;b&gt;558&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/melgarafael/DeskcommCRM&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>debpalash/VoiceStudio</title>
+      <link>https://github.com/debpalash/VoiceStudio</link>
+      <guid isPermaLink="true">https://github.com/debpalash/VoiceStudio</guid>
+      <pubDate>Mon, 14 Sep 2026 04:00:30 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;h3 NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr&lt;/h3 &lt;p &lt;img src=&quot;docs/logo.png&quot; alt=&quot;VoiceStudio logo&quot; width=&quot;120&quot; height=&quot;120&quot; / &lt;/p &lt;h1 VoiceStudio&lt;/h1 &lt;p — +2,632 stars today · 27,207 stars · 3,350 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;h3 NOTE: Electron Rewrite Ongoing: Please dont&amp;#x27;t create desktop app related issues and pr&amp;lt;/h3 &amp;lt;p &amp;lt;img src=&amp;quot;docs/logo.png&amp;quot; alt=&amp;quot;VoiceStudio logo&amp;quot; width=&amp;quot;120&amp;quot; height=&amp;quot;120&amp;quot; / &amp;lt;/p &amp;lt;h1 VoiceStudio&amp;lt;/h1 &amp;lt;p&lt;/p&gt;&lt;p&gt;🔥 +2,632 stars today · ⭐ &lt;b&gt;27,207&lt;/b&gt; stars · 🍴 &lt;b&gt;3,350&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/debpalash/VoiceStudio&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>alsk1992/CloddsBot</title>
-      <link>https://github.com/alsk1992/CloddsBot</link>
-      <guid isPermaLink="true">https://github.com/alsk1992/CloddsBot</guid>
-      <pubDate>Sun, 13 Sep 2026 03:53:20 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;https://cloddsbot.com/logo.png&quot; alt=&quot;Clodds Logo&quot; width=&quot;280&quot; &lt;/p &lt;p align=&quot;center&quot; &lt;strong AI powered trading terminal for prediction markets, crypto &amp; futures&lt;/strong &lt;br — +376 stars today · 2,538 stars · 314 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;https://cloddsbot.com/logo.png&amp;quot; alt=&amp;quot;Clodds Logo&amp;quot; width=&amp;quot;280&amp;quot; &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong AI powered trading terminal for prediction markets, crypto &amp;amp; futures&amp;lt;/strong &amp;lt;br&lt;/p&gt;&lt;p&gt;🔥 +376 stars today · ⭐ &lt;b&gt;2,538&lt;/b&gt; stars · 🍴 &lt;b&gt;314&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/alsk1992/CloddsBot&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>p1neappleXpress/OpenFlux</title>
-      <link>https://github.com/p1neappleXpress/OpenFlux</link>
-      <guid isPermaLink="true">https://github.com/p1neappleXpress/OpenFlux</guid>
-      <pubDate>Sun, 13 Sep 2026 03:53:20 GMT</pubDate>
-      <description>OpenFlux English Русский Network stack research tool. TCP tunnel with pluggable transports. Disclaimer — +355 stars today · 1,415 stars · 104 forks · Language: Go</description>
-      <content:encoded>&lt;p&gt;OpenFlux English Русский Network stack research tool. TCP tunnel with pluggable transports. Disclaimer&lt;/p&gt;&lt;p&gt;🔥 +355 stars today · ⭐ &lt;b&gt;1,415&lt;/b&gt; stars · 🍴 &lt;b&gt;104&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/p1neappleXpress/OpenFlux&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>jihe520/MathModelAgent</title>
-      <link>https://github.com/jihe520/MathModelAgent</link>
-      <guid isPermaLink="true">https://github.com/jihe520/MathModelAgent</guid>
-      <pubDate>Sun, 13 Sep 2026 03:53:20 GMT</pubDate>
-      <description>&lt;h1 align=&quot;center&quot; 🤖 MathModelAgent 📐&lt;/h1 &lt;p align=&quot;center&quot; &lt;img src=&quot;./docs/icon.png&quot; height=&quot;250px&quot; &lt;/p &lt;h4 align=&quot;center&quot; 专为数学建模设计的 Agent&lt;br — +262 stars today · 5,165 stars · 403 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; 🤖 MathModelAgent 📐&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;./docs/icon.png&amp;quot; height=&amp;quot;250px&amp;quot; &amp;lt;/p &amp;lt;h4 align=&amp;quot;center&amp;quot; 专为数学建模设计的 Agent&amp;lt;br&lt;/p&gt;&lt;p&gt;🔥 +262 stars today · ⭐ &lt;b&gt;5,165&lt;/b&gt; stars · 🍴 &lt;b&gt;403&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/jihe520/MathModelAgent&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>armory3d/armorpaint</title>
-      <link>https://github.com/armory3d/armorpaint</link>
-      <guid isPermaLink="true">https://github.com/armory3d/armorpaint</guid>
-      <pubDate>Sun, 13 Sep 2026 03:53:20 GMT</pubDate>
-      <description>armorpaint ============== ArmorPaint is a software for 3D PBR texture painting check out the manual. — +237 stars today · 4,926 stars · 549 forks · Language: C</description>
-      <content:encoded>&lt;p&gt;armorpaint ============== ArmorPaint is a software for 3D PBR texture painting check out the manual.&lt;/p&gt;&lt;p&gt;🔥 +237 stars today · ⭐ &lt;b&gt;4,926&lt;/b&gt; stars · 🍴 &lt;b&gt;549&lt;/b&gt; forks · &lt;b&gt;C&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/armory3d/armorpaint&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Shubhamsaboo/awesome-llm-apps</title>
-      <link>https://github.com/Shubhamsaboo/awesome-llm-apps</link>
-      <guid isPermaLink="true">https://github.com/Shubhamsaboo/awesome-llm-apps</guid>
-      <pubDate>Sun, 13 Sep 2026 03:53:20 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;http://www.theunwindai.com&quot; &lt;img src=&quot;docs/banner/unwind black.png&quot; width=&quot;900px&quot; alt=&quot;Unwind AI&quot; &lt;/a &lt;/p &lt;div align=&quot;center&quot; — +230 stars today · 137,678 stars · 20,238 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;http://www.theunwindai.com&amp;quot; &amp;lt;img src=&amp;quot;docs/banner/unwind black.png&amp;quot; width=&amp;quot;900px&amp;quot; alt=&amp;quot;Unwind AI&amp;quot; &amp;lt;/a &amp;lt;/p &amp;lt;div align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +230 stars today · ⭐ &lt;b&gt;137,678&lt;/b&gt; stars · 🍴 &lt;b&gt;20,238&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Shubhamsaboo/awesome-llm-apps&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Sonarr/Sonarr</title>
-      <link>https://github.com/Sonarr/Sonarr</link>
-      <guid isPermaLink="true">https://github.com/Sonarr/Sonarr</guid>
-      <pubDate>Sun, 13 Sep 2026 03:53:20 GMT</pubDate>
-      <description>&lt;img width=&quot;24px&quot; src=&quot;./Logo/256.png&quot; alt=&quot;Sonarr&quot; &lt;/img Sonarr ![Translated](https://translate.servarr.com/engage/servarr/) ![Backers on Open Collective]( backers) ![Sponsors on Open Collective]( sponsors) ![Mega Sponsors on Open Collective]( mega sponsors) — +227 stars today · 15,947 stars · 1,953 forks · Language: C#</description>
-      <content:encoded>&lt;p&gt;&amp;lt;img width=&amp;quot;24px&amp;quot; src=&amp;quot;./Logo/256.png&amp;quot; alt=&amp;quot;Sonarr&amp;quot; &amp;lt;/img Sonarr ![Translated](https://translate.servarr.com/engage/servarr/) ![Backers on Open Collective]( backers) ![Sponsors on Open Collective]( sponsors) ![Mega Sponsors on Open Collective]( mega sponsors)&lt;/p&gt;&lt;p&gt;🔥 +227 stars today · ⭐ &lt;b&gt;15,947&lt;/b&gt; stars · 🍴 &lt;b&gt;1,953&lt;/b&gt; forks · &lt;b&gt;C#&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Sonarr/Sonarr&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>JustVugg/colibri</title>
+      <link>https://github.com/JustVugg/colibri</link>
+      <guid isPermaLink="true">https://github.com/JustVugg/colibri</guid>
+      <pubDate>Mon, 14 Sep 2026 04:00:30 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/colibri logo.svg&quot; width=&quot;560&quot; alt=&quot;colibrì — tiny engine, immense model&quot; &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot;https://justvugg.github.io/colibri&quot; &lt;img src=&quot;https://img.shields.io/badge/website justvugg.github.io%2Fcolibri 1f6feb&quot; alt=&quot;Website&quot; &lt;/a — +868 stars today · 30,143 stars · 3,264 forks · Language: C</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/colibri logo.svg&amp;quot; width=&amp;quot;560&amp;quot; alt=&amp;quot;colibrì — tiny engine, immense model&amp;quot; &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://justvugg.github.io/colibri&amp;quot; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/website justvugg.github.io%2Fcolibri 1f6feb&amp;quot; alt=&amp;quot;Website&amp;quot; &amp;lt;/a&lt;/p&gt;&lt;p&gt;🔥 +868 stars today · ⭐ &lt;b&gt;30,143&lt;/b&gt; stars · 🍴 &lt;b&gt;3,264&lt;/b&gt; forks · &lt;b&gt;C&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/JustVugg/colibri&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>asgeirtj/system_prompts_leaks</title>
       <link>https://github.com/asgeirtj/system_prompts_leaks</link>
       <guid isPermaLink="true">https://github.com/asgeirtj/system_prompts_leaks</guid>
-      <pubDate>Sun, 13 Sep 2026 03:53:20 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;sub Thanks to&lt;/sub &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot;https://go.asgeirtj.workers.dev/latitude&quot; &lt;img src=&quot;assets/latitude dark.png&quot; alt=&quot;Latitude Logo&quot; width=&quot;700&quot;/ — +217 stars today · 65,497 stars · 10,751 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;sub Thanks to&amp;lt;/sub &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://go.asgeirtj.workers.dev/latitude&amp;quot; &amp;lt;img src=&amp;quot;assets/latitude dark.png&amp;quot; alt=&amp;quot;Latitude Logo&amp;quot; width=&amp;quot;700&amp;quot;/&lt;/p&gt;&lt;p&gt;🔥 +217 stars today · ⭐ &lt;b&gt;65,497&lt;/b&gt; stars · 🍴 &lt;b&gt;10,751&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/asgeirtj/system_prompts_leaks&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>multimodal-art-projection/YuE</title>
-      <link>https://github.com/multimodal-art-projection/YuE</link>
-      <guid isPermaLink="true">https://github.com/multimodal-art-projection/YuE</guid>
-      <pubDate>Sun, 13 Sep 2026 03:53:20 GMT</pubDate>
-      <description>Looking for the original YuE? Its code, documentation, and license are preserved on the YuE v1 branch . &lt;p align=&quot;center&quot; &lt;img src=&quot;assets/logo.png&quot; alt=&quot;YuE&quot; width=&quot;150&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;picture — +210 stars today · 7,343 stars · 827 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Looking for the original YuE? Its code, documentation, and license are preserved on the YuE v1 branch . &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/logo.png&amp;quot; alt=&amp;quot;YuE&amp;quot; width=&amp;quot;150&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture&lt;/p&gt;&lt;p&gt;🔥 +210 stars today · ⭐ &lt;b&gt;7,343&lt;/b&gt; stars · 🍴 &lt;b&gt;827&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/multimodal-art-projection/YuE&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>nab138/iloader</title>
-      <link>https://github.com/nab138/iloader</link>
-      <guid isPermaLink="true">https://github.com/nab138/iloader</guid>
-      <pubDate>Sun, 13 Sep 2026 03:53:20 GMT</pubDate>
-      <description>&lt;a href=&quot;https://iloader.app&quot; &lt;picture align=&quot;left&quot; &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;/iloader.svg&quot; &lt;img align=&quot;left&quot; width=&quot;90&quot; height=&quot;90&quot; src=&quot;/iloader dark.svg&quot; &lt;/picture &lt;div id=&quot;user content toc&quot; — +209 stars today · 3,105 stars · 213 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;a href=&amp;quot;https://iloader.app&amp;quot; &amp;lt;picture align=&amp;quot;left&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;/iloader.svg&amp;quot; &amp;lt;img align=&amp;quot;left&amp;quot; width=&amp;quot;90&amp;quot; height=&amp;quot;90&amp;quot; src=&amp;quot;/iloader dark.svg&amp;quot; &amp;lt;/picture &amp;lt;div id=&amp;quot;user content toc&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +209 stars today · ⭐ &lt;b&gt;3,105&lt;/b&gt; stars · 🍴 &lt;b&gt;213&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/nab138/iloader&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Mon, 14 Sep 2026 04:00:30 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;sub Thanks to&lt;/sub &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot;https://go.asgeirtj.workers.dev/latitude&quot; &lt;img src=&quot;assets/latitude dark.png&quot; alt=&quot;Latitude Logo&quot; width=&quot;700&quot;/ — +706 stars today · 66,172 stars · 10,814 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;sub Thanks to&amp;lt;/sub &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://go.asgeirtj.workers.dev/latitude&amp;quot; &amp;lt;img src=&amp;quot;assets/latitude dark.png&amp;quot; alt=&amp;quot;Latitude Logo&amp;quot; width=&amp;quot;700&amp;quot;/&lt;/p&gt;&lt;p&gt;🔥 +706 stars today · ⭐ &lt;b&gt;66,172&lt;/b&gt; stars · 🍴 &lt;b&gt;10,814&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/asgeirtj/system_prompts_leaks&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>vxcontrol/pentagi</title>
       <link>https://github.com/vxcontrol/pentagi</link>
       <guid isPermaLink="true">https://github.com/vxcontrol/pentagi</guid>
-      <pubDate>Sun, 13 Sep 2026 03:53:20 GMT</pubDate>
-      <description>PentAGI &lt;div align=&quot;center&quot; style=&quot;font size: 1.5em; margin: 20px 0;&quot; &lt;strong P&lt;/strong enetration testing &lt;strong A&lt;/strong rtificial &lt;strong G&lt;/strong eneral &lt;strong I&lt;/strong ntelligence &lt;/div &lt;br &lt;div align=&quot;center&quot; — +189 stars today · 23,510 stars · 3,069 forks · Language: Go</description>
-      <content:encoded>&lt;p&gt;PentAGI &amp;lt;div align=&amp;quot;center&amp;quot; style=&amp;quot;font size: 1.5em; margin: 20px 0;&amp;quot; &amp;lt;strong P&amp;lt;/strong enetration testing &amp;lt;strong A&amp;lt;/strong rtificial &amp;lt;strong G&amp;lt;/strong eneral &amp;lt;strong I&amp;lt;/strong ntelligence &amp;lt;/div &amp;lt;br &amp;lt;div align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +189 stars today · ⭐ &lt;b&gt;23,510&lt;/b&gt; stars · 🍴 &lt;b&gt;3,069&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/vxcontrol/pentagi&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Mon, 14 Sep 2026 04:00:30 GMT</pubDate>
+      <description>PentAGI &lt;div align=&quot;center&quot; style=&quot;font size: 1.5em; margin: 20px 0;&quot; &lt;strong P&lt;/strong enetration testing &lt;strong A&lt;/strong rtificial &lt;strong G&lt;/strong eneral &lt;strong I&lt;/strong ntelligence &lt;/div &lt;br &lt;div align=&quot;center&quot; — +590 stars today · 24,075 stars · 3,104 forks · Language: Go</description>
+      <content:encoded>&lt;p&gt;PentAGI &amp;lt;div align=&amp;quot;center&amp;quot; style=&amp;quot;font size: 1.5em; margin: 20px 0;&amp;quot; &amp;lt;strong P&amp;lt;/strong enetration testing &amp;lt;strong A&amp;lt;/strong rtificial &amp;lt;strong G&amp;lt;/strong eneral &amp;lt;strong I&amp;lt;/strong ntelligence &amp;lt;/div &amp;lt;br &amp;lt;div align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +590 stars today · ⭐ &lt;b&gt;24,075&lt;/b&gt; stars · 🍴 &lt;b&gt;3,104&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/vxcontrol/pentagi&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>yuliskov/SmartTube</title>
-      <link>https://github.com/yuliskov/SmartTube</link>
-      <guid isPermaLink="true">https://github.com/yuliskov/SmartTube</guid>
-      <pubDate>Sun, 13 Sep 2026 03:53:20 GMT</pubDate>
-      <description>&lt;img src=&quot;images/badge fdroid.png&quot; alt=&quot;Get it on F Droid&quot; height=&quot;80&quot; &lt;img src=&quot;images/badge github.png&quot; alt=&quot;Get it on GitHub&quot; height=&quot;80&quot; Important announcement about the app — +136 stars today · 33,235 stars · 2,016 forks · Language: Java</description>
-      <content:encoded>&lt;p&gt;&amp;lt;img src=&amp;quot;images/badge fdroid.png&amp;quot; alt=&amp;quot;Get it on F Droid&amp;quot; height=&amp;quot;80&amp;quot; &amp;lt;img src=&amp;quot;images/badge github.png&amp;quot; alt=&amp;quot;Get it on GitHub&amp;quot; height=&amp;quot;80&amp;quot; Important announcement about the app&lt;/p&gt;&lt;p&gt;🔥 +136 stars today · ⭐ &lt;b&gt;33,235&lt;/b&gt; stars · 🍴 &lt;b&gt;2,016&lt;/b&gt; forks · &lt;b&gt;Java&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/yuliskov/SmartTube&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>tonhowtf/omniget</title>
+      <link>https://github.com/tonhowtf/omniget</link>
+      <guid isPermaLink="true">https://github.com/tonhowtf/omniget</guid>
+      <pubDate>Mon, 14 Sep 2026 04:00:30 GMT</pubDate>
+      <description>&lt;! Search keywords (kept here so GitHub search, Google and AI assistants can find the project): OmniGet is a free open source downloader and media toolbox for Windows, macOS and Linux. udemy downloader, hotmart downloader, kiwify downloader, course downloader, youtube downloader, — +507 stars today · 11,852 stars · 1,034 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;&amp;lt;! Search keywords (kept here so GitHub search, Google and AI assistants can find the project): OmniGet is a free open source downloader and media toolbox for Windows, macOS and Linux. udemy downloader, hotmart downloader, kiwify downloader, course downloader, youtube downloader,&lt;/p&gt;&lt;p&gt;🔥 +507 stars today · ⭐ &lt;b&gt;11,852&lt;/b&gt; stars · 🍴 &lt;b&gt;1,034&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/tonhowtf/omniget&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>SnailSploit/Claude-Red</title>
       <link>https://github.com/SnailSploit/Claude-Red</link>
       <guid isPermaLink="true">https://github.com/SnailSploit/Claude-Red</guid>
-      <pubDate>Sun, 13 Sep 2026 03:53:20 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; claude red Offensive security skills for Claude — drop in SKILL.md files that turn Claude into a context aware red team operator. ![License: MIT](LICENSE) ![Skills]( skill index) ![Categories]( categories) — +113 stars today · 3,652 stars · 556 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; claude red Offensive security skills for Claude — drop in SKILL.md files that turn Claude into a context aware red team operator. ![License: MIT](LICENSE) ![Skills]( skill index) ![Categories]( categories)&lt;/p&gt;&lt;p&gt;🔥 +113 stars today · ⭐ &lt;b&gt;3,652&lt;/b&gt; stars · 🍴 &lt;b&gt;556&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/SnailSploit/Claude-Red&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Mon, 14 Sep 2026 04:00:30 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; claude red Offensive security skills for Claude — drop in SKILL.md files that turn Claude into a context aware red team operator. ![License: MIT](LICENSE) ![Skills]( skill index) ![Categories]( categories) — +506 stars today · 4,237 stars · 597 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; claude red Offensive security skills for Claude — drop in SKILL.md files that turn Claude into a context aware red team operator. ![License: MIT](LICENSE) ![Skills]( skill index) ![Categories]( categories)&lt;/p&gt;&lt;p&gt;🔥 +506 stars today · ⭐ &lt;b&gt;4,237&lt;/b&gt; stars · 🍴 &lt;b&gt;597&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/SnailSploit/Claude-Red&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>Flowseal/zapret-discord-youtube</title>
-      <link>https://github.com/Flowseal/zapret-discord-youtube</link>
-      <guid isPermaLink="true">https://github.com/Flowseal/zapret-discord-youtube</guid>
-      <pubDate>Sun, 13 Sep 2026 03:53:20 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; — +65 stars today · 33,215 stars · 2,540 forks · Language: Batchfile</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +65 stars today · ⭐ &lt;b&gt;33,215&lt;/b&gt; stars · 🍴 &lt;b&gt;2,540&lt;/b&gt; forks · &lt;b&gt;Batchfile&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Flowseal/zapret-discord-youtube&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>multimodal-art-projection/YuE</title>
+      <link>https://github.com/multimodal-art-projection/YuE</link>
+      <guid isPermaLink="true">https://github.com/multimodal-art-projection/YuE</guid>
+      <pubDate>Mon, 14 Sep 2026 04:00:30 GMT</pubDate>
+      <description>Looking for the original YuE? Its code, documentation, and license are preserved on the YuE v1 branch . &lt;p align=&quot;center&quot; &lt;img src=&quot;assets/logo.png&quot; alt=&quot;YuE&quot; width=&quot;150&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;picture — +487 stars today · 7,848 stars · 871 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;Looking for the original YuE? Its code, documentation, and license are preserved on the YuE v1 branch . &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/logo.png&amp;quot; alt=&amp;quot;YuE&amp;quot; width=&amp;quot;150&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture&lt;/p&gt;&lt;p&gt;🔥 +487 stars today · ⭐ &lt;b&gt;7,848&lt;/b&gt; stars · 🍴 &lt;b&gt;871&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/multimodal-art-projection/YuE&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>max-sixty/worktrunk</title>
-      <link>https://github.com/max-sixty/worktrunk</link>
-      <guid isPermaLink="true">https://github.com/max-sixty/worktrunk</guid>
-      <pubDate>Sun, 13 Sep 2026 03:53:20 GMT</pubDate>
-      <description>&lt;! markdownlint disable MD033 &lt;h1 &lt;img src=&quot;docs/public/logo.png&quot; alt=&quot;Worktrunk logo&quot; width=&quot;50&quot; align=&quot;absmiddle&quot; &amp;nbsp;&amp;nbsp;Worktrunk&lt;/h1 &lt;! Crates.io badge below disabled while shields.io is rate limited by crates.io — +54 stars today · 7,281 stars · 257 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;&amp;lt;! markdownlint disable MD033 &amp;lt;h1 &amp;lt;img src=&amp;quot;docs/public/logo.png&amp;quot; alt=&amp;quot;Worktrunk logo&amp;quot; width=&amp;quot;50&amp;quot; align=&amp;quot;absmiddle&amp;quot; &amp;amp;nbsp;&amp;amp;nbsp;Worktrunk&amp;lt;/h1 &amp;lt;! Crates.io badge below disabled while shields.io is rate limited by crates.io&lt;/p&gt;&lt;p&gt;🔥 +54 stars today · ⭐ &lt;b&gt;7,281&lt;/b&gt; stars · 🍴 &lt;b&gt;257&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/max-sixty/worktrunk&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>jiji262/douyin-downloader</title>
+      <link>https://github.com/jiji262/douyin-downloader</link>
+      <guid isPermaLink="true">https://github.com/jiji262/douyin-downloader</guid>
+      <pubDate>Mon, 14 Sep 2026 04:00:30 GMT</pubDate>
+      <description>Douyin Downloader V2.0 &lt;p align=&quot;center&quot; — +452 stars today · 11,485 stars · 1,760 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;Douyin Downloader V2.0 &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +452 stars today · ⭐ &lt;b&gt;11,485&lt;/b&gt; stars · 🍴 &lt;b&gt;1,760&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/jiji262/douyin-downloader&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>alibaba/open-code-review</title>
+      <link>https://github.com/alibaba/open-code-review</link>
+      <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
+      <pubDate>Mon, 14 Sep 2026 04:00:30 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;a href=&quot;https://open codereview.ai&quot; &lt;img src=&quot;imgs/logo core.svg&quot; alt=&quot;OpenCodeReview logo&quot; width=&quot;180&quot; / &lt;/a &lt;h1 OpenCodeReview&lt;/h1 &lt;/div — +443 stars today · 23,706 stars · 1,756 forks · Language: Go</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://open codereview.ai&amp;quot; &amp;lt;img src=&amp;quot;imgs/logo core.svg&amp;quot; alt=&amp;quot;OpenCodeReview logo&amp;quot; width=&amp;quot;180&amp;quot; / &amp;lt;/a &amp;lt;h1 OpenCodeReview&amp;lt;/h1 &amp;lt;/div&lt;/p&gt;&lt;p&gt;🔥 +443 stars today · ⭐ &lt;b&gt;23,706&lt;/b&gt; stars · 🍴 &lt;b&gt;1,756&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/alibaba/open-code-review&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>melgarafael/DeskcommCRM</title>
+      <link>https://github.com/melgarafael/DeskcommCRM</link>
+      <guid isPermaLink="true">https://github.com/melgarafael/DeskcommCRM</guid>
+      <pubDate>Mon, 14 Sep 2026 04:00:30 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; 🇧🇷 Português · 🇺🇸 English · 🇪🇸 Español &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/brand/deskcomm logo dark.svg&quot; &lt;img src=&quot;docs/brand/deskcomm logo.svg&quot; alt=&quot;Deskcomm CRM&quot; width=&quot;420&quot; &lt;/picture — +432 stars today · 2,273 stars · 604 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; 🇧🇷 Português · 🇺🇸 English · 🇪🇸 Español &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/brand/deskcomm logo dark.svg&amp;quot; &amp;lt;img src=&amp;quot;docs/brand/deskcomm logo.svg&amp;quot; alt=&amp;quot;Deskcomm CRM&amp;quot; width=&amp;quot;420&amp;quot; &amp;lt;/picture&lt;/p&gt;&lt;p&gt;🔥 +432 stars today · ⭐ &lt;b&gt;2,273&lt;/b&gt; stars · 🍴 &lt;b&gt;604&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/melgarafael/DeskcommCRM&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>calesthio/OpenMontage</title>
+      <link>https://github.com/calesthio/OpenMontage</link>
+      <guid isPermaLink="true">https://github.com/calesthio/OpenMontage</guid>
+      <pubDate>Mon, 14 Sep 2026 04:00:30 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;assets/monty dark.svg&quot; &lt;img src=&quot;assets/monty light.svg&quot; alt=&quot;Monty the Clapper — the official mascot of OpenMontage&quot; width=&quot;200&quot; &lt;/picture &lt;/p — +380 stars today · 58,605 stars · 7,371 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;assets/monty dark.svg&amp;quot; &amp;lt;img src=&amp;quot;assets/monty light.svg&amp;quot; alt=&amp;quot;Monty the Clapper — the official mascot of OpenMontage&amp;quot; width=&amp;quot;200&amp;quot; &amp;lt;/picture &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +380 stars today · ⭐ &lt;b&gt;58,605&lt;/b&gt; stars · 🍴 &lt;b&gt;7,371&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/calesthio/OpenMontage&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>alphaXiv/OpenResearch</title>
+      <link>https://github.com/alphaXiv/OpenResearch</link>
+      <guid isPermaLink="true">https://github.com/alphaXiv/OpenResearch</guid>
+      <pubDate>Mon, 14 Sep 2026 04:00:30 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;h1 &lt;img src=&quot;.github/readme assets/openresearch.svg&quot; alt=&quot;&quot; width=&quot;36&quot; / OpenResearch&lt;/h1 The local first workspace for research agents and autoresearch. &lt;p Turn &lt;img src=&quot;.github/readme assets/claude.svg&quot; alt=&quot;&quot; width=&quot;18&quot; / Claude Code, — +289 stars today · 2,168 stars · 145 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;h1 &amp;lt;img src=&amp;quot;.github/readme assets/openresearch.svg&amp;quot; alt=&amp;quot;&amp;quot; width=&amp;quot;36&amp;quot; / OpenResearch&amp;lt;/h1 The local first workspace for research agents and autoresearch. &amp;lt;p Turn &amp;lt;img src=&amp;quot;.github/readme assets/claude.svg&amp;quot; alt=&amp;quot;&amp;quot; width=&amp;quot;18&amp;quot; / Claude Code,&lt;/p&gt;&lt;p&gt;🔥 +289 stars today · ⭐ &lt;b&gt;2,168&lt;/b&gt; stars · 🍴 &lt;b&gt;145&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/alphaXiv/OpenResearch&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>tech-leads-club/agent-skills</title>
+      <link>https://github.com/tech-leads-club/agent-skills</link>
+      <guid isPermaLink="true">https://github.com/tech-leads-club/agent-skills</guid>
+      <pubDate>Mon, 14 Sep 2026 04:00:30 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;.github/assets/logo.png&quot; alt=&quot;Tech Leads Club&quot; width=&quot;400&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;img src=&quot;https://img.shields.io/npm/v/@tech leads club/agent skills?style=flat square&amp;color=blue&quot; alt=&quot;npm version&quot; / — +265 stars today · 5,734 stars · 503 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;.github/assets/logo.png&amp;quot; alt=&amp;quot;Tech Leads Club&amp;quot; width=&amp;quot;400&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;https://img.shields.io/npm/v/@tech leads club/agent skills?style=flat square&amp;amp;color=blue&amp;quot; alt=&amp;quot;npm version&amp;quot; /&lt;/p&gt;&lt;p&gt;🔥 +265 stars today · ⭐ &lt;b&gt;5,734&lt;/b&gt; stars · 🍴 &lt;b&gt;503&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/tech-leads-club/agent-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>jihe520/MathModelAgent</title>
+      <link>https://github.com/jihe520/MathModelAgent</link>
+      <guid isPermaLink="true">https://github.com/jihe520/MathModelAgent</guid>
+      <pubDate>Mon, 14 Sep 2026 04:00:30 GMT</pubDate>
+      <description>&lt;h1 align=&quot;center&quot; 🤖 MathModelAgent 📐&lt;/h1 &lt;p align=&quot;center&quot; &lt;img src=&quot;./docs/icon.png&quot; height=&quot;250px&quot; &lt;/p &lt;h4 align=&quot;center&quot; 专为数学建模设计的 Agent&lt;br — +246 stars today · 5,416 stars · 413 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; 🤖 MathModelAgent 📐&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;./docs/icon.png&amp;quot; height=&amp;quot;250px&amp;quot; &amp;lt;/p &amp;lt;h4 align=&amp;quot;center&amp;quot; 专为数学建模设计的 Agent&amp;lt;br&lt;/p&gt;&lt;p&gt;🔥 +246 stars today · ⭐ &lt;b&gt;5,416&lt;/b&gt; stars · 🍴 &lt;b&gt;413&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/jihe520/MathModelAgent&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>yuliskov/SmartTube</title>
+      <link>https://github.com/yuliskov/SmartTube</link>
+      <guid isPermaLink="true">https://github.com/yuliskov/SmartTube</guid>
+      <pubDate>Mon, 14 Sep 2026 04:00:30 GMT</pubDate>
+      <description>&lt;img src=&quot;images/badge fdroid.png&quot; alt=&quot;Get it on F Droid&quot; height=&quot;80&quot; &lt;img src=&quot;images/badge github.png&quot; alt=&quot;Get it on GitHub&quot; height=&quot;80&quot; Important announcement about the app — +233 stars today · 33,490 stars · 2,035 forks · Language: Java</description>
+      <content:encoded>&lt;p&gt;&amp;lt;img src=&amp;quot;images/badge fdroid.png&amp;quot; alt=&amp;quot;Get it on F Droid&amp;quot; height=&amp;quot;80&amp;quot; &amp;lt;img src=&amp;quot;images/badge github.png&amp;quot; alt=&amp;quot;Get it on GitHub&amp;quot; height=&amp;quot;80&amp;quot; Important announcement about the app&lt;/p&gt;&lt;p&gt;🔥 +233 stars today · ⭐ &lt;b&gt;33,490&lt;/b&gt; stars · 🍴 &lt;b&gt;2,035&lt;/b&gt; forks · &lt;b&gt;Java&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/yuliskov/SmartTube&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>ever-co/ever-gauzy</title>
+      <link>https://github.com/ever-co/ever-gauzy</link>
+      <guid isPermaLink="true">https://github.com/ever-co/ever-gauzy</guid>
+      <pubDate>Mon, 14 Sep 2026 04:00:30 GMT</pubDate>
+      <description>Ever Gauzy Platform [uri gauzy]: https://gauzy.co [uri license]: https://www.gnu.org/licenses/agpl 3.0.html [uri license image]: https://img.shields.io/badge/License AGPL%20v3 blue.svg [![License: AGPL v3][uri license image]][uri license] ![Ask DeepWiki](https://deepwiki.com/ever co/ever gauzy) — +191 stars today · 5,264 stars · 952 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;Ever Gauzy Platform [uri gauzy]: https://gauzy.co [uri license]: https://www.gnu.org/licenses/agpl 3.0.html [uri license image]: https://img.shields.io/badge/License AGPL%20v3 blue.svg [![License: AGPL v3][uri license image]][uri license] ![Ask DeepWiki](https://deepwiki.com/ever co/ever gauzy)&lt;/p&gt;&lt;p&gt;🔥 +191 stars today · ⭐ &lt;b&gt;5,264&lt;/b&gt; stars · 🍴 &lt;b&gt;952&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ever-co/ever-gauzy&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>huggingface/transformers</title>
+      <link>https://github.com/huggingface/transformers</link>
+      <guid isPermaLink="true">https://github.com/huggingface/transformers</guid>
+      <pubDate>Mon, 14 Sep 2026 04:00:30 GMT</pubDate>
+      <description>&lt;! Copyright 2020 The HuggingFace Team. All rights reserved. Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE 2.0 — +152 stars today · 165,606 stars · 34,562 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;! Copyright 2020 The HuggingFace Team. All rights reserved. Licensed under the Apache License, Version 2.0 (the &amp;quot;License&amp;quot;); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE 2.0&lt;/p&gt;&lt;p&gt;🔥 +152 stars today · ⭐ &lt;b&gt;165,606&lt;/b&gt; stars · 🍴 &lt;b&gt;34,562&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/huggingface/transformers&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Swordfish90/cool-retro-term</title>
+      <link>https://github.com/Swordfish90/cool-retro-term</link>
+      <guid isPermaLink="true">https://github.com/Swordfish90/cool-retro-term</guid>
+      <pubDate>Mon, 14 Sep 2026 04:00:30 GMT</pubDate>
+      <description>cool retro term Default Amber C:\ IBM DOS $ Default Green !Default Amber Cool Retro Term !IBM DOS !Default Green Cool Retro Term Description cool retro term is a terminal emulator which mimics the look and feel of the old cathode tube screens. — +57 stars today · 26,260 stars · 1,018 forks · Language: QML</description>
+      <content:encoded>&lt;p&gt;cool retro term Default Amber C:\ IBM DOS $ Default Green !Default Amber Cool Retro Term !IBM DOS !Default Green Cool Retro Term Description cool retro term is a terminal emulator which mimics the look and feel of the old cathode tube screens.&lt;/p&gt;&lt;p&gt;🔥 +57 stars today · ⭐ &lt;b&gt;26,260&lt;/b&gt; stars · 🍴 &lt;b&gt;1,018&lt;/b&gt; forks · &lt;b&gt;QML&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Swordfish90/cool-retro-term&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
