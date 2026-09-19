@@ -7,168 +7,144 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Fri, 18 Sep 2026 03:49:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 03:46:27 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
     <item>
       <title>cloudflare/security-audit-skill</title>
       <link>https://github.com/cloudflare/security-audit-skill</link>
       <guid isPermaLink="true">https://github.com/cloudflare/security-audit-skill</guid>
-      <pubDate>Fri, 18 Sep 2026 03:49:36 GMT</pubDate>
-      <description>security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting. — +3,607 stars today · 10,923 stars · 586 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting.&lt;/p&gt;&lt;p&gt;🔥 +3,607 stars today · ⭐ &lt;b&gt;10,923&lt;/b&gt; stars · 🍴 &lt;b&gt;586&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cloudflare/security-audit-skill&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 19 Sep 2026 03:46:27 GMT</pubDate>
+      <description>security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting. — +3,006 stars today · 13,993 stars · 756 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting.&lt;/p&gt;&lt;p&gt;🔥 +3,006 stars today · ⭐ &lt;b&gt;13,993&lt;/b&gt; stars · 🍴 &lt;b&gt;756&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cloudflare/security-audit-skill&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>alibaba/open-code-review</title>
       <link>https://github.com/alibaba/open-code-review</link>
       <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
-      <pubDate>Fri, 18 Sep 2026 03:49:36 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;a href=&quot;https://open codereview.ai&quot; &lt;img src=&quot;imgs/logo core.svg&quot; alt=&quot;OpenCodeReview logo&quot; width=&quot;180&quot; / &lt;/a &lt;h1 OpenCodeReview&lt;/h1 &lt;/div — +3,286 stars today · 35,206 stars · 2,493 forks · Language: Go</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://open codereview.ai&amp;quot; &amp;lt;img src=&amp;quot;imgs/logo core.svg&amp;quot; alt=&amp;quot;OpenCodeReview logo&amp;quot; width=&amp;quot;180&amp;quot; / &amp;lt;/a &amp;lt;h1 OpenCodeReview&amp;lt;/h1 &amp;lt;/div&lt;/p&gt;&lt;p&gt;🔥 +3,286 stars today · ⭐ &lt;b&gt;35,206&lt;/b&gt; stars · 🍴 &lt;b&gt;2,493&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/alibaba/open-code-review&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 19 Sep 2026 03:46:27 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;a href=&quot;https://open codereview.ai&quot; &lt;img src=&quot;imgs/logo core.svg&quot; alt=&quot;OpenCodeReview logo&quot; width=&quot;180&quot; / &lt;/a &lt;h1 OpenCodeReview&lt;/h1 &lt;/div — +2,704 stars today · 36,793 stars · 2,620 forks · Language: Go</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://open codereview.ai&amp;quot; &amp;lt;img src=&amp;quot;imgs/logo core.svg&amp;quot; alt=&amp;quot;OpenCodeReview logo&amp;quot; width=&amp;quot;180&amp;quot; / &amp;lt;/a &amp;lt;h1 OpenCodeReview&amp;lt;/h1 &amp;lt;/div&lt;/p&gt;&lt;p&gt;🔥 +2,704 stars today · ⭐ &lt;b&gt;36,793&lt;/b&gt; stars · 🍴 &lt;b&gt;2,620&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/alibaba/open-code-review&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>Tencent/BrowserSkill</title>
       <link>https://github.com/Tencent/BrowserSkill</link>
       <guid isPermaLink="true">https://github.com/Tencent/BrowserSkill</guid>
-      <pubDate>Fri, 18 Sep 2026 03:49:36 GMT</pubDate>
-      <description>BrowserSkill &lt;p align=&quot;center&quot; &lt;img src=&quot;docs/assets/browserskill readme banner.png&quot; alt=&quot;BrowserSkill banner&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;strong Let AI agents use your browser without interrupting your work.&lt;/strong — +1,302 stars today · 4,393 stars · 307 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;BrowserSkill &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/assets/browserskill readme banner.png&amp;quot; alt=&amp;quot;BrowserSkill banner&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong Let AI agents use your browser without interrupting your work.&amp;lt;/strong&lt;/p&gt;&lt;p&gt;🔥 +1,302 stars today · ⭐ &lt;b&gt;4,393&lt;/b&gt; stars · 🍴 &lt;b&gt;307&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Tencent/BrowserSkill&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 19 Sep 2026 03:46:27 GMT</pubDate>
+      <description>BrowserSkill &lt;p align=&quot;center&quot; &lt;img src=&quot;docs/assets/browserskill readme banner.png&quot; alt=&quot;BrowserSkill banner&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;strong Let AI agents use your browser without interrupting your work.&lt;/strong — +1,306 stars today · 5,382 stars · 371 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;BrowserSkill &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/assets/browserskill readme banner.png&amp;quot; alt=&amp;quot;BrowserSkill banner&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong Let AI agents use your browser without interrupting your work.&amp;lt;/strong&lt;/p&gt;&lt;p&gt;🔥 +1,306 stars today · ⭐ &lt;b&gt;5,382&lt;/b&gt; stars · 🍴 &lt;b&gt;371&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Tencent/BrowserSkill&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>affaan-m/ECC</title>
       <link>https://github.com/affaan-m/ECC</link>
       <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
-      <pubDate>Fri, 18 Sep 2026 03:49:36 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/hero.png&quot; alt=&quot;ECC the agent harness operating system&quot; width=&quot;100%&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot;https://www.star history.com/affaan m/ecc&quot; &lt;picture — +1,171 stars today · 261,274 stars · 39,112 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/hero.png&amp;quot; alt=&amp;quot;ECC the agent harness operating system&amp;quot; width=&amp;quot;100%&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://www.star history.com/affaan m/ecc&amp;quot; &amp;lt;picture&lt;/p&gt;&lt;p&gt;🔥 +1,171 stars today · ⭐ &lt;b&gt;261,274&lt;/b&gt; stars · 🍴 &lt;b&gt;39,112&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/affaan-m/ECC&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 19 Sep 2026 03:46:27 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/hero.png&quot; alt=&quot;ECC the agent harness operating system&quot; width=&quot;100%&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot;https://www.star history.com/affaan m/ecc&quot; &lt;picture — +958 stars today · 262,153 stars · 39,225 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/hero.png&amp;quot; alt=&amp;quot;ECC the agent harness operating system&amp;quot; width=&amp;quot;100%&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://www.star history.com/affaan m/ecc&amp;quot; &amp;lt;picture&lt;/p&gt;&lt;p&gt;🔥 +958 stars today · ⭐ &lt;b&gt;262,153&lt;/b&gt; stars · 🍴 &lt;b&gt;39,225&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/affaan-m/ECC&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>Tencent/WeKnora</title>
-      <link>https://github.com/Tencent/WeKnora</link>
-      <guid isPermaLink="true">https://github.com/Tencent/WeKnora</guid>
-      <pubDate>Fri, 18 Sep 2026 03:49:36 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;img src=&quot;./docs/images/logo.png&quot; alt=&quot;WeKnora Logo&quot; height=&quot;120&quot;/ &lt;/picture &lt;/p &lt;p align=&quot;center&quot; — +1,125 stars today · 26,444 stars · 3,570 forks · Language: Go</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;img src=&amp;quot;./docs/images/logo.png&amp;quot; alt=&amp;quot;WeKnora Logo&amp;quot; height=&amp;quot;120&amp;quot;/ &amp;lt;/picture &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,125 stars today · ⭐ &lt;b&gt;26,444&lt;/b&gt; stars · 🍴 &lt;b&gt;3,570&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Tencent/WeKnora&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>alphaXiv/OpenResearch</title>
-      <link>https://github.com/alphaXiv/OpenResearch</link>
-      <guid isPermaLink="true">https://github.com/alphaXiv/OpenResearch</guid>
-      <pubDate>Fri, 18 Sep 2026 03:49:36 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;h1 &lt;img src=&quot;.github/readme assets/openresearch.svg&quot; alt=&quot;&quot; width=&quot;36&quot; / OpenResearch&lt;/h1 The local first workspace for research agents and autoresearch. &lt;p Turn &lt;img src=&quot;.github/readme assets/claude.svg&quot; alt=&quot;&quot; width=&quot;16&quot; height=&quot;16&quot; align=&quot;texttop&quot; / Claude Code, — +939 stars today · 5,043 stars · 308 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;h1 &amp;lt;img src=&amp;quot;.github/readme assets/openresearch.svg&amp;quot; alt=&amp;quot;&amp;quot; width=&amp;quot;36&amp;quot; / OpenResearch&amp;lt;/h1 The local first workspace for research agents and autoresearch. &amp;lt;p Turn &amp;lt;img src=&amp;quot;.github/readme assets/claude.svg&amp;quot; alt=&amp;quot;&amp;quot; width=&amp;quot;16&amp;quot; height=&amp;quot;16&amp;quot; align=&amp;quot;texttop&amp;quot; / Claude Code,&lt;/p&gt;&lt;p&gt;🔥 +939 stars today · ⭐ &lt;b&gt;5,043&lt;/b&gt; stars · 🍴 &lt;b&gt;308&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/alphaXiv/OpenResearch&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>NationalSecurityAgency/ghidra</title>
-      <link>https://github.com/NationalSecurityAgency/ghidra</link>
-      <guid isPermaLink="true">https://github.com/NationalSecurityAgency/ghidra</guid>
-      <pubDate>Fri, 18 Sep 2026 03:49:36 GMT</pubDate>
-      <description>&lt;img src=&quot;Ghidra/Features/Base/src/main/resources/images/GHIDRA 3.png&quot; width=&quot;400&quot; Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the — +912 stars today · 78,590 stars · 8,689 forks · Language: Java</description>
-      <content:encoded>&lt;p&gt;&amp;lt;img src=&amp;quot;Ghidra/Features/Base/src/main/resources/images/GHIDRA 3.png&amp;quot; width=&amp;quot;400&amp;quot; Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the&lt;/p&gt;&lt;p&gt;🔥 +912 stars today · ⭐ &lt;b&gt;78,590&lt;/b&gt; stars · 🍴 &lt;b&gt;8,689&lt;/b&gt; forks · &lt;b&gt;Java&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/NationalSecurityAgency/ghidra&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>JustVugg/colibri</title>
-      <link>https://github.com/JustVugg/colibri</link>
-      <guid isPermaLink="true">https://github.com/JustVugg/colibri</guid>
-      <pubDate>Fri, 18 Sep 2026 03:49:36 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/colibri logo.svg&quot; width=&quot;560&quot; alt=&quot;colibrì — tiny engine, immense model&quot; &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot;https://justvugg.github.io/colibri&quot; &lt;img src=&quot;https://img.shields.io/badge/website justvugg.github.io%2Fcolibri 1f6feb&quot; alt=&quot;Website&quot; &lt;/a — +873 stars today · 35,812 stars · 3,762 forks · Language: C</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/colibri logo.svg&amp;quot; width=&amp;quot;560&amp;quot; alt=&amp;quot;colibrì — tiny engine, immense model&amp;quot; &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://justvugg.github.io/colibri&amp;quot; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/website justvugg.github.io%2Fcolibri 1f6feb&amp;quot; alt=&amp;quot;Website&amp;quot; &amp;lt;/a&lt;/p&gt;&lt;p&gt;🔥 +873 stars today · ⭐ &lt;b&gt;35,812&lt;/b&gt; stars · 🍴 &lt;b&gt;3,762&lt;/b&gt; forks · &lt;b&gt;C&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/JustVugg/colibri&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>abue-ammar/tinycast</title>
-      <link>https://github.com/abue-ammar/tinycast</link>
-      <guid isPermaLink="true">https://github.com/abue-ammar/tinycast</guid>
-      <pubDate>Fri, 18 Sep 2026 03:49:36 GMT</pubDate>
-      <description>Tinycast A tiny, fully native macOS launcher. One hotkey, everything you reach for all day, under 100 MB of RAM. &lt;p align=&quot;center&quot; &lt;a href=&quot;https://github.com/abue ammar/tinycast/releases/latest&quot; &lt;img alt=&quot;Latest release&quot; — +739 stars today · 6,207 stars · 287 forks · Language: Swift</description>
-      <content:encoded>&lt;p&gt;Tinycast A tiny, fully native macOS launcher. One hotkey, everything you reach for all day, under 100 MB of RAM. &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://github.com/abue ammar/tinycast/releases/latest&amp;quot; &amp;lt;img alt=&amp;quot;Latest release&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +739 stars today · ⭐ &lt;b&gt;6,207&lt;/b&gt; stars · 🍴 &lt;b&gt;287&lt;/b&gt; forks · &lt;b&gt;Swift&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/abue-ammar/tinycast&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>asciimoo/hister</title>
+      <link>https://github.com/asciimoo/hister</link>
+      <guid isPermaLink="true">https://github.com/asciimoo/hister</guid>
+      <pubDate>Sat, 19 Sep 2026 03:46:27 GMT</pubDate>
+      <description>Hister Your own search engine Hister is a private search engine for the pages you visit and the files you keep. It indexes their full contents so you can find information again from the web interface, terminal, or an AI assistant connected through MCP. — +889 stars today · 4,990 stars · 207 forks · Language: Go</description>
+      <content:encoded>&lt;p&gt;Hister Your own search engine Hister is a private search engine for the pages you visit and the files you keep. It indexes their full contents so you can find information again from the web interface, terminal, or an AI assistant connected through MCP.&lt;/p&gt;&lt;p&gt;🔥 +889 stars today · ⭐ &lt;b&gt;4,990&lt;/b&gt; stars · 🍴 &lt;b&gt;207&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/asciimoo/hister&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>addyosmani/agent-skills</title>
       <link>https://github.com/addyosmani/agent-skills</link>
       <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
-      <pubDate>Fri, 18 Sep 2026 03:49:36 GMT</pubDate>
-      <description>Agent Skills Production grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. — +680 stars today · 95,947 stars · 10,154 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;Agent Skills Production grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.&lt;/p&gt;&lt;p&gt;🔥 +680 stars today · ⭐ &lt;b&gt;95,947&lt;/b&gt; stars · 🍴 &lt;b&gt;10,154&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/addyosmani/agent-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>jamiepine/voicebox</title>
-      <link>https://github.com/jamiepine/voicebox</link>
-      <guid isPermaLink="true">https://github.com/jamiepine/voicebox</guid>
-      <pubDate>Fri, 18 Sep 2026 03:49:36 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;.github/assets/icon dark.webp&quot; alt=&quot;Voicebox&quot; width=&quot;120&quot; height=&quot;120&quot; / &lt;/p &lt;h1 align=&quot;center&quot; Voicebox&lt;/h1 &lt;p align=&quot;center&quot; &lt;strong The open source AI voice studio.&lt;/strong &lt;br/ — +667 stars today · 54,916 stars · 6,832 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;.github/assets/icon dark.webp&amp;quot; alt=&amp;quot;Voicebox&amp;quot; width=&amp;quot;120&amp;quot; height=&amp;quot;120&amp;quot; / &amp;lt;/p &amp;lt;h1 align=&amp;quot;center&amp;quot; Voicebox&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong The open source AI voice studio.&amp;lt;/strong &amp;lt;br/&lt;/p&gt;&lt;p&gt;🔥 +667 stars today · ⭐ &lt;b&gt;54,916&lt;/b&gt; stars · 🍴 &lt;b&gt;6,832&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/jamiepine/voicebox&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>anthropics/claude-code</title>
-      <link>https://github.com/anthropics/claude-code</link>
-      <guid isPermaLink="true">https://github.com/anthropics/claude-code</guid>
-      <pubDate>Fri, 18 Sep 2026 03:49:36 GMT</pubDate>
-      <description>Claude Code [npm]: https://img.shields.io/npm/v/@anthropic ai/claude code.svg?style=flat square — +538 stars today · 145,928 stars · 23,648 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;Claude Code [npm]: https://img.shields.io/npm/v/@anthropic ai/claude code.svg?style=flat square&lt;/p&gt;&lt;p&gt;🔥 +538 stars today · ⭐ &lt;b&gt;145,928&lt;/b&gt; stars · 🍴 &lt;b&gt;23,648&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>ever-co/ever-gauzy</title>
-      <link>https://github.com/ever-co/ever-gauzy</link>
-      <guid isPermaLink="true">https://github.com/ever-co/ever-gauzy</guid>
-      <pubDate>Fri, 18 Sep 2026 03:49:36 GMT</pubDate>
-      <description>Ever Gauzy Platform — +470 stars today · 7,596 stars · 1,127 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;Ever Gauzy Platform&lt;/p&gt;&lt;p&gt;🔥 +470 stars today · ⭐ &lt;b&gt;7,596&lt;/b&gt; stars · 🍴 &lt;b&gt;1,127&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ever-co/ever-gauzy&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>cline/cline</title>
-      <link>https://github.com/cline/cline</link>
-      <guid isPermaLink="true">https://github.com/cline/cline</guid>
-      <pubDate>Fri, 18 Sep 2026 03:49:36 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/icons/icon.png&quot; width=&quot;80&quot; alt=&quot;Cline&quot; / &lt;/p &lt;h1 align=&quot;center&quot; Cline&lt;/h1 &lt;p align=&quot;center&quot; The open source coding agent in your IDE, terminal, &amp; desktop. — +380 stars today · 68,593 stars · 7,418 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/icons/icon.png&amp;quot; width=&amp;quot;80&amp;quot; alt=&amp;quot;Cline&amp;quot; / &amp;lt;/p &amp;lt;h1 align=&amp;quot;center&amp;quot; Cline&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; The open source coding agent in your IDE, terminal, &amp;amp; desktop.&lt;/p&gt;&lt;p&gt;🔥 +380 stars today · ⭐ &lt;b&gt;68,593&lt;/b&gt; stars · 🍴 &lt;b&gt;7,418&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cline/cline&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 19 Sep 2026 03:46:27 GMT</pubDate>
+      <description>Agent Skills Production grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. — +675 stars today · 96,465 stars · 10,199 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;Agent Skills Production grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.&lt;/p&gt;&lt;p&gt;🔥 +675 stars today · ⭐ &lt;b&gt;96,465&lt;/b&gt; stars · 🍴 &lt;b&gt;10,199&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/addyosmani/agent-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>TencentCloud/Octop</title>
       <link>https://github.com/TencentCloud/Octop</link>
       <guid isPermaLink="true">https://github.com/TencentCloud/Octop</guid>
-      <pubDate>Fri, 18 Sep 2026 03:49:36 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;docs/assets/readme banner.png&quot; alt=&quot;Octop Banner&quot; width=&quot;600&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;strong A smarter, self hosted AI assistant — multi user, multi agent.&lt;/strong &lt;/p — +367 stars today · 3,562 stars · 371 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/assets/readme banner.png&amp;quot; alt=&amp;quot;Octop Banner&amp;quot; width=&amp;quot;600&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong A smarter, self hosted AI assistant — multi user, multi agent.&amp;lt;/strong &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +367 stars today · ⭐ &lt;b&gt;3,562&lt;/b&gt; stars · 🍴 &lt;b&gt;371&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/TencentCloud/Octop&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>roboflow/supervision</title>
-      <link>https://github.com/roboflow/supervision</link>
-      <guid isPermaLink="true">https://github.com/roboflow/supervision</guid>
-      <pubDate>Fri, 18 Sep 2026 03:49:36 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;p &lt;a align=&quot;center&quot; href=&quot;https://supervision.roboflow.com&quot; target=&quot; blank&quot; &lt;img width=&quot;100%&quot; src=&quot;https://media.roboflow.com/open source/supervision/rf supervision banner.png?updatedAt=1678995927529&quot; — +329 stars today · 50,840 stars · 4,830 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;p &amp;lt;a align=&amp;quot;center&amp;quot; href=&amp;quot;https://supervision.roboflow.com&amp;quot; target=&amp;quot; blank&amp;quot; &amp;lt;img width=&amp;quot;100%&amp;quot; src=&amp;quot;https://media.roboflow.com/open source/supervision/rf supervision banner.png?updatedAt=1678995927529&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +329 stars today · ⭐ &lt;b&gt;50,840&lt;/b&gt; stars · 🍴 &lt;b&gt;4,830&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/roboflow/supervision&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>anthropics/knowledge-work-plugins</title>
-      <link>https://github.com/anthropics/knowledge-work-plugins</link>
-      <guid isPermaLink="true">https://github.com/anthropics/knowledge-work-plugins</guid>
-      <pubDate>Fri, 18 Sep 2026 03:49:36 GMT</pubDate>
-      <description>Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins — +287 stars today · 24,615 stars · 2,947 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins&lt;/p&gt;&lt;p&gt;🔥 +287 stars today · ⭐ &lt;b&gt;24,615&lt;/b&gt; stars · 🍴 &lt;b&gt;2,947&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/knowledge-work-plugins&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>n8n-io/n8n</title>
-      <link>https://github.com/n8n-io/n8n</link>
-      <guid isPermaLink="true">https://github.com/n8n-io/n8n</guid>
-      <pubDate>Fri, 18 Sep 2026 03:49:36 GMT</pubDate>
-      <description>n8n – The Platform for AI Agents and Workflow Automation — +281 stars today · 205,074 stars · 60,748 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;n8n – The Platform for AI Agents and Workflow Automation&lt;/p&gt;&lt;p&gt;🔥 +281 stars today · ⭐ &lt;b&gt;205,074&lt;/b&gt; stars · 🍴 &lt;b&gt;60,748&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/n8n-io/n8n&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 19 Sep 2026 03:46:27 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;docs/assets/readme banner.png&quot; alt=&quot;Octop Banner&quot; width=&quot;600&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;strong A smarter, self hosted AI assistant — multi user, multi agent.&lt;/strong &lt;/p — +569 stars today · 3,999 stars · 415 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/assets/readme banner.png&amp;quot; alt=&amp;quot;Octop Banner&amp;quot; width=&amp;quot;600&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong A smarter, self hosted AI assistant — multi user, multi agent.&amp;lt;/strong &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +569 stars today · ⭐ &lt;b&gt;3,999&lt;/b&gt; stars · 🍴 &lt;b&gt;415&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/TencentCloud/Octop&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>coder/coder</title>
       <link>https://github.com/coder/coder</link>
       <guid isPermaLink="true">https://github.com/coder/coder</guid>
-      <pubDate>Fri, 18 Sep 2026 03:49:36 GMT</pubDate>
-      <description>&lt;! markdownlint disable MD041 &lt;div align=&quot;center&quot; &lt;a href=&quot;https://coder.com gh light mode only&quot; &lt;img src=&quot;./docs/images/logo black.png&quot; alt=&quot;Coder Logo Light&quot; style=&quot;width: 128px&quot; &lt;/a &lt;a href=&quot;https://coder.com gh dark mode only&quot; — +145 stars today · 14,908 stars · 1,487 forks · Language: Go</description>
-      <content:encoded>&lt;p&gt;&amp;lt;! markdownlint disable MD041 &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://coder.com gh light mode only&amp;quot; &amp;lt;img src=&amp;quot;./docs/images/logo black.png&amp;quot; alt=&amp;quot;Coder Logo Light&amp;quot; style=&amp;quot;width: 128px&amp;quot; &amp;lt;/a &amp;lt;a href=&amp;quot;https://coder.com gh dark mode only&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +145 stars today · ⭐ &lt;b&gt;14,908&lt;/b&gt; stars · 🍴 &lt;b&gt;1,487&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/coder/coder&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 19 Sep 2026 03:46:27 GMT</pubDate>
+      <description>&lt;! markdownlint disable MD041 &lt;div align=&quot;center&quot; &lt;a href=&quot;https://coder.com gh light mode only&quot; &lt;img src=&quot;./docs/images/logo black.png&quot; alt=&quot;Coder Logo Light&quot; style=&quot;width: 128px&quot; &lt;/a &lt;a href=&quot;https://coder.com gh dark mode only&quot; — +478 stars today · 15,334 stars · 1,504 forks · Language: Go</description>
+      <content:encoded>&lt;p&gt;&amp;lt;! markdownlint disable MD041 &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://coder.com gh light mode only&amp;quot; &amp;lt;img src=&amp;quot;./docs/images/logo black.png&amp;quot; alt=&amp;quot;Coder Logo Light&amp;quot; style=&amp;quot;width: 128px&amp;quot; &amp;lt;/a &amp;lt;a href=&amp;quot;https://coder.com gh dark mode only&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +478 stars today · ⭐ &lt;b&gt;15,334&lt;/b&gt; stars · 🍴 &lt;b&gt;1,504&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/coder/coder&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>cilium/cilium</title>
-      <link>https://github.com/cilium/cilium</link>
-      <guid isPermaLink="true">https://github.com/cilium/cilium</guid>
-      <pubDate>Fri, 18 Sep 2026 03:49:36 GMT</pubDate>
-      <description>.. raw:: html &lt;picture &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;https://cdn.jsdelivr.net/gh/cilium/cilium@main/Documentation/images/logo.png&quot; width=&quot;350&quot; alt=&quot;Cilium Logo&quot; — +111 stars today · 25,293 stars · 4,074 forks · Language: Go</description>
-      <content:encoded>&lt;p&gt;.. raw:: html &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;https://cdn.jsdelivr.net/gh/cilium/cilium@main/Documentation/images/logo.png&amp;quot; width=&amp;quot;350&amp;quot; alt=&amp;quot;Cilium Logo&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +111 stars today · ⭐ &lt;b&gt;25,293&lt;/b&gt; stars · 🍴 &lt;b&gt;4,074&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cilium/cilium&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>anthropics/claude-code</title>
+      <link>https://github.com/anthropics/claude-code</link>
+      <guid isPermaLink="true">https://github.com/anthropics/claude-code</guid>
+      <pubDate>Sat, 19 Sep 2026 03:46:27 GMT</pubDate>
+      <description>Claude Code [npm]: https://img.shields.io/npm/v/@anthropic ai/claude code.svg?style=flat square — +444 stars today · 146,352 stars · 23,805 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;Claude Code [npm]: https://img.shields.io/npm/v/@anthropic ai/claude code.svg?style=flat square&lt;/p&gt;&lt;p&gt;🔥 +444 stars today · ⭐ &lt;b&gt;146,352&lt;/b&gt; stars · 🍴 &lt;b&gt;23,805&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>anthropics/knowledge-work-plugins</title>
+      <link>https://github.com/anthropics/knowledge-work-plugins</link>
+      <guid isPermaLink="true">https://github.com/anthropics/knowledge-work-plugins</guid>
+      <pubDate>Sat, 19 Sep 2026 03:46:27 GMT</pubDate>
+      <description>Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins — +299 stars today · 24,914 stars · 2,973 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins&lt;/p&gt;&lt;p&gt;🔥 +299 stars today · ⭐ &lt;b&gt;24,914&lt;/b&gt; stars · 🍴 &lt;b&gt;2,973&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/knowledge-work-plugins&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Fission-AI/OpenSpec</title>
+      <link>https://github.com/Fission-AI/OpenSpec</link>
+      <guid isPermaLink="true">https://github.com/Fission-AI/OpenSpec</guid>
+      <pubDate>Sat, 19 Sep 2026 03:46:27 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://github.com/Fission AI/OpenSpec&quot; &lt;picture &lt;source srcset=&quot;assets/openspec bg.png&quot; &lt;img src=&quot;assets/openspec bg.png&quot; alt=&quot;OpenSpec logo&quot; &lt;/picture — +296 stars today · 69,408 stars · 4,751 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://github.com/Fission AI/OpenSpec&amp;quot; &amp;lt;picture &amp;lt;source srcset=&amp;quot;assets/openspec bg.png&amp;quot; &amp;lt;img src=&amp;quot;assets/openspec bg.png&amp;quot; alt=&amp;quot;OpenSpec logo&amp;quot; &amp;lt;/picture&lt;/p&gt;&lt;p&gt;🔥 +296 stars today · ⭐ &lt;b&gt;69,408&lt;/b&gt; stars · 🍴 &lt;b&gt;4,751&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Fission-AI/OpenSpec&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>rustfs/rustfs</title>
+      <link>https://github.com/rustfs/rustfs</link>
+      <guid isPermaLink="true">https://github.com/rustfs/rustfs</guid>
+      <pubDate>Sat, 19 Sep 2026 03:46:27 GMT</pubDate>
+      <description>![RustFS](https://rustfs.com) &lt;p align=&quot;center&quot; RustFS is a high performance, distributed object storage system built in Rust.&lt;/p &lt;p align=&quot;center&quot; — +267 stars today · 33,209 stars · 1,484 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;![RustFS](https://rustfs.com) &amp;lt;p align=&amp;quot;center&amp;quot; RustFS is a high performance, distributed object storage system built in Rust.&amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +267 stars today · ⭐ &lt;b&gt;33,209&lt;/b&gt; stars · 🍴 &lt;b&gt;1,484&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/rustfs/rustfs&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>ankitects/anki</title>
+      <link>https://github.com/ankitects/anki</link>
+      <guid isPermaLink="true">https://github.com/ankitects/anki</guid>
+      <pubDate>Sat, 19 Sep 2026 03:46:27 GMT</pubDate>
+      <description>Anki ![Build Status](https://github.com/ankitects/anki/actions/workflows/ci.yml) ![Documentation](https://dev docs.ankiweb.net) ![Coverage](https://sonarcloud.io/summary/new code?id=ankitects anki) This repo contains the source code for the computer version of Anki. — +174 stars today · 31,231 stars · 3,238 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;Anki ![Build Status](https://github.com/ankitects/anki/actions/workflows/ci.yml) ![Documentation](https://dev docs.ankiweb.net) ![Coverage](https://sonarcloud.io/summary/new code?id=ankitects anki) This repo contains the source code for the computer version of Anki.&lt;/p&gt;&lt;p&gt;🔥 +174 stars today · ⭐ &lt;b&gt;31,231&lt;/b&gt; stars · 🍴 &lt;b&gt;3,238&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ankitects/anki&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>ahmedkhaleel2004/gitdiagram</title>
+      <link>https://github.com/ahmedkhaleel2004/gitdiagram</link>
+      <guid isPermaLink="true">https://github.com/ahmedkhaleel2004/gitdiagram</guid>
+      <pubDate>Sat, 19 Sep 2026 03:46:27 GMT</pubDate>
+      <description>![GitDiagram front page](https://gitdiagram.com/) ![Ko fi](https://ko fi.com/ahmedkhaleel2004) GitDiagram Turn any public or private GitHub repository into an interactive architecture diagram in seconds. You can also replace hub with diagram in a GitHub URL to open its diagram. — +152 stars today · 16,491 stars · 1,258 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;![GitDiagram front page](https://gitdiagram.com/) ![Ko fi](https://ko fi.com/ahmedkhaleel2004) GitDiagram Turn any public or private GitHub repository into an interactive architecture diagram in seconds. You can also replace hub with diagram in a GitHub URL to open its diagram.&lt;/p&gt;&lt;p&gt;🔥 +152 stars today · ⭐ &lt;b&gt;16,491&lt;/b&gt; stars · 🍴 &lt;b&gt;1,258&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ahmedkhaleel2004/gitdiagram&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>supermemoryai/supermemory</title>
+      <link>https://github.com/supermemoryai/supermemory</link>
+      <guid isPermaLink="true">https://github.com/supermemoryai/supermemory</guid>
+      <pubDate>Sat, 19 Sep 2026 03:46:27 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source srcset=&quot;apps/web/public/logo fullmark.svg&quot; media=&quot;(prefers color scheme: dark)&quot; &lt;source srcset=&quot;apps/web/public/logo light fullmark.svg&quot; media=&quot;(prefers color scheme: light)&quot; &lt;img src=&quot;apps/web/public/logo fullmark.svg&quot; alt=&quot;Supermemory&quot; width=&quot;400&quot; / &lt;/picture — +140 stars today · 30,343 stars · 2,643 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source srcset=&amp;quot;apps/web/public/logo fullmark.svg&amp;quot; media=&amp;quot;(prefers color scheme: dark)&amp;quot; &amp;lt;source srcset=&amp;quot;apps/web/public/logo light fullmark.svg&amp;quot; media=&amp;quot;(prefers color scheme: light)&amp;quot; &amp;lt;img src=&amp;quot;apps/web/public/logo fullmark.svg&amp;quot; alt=&amp;quot;Supermemory&amp;quot; width=&amp;quot;400&amp;quot; / &amp;lt;/picture&lt;/p&gt;&lt;p&gt;🔥 +140 stars today · ⭐ &lt;b&gt;30,343&lt;/b&gt; stars · 🍴 &lt;b&gt;2,643&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/supermemoryai/supermemory&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>supabase/supabase</title>
+      <link>https://github.com/supabase/supabase</link>
+      <guid isPermaLink="true">https://github.com/supabase/supabase</guid>
+      <pubDate>Sat, 19 Sep 2026 03:46:27 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;https://user images.githubusercontent.com/8291514/213727234 cda046d6 28c6 491a b284 b86c5cede25d.png gh light mode only&quot; &lt;img src=&quot;https://user images.githubusercontent.com/8291514/213727225 56186826 bee8 43b5 9b15 86e839d89393.png gh dark mode only&quot; &lt;/p Supabase — +120 stars today · 110,181 stars · 14,313 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;https://user images.githubusercontent.com/8291514/213727234 cda046d6 28c6 491a b284 b86c5cede25d.png gh light mode only&amp;quot; &amp;lt;img src=&amp;quot;https://user images.githubusercontent.com/8291514/213727225 56186826 bee8 43b5 9b15 86e839d89393.png gh dark mode only&amp;quot; &amp;lt;/p Supabase&lt;/p&gt;&lt;p&gt;🔥 +120 stars today · ⭐ &lt;b&gt;110,181&lt;/b&gt; stars · 🍴 &lt;b&gt;14,313&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/supabase/supabase&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>tradesdontlie/tradingview-mcp</title>
+      <link>https://github.com/tradesdontlie/tradingview-mcp</link>
+      <guid isPermaLink="true">https://github.com/tradesdontlie/tradingview-mcp</guid>
+      <pubDate>Sat, 19 Sep 2026 03:46:27 GMT</pubDate>
+      <description>TradingView MCP Bridge ![MCP Toplist](https://mcptoplist.com/server/glama%2Ftradesdontlie%2Ftradingview mcp) — +79 stars today · 6,492 stars · 2,717 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;TradingView MCP Bridge ![MCP Toplist](https://mcptoplist.com/server/glama%2Ftradesdontlie%2Ftradingview mcp)&lt;/p&gt;&lt;p&gt;🔥 +79 stars today · ⭐ &lt;b&gt;6,492&lt;/b&gt; stars · 🍴 &lt;b&gt;2,717&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/tradesdontlie/tradingview-mcp&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
