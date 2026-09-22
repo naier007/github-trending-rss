@@ -7,112 +7,104 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Mon, 21 Sep 2026 03:59:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 03:57:13 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
     <item>
-      <title>cloudflare/security-audit-skill</title>
-      <link>https://github.com/cloudflare/security-audit-skill</link>
-      <guid isPermaLink="true">https://github.com/cloudflare/security-audit-skill</guid>
-      <pubDate>Mon, 21 Sep 2026 03:59:49 GMT</pubDate>
-      <description>security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting. — +2,428 stars today · 18,196 stars · 1,018 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting.&lt;/p&gt;&lt;p&gt;🔥 +2,428 stars today · ⭐ &lt;b&gt;18,196&lt;/b&gt; stars · 🍴 &lt;b&gt;1,018&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cloudflare/security-audit-skill&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>Open-Dev-Society/OpenStock</title>
+      <link>https://github.com/Open-Dev-Society/OpenStock</link>
+      <guid isPermaLink="true">https://github.com/Open-Dev-Society/OpenStock</guid>
+      <pubDate>Tue, 22 Sep 2026 03:57:13 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; Ca: B6F3rUqfPfPmHXeMJaVttkrP9tfy5Eq2MUAaubFxpump &lt;/p &lt;p align=&quot;center&quot; — +844 stars today · 17,905 stars · 2,213 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; Ca: B6F3rUqfPfPmHXeMJaVttkrP9tfy5Eq2MUAaubFxpump &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +844 stars today · ⭐ &lt;b&gt;17,905&lt;/b&gt; stars · 🍴 &lt;b&gt;2,213&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Open-Dev-Society/OpenStock&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>trycua/cua</title>
       <link>https://github.com/trycua/cua</link>
       <guid isPermaLink="true">https://github.com/trycua/cua</guid>
-      <pubDate>Mon, 21 Sep 2026 03:59:49 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;a href=&quot;https://cua.ai&quot; target=&quot; blank&quot; rel=&quot;noopener noreferrer&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; alt=&quot;Cua logo&quot; width=&quot;150&quot; srcset=&quot;img/logo white.svg&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; alt=&quot;Cua logo&quot; width=&quot;150&quot; srcset=&quot;img/logo black.svg&quot; — +1,018 stars today · 25,259 stars · 1,740 forks · Language: HTML</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://cua.ai&amp;quot; target=&amp;quot; blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; alt=&amp;quot;Cua logo&amp;quot; width=&amp;quot;150&amp;quot; srcset=&amp;quot;img/logo white.svg&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; alt=&amp;quot;Cua logo&amp;quot; width=&amp;quot;150&amp;quot; srcset=&amp;quot;img/logo black.svg&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,018 stars today · ⭐ &lt;b&gt;25,259&lt;/b&gt; stars · 🍴 &lt;b&gt;1,740&lt;/b&gt; forks · &lt;b&gt;HTML&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/trycua/cua&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>affaan-m/ECC</title>
-      <link>https://github.com/affaan-m/ECC</link>
-      <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
-      <pubDate>Mon, 21 Sep 2026 03:59:49 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/hero.png&quot; alt=&quot;ECC the agent harness operating system&quot; width=&quot;100%&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot;https://www.star history.com/affaan m/ecc&quot; &lt;picture — +826 stars today · 263,899 stars · 39,479 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/hero.png&amp;quot; alt=&amp;quot;ECC the agent harness operating system&amp;quot; width=&amp;quot;100%&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://www.star history.com/affaan m/ecc&amp;quot; &amp;lt;picture&lt;/p&gt;&lt;p&gt;🔥 +826 stars today · ⭐ &lt;b&gt;263,899&lt;/b&gt; stars · 🍴 &lt;b&gt;39,479&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/affaan-m/ECC&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Open-Dev-Society/OpenStock</title>
-      <link>https://github.com/Open-Dev-Society/OpenStock</link>
-      <guid isPermaLink="true">https://github.com/Open-Dev-Society/OpenStock</guid>
-      <pubDate>Mon, 21 Sep 2026 03:59:49 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;b New from Open Dev Society:&lt;/b &lt;a href=&quot;https://github.com/Open Dev Society/kitbash&quot; &lt;b kitbash&lt;/b &lt;/a . Before you build, find out which parts already exist on GitHub. Borrow them, adapt them, or write the rest. &lt;/p &lt;p align=&quot;center&quot; — +755 stars today · 16,948 stars · 2,143 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;b New from Open Dev Society:&amp;lt;/b &amp;lt;a href=&amp;quot;https://github.com/Open Dev Society/kitbash&amp;quot; &amp;lt;b kitbash&amp;lt;/b &amp;lt;/a . Before you build, find out which parts already exist on GitHub. Borrow them, adapt them, or write the rest. &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +755 stars today · ⭐ &lt;b&gt;16,948&lt;/b&gt; stars · 🍴 &lt;b&gt;2,143&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Open-Dev-Society/OpenStock&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>addyosmani/agent-skills</title>
-      <link>https://github.com/addyosmani/agent-skills</link>
-      <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
-      <pubDate>Mon, 21 Sep 2026 03:59:49 GMT</pubDate>
-      <description>Agent Skills Production grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. — +736 stars today · 97,787 stars · 10,298 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;Agent Skills Production grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.&lt;/p&gt;&lt;p&gt;🔥 +736 stars today · ⭐ &lt;b&gt;97,787&lt;/b&gt; stars · 🍴 &lt;b&gt;10,298&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/addyosmani/agent-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>higgsfield-ai/higgsfield</title>
-      <link>https://github.com/higgsfield-ai/higgsfield</link>
-      <guid isPermaLink="true">https://github.com/higgsfield-ai/higgsfield</guid>
-      <pubDate>Mon, 21 Sep 2026 03:59:49 GMT</pubDate>
-      <description>higgsfield multi node training without crying Higgsfield is an open source, fault tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters, such as Large Language Models (LLMs). — +465 stars today · 5,442 stars · 962 forks · Language: Jupyter Notebook</description>
-      <content:encoded>&lt;p&gt;higgsfield multi node training without crying Higgsfield is an open source, fault tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters, such as Large Language Models (LLMs).&lt;/p&gt;&lt;p&gt;🔥 +465 stars today · ⭐ &lt;b&gt;5,442&lt;/b&gt; stars · 🍴 &lt;b&gt;962&lt;/b&gt; forks · &lt;b&gt;Jupyter Notebook&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/higgsfield-ai/higgsfield&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>anthropics/claude-code</title>
-      <link>https://github.com/anthropics/claude-code</link>
-      <guid isPermaLink="true">https://github.com/anthropics/claude-code</guid>
-      <pubDate>Mon, 21 Sep 2026 03:59:49 GMT</pubDate>
-      <description>Claude Code [npm]: https://img.shields.io/npm/v/@anthropic ai/claude code.svg?style=flat square — +419 stars today · 147,212 stars · 24,082 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;Claude Code [npm]: https://img.shields.io/npm/v/@anthropic ai/claude code.svg?style=flat square&lt;/p&gt;&lt;p&gt;🔥 +419 stars today · ⭐ &lt;b&gt;147,212&lt;/b&gt; stars · 🍴 &lt;b&gt;24,082&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>coder/coder</title>
-      <link>https://github.com/coder/coder</link>
-      <guid isPermaLink="true">https://github.com/coder/coder</guid>
-      <pubDate>Mon, 21 Sep 2026 03:59:49 GMT</pubDate>
-      <description>&lt;! markdownlint disable MD041 &lt;div align=&quot;center&quot; &lt;a href=&quot;https://coder.com gh light mode only&quot; &lt;img src=&quot;./docs/images/logo black.png&quot; alt=&quot;Coder Logo Light&quot; style=&quot;width: 128px&quot; &lt;/a &lt;a href=&quot;https://coder.com gh dark mode only&quot; — +379 stars today · 16,118 stars · 1,545 forks · Language: Go</description>
-      <content:encoded>&lt;p&gt;&amp;lt;! markdownlint disable MD041 &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://coder.com gh light mode only&amp;quot; &amp;lt;img src=&amp;quot;./docs/images/logo black.png&amp;quot; alt=&amp;quot;Coder Logo Light&amp;quot; style=&amp;quot;width: 128px&amp;quot; &amp;lt;/a &amp;lt;a href=&amp;quot;https://coder.com gh dark mode only&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +379 stars today · ⭐ &lt;b&gt;16,118&lt;/b&gt; stars · 🍴 &lt;b&gt;1,545&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/coder/coder&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>vercel-labs/json-render</title>
-      <link>https://github.com/vercel-labs/json-render</link>
-      <guid isPermaLink="true">https://github.com/vercel-labs/json-render</guid>
-      <pubDate>Mon, 21 Sep 2026 03:59:49 GMT</pubDate>
-      <description>json render The Generative UI framework. Generate dynamic, personalized UIs from prompts without sacrificing reliability. Predefined components and actions for safe, predictable output. &lt;p — +291 stars today · 17,450 stars · 926 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;json render The Generative UI framework. Generate dynamic, personalized UIs from prompts without sacrificing reliability. Predefined components and actions for safe, predictable output. &amp;lt;p&lt;/p&gt;&lt;p&gt;🔥 +291 stars today · ⭐ &lt;b&gt;17,450&lt;/b&gt; stars · 🍴 &lt;b&gt;926&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/vercel-labs/json-render&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>anthropics/financial-services</title>
-      <link>https://github.com/anthropics/financial-services</link>
-      <guid isPermaLink="true">https://github.com/anthropics/financial-services</guid>
-      <pubDate>Mon, 21 Sep 2026 03:59:49 GMT</pubDate>
-      <description>Claude for Financial Services Reference agents, skills, and data connectors for the financial services workflows we see most — investment banking, equity research, private equity, and wealth management. — +260 stars today · 35,447 stars · 5,253 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Claude for Financial Services Reference agents, skills, and data connectors for the financial services workflows we see most — investment banking, equity research, private equity, and wealth management.&lt;/p&gt;&lt;p&gt;🔥 +260 stars today · ⭐ &lt;b&gt;35,447&lt;/b&gt; stars · 🍴 &lt;b&gt;5,253&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/financial-services&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>mihail911/modern-software-dev-assignments</title>
-      <link>https://github.com/mihail911/modern-software-dev-assignments</link>
-      <guid isPermaLink="true">https://github.com/mihail911/modern-software-dev-assignments</guid>
-      <pubDate>Mon, 21 Sep 2026 03:59:49 GMT</pubDate>
-      <description>Assignments for CS146S: The Modern Software Developer This is the home of the assignments for CS146S: The Modern Software Developer, taught at Stanford University fall 2025. Repo Setup These steps work with Python 3.12. 1. Install Anaconda Download and install: Anaconda Individual Edition — +172 stars today · 4,611 stars · 1,013 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Assignments for CS146S: The Modern Software Developer This is the home of the assignments for CS146S: The Modern Software Developer, taught at Stanford University fall 2025. Repo Setup These steps work with Python 3.12. 1. Install Anaconda Download and install: Anaconda Individual Edition&lt;/p&gt;&lt;p&gt;🔥 +172 stars today · ⭐ &lt;b&gt;4,611&lt;/b&gt; stars · 🍴 &lt;b&gt;1,013&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mihail911/modern-software-dev-assignments&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 22 Sep 2026 03:57:13 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;a href=&quot;https://cua.ai&quot; target=&quot; blank&quot; rel=&quot;noopener noreferrer&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; alt=&quot;Cua logo&quot; width=&quot;150&quot; srcset=&quot;img/logo white.svg&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; alt=&quot;Cua logo&quot; width=&quot;150&quot; srcset=&quot;img/logo black.svg&quot; — +609 stars today · 25,774 stars · 1,770 forks · Language: HTML</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://cua.ai&amp;quot; target=&amp;quot; blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; alt=&amp;quot;Cua logo&amp;quot; width=&amp;quot;150&amp;quot; srcset=&amp;quot;img/logo white.svg&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; alt=&amp;quot;Cua logo&amp;quot; width=&amp;quot;150&amp;quot; srcset=&amp;quot;img/logo black.svg&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +609 stars today · ⭐ &lt;b&gt;25,774&lt;/b&gt; stars · 🍴 &lt;b&gt;1,770&lt;/b&gt; forks · &lt;b&gt;HTML&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/trycua/cua&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>BuilderIO/agent-native</title>
       <link>https://github.com/BuilderIO/agent-native</link>
       <guid isPermaLink="true">https://github.com/BuilderIO/agent-native</guid>
-      <pubDate>Mon, 21 Sep 2026 03:59:49 GMT</pubDate>
-      <description>&lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F5476444e54ee4a958966c90caca468e3&quot; / &lt;source — +98 stars today · 5,338 stars · 497 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F5476444e54ee4a958966c90caca468e3&amp;quot; / &amp;lt;source&lt;/p&gt;&lt;p&gt;🔥 +98 stars today · ⭐ &lt;b&gt;5,338&lt;/b&gt; stars · 🍴 &lt;b&gt;497&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/BuilderIO/agent-native&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 22 Sep 2026 03:57:13 GMT</pubDate>
+      <description>&lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F5476444e54ee4a958966c90caca468e3&quot; / &lt;source — +607 stars today · 6,027 stars · 548 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F5476444e54ee4a958966c90caca468e3&amp;quot; / &amp;lt;source&lt;/p&gt;&lt;p&gt;🔥 +607 stars today · ⭐ &lt;b&gt;6,027&lt;/b&gt; stars · 🍴 &lt;b&gt;548&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/BuilderIO/agent-native&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>paperless-ngx/paperless-ngx</title>
-      <link>https://github.com/paperless-ngx/paperless-ngx</link>
-      <guid isPermaLink="true">https://github.com/paperless-ngx/paperless-ngx</guid>
-      <pubDate>Mon, 21 Sep 2026 03:59:49 GMT</pubDate>
-      <description>![ci](https://github.com/paperless ngx/paperless ngx/actions) ![Crowdin](https://crowdin.com/project/paperless ngx) ![Documentation Status](https://docs.paperless ngx.com) ![codecov](https://codecov.io/gh/paperless ngx/paperless ngx) — +57 stars today · 45,632 stars · 3,153 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;![ci](https://github.com/paperless ngx/paperless ngx/actions) ![Crowdin](https://crowdin.com/project/paperless ngx) ![Documentation Status](https://docs.paperless ngx.com) ![codecov](https://codecov.io/gh/paperless ngx/paperless ngx)&lt;/p&gt;&lt;p&gt;🔥 +57 stars today · ⭐ &lt;b&gt;45,632&lt;/b&gt; stars · 🍴 &lt;b&gt;3,153&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/paperless-ngx/paperless-ngx&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>coder/coder</title>
+      <link>https://github.com/coder/coder</link>
+      <guid isPermaLink="true">https://github.com/coder/coder</guid>
+      <pubDate>Tue, 22 Sep 2026 03:57:13 GMT</pubDate>
+      <description>&lt;! markdownlint disable MD041 &lt;div align=&quot;center&quot; &lt;a href=&quot;https://coder.com gh light mode only&quot; &lt;img src=&quot;./docs/images/logo black.png&quot; alt=&quot;Coder Logo Light&quot; style=&quot;width: 128px&quot; &lt;/a &lt;a href=&quot;https://coder.com gh dark mode only&quot; — +460 stars today · 16,476 stars · 1,567 forks · Language: Go</description>
+      <content:encoded>&lt;p&gt;&amp;lt;! markdownlint disable MD041 &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://coder.com gh light mode only&amp;quot; &amp;lt;img src=&amp;quot;./docs/images/logo black.png&amp;quot; alt=&amp;quot;Coder Logo Light&amp;quot; style=&amp;quot;width: 128px&amp;quot; &amp;lt;/a &amp;lt;a href=&amp;quot;https://coder.com gh dark mode only&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +460 stars today · ⭐ &lt;b&gt;16,476&lt;/b&gt; stars · 🍴 &lt;b&gt;1,567&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/coder/coder&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>anthropics/financial-services</title>
+      <link>https://github.com/anthropics/financial-services</link>
+      <guid isPermaLink="true">https://github.com/anthropics/financial-services</guid>
+      <pubDate>Tue, 22 Sep 2026 03:57:13 GMT</pubDate>
+      <description>Claude for Financial Services Reference agents, skills, and data connectors for the financial services workflows we see most — investment banking, equity research, private equity, and wealth management. — +424 stars today · 35,896 stars · 5,271 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;Claude for Financial Services Reference agents, skills, and data connectors for the financial services workflows we see most — investment banking, equity research, private equity, and wealth management.&lt;/p&gt;&lt;p&gt;🔥 +424 stars today · ⭐ &lt;b&gt;35,896&lt;/b&gt; stars · 🍴 &lt;b&gt;5,271&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/financial-services&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Crosstalk-Solutions/project-nomad</title>
+      <link>https://github.com/Crosstalk-Solutions/project-nomad</link>
+      <guid isPermaLink="true">https://github.com/Crosstalk-Solutions/project-nomad</guid>
+      <pubDate>Tue, 22 Sep 2026 03:57:13 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;admin/public/project nomad logo.webp&quot; width=&quot;200&quot; height=&quot;200&quot;/ Project NOMAD Knowledge That Never Goes Offline ![Website](https://www.projectnomad.us) ![Discord](https://discord.com/invite/crosstalksolutions) — +394 stars today · 37,934 stars · 3,772 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;admin/public/project nomad logo.webp&amp;quot; width=&amp;quot;200&amp;quot; height=&amp;quot;200&amp;quot;/ Project NOMAD Knowledge That Never Goes Offline ![Website](https://www.projectnomad.us) ![Discord](https://discord.com/invite/crosstalksolutions)&lt;/p&gt;&lt;p&gt;🔥 +394 stars today · ⭐ &lt;b&gt;37,934&lt;/b&gt; stars · 🍴 &lt;b&gt;3,772&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Crosstalk-Solutions/project-nomad&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>zhouxiaoka/autoclip</title>
+      <link>https://github.com/zhouxiaoka/autoclip</link>
+      <guid isPermaLink="true">https://github.com/zhouxiaoka/autoclip</guid>
+      <pubDate>Tue, 22 Sep 2026 03:57:13 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;src tauri/icons/128x128.png&quot; alt=&quot;AutoClip&quot; width=&quot;80&quot; height=&quot;80&quot; AutoClip 把长视频变成值得分享的精彩片段。 简体中文 · English · 日本語 · 한국어 · Español · Português · Русский · Français ![GitHub release](https://github.com/zhouxiaoka/autoclip/releases/latest) — +250 stars today · 8,376 stars · 1,580 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;src tauri/icons/128x128.png&amp;quot; alt=&amp;quot;AutoClip&amp;quot; width=&amp;quot;80&amp;quot; height=&amp;quot;80&amp;quot; AutoClip 把长视频变成值得分享的精彩片段。 简体中文 · English · 日本語 · 한국어 · Español · Português · Русский · Français ![GitHub release](https://github.com/zhouxiaoka/autoclip/releases/latest)&lt;/p&gt;&lt;p&gt;🔥 +250 stars today · ⭐ &lt;b&gt;8,376&lt;/b&gt; stars · 🍴 &lt;b&gt;1,580&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/zhouxiaoka/autoclip&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>ruanyf/weekly</title>
+      <link>https://github.com/ruanyf/weekly</link>
+      <guid isPermaLink="true">https://github.com/ruanyf/weekly</guid>
+      <pubDate>Tue, 22 Sep 2026 03:57:13 GMT</pubDate>
+      <description>科技爱好者周刊 记录每周值得分享的科技内容，周五发布。 欢迎投稿文章/软件/资源，请提交 issue 。 P.S. 讨论区的《谁在招人》，是一个免费的程序员招聘帖，提供大量就业信息，欢迎发布工作/实习岗位。 2026 九月 — +182 stars today · 104,137 stars · 4,456 forks</description>
+      <content:encoded>&lt;p&gt;科技爱好者周刊 记录每周值得分享的科技内容，周五发布。 欢迎投稿文章/软件/资源，请提交 issue 。 P.S. 讨论区的《谁在招人》，是一个免费的程序员招聘帖，提供大量就业信息，欢迎发布工作/实习岗位。 2026 九月&lt;/p&gt;&lt;p&gt;🔥 +182 stars today · ⭐ &lt;b&gt;104,137&lt;/b&gt; stars · 🍴 &lt;b&gt;4,456&lt;/b&gt; forks&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ruanyf/weekly&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>mvt-project/mvt</title>
+      <link>https://github.com/mvt-project/mvt</link>
+      <guid isPermaLink="true">https://github.com/mvt-project/mvt</guid>
+      <pubDate>Tue, 22 Sep 2026 03:57:13 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;https://docs.mvt.re/en/latest/mvt.png&quot; width=&quot;200&quot; / &lt;/p Mobile Verification Toolkit [!IMPORTANT] — +169 stars today · 13,661 stars · 1,329 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;https://docs.mvt.re/en/latest/mvt.png&amp;quot; width=&amp;quot;200&amp;quot; / &amp;lt;/p Mobile Verification Toolkit [!IMPORTANT]&lt;/p&gt;&lt;p&gt;🔥 +169 stars today · ⭐ &lt;b&gt;13,661&lt;/b&gt; stars · 🍴 &lt;b&gt;1,329&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mvt-project/mvt&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>akitaonrails/ai-memory</title>
+      <link>https://github.com/akitaonrails/ai-memory</link>
+      <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
+      <pubDate>Tue, 22 Sep 2026 03:57:13 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/logo dark.png&quot; &lt;img alt=&quot;ai memory&quot; src=&quot;docs/logo light.png&quot; width=&quot;480&quot; &lt;/picture &lt;/p — +167 stars today · 7,783 stars · 525 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/logo dark.png&amp;quot; &amp;lt;img alt=&amp;quot;ai memory&amp;quot; src=&amp;quot;docs/logo light.png&amp;quot; width=&amp;quot;480&amp;quot; &amp;lt;/picture &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +167 stars today · ⭐ &lt;b&gt;7,783&lt;/b&gt; stars · 🍴 &lt;b&gt;525&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/akitaonrails/ai-memory&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>yynxxxxx/Codex-X</title>
+      <link>https://github.com/yynxxxxx/Codex-X</link>
+      <guid isPermaLink="true">https://github.com/yynxxxxx/Codex-X</guid>
+      <pubDate>Tue, 22 Sep 2026 03:57:13 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;README.md&quot; &lt;img src=&quot;https://img.shields.io/badge/中文 当前 blue&quot; alt=&quot;中文&quot; / &lt;/a &lt;a href=&quot;README.en.md&quot; &lt;img src=&quot;https://img.shields.io/badge/English Switch lightgrey&quot; alt=&quot;English&quot; / &lt;/a &lt;/p &lt;div align=&quot;center&quot; — +50 stars today · 3,738 stars · 467 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;README.md&amp;quot; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/中文 当前 blue&amp;quot; alt=&amp;quot;中文&amp;quot; / &amp;lt;/a &amp;lt;a href=&amp;quot;README.en.md&amp;quot; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/English Switch lightgrey&amp;quot; alt=&amp;quot;English&amp;quot; / &amp;lt;/a &amp;lt;/p &amp;lt;div align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +50 stars today · ⭐ &lt;b&gt;3,738&lt;/b&gt; stars · 🍴 &lt;b&gt;467&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/yynxxxxx/Codex-X&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>cloudflare/quiche</title>
+      <link>https://github.com/cloudflare/quiche</link>
+      <guid isPermaLink="true">https://github.com/cloudflare/quiche</guid>
+      <pubDate>Tue, 22 Sep 2026 03:57:13 GMT</pubDate>
+      <description>![crates.io](https://crates.io/crates/quiche) ![docs.rs](https://docs.rs/quiche) ![license](https://opensource.org/licenses/BSD 2 Clause) [quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by the [IETF]. It provides a low level API for processing QUIC packets — +32 stars today · 12,394 stars · 1,137 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;![crates.io](https://crates.io/crates/quiche) ![docs.rs](https://docs.rs/quiche) ![license](https://opensource.org/licenses/BSD 2 Clause) [quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by the [IETF]. It provides a low level API for processing QUIC packets&lt;/p&gt;&lt;p&gt;🔥 +32 stars today · ⭐ &lt;b&gt;12,394&lt;/b&gt; stars · 🍴 &lt;b&gt;1,137&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cloudflare/quiche&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
