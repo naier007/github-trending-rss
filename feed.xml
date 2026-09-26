@@ -7,120 +7,136 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 04:03:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 04:08:07 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
+    <item>
+      <title>paperclipai/paperclip</title>
+      <link>https://github.com/paperclipai/paperclip</link>
+      <guid isPermaLink="true">https://github.com/paperclipai/paperclip</guid>
+      <pubDate>Sat, 26 Sep 2026 04:08:07 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;doc/assets/banner.jpg&quot; alt=&quot;Paperclip is the app people use to manage AI agents for work.&quot; width=&quot;720&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot; quickstart&quot; &lt;strong Quickstart&lt;/strong &lt;/a &amp;middot; &lt;a href=&quot;https://docs.paperclip.ing&quot; &lt;strong Docs&lt;/strong &lt;/a &amp;middot; — +2,109 stars today · 85,202 stars · 15,256 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;doc/assets/banner.jpg&amp;quot; alt=&amp;quot;Paperclip is the app people use to manage AI agents for work.&amp;quot; width=&amp;quot;720&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot; quickstart&amp;quot; &amp;lt;strong Quickstart&amp;lt;/strong &amp;lt;/a &amp;amp;middot; &amp;lt;a href=&amp;quot;https://docs.paperclip.ing&amp;quot; &amp;lt;strong Docs&amp;lt;/strong &amp;lt;/a &amp;amp;middot;&lt;/p&gt;&lt;p&gt;🔥 +2,109 stars today · ⭐ &lt;b&gt;85,202&lt;/b&gt; stars · 🍴 &lt;b&gt;15,256&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/paperclipai/paperclip&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
     <item>
       <title>vectorize-io/hindsight</title>
       <link>https://github.com/vectorize-io/hindsight</link>
       <guid isPermaLink="true">https://github.com/vectorize-io/hindsight</guid>
-      <pubDate>Fri, 25 Sep 2026 04:03:06 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud ![Release](https://github.com/vectorize io/hindsight/actions/workflows/release.yml) ![Version](https://pypi.org/project/hindsight api/) ![PyPI Downloads](https://pypi.org/project/hindsight client/) — +1,668 stars today · 27,941 stars · 2,700 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud ![Release](https://github.com/vectorize io/hindsight/actions/workflows/release.yml) ![Version](https://pypi.org/project/hindsight api/) ![PyPI Downloads](https://pypi.org/project/hindsight client/)&lt;/p&gt;&lt;p&gt;🔥 +1,668 stars today · ⭐ &lt;b&gt;27,941&lt;/b&gt; stars · 🍴 &lt;b&gt;2,700&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/vectorize-io/hindsight&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 26 Sep 2026 04:08:07 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud ![Release](https://github.com/vectorize io/hindsight/actions/workflows/release.yml) ![Version](https://pypi.org/project/hindsight api/) ![PyPI Downloads](https://pypi.org/project/hindsight client/) — +1,653 stars today · 29,961 stars · 3,177 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud ![Release](https://github.com/vectorize io/hindsight/actions/workflows/release.yml) ![Version](https://pypi.org/project/hindsight api/) ![PyPI Downloads](https://pypi.org/project/hindsight client/)&lt;/p&gt;&lt;p&gt;🔥 +1,653 stars today · ⭐ &lt;b&gt;29,961&lt;/b&gt; stars · 🍴 &lt;b&gt;3,177&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/vectorize-io/hindsight&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>google/ax</title>
       <link>https://github.com/google/ax</link>
       <guid isPermaLink="true">https://github.com/google/ax</guid>
-      <pubDate>Fri, 25 Sep 2026 04:03:06 GMT</pubDate>
-      <description>&lt;h1 &lt;img src=&quot;assets/axolotl.svg&quot; width=&quot;70&quot; align=&quot;absmiddle&quot; alt=&quot;AX axolotl&quot; AX &lt;/h1 [!WARNING] We are still actively refining our core concepts, protocols, — +1,373 stars today · 10,608 stars · 514 forks · Language: Go</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 &amp;lt;img src=&amp;quot;assets/axolotl.svg&amp;quot; width=&amp;quot;70&amp;quot; align=&amp;quot;absmiddle&amp;quot; alt=&amp;quot;AX axolotl&amp;quot; AX &amp;lt;/h1 [!WARNING] We are still actively refining our core concepts, protocols,&lt;/p&gt;&lt;p&gt;🔥 +1,373 stars today · ⭐ &lt;b&gt;10,608&lt;/b&gt; stars · 🍴 &lt;b&gt;514&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/google/ax&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>dream-num/univer</title>
-      <link>https://github.com/dream-num/univer</link>
-      <guid isPermaLink="true">https://github.com/dream-num/univer</guid>
-      <pubDate>Fri, 25 Sep 2026 04:03:06 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;./docs/img/banner.png&quot; alt=&quot;Univer SDK&quot; width=&quot;800&quot; / The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High performance, fully customizable Office SDK — +1,082 stars today · 17,891 stars · 1,541 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;./docs/img/banner.png&amp;quot; alt=&amp;quot;Univer SDK&amp;quot; width=&amp;quot;800&amp;quot; / The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High performance, fully customizable Office SDK&lt;/p&gt;&lt;p&gt;🔥 +1,082 stars today · ⭐ &lt;b&gt;17,891&lt;/b&gt; stars · 🍴 &lt;b&gt;1,541&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/dream-num/univer&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>obra/superpowers</title>
-      <link>https://github.com/obra/superpowers</link>
-      <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-      <pubDate>Fri, 25 Sep 2026 04:03:06 GMT</pubDate>
-      <description>Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started — +611 stars today · 291,277 stars · 26,059 forks · Language: Shell</description>
-      <content:encoded>&lt;p&gt;Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started&lt;/p&gt;&lt;p&gt;🔥 +611 stars today · ⭐ &lt;b&gt;291,277&lt;/b&gt; stars · 🍴 &lt;b&gt;26,059&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/obra/superpowers&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>anthropics/financial-services</title>
-      <link>https://github.com/anthropics/financial-services</link>
-      <guid isPermaLink="true">https://github.com/anthropics/financial-services</guid>
-      <pubDate>Fri, 25 Sep 2026 04:03:06 GMT</pubDate>
-      <description>Claude for Financial Services Reference agents, skills, and data connectors for the financial services workflows we see most — investment banking, equity research, private equity, and wealth management. — +509 stars today · 37,395 stars · 5,422 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Claude for Financial Services Reference agents, skills, and data connectors for the financial services workflows we see most — investment banking, equity research, private equity, and wealth management.&lt;/p&gt;&lt;p&gt;🔥 +509 stars today · ⭐ &lt;b&gt;37,395&lt;/b&gt; stars · 🍴 &lt;b&gt;5,422&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/financial-services&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>superdesigndev/treg</title>
-      <link>https://github.com/superdesigndev/treg</link>
-      <guid isPermaLink="true">https://github.com/superdesigndev/treg</guid>
-      <pubDate>Fri, 25 Sep 2026 04:03:06 GMT</pubDate>
-      <description>Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks, — +468 stars today · 3,198 stars · 268 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Treg (OpenRouter for Tools) OpenRouter, but for agent tools instead of models. Point an agent at one base URL with one token and it can do the job: 3,000+ catalogued endpoints across 60+ providers — SEO and backlinks,&lt;/p&gt;&lt;p&gt;🔥 +468 stars today · ⭐ &lt;b&gt;3,198&lt;/b&gt; stars · 🍴 &lt;b&gt;268&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/superdesigndev/treg&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>strands-agents/harness-sdk</title>
-      <link>https://github.com/strands-agents/harness-sdk</link>
-      <guid isPermaLink="true">https://github.com/strands-agents/harness-sdk</guid>
-      <pubDate>Fri, 25 Sep 2026 04:03:06 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;div &lt;a href=&quot;https://strandsagents.com&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://strandsagents.com/latest/assets/wordmark github dark.svg&quot; &lt;img src=&quot;https://strandsagents.com/latest/assets/wordmark github light.svg&quot; alt=&quot;Strands&quot; width=&quot;320&quot; — +455 stars today · 8,299 stars · 1,241 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;div &amp;lt;a href=&amp;quot;https://strandsagents.com&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://strandsagents.com/latest/assets/wordmark github dark.svg&amp;quot; &amp;lt;img src=&amp;quot;https://strandsagents.com/latest/assets/wordmark github light.svg&amp;quot; alt=&amp;quot;Strands&amp;quot; width=&amp;quot;320&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +455 stars today · ⭐ &lt;b&gt;8,299&lt;/b&gt; stars · 🍴 &lt;b&gt;1,241&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/strands-agents/harness-sdk&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>HKUDS/CLI-Anything</title>
-      <link>https://github.com/HKUDS/CLI-Anything</link>
-      <guid isPermaLink="true">https://github.com/HKUDS/CLI-Anything</guid>
-      <pubDate>Fri, 25 Sep 2026 04:03:06 GMT</pubDate>
-      <description>&lt;h1 align=&quot;center&quot; &lt;img src=&quot;assets/icon.png&quot; alt=&quot;&quot; width=&quot;64&quot; style=&quot;vertical align: middle;&quot; &amp;nbsp; CLI Anything: Making ALL Software Agent Native&lt;/h1 &lt;div align=&quot;center&quot; — +413 stars today · 50,372 stars · 4,618 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/icon.png&amp;quot; alt=&amp;quot;&amp;quot; width=&amp;quot;64&amp;quot; style=&amp;quot;vertical align: middle;&amp;quot; &amp;amp;nbsp; CLI Anything: Making ALL Software Agent Native&amp;lt;/h1 &amp;lt;div align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +413 stars today · ⭐ &lt;b&gt;50,372&lt;/b&gt; stars · 🍴 &lt;b&gt;4,618&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/HKUDS/CLI-Anything&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 26 Sep 2026 04:08:07 GMT</pubDate>
+      <description>&lt;h1 &lt;img src=&quot;assets/axolotl.svg&quot; width=&quot;70&quot; align=&quot;absmiddle&quot; alt=&quot;AX axolotl&quot; AX &lt;/h1 [!WARNING] We are still actively refining our core concepts, protocols, — +1,379 stars today · 11,585 stars · 556 forks · Language: Go</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h1 &amp;lt;img src=&amp;quot;assets/axolotl.svg&amp;quot; width=&amp;quot;70&amp;quot; align=&amp;quot;absmiddle&amp;quot; alt=&amp;quot;AX axolotl&amp;quot; AX &amp;lt;/h1 [!WARNING] We are still actively refining our core concepts, protocols,&lt;/p&gt;&lt;p&gt;🔥 +1,379 stars today · ⭐ &lt;b&gt;11,585&lt;/b&gt; stars · 🍴 &lt;b&gt;556&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/google/ax&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>rohitg00/ai-engineering-from-scratch</title>
       <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
       <guid isPermaLink="true">https://github.com/rohitg00/ai-engineering-from-scratch</guid>
-      <pubDate>Fri, 25 Sep 2026 04:03:06 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/banner.svg&quot; alt=&quot;AI Engineering from Scratch — reference manual banner&quot; width=&quot;100%&quot; &lt;/p &lt;p align=&quot;center&quot; &lt;b Read in your language:&lt;/b &lt;a href=&quot;i18n/es/README.md&quot; Español&lt;/a · — +347 stars today · 56,700 stars · 9,945 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/banner.svg&amp;quot; alt=&amp;quot;AI Engineering from Scratch — reference manual banner&amp;quot; width=&amp;quot;100%&amp;quot; &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;b Read in your language:&amp;lt;/b &amp;lt;a href=&amp;quot;i18n/es/README.md&amp;quot; Español&amp;lt;/a ·&lt;/p&gt;&lt;p&gt;🔥 +347 stars today · ⭐ &lt;b&gt;56,700&lt;/b&gt; stars · 🍴 &lt;b&gt;9,945&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/rohitg00/ai-engineering-from-scratch&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 26 Sep 2026 04:08:07 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/banner.svg&quot; alt=&quot;AI Engineering from Scratch — reference manual banner&quot; width=&quot;100%&quot; &lt;/p &lt;p align=&quot;center&quot; &lt;b Read in your language:&lt;/b &lt;a href=&quot;i18n/es/README.md&quot; Español&lt;/a · — +1,177 stars today · 57,637 stars · 10,040 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/banner.svg&amp;quot; alt=&amp;quot;AI Engineering from Scratch — reference manual banner&amp;quot; width=&amp;quot;100%&amp;quot; &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;b Read in your language:&amp;lt;/b &amp;lt;a href=&amp;quot;i18n/es/README.md&amp;quot; Español&amp;lt;/a ·&lt;/p&gt;&lt;p&gt;🔥 +1,177 stars today · ⭐ &lt;b&gt;57,637&lt;/b&gt; stars · 🍴 &lt;b&gt;10,040&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/rohitg00/ai-engineering-from-scratch&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>mvt-project/mvt</title>
-      <link>https://github.com/mvt-project/mvt</link>
-      <guid isPermaLink="true">https://github.com/mvt-project/mvt</guid>
-      <pubDate>Fri, 25 Sep 2026 04:03:06 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;https://docs.mvt.re/en/latest/mvt.png&quot; width=&quot;200&quot; / &lt;/p Mobile Verification Toolkit [!IMPORTANT] — +272 stars today · 14,743 stars · 1,393 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;https://docs.mvt.re/en/latest/mvt.png&amp;quot; width=&amp;quot;200&amp;quot; / &amp;lt;/p Mobile Verification Toolkit [!IMPORTANT]&lt;/p&gt;&lt;p&gt;🔥 +272 stars today · ⭐ &lt;b&gt;14,743&lt;/b&gt; stars · 🍴 &lt;b&gt;1,393&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mvt-project/mvt&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>dream-num/univer</title>
+      <link>https://github.com/dream-num/univer</link>
+      <guid isPermaLink="true">https://github.com/dream-num/univer</guid>
+      <pubDate>Sat, 26 Sep 2026 04:08:07 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;./docs/img/banner.png&quot; alt=&quot;Univer SDK&quot; width=&quot;800&quot; / The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High performance, fully customizable Office SDK — +1,050 stars today · 18,651 stars · 1,589 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;./docs/img/banner.png&amp;quot; alt=&amp;quot;Univer SDK&amp;quot; width=&amp;quot;800&amp;quot; / The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High performance, fully customizable Office SDK&lt;/p&gt;&lt;p&gt;🔥 +1,050 stars today · ⭐ &lt;b&gt;18,651&lt;/b&gt; stars · 🍴 &lt;b&gt;1,589&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/dream-num/univer&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>FxEmbed/FxEmbed</title>
-      <link>https://github.com/FxEmbed/FxEmbed</link>
-      <guid isPermaLink="true">https://github.com/FxEmbed/FxEmbed</guid>
-      <pubDate>Fri, 25 Sep 2026 04:03:06 GMT</pubDate>
-      <description>FxEmbed &lt;img src=&quot;https://raw.githubusercontent.com/FxEmbed/FxEmbed/main/assets/logos/fxembed.svg&quot; height=&quot;24&quot; Home of FxTwitter, FixupX, and FxBluesky Embed videos, polls, quotes, translations, &amp; more on Discord, Telegram, and others! [![Crowdin][crowdinbadge]][crowdin] — +182 stars today · 5,385 stars · 250 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;FxEmbed &amp;lt;img src=&amp;quot;https://raw.githubusercontent.com/FxEmbed/FxEmbed/main/assets/logos/fxembed.svg&amp;quot; height=&amp;quot;24&amp;quot; Home of FxTwitter, FixupX, and FxBluesky Embed videos, polls, quotes, translations, &amp;amp; more on Discord, Telegram, and others! [![Crowdin][crowdinbadge]][crowdin]&lt;/p&gt;&lt;p&gt;🔥 +182 stars today · ⭐ &lt;b&gt;5,385&lt;/b&gt; stars · 🍴 &lt;b&gt;250&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/FxEmbed/FxEmbed&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>mattpocock/skills</title>
+      <link>https://github.com/mattpocock/skills</link>
+      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
+      <pubDate>Sat, 26 Sep 2026 04:08:07 GMT</pubDate>
+      <description>&lt;p &lt;a href=&quot;https://www.aihero.dev/s/skills newsletter&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&quot; — +583 stars today · 269,789 stars · 22,734 forks · Language: Shell</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p &amp;lt;a href=&amp;quot;https://www.aihero.dev/s/skills newsletter&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +583 stars today · ⭐ &lt;b&gt;269,789&lt;/b&gt; stars · 🍴 &lt;b&gt;22,734&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mattpocock/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>julyx10/lap</title>
-      <link>https://github.com/julyx10/lap</link>
-      <guid isPermaLink="true">https://github.com/julyx10/lap</guid>
-      <pubDate>Fri, 25 Sep 2026 04:03:06 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;docs/public/icon.png&quot; alt=&quot;Lap Logo&quot; width=&quot;120&quot; style=&quot;border radius: 20px&quot; &lt;h1 Lap Private Local Photo Manager&lt;/h1 &lt;h3 Open source desktop photo manager for macOS, Windows, and Linux.&lt;/h3 &lt;p — +122 stars today · 2,911 stars · 172 forks · Language: Vue</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/public/icon.png&amp;quot; alt=&amp;quot;Lap Logo&amp;quot; width=&amp;quot;120&amp;quot; style=&amp;quot;border radius: 20px&amp;quot; &amp;lt;h1 Lap Private Local Photo Manager&amp;lt;/h1 &amp;lt;h3 Open source desktop photo manager for macOS, Windows, and Linux.&amp;lt;/h3 &amp;lt;p&lt;/p&gt;&lt;p&gt;🔥 +122 stars today · ⭐ &lt;b&gt;2,911&lt;/b&gt; stars · 🍴 &lt;b&gt;172&lt;/b&gt; forks · &lt;b&gt;Vue&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/julyx10/lap&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>obra/superpowers</title>
+      <link>https://github.com/obra/superpowers</link>
+      <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
+      <pubDate>Sat, 26 Sep 2026 04:08:07 GMT</pubDate>
+      <description>Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started — +468 stars today · 291,711 stars · 26,109 forks · Language: Shell</description>
+      <content:encoded>&lt;p&gt;Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started&lt;/p&gt;&lt;p&gt;🔥 +468 stars today · ⭐ &lt;b&gt;291,711&lt;/b&gt; stars · 🍴 &lt;b&gt;26,109&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/obra/superpowers&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>NVIDIA/Model-Optimizer</title>
       <link>https://github.com/NVIDIA/Model-Optimizer</link>
       <guid isPermaLink="true">https://github.com/NVIDIA/Model-Optimizer</guid>
-      <pubDate>Fri, 25 Sep 2026 04:03:06 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; NVIDIA Model Optimizer ![Documentation](https://nvidia.github.io/Model Optimizer) ![version](https://pypi.org/project/nvidia modelopt/) ![license](./LICENSE) Documentation — +44 stars today · 4,126 stars · 631 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; NVIDIA Model Optimizer ![Documentation](https://nvidia.github.io/Model Optimizer) ![version](https://pypi.org/project/nvidia modelopt/) ![license](./LICENSE) Documentation&lt;/p&gt;&lt;p&gt;🔥 +44 stars today · ⭐ &lt;b&gt;4,126&lt;/b&gt; stars · 🍴 &lt;b&gt;631&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/NVIDIA/Model-Optimizer&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 26 Sep 2026 04:08:07 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; NVIDIA Model Optimizer ![Documentation](https://nvidia.github.io/Model Optimizer) ![version](https://pypi.org/project/nvidia modelopt/) ![license](./LICENSE) Documentation — +359 stars today · 4,509 stars · 653 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; NVIDIA Model Optimizer ![Documentation](https://nvidia.github.io/Model Optimizer) ![version](https://pypi.org/project/nvidia modelopt/) ![license](./LICENSE) Documentation&lt;/p&gt;&lt;p&gt;🔥 +359 stars today · ⭐ &lt;b&gt;4,509&lt;/b&gt; stars · 🍴 &lt;b&gt;653&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/NVIDIA/Model-Optimizer&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>leejet/stable-diffusion.cpp</title>
-      <link>https://github.com/leejet/stable-diffusion.cpp</link>
-      <guid isPermaLink="true">https://github.com/leejet/stable-diffusion.cpp</guid>
-      <pubDate>Fri, 25 Sep 2026 04:03:06 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;./assets/logo.png&quot; width=&quot;360x&quot; &lt;/p stable diffusion.cpp &lt;div align=&quot;center&quot; — +36 stars today · 7,272 stars · 813 forks · Language: C++</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;./assets/logo.png&amp;quot; width=&amp;quot;360x&amp;quot; &amp;lt;/p stable diffusion.cpp &amp;lt;div align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +36 stars today · ⭐ &lt;b&gt;7,272&lt;/b&gt; stars · 🍴 &lt;b&gt;813&lt;/b&gt; forks · &lt;b&gt;C++&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/leejet/stable-diffusion.cpp&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>pbakaus/impeccable</title>
+      <link>https://github.com/pbakaus/impeccable</link>
+      <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
+      <pubDate>Sat, 26 Sep 2026 04:08:07 GMT</pubDate>
+      <description>Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI generated frontend design. — +306 stars today · 71,253 stars · 4,310 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI generated frontend design.&lt;/p&gt;&lt;p&gt;🔥 +306 stars today · ⭐ &lt;b&gt;71,253&lt;/b&gt; stars · 🍴 &lt;b&gt;4,310&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pbakaus/impeccable&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>anthropics/skills</title>
+      <link>https://github.com/anthropics/skills</link>
+      <guid isPermaLink="true">https://github.com/anthropics/skills</guid>
+      <pubDate>Sat, 26 Sep 2026 04:08:07 GMT</pubDate>
+      <description>Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. ![skills.sh](https://skills.sh/anthropics/skills) Skills — +189 stars today · 178,374 stars · 21,117 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;Note: This repository contains Anthropic&amp;#x27;s implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. ![skills.sh](https://skills.sh/anthropics/skills) Skills&lt;/p&gt;&lt;p&gt;🔥 +189 stars today · ⭐ &lt;b&gt;178,374&lt;/b&gt; stars · 🍴 &lt;b&gt;21,117&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>derv82/wifit3</title>
+      <link>https://github.com/derv82/wifit3</link>
+      <guid isPermaLink="true">https://github.com/derv82/wifit3</guid>
+      <pubDate>Sat, 26 Sep 2026 04:08:07 GMT</pubDate>
+      <description>wifit3 A standalone USB Wi Fi auditor for Linux, Windows, and macOS. &lt;p align=&quot;center&quot; &lt;img src=&quot;assets/wifit3 1 splash.png&quot; alt=&quot;wifit3 splash / adapter picker&quot; width=&quot;700&quot; &lt;/p At least one of the supported USB adapters is required . — +183 stars today · 979 stars · 89 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;wifit3 A standalone USB Wi Fi auditor for Linux, Windows, and macOS. &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/wifit3 1 splash.png&amp;quot; alt=&amp;quot;wifit3 splash / adapter picker&amp;quot; width=&amp;quot;700&amp;quot; &amp;lt;/p At least one of the supported USB adapters is required .&lt;/p&gt;&lt;p&gt;🔥 +183 stars today · ⭐ &lt;b&gt;979&lt;/b&gt; stars · 🍴 &lt;b&gt;89&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/derv82/wifit3&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>kelseyhightower/kubernetes-the-hard-way</title>
+      <link>https://github.com/kelseyhightower/kubernetes-the-hard-way</link>
+      <guid isPermaLink="true">https://github.com/kelseyhightower/kubernetes-the-hard-way</guid>
+      <pubDate>Sat, 26 Sep 2026 04:08:07 GMT</pubDate>
+      <description>Kubernetes The Hard Way — +119 stars today · 50,145 stars · 15,921 forks</description>
+      <content:encoded>&lt;p&gt;Kubernetes The Hard Way&lt;/p&gt;&lt;p&gt;🔥 +119 stars today · ⭐ &lt;b&gt;50,145&lt;/b&gt; stars · 🍴 &lt;b&gt;15,921&lt;/b&gt; forks&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/kelseyhightower/kubernetes-the-hard-way&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>androoAGI/starnet</title>
+      <link>https://github.com/androoAGI/starnet</link>
+      <guid isPermaLink="true">https://github.com/androoAGI/starnet</guid>
+      <pubDate>Sat, 26 Sep 2026 04:08:07 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;.github/media/starnet logo glow.png&quot; alt=&quot;StarNet&quot; width=&quot;560&quot; A living pixel art station where real AI agents do real work. ![Download](https://github.com/androoAGI/starnet releases/releases/latest) ![Platforms](INSTALL.md) ![License: MIT](LICENSE) — +93 stars today · 520 stars · 98 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;.github/media/starnet logo glow.png&amp;quot; alt=&amp;quot;StarNet&amp;quot; width=&amp;quot;560&amp;quot; A living pixel art station where real AI agents do real work. ![Download](https://github.com/androoAGI/starnet releases/releases/latest) ![Platforms](INSTALL.md) ![License: MIT](LICENSE)&lt;/p&gt;&lt;p&gt;🔥 +93 stars today · ⭐ &lt;b&gt;520&lt;/b&gt; stars · 🍴 &lt;b&gt;98&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/androoAGI/starnet&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>anthropics/claude-plugins-official</title>
+      <link>https://github.com/anthropics/claude-plugins-official</link>
+      <guid isPermaLink="true">https://github.com/anthropics/claude-plugins-official</guid>
+      <pubDate>Sat, 26 Sep 2026 04:08:07 GMT</pubDate>
+      <description>Claude Code Plugins Directory A curated directory of high quality plugins for Claude Code. — +83 stars today · 36,964 stars · 4,155 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;Claude Code Plugins Directory A curated directory of high quality plugins for Claude Code.&lt;/p&gt;&lt;p&gt;🔥 +83 stars today · ⭐ &lt;b&gt;36,964&lt;/b&gt; stars · 🍴 &lt;b&gt;4,155&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-plugins-official&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>openbao/openbao</title>
+      <link>https://github.com/openbao/openbao</link>
+      <guid isPermaLink="true">https://github.com/openbao/openbao</guid>
+      <pubDate>Sat, 26 Sep 2026 04:08:07 GMT</pubDate>
+      <description>OpenBao Please note : We take OpenBao's security and our users' trust very seriously. If you believe you have found a security issue in OpenBao, please responsibly disclose by contacting us at openbao security@lists.openssf.org. — +49 stars today · 7,770 stars · 587 forks · Language: Go</description>
+      <content:encoded>&lt;p&gt;OpenBao Please note : We take OpenBao&amp;#x27;s security and our users&amp;#x27; trust very seriously. If you believe you have found a security issue in OpenBao, please responsibly disclose by contacting us at openbao security@lists.openssf.org.&lt;/p&gt;&lt;p&gt;🔥 +49 stars today · ⭐ &lt;b&gt;7,770&lt;/b&gt; stars · 🍴 &lt;b&gt;587&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openbao/openbao&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>shy3130/tick-stock-panel</title>
+      <link>https://github.com/shy3130/tick-stock-panel</link>
+      <guid isPermaLink="true">https://github.com/shy3130/tick-stock-panel</guid>
+      <pubDate>Sat, 26 Sep 2026 04:08:07 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; 📈 TSP · A股智能量化工作台 &lt;br/ ![个人开源](https://github.com/shy3130/tick stock panel) ![License: MIT](./LICENSE) ![Engine: Polars](https://pola.rs/) — +44 stars today · 5,168 stars · 1,259 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; 📈 TSP · A股智能量化工作台 &amp;lt;br/ ![个人开源](https://github.com/shy3130/tick stock panel) ![License: MIT](./LICENSE) ![Engine: Polars](https://pola.rs/)&lt;/p&gt;&lt;p&gt;🔥 +44 stars today · ⭐ &lt;b&gt;5,168&lt;/b&gt; stars · 🍴 &lt;b&gt;1,259&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/shy3130/tick-stock-panel&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
