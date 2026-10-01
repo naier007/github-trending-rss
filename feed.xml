@@ -7,120 +7,144 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 04:40:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 04:52:04 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
     <item>
       <title>debpalash/VoiceStudio</title>
       <link>https://github.com/debpalash/VoiceStudio</link>
       <guid isPermaLink="true">https://github.com/debpalash/VoiceStudio</guid>
-      <pubDate>Wed, 30 Sep 2026 04:40:08 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;docs/logo.png&quot; alt=&quot;VoiceStudio&quot; width=&quot;88&quot; / &lt;h1 VoiceStudio&lt;/h1 &lt;p — +4,758 stars today · 48,609 stars · 5,444 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/logo.png&amp;quot; alt=&amp;quot;VoiceStudio&amp;quot; width=&amp;quot;88&amp;quot; / &amp;lt;h1 VoiceStudio&amp;lt;/h1 &amp;lt;p&lt;/p&gt;&lt;p&gt;🔥 +4,758 stars today · ⭐ &lt;b&gt;48,609&lt;/b&gt; stars · 🍴 &lt;b&gt;5,444&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/debpalash/VoiceStudio&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>vectorize-io/hindsight</title>
-      <link>https://github.com/vectorize-io/hindsight</link>
-      <guid isPermaLink="true">https://github.com/vectorize-io/hindsight</guid>
-      <pubDate>Wed, 30 Sep 2026 04:40:08 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud ![Release](https://github.com/vectorize io/hindsight/actions/workflows/release.yml) ![Version](https://pypi.org/project/hindsight api/) ![PyPI Downloads](https://pypi.org/project/hindsight client/) — +2,575 stars today · 43,082 stars · 5,801 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; Documentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud ![Release](https://github.com/vectorize io/hindsight/actions/workflows/release.yml) ![Version](https://pypi.org/project/hindsight api/) ![PyPI Downloads](https://pypi.org/project/hindsight client/)&lt;/p&gt;&lt;p&gt;🔥 +2,575 stars today · ⭐ &lt;b&gt;43,082&lt;/b&gt; stars · 🍴 &lt;b&gt;5,801&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/vectorize-io/hindsight&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>paperclipai/paperclip</title>
-      <link>https://github.com/paperclipai/paperclip</link>
-      <guid isPermaLink="true">https://github.com/paperclipai/paperclip</guid>
-      <pubDate>Wed, 30 Sep 2026 04:40:08 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;doc/assets/banner.jpg&quot; alt=&quot;Paperclip is the app people use to manage AI agents for work.&quot; width=&quot;720&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot; quickstart&quot; &lt;strong Quickstart&lt;/strong &lt;/a &amp;middot; &lt;a href=&quot;https://docs.paperclip.ing&quot; &lt;strong Docs&lt;/strong &lt;/a &amp;middot; — +2,458 stars today · 94,664 stars · 16,071 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;doc/assets/banner.jpg&amp;quot; alt=&amp;quot;Paperclip is the app people use to manage AI agents for work.&amp;quot; width=&amp;quot;720&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot; quickstart&amp;quot; &amp;lt;strong Quickstart&amp;lt;/strong &amp;lt;/a &amp;amp;middot; &amp;lt;a href=&amp;quot;https://docs.paperclip.ing&amp;quot; &amp;lt;strong Docs&amp;lt;/strong &amp;lt;/a &amp;amp;middot;&lt;/p&gt;&lt;p&gt;🔥 +2,458 stars today · ⭐ &lt;b&gt;94,664&lt;/b&gt; stars · 🍴 &lt;b&gt;16,071&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/paperclipai/paperclip&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Thu, 01 Oct 2026 04:52:04 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;docs/logo.png&quot; alt=&quot;VoiceStudio&quot; width=&quot;88&quot; / &lt;h1 VoiceStudio&lt;/h1 &lt;p — +3,483 stars today · 50,652 stars · 5,617 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/logo.png&amp;quot; alt=&amp;quot;VoiceStudio&amp;quot; width=&amp;quot;88&amp;quot; / &amp;lt;h1 VoiceStudio&amp;lt;/h1 &amp;lt;p&lt;/p&gt;&lt;p&gt;🔥 +3,483 stars today · ⭐ &lt;b&gt;50,652&lt;/b&gt; stars · 🍴 &lt;b&gt;5,617&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/debpalash/VoiceStudio&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>NVIDIA/OpenShell</title>
       <link>https://github.com/NVIDIA/OpenShell</link>
       <guid isPermaLink="true">https://github.com/NVIDIA/OpenShell</guid>
-      <pubDate>Wed, 30 Sep 2026 04:40:08 GMT</pubDate>
-      <description>&lt;! markdownlint disable MD033 MD041 &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/brand/assets/openshell banner dark.png&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;docs/brand/assets/openshell banner light.png&quot; — +990 stars today · 10,798 stars · 1,432 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;&amp;lt;! markdownlint disable MD033 MD041 &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/brand/assets/openshell banner dark.png&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;docs/brand/assets/openshell banner light.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +990 stars today · ⭐ &lt;b&gt;10,798&lt;/b&gt; stars · 🍴 &lt;b&gt;1,432&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/NVIDIA/OpenShell&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>VectifyAI/PageIndex</title>
-      <link>https://github.com/VectifyAI/PageIndex</link>
-      <guid isPermaLink="true">https://github.com/VectifyAI/PageIndex</guid>
-      <pubDate>Wed, 30 Sep 2026 04:40:08 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;a href=&quot;https://vectify.ai/pageindex&quot; target=&quot; blank&quot; &lt;img width=&quot;1471&quot; alt=&quot;pi github banner low&quot; src=&quot;https://github.com/user attachments/assets/bae02956 6c4e 4a0b adea 257b0be4aaa1&quot; / &lt;/a &lt;br/ &lt;br/ — +835 stars today · 37,549 stars · 3,273 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://vectify.ai/pageindex&amp;quot; target=&amp;quot; blank&amp;quot; &amp;lt;img width=&amp;quot;1471&amp;quot; alt=&amp;quot;pi github banner low&amp;quot; src=&amp;quot;https://github.com/user attachments/assets/bae02956 6c4e 4a0b adea 257b0be4aaa1&amp;quot; / &amp;lt;/a &amp;lt;br/ &amp;lt;br/&lt;/p&gt;&lt;p&gt;🔥 +835 stars today · ⭐ &lt;b&gt;37,549&lt;/b&gt; stars · 🍴 &lt;b&gt;3,273&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/VectifyAI/PageIndex&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>rohitg00/ai-engineering-from-scratch</title>
-      <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
-      <guid isPermaLink="true">https://github.com/rohitg00/ai-engineering-from-scratch</guid>
-      <pubDate>Wed, 30 Sep 2026 04:40:08 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/banner.svg&quot; alt=&quot;AI Engineering from Scratch — reference manual banner&quot; width=&quot;100%&quot; &lt;/p &lt;p align=&quot;center&quot; &lt;b Read in your language:&lt;/b &lt;a href=&quot;i18n/es/README.md&quot; Español&lt;/a · — +786 stars today · 61,608 stars · 10,548 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/banner.svg&amp;quot; alt=&amp;quot;AI Engineering from Scratch — reference manual banner&amp;quot; width=&amp;quot;100%&amp;quot; &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;b Read in your language:&amp;lt;/b &amp;lt;a href=&amp;quot;i18n/es/README.md&amp;quot; Español&amp;lt;/a ·&lt;/p&gt;&lt;p&gt;🔥 +786 stars today · ⭐ &lt;b&gt;61,608&lt;/b&gt; stars · 🍴 &lt;b&gt;10,548&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/rohitg00/ai-engineering-from-scratch&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>mvschwarz/openrig</title>
-      <link>https://github.com/mvschwarz/openrig</link>
-      <guid isPermaLink="true">https://github.com/mvschwarz/openrig</guid>
-      <pubDate>Wed, 30 Sep 2026 04:40:08 GMT</pubDate>
-      <description>OpenRig ![npm version](https://www.npmjs.com/package/@openrig/cli) ![npm downloads](https://www.npmjs.com/package/@openrig/cli) ![License: Apache 2.0](LICENSE) ![GitHub stars](https://github.com/mvschwarz/openrig/stargazers) — +737 stars today · 2,529 stars · 180 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;OpenRig ![npm version](https://www.npmjs.com/package/@openrig/cli) ![npm downloads](https://www.npmjs.com/package/@openrig/cli) ![License: Apache 2.0](LICENSE) ![GitHub stars](https://github.com/mvschwarz/openrig/stargazers)&lt;/p&gt;&lt;p&gt;🔥 +737 stars today · ⭐ &lt;b&gt;2,529&lt;/b&gt; stars · 🍴 &lt;b&gt;180&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mvschwarz/openrig&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>dream-num/univer</title>
-      <link>https://github.com/dream-num/univer</link>
-      <guid isPermaLink="true">https://github.com/dream-num/univer</guid>
-      <pubDate>Wed, 30 Sep 2026 04:40:08 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;./docs/img/banner.png&quot; alt=&quot;Univer SDK&quot; width=&quot;800&quot; / The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs High performance, fully customizable Office SDK — +696 stars today · 21,946 stars · 1,856 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;./docs/img/banner.png&amp;quot; alt=&amp;quot;Univer SDK&amp;quot; width=&amp;quot;800&amp;quot; / The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs High performance, fully customizable Office SDK&lt;/p&gt;&lt;p&gt;🔥 +696 stars today · ⭐ &lt;b&gt;21,946&lt;/b&gt; stars · 🍴 &lt;b&gt;1,856&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/dream-num/univer&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>cs341-illinois/coursebook</title>
-      <link>https://github.com/cs341-illinois/coursebook</link>
-      <guid isPermaLink="true">https://github.com/cs341-illinois/coursebook</guid>
-      <pubDate>Wed, 30 Sep 2026 04:40:08 GMT</pubDate>
-      <description>Coursebook ![Build Status](https://github.com/cs341 illinois/coursebook/actions/workflows/deploy.yaml) ![Current Pdf Link](https://github.com/cs341 illinois/coursebook/blob/pdf deploy/main.pdf) ![Current Wiki Link](https://github.com/cs341 illinois/coursebook/wiki) — +572 stars today · 3,175 stars · 277 forks · Language: TeX</description>
-      <content:encoded>&lt;p&gt;Coursebook ![Build Status](https://github.com/cs341 illinois/coursebook/actions/workflows/deploy.yaml) ![Current Pdf Link](https://github.com/cs341 illinois/coursebook/blob/pdf deploy/main.pdf) ![Current Wiki Link](https://github.com/cs341 illinois/coursebook/wiki)&lt;/p&gt;&lt;p&gt;🔥 +572 stars today · ⭐ &lt;b&gt;3,175&lt;/b&gt; stars · 🍴 &lt;b&gt;277&lt;/b&gt; forks · &lt;b&gt;TeX&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cs341-illinois/coursebook&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>oblien/openship</title>
-      <link>https://github.com/oblien/openship</link>
-      <guid isPermaLink="true">https://github.com/oblien/openship</guid>
-      <pubDate>Wed, 30 Sep 2026 04:40:08 GMT</pubDate>
-      <description>&lt;h1 align=&quot;center&quot; Openship&lt;/h1 &lt;p align=&quot;center&quot; Open source, self hostable deployment platform with built in CI/CD.&lt;br Point it at a repo — it builds, ships, routes, and TLS terminates your app. Drive it from a desktop app, web dashboard, or CLI. &lt;/p &lt;p align=&quot;center&quot; — +437 stars today · 13,941 stars · 1,248 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; Openship&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; Open source, self hostable deployment platform with built in CI/CD.&amp;lt;br Point it at a repo — it builds, ships, routes, and TLS terminates your app. Drive it from a desktop app, web dashboard, or CLI. &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +437 stars today · ⭐ &lt;b&gt;13,941&lt;/b&gt; stars · 🍴 &lt;b&gt;1,248&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/oblien/openship&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Thu, 01 Oct 2026 04:52:04 GMT</pubDate>
+      <description>&lt;! markdownlint disable MD033 MD041 &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/brand/assets/openshell banner dark.png&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;docs/brand/assets/openshell banner light.png&quot; — +1,281 stars today · 12,997 stars · 1,557 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;&amp;lt;! markdownlint disable MD033 MD041 &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/brand/assets/openshell banner dark.png&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;docs/brand/assets/openshell banner light.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,281 stars today · ⭐ &lt;b&gt;12,997&lt;/b&gt; stars · 🍴 &lt;b&gt;1,557&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/NVIDIA/OpenShell&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>t8y2/dbx</title>
       <link>https://github.com/t8y2/dbx</link>
       <guid isPermaLink="true">https://github.com/t8y2/dbx</guid>
-      <pubDate>Wed, 30 Sep 2026 04:40:08 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;p style=&quot;font size: 18px; white space: nowrap;&quot; &lt;strong 100+ databases in 25 MB. Desktop, Docker, CLI, built in AI assistant, and MCP Server.&lt;/strong &lt;/p &lt;p &lt;img src=&quot;https://dl.dbxio.com/assets/readme hero 20260925.png&quot; alt=&quot;DBX screenshot&quot; width=&quot;820&quot; / &lt;/p &lt;p — +232 stars today · 22,315 stars · 2,099 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;p style=&amp;quot;font size: 18px; white space: nowrap;&amp;quot; &amp;lt;strong 100+ databases in 25 MB. Desktop, Docker, CLI, built in AI assistant, and MCP Server.&amp;lt;/strong &amp;lt;/p &amp;lt;p &amp;lt;img src=&amp;quot;https://dl.dbxio.com/assets/readme hero 20260925.png&amp;quot; alt=&amp;quot;DBX screenshot&amp;quot; width=&amp;quot;820&amp;quot; / &amp;lt;/p &amp;lt;p&lt;/p&gt;&lt;p&gt;🔥 +232 stars today · ⭐ &lt;b&gt;22,315&lt;/b&gt; stars · 🍴 &lt;b&gt;2,099&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/t8y2/dbx&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Thu, 01 Oct 2026 04:52:04 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;p style=&quot;font size: 18px; white space: nowrap;&quot; &lt;strong 100+ databases in 25 MB. Desktop, Docker, CLI, built in AI assistant, and MCP Server.&lt;/strong &lt;/p &lt;p &lt;img src=&quot;https://dl.dbxio.com/assets/readme hero 20260925.png&quot; alt=&quot;DBX screenshot&quot; width=&quot;820&quot; / &lt;/p &lt;p — +1,138 stars today · 23,350 stars · 2,157 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;p style=&amp;quot;font size: 18px; white space: nowrap;&amp;quot; &amp;lt;strong 100+ databases in 25 MB. Desktop, Docker, CLI, built in AI assistant, and MCP Server.&amp;lt;/strong &amp;lt;/p &amp;lt;p &amp;lt;img src=&amp;quot;https://dl.dbxio.com/assets/readme hero 20260925.png&amp;quot; alt=&amp;quot;DBX screenshot&amp;quot; width=&amp;quot;820&amp;quot; / &amp;lt;/p &amp;lt;p&lt;/p&gt;&lt;p&gt;🔥 +1,138 stars today · ⭐ &lt;b&gt;23,350&lt;/b&gt; stars · 🍴 &lt;b&gt;2,157&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/t8y2/dbx&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>averygan/reclip</title>
-      <link>https://github.com/averygan/reclip</link>
-      <guid isPermaLink="true">https://github.com/averygan/reclip</guid>
-      <pubDate>Wed, 30 Sep 2026 04:40:08 GMT</pubDate>
-      <description>ReClip A self hosted, open source video and audio downloader with a clean web UI. Paste links from YouTube, TikTok, Instagram, Twitter/X, and 1000+ other sites — download as MP4 or MP3. https://github.com/user attachments/assets/419d3e50 c933 444b 8cab a9724986ba05 Features — +113 stars today · 10,268 stars · 1,544 forks · Language: HTML</description>
-      <content:encoded>&lt;p&gt;ReClip A self hosted, open source video and audio downloader with a clean web UI. Paste links from YouTube, TikTok, Instagram, Twitter/X, and 1000+ other sites — download as MP4 or MP3. https://github.com/user attachments/assets/419d3e50 c933 444b 8cab a9724986ba05 Features&lt;/p&gt;&lt;p&gt;🔥 +113 stars today · ⭐ &lt;b&gt;10,268&lt;/b&gt; stars · 🍴 &lt;b&gt;1,544&lt;/b&gt; forks · &lt;b&gt;HTML&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/averygan/reclip&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>VectifyAI/PageIndex</title>
+      <link>https://github.com/VectifyAI/PageIndex</link>
+      <guid isPermaLink="true">https://github.com/VectifyAI/PageIndex</guid>
+      <pubDate>Thu, 01 Oct 2026 04:52:04 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;a href=&quot;https://vectify.ai/pageindex&quot; target=&quot; blank&quot; &lt;img width=&quot;1471&quot; alt=&quot;pi github banner low&quot; src=&quot;https://github.com/user attachments/assets/bae02956 6c4e 4a0b adea 257b0be4aaa1&quot; / &lt;/a &lt;br/ &lt;br/ — +1,097 stars today · 38,210 stars · 3,316 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://vectify.ai/pageindex&amp;quot; target=&amp;quot; blank&amp;quot; &amp;lt;img width=&amp;quot;1471&amp;quot; alt=&amp;quot;pi github banner low&amp;quot; src=&amp;quot;https://github.com/user attachments/assets/bae02956 6c4e 4a0b adea 257b0be4aaa1&amp;quot; / &amp;lt;/a &amp;lt;br/ &amp;lt;br/&lt;/p&gt;&lt;p&gt;🔥 +1,097 stars today · ⭐ &lt;b&gt;38,210&lt;/b&gt; stars · 🍴 &lt;b&gt;3,316&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/VectifyAI/PageIndex&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>willfaust/Madeira</title>
-      <link>https://github.com/willfaust/Madeira</link>
-      <guid isPermaLink="true">https://github.com/willfaust/Madeira</guid>
-      <pubDate>Wed, 30 Sep 2026 04:40:08 GMT</pubDate>
-      <description>Madeira Run Windows PC games on a non jailbroken iPhone. Madeira combines Wine (ARM64EC), FEX Emu for x86 64 → ARM64 translation, and DXMT for D3D11 → Metal, running as a single Mach process on iOS with wineserver as a thread rather than a separate process. — +81 stars today · 1,129 stars · 192 forks · Language: C</description>
-      <content:encoded>&lt;p&gt;Madeira Run Windows PC games on a non jailbroken iPhone. Madeira combines Wine (ARM64EC), FEX Emu for x86 64 → ARM64 translation, and DXMT for D3D11 → Metal, running as a single Mach process on iOS with wineserver as a thread rather than a separate process.&lt;/p&gt;&lt;p&gt;🔥 +81 stars today · ⭐ &lt;b&gt;1,129&lt;/b&gt; stars · 🍴 &lt;b&gt;192&lt;/b&gt; forks · &lt;b&gt;C&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/willfaust/Madeira&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>mattpocock/skills</title>
+      <link>https://github.com/mattpocock/skills</link>
+      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
+      <pubDate>Thu, 01 Oct 2026 04:52:04 GMT</pubDate>
+      <description>&lt;p &lt;a href=&quot;https://www.aihero.dev/s/skills newsletter&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&quot; — +876 stars today · 273,134 stars · 22,965 forks · Language: Shell</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p &amp;lt;a href=&amp;quot;https://www.aihero.dev/s/skills newsletter&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +876 stars today · ⭐ &lt;b&gt;273,134&lt;/b&gt; stars · 🍴 &lt;b&gt;22,965&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mattpocock/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>rakyll/hey</title>
-      <link>https://github.com/rakyll/hey</link>
-      <guid isPermaLink="true">https://github.com/rakyll/hey</guid>
-      <pubDate>Wed, 30 Sep 2026 04:40:08 GMT</pubDate>
-      <description>hey is a tiny program that sends some load to a web application. hey was originally called boom and was influenced from Tarek Ziade's tool at tarekziade/boom. Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion. — +34 stars today · 20,526 stars · 1,314 forks · Language: Go</description>
-      <content:encoded>&lt;p&gt;hey is a tiny program that sends some load to a web application. hey was originally called boom and was influenced from Tarek Ziade&amp;#x27;s tool at tarekziade/boom. Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion.&lt;/p&gt;&lt;p&gt;🔥 +34 stars today · ⭐ &lt;b&gt;20,526&lt;/b&gt; stars · 🍴 &lt;b&gt;1,314&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/rakyll/hey&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>DietrichGebert/ponytail</title>
+      <link>https://github.com/DietrichGebert/ponytail</link>
+      <guid isPermaLink="true">https://github.com/DietrichGebert/ponytail</guid>
+      <pubDate>Thu, 01 Oct 2026 04:52:04 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;assets/logo dark.png&quot; &lt;img src=&quot;assets/logo.png&quot; width=&quot;220&quot; alt=&quot;Ponytail, the lazy senior dev&quot; &lt;/picture &lt;/p — +743 stars today · 149,367 stars · 8,026 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;assets/logo dark.png&amp;quot; &amp;lt;img src=&amp;quot;assets/logo.png&amp;quot; width=&amp;quot;220&amp;quot; alt=&amp;quot;Ponytail, the lazy senior dev&amp;quot; &amp;lt;/picture &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +743 stars today · ⭐ &lt;b&gt;149,367&lt;/b&gt; stars · 🍴 &lt;b&gt;8,026&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/DietrichGebert/ponytail&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>byoungd/up</title>
+      <link>https://github.com/byoungd/up</link>
+      <guid isPermaLink="true">https://github.com/byoungd/up</guid>
+      <pubDate>Thu, 01 Oct 2026 04:52:04 GMT</pubDate>
+      <description>title: 人生进阶指南｜AI 时代终身学习 description: 《人生进阶指南》帮助普通人在 AI 时代持续学习、完成真实项目、穿越人生低谷并留下成长证据。 updated: 2026 09 02 人生进阶指南 中文 English 韩先凯 著（笔名：离谱） — +743 stars today · 66,474 stars · 6,641 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;title: 人生进阶指南｜AI 时代终身学习 description: 《人生进阶指南》帮助普通人在 AI 时代持续学习、完成真实项目、穿越人生低谷并留下成长证据。 updated: 2026 09 02 人生进阶指南 中文 English 韩先凯 著（笔名：离谱）&lt;/p&gt;&lt;p&gt;🔥 +743 stars today · ⭐ &lt;b&gt;66,474&lt;/b&gt; stars · 🍴 &lt;b&gt;6,641&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/byoungd/up&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>mvschwarz/openrig</title>
+      <link>https://github.com/mvschwarz/openrig</link>
+      <guid isPermaLink="true">https://github.com/mvschwarz/openrig</guid>
+      <pubDate>Thu, 01 Oct 2026 04:52:04 GMT</pubDate>
+      <description>OpenRig ![npm version](https://www.npmjs.com/package/@openrig/cli) ![npm downloads](https://www.npmjs.com/package/@openrig/cli) ![License: Apache 2.0](LICENSE) ![GitHub stars](https://github.com/mvschwarz/openrig/stargazers) — +624 stars today · 3,127 stars · 217 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;OpenRig ![npm version](https://www.npmjs.com/package/@openrig/cli) ![npm downloads](https://www.npmjs.com/package/@openrig/cli) ![License: Apache 2.0](LICENSE) ![GitHub stars](https://github.com/mvschwarz/openrig/stargazers)&lt;/p&gt;&lt;p&gt;🔥 +624 stars today · ⭐ &lt;b&gt;3,127&lt;/b&gt; stars · 🍴 &lt;b&gt;217&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mvschwarz/openrig&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>harry0703/MoneyPrinterTurbo</title>
+      <link>https://github.com/harry0703/MoneyPrinterTurbo</link>
+      <guid isPermaLink="true">https://github.com/harry0703/MoneyPrinterTurbo</guid>
+      <pubDate>Thu, 01 Oct 2026 04:52:04 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频&lt;b 主题&lt;/b 或&lt;b 关键词&lt;/b ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 ![Version](https://github.com/harry0703/MoneyPrinterTurbo/releases) ![Platform](https://github.com/harry0703/MoneyPrinterTurbo/releases/latest) — +431 stars today · 127,644 stars · 19,969 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频&amp;lt;b 主题&amp;lt;/b 或&amp;lt;b 关键词&amp;lt;/b ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 ![Version](https://github.com/harry0703/MoneyPrinterTurbo/releases) ![Platform](https://github.com/harry0703/MoneyPrinterTurbo/releases/latest)&lt;/p&gt;&lt;p&gt;🔥 +431 stars today · ⭐ &lt;b&gt;127,644&lt;/b&gt; stars · 🍴 &lt;b&gt;19,969&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/harry0703/MoneyPrinterTurbo&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>heygen-com/hyperframes</title>
+      <link>https://github.com/heygen-com/hyperframes</link>
+      <guid isPermaLink="true">https://github.com/heygen-com/hyperframes</guid>
+      <pubDate>Thu, 01 Oct 2026 04:52:04 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/logo/dark.svg&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;docs/logo/light.svg&quot; &lt;img alt=&quot;HyperFrames&quot; src=&quot;docs/logo/light.svg&quot; width=&quot;300&quot; &lt;/picture — +349 stars today · 54,836 stars · 4,984 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/logo/dark.svg&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;docs/logo/light.svg&amp;quot; &amp;lt;img alt=&amp;quot;HyperFrames&amp;quot; src=&amp;quot;docs/logo/light.svg&amp;quot; width=&amp;quot;300&amp;quot; &amp;lt;/picture&lt;/p&gt;&lt;p&gt;🔥 +349 stars today · ⭐ &lt;b&gt;54,836&lt;/b&gt; stars · 🍴 &lt;b&gt;4,984&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/heygen-com/hyperframes&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>NawfalMotii79/PLFM_RADAR</title>
+      <link>https://github.com/NawfalMotii79/PLFM_RADAR</link>
+      <guid isPermaLink="true">https://github.com/NawfalMotii79/PLFM_RADAR</guid>
+      <pubDate>Thu, 01 Oct 2026 04:52:04 GMT</pubDate>
+      <description>![GitHub stars](https://github.com/NawfalMotii79/PLFM RADAR/stargazers) ![GitHub forks](https://github.com/NawfalMotii79/PLFM RADAR/network/members) ![GitHub watchers](https://github.com/NawfalMotii79/PLFM RADAR/watchers) ![License: MIT](https://opensource.org/licenses/MIT) — +263 stars today · 26,447 stars · 5,974 forks · Language: PLSQL</description>
+      <content:encoded>&lt;p&gt;![GitHub stars](https://github.com/NawfalMotii79/PLFM RADAR/stargazers) ![GitHub forks](https://github.com/NawfalMotii79/PLFM RADAR/network/members) ![GitHub watchers](https://github.com/NawfalMotii79/PLFM RADAR/watchers) ![License: MIT](https://opensource.org/licenses/MIT)&lt;/p&gt;&lt;p&gt;🔥 +263 stars today · ⭐ &lt;b&gt;26,447&lt;/b&gt; stars · 🍴 &lt;b&gt;5,974&lt;/b&gt; forks · &lt;b&gt;PLSQL&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/NawfalMotii79/PLFM_RADAR&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>openclaw/openclaw</title>
+      <link>https://github.com/openclaw/openclaw</link>
+      <guid isPermaLink="true">https://github.com/openclaw/openclaw</guid>
+      <pubDate>Thu, 01 Oct 2026 04:52:04 GMT</pubDate>
+      <description>OpenClaw 🦞 — Your assistant, on your devices, in your chats &lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw banner light.png&quot; — +136 stars today · 391,029 stars · 82,226 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;OpenClaw 🦞 — Your assistant, on your devices, in your chats &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw banner light.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +136 stars today · ⭐ &lt;b&gt;391,029&lt;/b&gt; stars · 🍴 &lt;b&gt;82,226&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openclaw/openclaw&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>ComposioHQ/awesome-claude-skills</title>
+      <link>https://github.com/ComposioHQ/awesome-claude-skills</link>
+      <guid isPermaLink="true">https://github.com/ComposioHQ/awesome-claude-skills</guid>
+      <pubDate>Thu, 01 Oct 2026 04:52:04 GMT</pubDate>
+      <description>&lt;h1 align=&quot;center&quot; Awesome Claude Skills&lt;/h1 &lt;p align=&quot;center&quot; &lt;a href=&quot;https://dashboard.composio.dev/login?utm source=Github&amp;utm medium=Youtube&amp;utm campaign=2025 11&amp;utm content=AwesomeSkills&quot; — +123 stars today · 76,189 stars · 8,883 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; Awesome Claude Skills&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://dashboard.composio.dev/login?utm source=Github&amp;amp;utm medium=Youtube&amp;amp;utm campaign=2025 11&amp;amp;utm content=AwesomeSkills&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +123 stars today · ⭐ &lt;b&gt;76,189&lt;/b&gt; stars · 🍴 &lt;b&gt;8,883&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ComposioHQ/awesome-claude-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>colbymchenry/codegraph</title>
+      <link>https://github.com/colbymchenry/codegraph</link>
+      <guid isPermaLink="true">https://github.com/colbymchenry/codegraph</guid>
+      <pubDate>Thu, 01 Oct 2026 04:52:04 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; CodeGraph Already installed? Run codegraph upgrade Follow @getcodegraph on X for updates. Supercharge Claude Code, Cursor, Codex, OpenCode, Hermes Agent, Gemini, Antigravity, Kiro, and GitHub Copilot with Semantic Code Intelligence — +118 stars today · 72,644 stars · 4,664 forks · Language: C</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; CodeGraph Already installed? Run codegraph upgrade Follow @getcodegraph on X for updates. Supercharge Claude Code, Cursor, Codex, OpenCode, Hermes Agent, Gemini, Antigravity, Kiro, and GitHub Copilot with Semantic Code Intelligence&lt;/p&gt;&lt;p&gt;🔥 +118 stars today · ⭐ &lt;b&gt;72,644&lt;/b&gt; stars · 🍴 &lt;b&gt;4,664&lt;/b&gt; forks · &lt;b&gt;C&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/colbymchenry/codegraph&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>mksglu/context-mode</title>
+      <link>https://github.com/mksglu/context-mode</link>
+      <guid isPermaLink="true">https://github.com/mksglu/context-mode</guid>
+      <pubDate>Thu, 01 Oct 2026 04:52:04 GMT</pubDate>
+      <description>Context Mode The other half of the context problem. — +90 stars today · 24,542 stars · 1,771 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;Context Mode The other half of the context problem.&lt;/p&gt;&lt;p&gt;🔥 +90 stars today · ⭐ &lt;b&gt;24,542&lt;/b&gt; stars · 🍴 &lt;b&gt;1,771&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mksglu/context-mode&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>modelcontextprotocol/servers</title>
+      <link>https://github.com/modelcontextprotocol/servers</link>
+      <guid isPermaLink="true">https://github.com/modelcontextprotocol/servers</guid>
+      <pubDate>Thu, 01 Oct 2026 04:52:04 GMT</pubDate>
+      <description>Model Context Protocol servers This repository is a collection of reference implementations for the Model Context Protocol (MCP), as well as references to community built servers and additional resources. [!IMPORTANT] — +50 stars today · 90,851 stars · 11,729 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;Model Context Protocol servers This repository is a collection of reference implementations for the Model Context Protocol (MCP), as well as references to community built servers and additional resources. [!IMPORTANT]&lt;/p&gt;&lt;p&gt;🔥 +50 stars today · ⭐ &lt;b&gt;90,851&lt;/b&gt; stars · 🍴 &lt;b&gt;11,729&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/modelcontextprotocol/servers&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>firebase/firebase-ios-sdk</title>
+      <link>https://github.com/firebase/firebase-ios-sdk</link>
+      <guid isPermaLink="true">https://github.com/firebase/firebase-ios-sdk</guid>
+      <pubDate>Thu, 01 Oct 2026 04:52:04 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://cocoapods.org/pods/Firebase&quot; &lt;img src=&quot;https://img.shields.io/github/v/release/Firebase/firebase ios sdk?style=flat&amp;label=CocoaPods&quot;/ &lt;/a &lt;a href=&quot;https://swiftpackageindex.com/firebase/firebase ios sdk&quot; — +8 stars today · 6,778 stars · 1,800 forks · Language: C++</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://cocoapods.org/pods/Firebase&amp;quot; &amp;lt;img src=&amp;quot;https://img.shields.io/github/v/release/Firebase/firebase ios sdk?style=flat&amp;amp;label=CocoaPods&amp;quot;/ &amp;lt;/a &amp;lt;a href=&amp;quot;https://swiftpackageindex.com/firebase/firebase ios sdk&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +8 stars today · ⭐ &lt;b&gt;6,778&lt;/b&gt; stars · 🍴 &lt;b&gt;1,800&lt;/b&gt; forks · &lt;b&gt;C++&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/firebase/firebase-ios-sdk&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
