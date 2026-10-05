@@ -7,160 +7,136 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Sun, 04 Oct 2026 04:57:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 04:43:47 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
-    <item>
-      <title>Panniantong/Agent-Reach</title>
-      <link>https://github.com/Panniantong/Agent-Reach</link>
-      <guid isPermaLink="true">https://github.com/Panniantong/Agent-Reach</guid>
-      <pubDate>Sun, 04 Oct 2026 04:57:31 GMT</pubDate>
-      <description>&lt;h1 align=&quot;center&quot; 👁️ Agent Reach&lt;/h1 &lt;p align=&quot;center&quot; &lt;strong 给你的 AI Agent 一键装上互联网能力&lt;/strong &lt;/p &lt;p align=&quot;center&quot; 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 — +1,696 stars today · 89,975 stars · 7,917 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; 👁️ Agent Reach&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong 给你的 AI Agent 一键装上互联网能力&amp;lt;/strong &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心&lt;/p&gt;&lt;p&gt;🔥 +1,696 stars today · ⭐ &lt;b&gt;89,975&lt;/b&gt; stars · 🍴 &lt;b&gt;7,917&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Panniantong/Agent-Reach&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
     <item>
       <title>DietrichGebert/ponytail</title>
       <link>https://github.com/DietrichGebert/ponytail</link>
       <guid isPermaLink="true">https://github.com/DietrichGebert/ponytail</guid>
-      <pubDate>Sun, 04 Oct 2026 04:57:31 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;assets/logo dark.png&quot; &lt;img src=&quot;assets/logo.png&quot; width=&quot;220&quot; alt=&quot;Ponytail, the lazy senior dev&quot; &lt;/picture &lt;/p — +1,281 stars today · 153,652 stars · 8,253 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;assets/logo dark.png&amp;quot; &amp;lt;img src=&amp;quot;assets/logo.png&amp;quot; width=&amp;quot;220&amp;quot; alt=&amp;quot;Ponytail, the lazy senior dev&amp;quot; &amp;lt;/picture &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +1,281 stars today · ⭐ &lt;b&gt;153,652&lt;/b&gt; stars · 🍴 &lt;b&gt;8,253&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/DietrichGebert/ponytail&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>affaan-m/ECC</title>
-      <link>https://github.com/affaan-m/ECC</link>
-      <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
-      <pubDate>Sun, 04 Oct 2026 04:57:31 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/hero.png&quot; alt=&quot;ECC the agent harness operating system&quot; width=&quot;100%&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot;https://www.star history.com/affaan m/ecc&quot; &lt;picture — +897 stars today · 272,363 stars · 40,670 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/hero.png&amp;quot; alt=&amp;quot;ECC the agent harness operating system&amp;quot; width=&amp;quot;100%&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://www.star history.com/affaan m/ecc&amp;quot; &amp;lt;picture&lt;/p&gt;&lt;p&gt;🔥 +897 stars today · ⭐ &lt;b&gt;272,363&lt;/b&gt; stars · 🍴 &lt;b&gt;40,670&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/affaan-m/ECC&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>mattpocock/skills</title>
-      <link>https://github.com/mattpocock/skills</link>
-      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
-      <pubDate>Sun, 04 Oct 2026 04:57:31 GMT</pubDate>
-      <description>&lt;p &lt;a href=&quot;https://www.aihero.dev/s/skills newsletter&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&quot; — +751 stars today · 275,449 stars · 23,112 forks · Language: Shell</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p &amp;lt;a href=&amp;quot;https://www.aihero.dev/s/skills newsletter&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +751 stars today · ⭐ &lt;b&gt;275,449&lt;/b&gt; stars · 🍴 &lt;b&gt;23,112&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mattpocock/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Mon, 05 Oct 2026 04:43:47 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;assets/logo dark.png&quot; &lt;img src=&quot;assets/logo.png&quot; width=&quot;220&quot; alt=&quot;Ponytail, the lazy senior dev&quot; &lt;/picture &lt;/p — +1,894 stars today · 155,073 stars · 8,336 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;assets/logo dark.png&amp;quot; &amp;lt;img src=&amp;quot;assets/logo.png&amp;quot; width=&amp;quot;220&amp;quot; alt=&amp;quot;Ponytail, the lazy senior dev&amp;quot; &amp;lt;/picture &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +1,894 stars today · ⭐ &lt;b&gt;155,073&lt;/b&gt; stars · 🍴 &lt;b&gt;8,336&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/DietrichGebert/ponytail&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>pbakaus/impeccable</title>
       <link>https://github.com/pbakaus/impeccable</link>
       <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
-      <pubDate>Sun, 04 Oct 2026 04:57:31 GMT</pubDate>
-      <description>Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI generated frontend design. — +699 stars today · 75,454 stars · 4,524 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI generated frontend design.&lt;/p&gt;&lt;p&gt;🔥 +699 stars today · ⭐ &lt;b&gt;75,454&lt;/b&gt; stars · 🍴 &lt;b&gt;4,524&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pbakaus/impeccable&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Mon, 05 Oct 2026 04:43:47 GMT</pubDate>
+      <description>Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI generated frontend design. — +1,171 stars today · 76,440 stars · 4,562 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI generated frontend design.&lt;/p&gt;&lt;p&gt;🔥 +1,171 stars today · ⭐ &lt;b&gt;76,440&lt;/b&gt; stars · 🍴 &lt;b&gt;4,562&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pbakaus/impeccable&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>obra/superpowers</title>
-      <link>https://github.com/obra/superpowers</link>
-      <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-      <pubDate>Sun, 04 Oct 2026 04:57:31 GMT</pubDate>
-      <description>Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started — +577 stars today · 294,967 stars · 26,360 forks · Language: Shell</description>
-      <content:encoded>&lt;p&gt;Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started&lt;/p&gt;&lt;p&gt;🔥 +577 stars today · ⭐ &lt;b&gt;294,967&lt;/b&gt; stars · 🍴 &lt;b&gt;26,360&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/obra/superpowers&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>JuliusBrussee/caveman</title>
-      <link>https://github.com/JuliusBrussee/caveman</link>
-      <guid isPermaLink="true">https://github.com/JuliusBrussee/caveman</guid>
-      <pubDate>Sun, 04 Oct 2026 04:57:31 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;docs/assets/caveman logo banner.png&quot; alt=&quot;Caveman&quot; width=&quot;720&quot; why use many token when few do trick Your AI coding agent bills by the word and writes like it knows that. Caveman make it stop. &lt;a href=&quot;https://www.youtube.com/watch?v=L29q2LRiMRc&quot; — +507 stars today · 109,584 stars · 6,339 forks · Language: Go</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/assets/caveman logo banner.png&amp;quot; alt=&amp;quot;Caveman&amp;quot; width=&amp;quot;720&amp;quot; why use many token when few do trick Your AI coding agent bills by the word and writes like it knows that. Caveman make it stop. &amp;lt;a href=&amp;quot;https://www.youtube.com/watch?v=L29q2LRiMRc&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +507 stars today · ⭐ &lt;b&gt;109,584&lt;/b&gt; stars · 🍴 &lt;b&gt;6,339&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/JuliusBrussee/caveman&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>earendil-works/pi</title>
-      <link>https://github.com/earendil-works/pi</link>
-      <guid isPermaLink="true">https://github.com/earendil-works/pi</guid>
-      <pubDate>Sun, 04 Oct 2026 04:57:31 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://pi.dev&quot; &lt;img alt=&quot;pi logo&quot; src=&quot;https://pi.dev/logo auto.svg&quot; width=&quot;128&quot; &lt;/a &lt;/p &lt;p align=&quot;center&quot; — +408 stars today · 112,218 stars · 14,236 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://pi.dev&amp;quot; &amp;lt;img alt=&amp;quot;pi logo&amp;quot; src=&amp;quot;https://pi.dev/logo auto.svg&amp;quot; width=&amp;quot;128&amp;quot; &amp;lt;/a &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +408 stars today · ⭐ &lt;b&gt;112,218&lt;/b&gt; stars · 🍴 &lt;b&gt;14,236&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/earendil-works/pi&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Effect-TS/effect</title>
-      <link>https://github.com/Effect-TS/effect</link>
-      <guid isPermaLink="true">https://github.com/Effect-TS/effect</guid>
-      <pubDate>Sun, 04 Oct 2026 04:57:31 GMT</pubDate>
-      <description>&lt;! Use a static Shields badge because pkg.pr.new's dynamic badge times out while counting this repository's releases. ![pkg.pr.new](https://pkg.pr.new/ /Effect TS/effect) Effect — +302 stars today · 16,862 stars · 816 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;! Use a static Shields badge because pkg.pr.new&amp;#x27;s dynamic badge times out while counting this repository&amp;#x27;s releases. ![pkg.pr.new](https://pkg.pr.new/ /Effect TS/effect) Effect&lt;/p&gt;&lt;p&gt;🔥 +302 stars today · ⭐ &lt;b&gt;16,862&lt;/b&gt; stars · 🍴 &lt;b&gt;816&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Effect-TS/effect&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>mksglu/context-mode</title>
-      <link>https://github.com/mksglu/context-mode</link>
-      <guid isPermaLink="true">https://github.com/mksglu/context-mode</guid>
-      <pubDate>Sun, 04 Oct 2026 04:57:31 GMT</pubDate>
-      <description>Context Mode The other half of the context problem. — +256 stars today · 25,281 stars · 1,807 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;Context Mode The other half of the context problem.&lt;/p&gt;&lt;p&gt;🔥 +256 stars today · ⭐ &lt;b&gt;25,281&lt;/b&gt; stars · 🍴 &lt;b&gt;1,807&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mksglu/context-mode&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>addyosmani/agent-skills</title>
-      <link>https://github.com/addyosmani/agent-skills</link>
-      <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
-      <pubDate>Sun, 04 Oct 2026 04:57:31 GMT</pubDate>
-      <description>Agent Skills Production grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. — +252 stars today · 100,898 stars · 10,599 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;Agent Skills Production grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.&lt;/p&gt;&lt;p&gt;🔥 +252 stars today · ⭐ &lt;b&gt;100,898&lt;/b&gt; stars · 🍴 &lt;b&gt;10,599&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/addyosmani/agent-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>pingdotgg/t3code</title>
-      <link>https://github.com/pingdotgg/t3code</link>
-      <guid isPermaLink="true">https://github.com/pingdotgg/t3code</guid>
-      <pubDate>Sun, 04 Oct 2026 04:57:31 GMT</pubDate>
-      <description>T3 Code T3 Code is an &quot;agent harness control surface&quot;. It enables control of the agents on your machine with a best in class mobile app (iOS, Android), web app and Electron based desktop app. — +252 stars today · 24,768 stars · 6,449 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;T3 Code T3 Code is an &amp;quot;agent harness control surface&amp;quot;. It enables control of the agents on your machine with a best in class mobile app (iOS, Android), web app and Electron based desktop app.&lt;/p&gt;&lt;p&gt;🔥 +252 stars today · ⭐ &lt;b&gt;24,768&lt;/b&gt; stars · 🍴 &lt;b&gt;6,449&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pingdotgg/t3code&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>OpenCut-app/OpenCut</title>
-      <link>https://github.com/OpenCut-app/OpenCut</link>
-      <guid isPermaLink="true">https://github.com/OpenCut-app/OpenCut</guid>
-      <pubDate>Sun, 04 Oct 2026 04:57:31 GMT</pubDate>
-      <description>&lt;table width=&quot;100%&quot; &lt;tr &lt;td align=&quot;left&quot; width=&quot;120&quot; &lt;img src=&quot;https://assets.opencut.app/branding/symbol.svg&quot; alt=&quot;OpenCut Logo&quot; width=&quot;100&quot; / &lt;/td &lt;td align=&quot;right&quot; — +232 stars today · 91,687 stars · 9,061 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;table width=&amp;quot;100%&amp;quot; &amp;lt;tr &amp;lt;td align=&amp;quot;left&amp;quot; width=&amp;quot;120&amp;quot; &amp;lt;img src=&amp;quot;https://assets.opencut.app/branding/symbol.svg&amp;quot; alt=&amp;quot;OpenCut Logo&amp;quot; width=&amp;quot;100&amp;quot; / &amp;lt;/td &amp;lt;td align=&amp;quot;right&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +232 stars today · ⭐ &lt;b&gt;91,687&lt;/b&gt; stars · 🍴 &lt;b&gt;9,061&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/OpenCut-app/OpenCut&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>getsentry/sentry</title>
-      <link>https://github.com/getsentry/sentry</link>
-      <guid isPermaLink="true">https://github.com/getsentry/sentry</guid>
-      <pubDate>Sun, 04 Oct 2026 04:57:31 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;p align=&quot;center&quot; &lt;a href=&quot;https://sentry.io/?utm source=github&amp;utm medium=logo&quot; target=&quot; blank&quot; &lt;img src=&quot;https://sentry brand.storage.googleapis.com/sentry wordmark dark 280x84.png&quot; alt=&quot;Sentry&quot; width=&quot;280&quot; height=&quot;84&quot; / &lt;/a &lt;/p — +214 stars today · 45,225 stars · 4,899 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://sentry.io/?utm source=github&amp;amp;utm medium=logo&amp;quot; target=&amp;quot; blank&amp;quot; &amp;lt;img src=&amp;quot;https://sentry brand.storage.googleapis.com/sentry wordmark dark 280x84.png&amp;quot; alt=&amp;quot;Sentry&amp;quot; width=&amp;quot;280&amp;quot; height=&amp;quot;84&amp;quot; / &amp;lt;/a &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +214 stars today · ⭐ &lt;b&gt;45,225&lt;/b&gt; stars · 🍴 &lt;b&gt;4,899&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/getsentry/sentry&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>jamwithai/production-agentic-rag-course</title>
-      <link>https://github.com/jamwithai/production-agentic-rag-course</link>
-      <guid isPermaLink="true">https://github.com/jamwithai/production-agentic-rag-course</guid>
-      <pubDate>Sun, 04 Oct 2026 04:57:31 GMT</pubDate>
-      <description>The Mother of AI Project Phase 1 RAG Systems: arXiv Paper Curator &lt;div align=&quot;center&quot; &lt;h3 A Learner Focused Journey into Production RAG Systems&lt;/h3 &lt;p Learn to build modern AI systems from the ground up through hands on implementation&lt;/p — +193 stars today · 9,433 stars · 2,071 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;The Mother of AI Project Phase 1 RAG Systems: arXiv Paper Curator &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;h3 A Learner Focused Journey into Production RAG Systems&amp;lt;/h3 &amp;lt;p Learn to build modern AI systems from the ground up through hands on implementation&amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +193 stars today · ⭐ &lt;b&gt;9,433&lt;/b&gt; stars · 🍴 &lt;b&gt;2,071&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/jamwithai/production-agentic-rag-course&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>anthropics/claude-code</title>
-      <link>https://github.com/anthropics/claude-code</link>
-      <guid isPermaLink="true">https://github.com/anthropics/claude-code</guid>
-      <pubDate>Sun, 04 Oct 2026 04:57:31 GMT</pubDate>
-      <description>Claude Code [npm]: https://img.shields.io/npm/v/@anthropic ai/claude code.svg?style=flat square — +128 stars today · 149,262 stars · 25,403 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;Claude Code [npm]: https://img.shields.io/npm/v/@anthropic ai/claude code.svg?style=flat square&lt;/p&gt;&lt;p&gt;🔥 +128 stars today · ⭐ &lt;b&gt;149,262&lt;/b&gt; stars · 🍴 &lt;b&gt;25,403&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>cloudflare/cloudflare-os</title>
-      <link>https://github.com/cloudflare/cloudflare-os</link>
-      <guid isPermaLink="true">https://github.com/cloudflare/cloudflare-os</guid>
-      <pubDate>Sun, 04 Oct 2026 04:57:31 GMT</pubDate>
-      <description>Cloudflare OS: An AI productivity environment — +85 stars today · 10,620 stars · 1,285 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;Cloudflare OS: An AI productivity environment&lt;/p&gt;&lt;p&gt;🔥 +85 stars today · ⭐ &lt;b&gt;10,620&lt;/b&gt; stars · 🍴 &lt;b&gt;1,285&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cloudflare/cloudflare-os&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>Panniantong/Agent-Reach</title>
+      <link>https://github.com/Panniantong/Agent-Reach</link>
+      <guid isPermaLink="true">https://github.com/Panniantong/Agent-Reach</guid>
+      <pubDate>Mon, 05 Oct 2026 04:43:47 GMT</pubDate>
+      <description>&lt;h1 align=&quot;center&quot; 👁️ Agent Reach&lt;/h1 &lt;p align=&quot;center&quot; &lt;strong 给你的 AI Agent 一键装上互联网能力&lt;/strong &lt;/p &lt;p align=&quot;center&quot; 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 — +980 stars today · 91,069 stars · 7,999 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; 👁️ Agent Reach&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong 给你的 AI Agent 一键装上互联网能力&amp;lt;/strong &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心&lt;/p&gt;&lt;p&gt;🔥 +980 stars today · ⭐ &lt;b&gt;91,069&lt;/b&gt; stars · 🍴 &lt;b&gt;7,999&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Panniantong/Agent-Reach&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>thedotmack/claude-mem</title>
       <link>https://github.com/thedotmack/claude-mem</link>
       <guid isPermaLink="true">https://github.com/thedotmack/claude-mem</guid>
-      <pubDate>Sun, 04 Oct 2026 04:57:31 GMT</pubDate>
-      <description>&lt;h1 align=&quot;center&quot; &lt;br &lt;a href=&quot;https://github.com/thedotmack/claude mem&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/public/claude mem logo for dark mode.webp&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;docs/public/claude mem logo for light mode.webp&quot; — +79 stars today · 95,672 stars · 8,463 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;br &amp;lt;a href=&amp;quot;https://github.com/thedotmack/claude mem&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for dark mode.webp&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for light mode.webp&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +79 stars today · ⭐ &lt;b&gt;95,672&lt;/b&gt; stars · 🍴 &lt;b&gt;8,463&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/thedotmack/claude-mem&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Mon, 05 Oct 2026 04:43:47 GMT</pubDate>
+      <description>&lt;h1 align=&quot;center&quot; &lt;br &lt;a href=&quot;https://github.com/thedotmack/claude mem&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/public/claude mem logo for dark mode.webp&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;docs/public/claude mem logo for light mode.webp&quot; — +628 stars today · 96,210 stars · 8,496 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;br &amp;lt;a href=&amp;quot;https://github.com/thedotmack/claude mem&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for dark mode.webp&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for light mode.webp&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +628 stars today · ⭐ &lt;b&gt;96,210&lt;/b&gt; stars · 🍴 &lt;b&gt;8,496&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/thedotmack/claude-mem&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>meituan-longcat/LongCat-Video</title>
-      <link>https://github.com/meituan-longcat/LongCat-Video</link>
-      <guid isPermaLink="true">https://github.com/meituan-longcat/LongCat-Video</guid>
-      <pubDate>Sun, 04 Oct 2026 04:57:31 GMT</pubDate>
-      <description>LongCat Video &lt;div align=&quot;center&quot; &lt;img src=&quot;assets/longcat video logo.svg&quot; width=&quot;45%&quot; alt=&quot;LongCat Video&quot; / &lt;/div &lt;hr &lt;div align=&quot;center&quot; style=&quot;line height: 1;&quot; — +44 stars today · 8,806 stars · 1,531 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;LongCat Video &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/longcat video logo.svg&amp;quot; width=&amp;quot;45%&amp;quot; alt=&amp;quot;LongCat Video&amp;quot; / &amp;lt;/div &amp;lt;hr &amp;lt;div align=&amp;quot;center&amp;quot; style=&amp;quot;line height: 1;&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +44 stars today · ⭐ &lt;b&gt;8,806&lt;/b&gt; stars · 🍴 &lt;b&gt;1,531&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/meituan-longcat/LongCat-Video&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>OpenCut-app/OpenCut</title>
+      <link>https://github.com/OpenCut-app/OpenCut</link>
+      <guid isPermaLink="true">https://github.com/OpenCut-app/OpenCut</guid>
+      <pubDate>Mon, 05 Oct 2026 04:43:47 GMT</pubDate>
+      <description>&lt;table width=&quot;100%&quot; &lt;tr &lt;td align=&quot;left&quot; width=&quot;120&quot; &lt;img src=&quot;https://assets.opencut.app/branding/symbol.svg&quot; alt=&quot;OpenCut Logo&quot; width=&quot;100&quot; / &lt;/td &lt;td align=&quot;right&quot; — +512 stars today · 92,266 stars · 9,087 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;table width=&amp;quot;100%&amp;quot; &amp;lt;tr &amp;lt;td align=&amp;quot;left&amp;quot; width=&amp;quot;120&amp;quot; &amp;lt;img src=&amp;quot;https://assets.opencut.app/branding/symbol.svg&amp;quot; alt=&amp;quot;OpenCut Logo&amp;quot; width=&amp;quot;100&amp;quot; / &amp;lt;/td &amp;lt;td align=&amp;quot;right&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +512 stars today · ⭐ &lt;b&gt;92,266&lt;/b&gt; stars · 🍴 &lt;b&gt;9,087&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/OpenCut-app/OpenCut&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>pingdotgg/t3code</title>
+      <link>https://github.com/pingdotgg/t3code</link>
+      <guid isPermaLink="true">https://github.com/pingdotgg/t3code</guid>
+      <pubDate>Mon, 05 Oct 2026 04:43:47 GMT</pubDate>
+      <description>T3 Code T3 Code is an &quot;agent harness control surface&quot;. It enables control of the agents on your machine with a best in class mobile app (iOS, Android), web app and Electron based desktop app. — +490 stars today · 25,246 stars · 6,526 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;T3 Code T3 Code is an &amp;quot;agent harness control surface&amp;quot;. It enables control of the agents on your machine with a best in class mobile app (iOS, Android), web app and Electron based desktop app.&lt;/p&gt;&lt;p&gt;🔥 +490 stars today · ⭐ &lt;b&gt;25,246&lt;/b&gt; stars · 🍴 &lt;b&gt;6,526&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pingdotgg/t3code&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>tester-army/e2e</title>
+      <link>https://github.com/tester-army/e2e</link>
+      <guid isPermaLink="true">https://github.com/tester-army/e2e</guid>
+      <pubDate>Mon, 05 Oct 2026 04:43:47 GMT</pubDate>
+      <description>&lt;a href=&quot;https://tester.army/e2e?utm source=e2e&amp;utm medium=github&amp;utm campaign=readme banner&quot; &lt;img src=&quot;./.github/assets/readme banner.png&quot; alt=&quot;e2e, the open source AI testing framework by TesterArmy&quot; width=&quot;100%&quot; / &lt;/a &lt;p align=&quot;center&quot; — +345 stars today · 3,343 stars · 126 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;a href=&amp;quot;https://tester.army/e2e?utm source=e2e&amp;amp;utm medium=github&amp;amp;utm campaign=readme banner&amp;quot; &amp;lt;img src=&amp;quot;./.github/assets/readme banner.png&amp;quot; alt=&amp;quot;e2e, the open source AI testing framework by TesterArmy&amp;quot; width=&amp;quot;100%&amp;quot; / &amp;lt;/a &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +345 stars today · ⭐ &lt;b&gt;3,343&lt;/b&gt; stars · 🍴 &lt;b&gt;126&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/tester-army/e2e&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>addyosmani/agent-skills</title>
+      <link>https://github.com/addyosmani/agent-skills</link>
+      <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
+      <pubDate>Mon, 05 Oct 2026 04:43:47 GMT</pubDate>
+      <description>Agent Skills Production grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. — +336 stars today · 101,271 stars · 10,622 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;Agent Skills Production grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.&lt;/p&gt;&lt;p&gt;🔥 +336 stars today · ⭐ &lt;b&gt;101,271&lt;/b&gt; stars · 🍴 &lt;b&gt;10,622&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/addyosmani/agent-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>calesthio/OpenMontage</title>
+      <link>https://github.com/calesthio/OpenMontage</link>
+      <guid isPermaLink="true">https://github.com/calesthio/OpenMontage</guid>
+      <pubDate>Mon, 05 Oct 2026 04:43:47 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;assets/monty dark.svg&quot; &lt;img src=&quot;assets/monty light.svg&quot; alt=&quot;Monty the Clapper — the official mascot of OpenMontage&quot; width=&quot;200&quot; &lt;/picture &lt;/p — +245 stars today · 63,328 stars · 8,069 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;assets/monty dark.svg&amp;quot; &amp;lt;img src=&amp;quot;assets/monty light.svg&amp;quot; alt=&amp;quot;Monty the Clapper — the official mascot of OpenMontage&amp;quot; width=&amp;quot;200&amp;quot; &amp;lt;/picture &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +245 stars today · ⭐ &lt;b&gt;63,328&lt;/b&gt; stars · 🍴 &lt;b&gt;8,069&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/calesthio/OpenMontage&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>michael-denyer/pstack-claude</title>
+      <link>https://github.com/michael-denyer/pstack-claude</link>
+      <guid isPermaLink="true">https://github.com/michael-denyer/pstack-claude</guid>
+      <pubDate>Mon, 05 Oct 2026 04:43:47 GMT</pubDate>
+      <description>pstack Lauren Tan's pstack is an opinionated Cursor skill stack that improves agent outcomes. This is a port for Claude Code, Codex, Pi and other agent harnesses. It tracks upstream and also carries named policy forks, each declared in tools/forks.json . — +232 stars today · 1,187 stars · 135 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;pstack Lauren Tan&amp;#x27;s pstack is an opinionated Cursor skill stack that improves agent outcomes. This is a port for Claude Code, Codex, Pi and other agent harnesses. It tracks upstream and also carries named policy forks, each declared in tools/forks.json .&lt;/p&gt;&lt;p&gt;🔥 +232 stars today · ⭐ &lt;b&gt;1,187&lt;/b&gt; stars · 🍴 &lt;b&gt;135&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/michael-denyer/pstack-claude&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>antirez/ds4</title>
+      <link>https://github.com/antirez/ds4</link>
+      <guid isPermaLink="true">https://github.com/antirez/ds4</guid>
+      <pubDate>Mon, 05 Oct 2026 04:43:47 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;logo.svg&quot; alt=&quot;DwarfStar logo&quot; width=&quot;220&quot; &lt;/p DwarfStar aims to be the best way to run a few excellent large language models on consumer hardware (that is, hardware that people can actually own). To reach this goal, we are building — +211 stars today · 23,481 stars · 2,255 forks · Language: C</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;logo.svg&amp;quot; alt=&amp;quot;DwarfStar logo&amp;quot; width=&amp;quot;220&amp;quot; &amp;lt;/p DwarfStar aims to be the best way to run a few excellent large language models on consumer hardware (that is, hardware that people can actually own). To reach this goal, we are building&lt;/p&gt;&lt;p&gt;🔥 +211 stars today · ⭐ &lt;b&gt;23,481&lt;/b&gt; stars · 🍴 &lt;b&gt;2,255&lt;/b&gt; forks · &lt;b&gt;C&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/antirez/ds4&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>coreyhaines31/marketingskills</title>
+      <link>https://github.com/coreyhaines31/marketingskills</link>
+      <guid isPermaLink="true">https://github.com/coreyhaines31/marketingskills</guid>
+      <pubDate>Mon, 05 Oct 2026 04:43:47 GMT</pubDate>
+      <description>Marketing Skills for AI Agents — +197 stars today · 53,165 stars · 7,923 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;Marketing Skills for AI Agents&lt;/p&gt;&lt;p&gt;🔥 +197 stars today · ⭐ &lt;b&gt;53,165&lt;/b&gt; stars · 🍴 &lt;b&gt;7,923&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/coreyhaines31/marketingskills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>getsentry/sentry</title>
+      <link>https://github.com/getsentry/sentry</link>
+      <guid isPermaLink="true">https://github.com/getsentry/sentry</guid>
+      <pubDate>Mon, 05 Oct 2026 04:43:47 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;p align=&quot;center&quot; &lt;a href=&quot;https://sentry.io/?utm source=github&amp;utm medium=logo&quot; target=&quot; blank&quot; &lt;img src=&quot;https://sentry brand.storage.googleapis.com/sentry wordmark dark 280x84.png&quot; alt=&quot;Sentry&quot; width=&quot;280&quot; height=&quot;84&quot; / &lt;/a &lt;/p — +152 stars today · 45,419 stars · 4,904 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://sentry.io/?utm source=github&amp;amp;utm medium=logo&amp;quot; target=&amp;quot; blank&amp;quot; &amp;lt;img src=&amp;quot;https://sentry brand.storage.googleapis.com/sentry wordmark dark 280x84.png&amp;quot; alt=&amp;quot;Sentry&amp;quot; width=&amp;quot;280&amp;quot; height=&amp;quot;84&amp;quot; / &amp;lt;/a &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +152 stars today · ⭐ &lt;b&gt;45,419&lt;/b&gt; stars · 🍴 &lt;b&gt;4,904&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/getsentry/sentry&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>garrytan/gstack</title>
+      <link>https://github.com/garrytan/gstack</link>
+      <guid isPermaLink="true">https://github.com/garrytan/gstack</guid>
+      <pubDate>Mon, 05 Oct 2026 04:43:47 GMT</pubDate>
+      <description>gstack &quot;I don't think I've typed like a line of code probably since December, basically, which is an extremely large change.&quot; — Andrej Karpathy, No Priors podcast, March 2026 — +125 stars today · 135,207 stars · 20,093 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;gstack &amp;quot;I don&amp;#x27;t think I&amp;#x27;ve typed like a line of code probably since December, basically, which is an extremely large change.&amp;quot; — Andrej Karpathy, No Priors podcast, March 2026&lt;/p&gt;&lt;p&gt;🔥 +125 stars today · ⭐ &lt;b&gt;135,207&lt;/b&gt; stars · 🍴 &lt;b&gt;20,093&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/garrytan/gstack&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>earthtojake/text-to-cad</title>
+      <link>https://github.com/earthtojake/text-to-cad</link>
+      <guid isPermaLink="true">https://github.com/earthtojake/text-to-cad</guid>
+      <pubDate>Mon, 05 Oct 2026 04:43:47 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;apps/docs/public/brand/logo texttocad animated.svg&quot; alt=&quot;text to cad&quot; width=&quot;800&quot; Give your agent CAD superpowers. Docs ![GitHub stars](https://github.com/earthtojake/text to cad/stargazers) ![skills.sh](https://skills.sh/earthtojake/text to cad) — +83 stars today · 16,948 stars · 1,748 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;apps/docs/public/brand/logo texttocad animated.svg&amp;quot; alt=&amp;quot;text to cad&amp;quot; width=&amp;quot;800&amp;quot; Give your agent CAD superpowers. Docs ![GitHub stars](https://github.com/earthtojake/text to cad/stargazers) ![skills.sh](https://skills.sh/earthtojake/text to cad)&lt;/p&gt;&lt;p&gt;🔥 +83 stars today · ⭐ &lt;b&gt;16,948&lt;/b&gt; stars · 🍴 &lt;b&gt;1,748&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/earthtojake/text-to-cad&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>caddyserver/caddy</title>
+      <link>https://github.com/caddyserver/caddy</link>
+      <guid isPermaLink="true">https://github.com/caddyserver/caddy</guid>
+      <pubDate>Mon, 05 Oct 2026 04:43:47 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://caddyserver.com&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://github.com/user attachments/assets/1d6be89c df8a 438c b01d cef6bf56440a&quot; — +24 stars today · 76,632 stars · 5,048 forks · Language: Go</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://caddyserver.com&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://github.com/user attachments/assets/1d6be89c df8a 438c b01d cef6bf56440a&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +24 stars today · ⭐ &lt;b&gt;76,632&lt;/b&gt; stars · 🍴 &lt;b&gt;5,048&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/caddyserver/caddy&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
