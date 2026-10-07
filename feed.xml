@@ -7,120 +7,104 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Tue, 06 Oct 2026 05:30:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 04:59:35 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
     <item>
-      <title>DuarteSantos8/openGym</title>
-      <link>https://github.com/DuarteSantos8/openGym</link>
-      <guid isPermaLink="true">https://github.com/DuarteSantos8/openGym</guid>
-      <pubDate>Tue, 06 Oct 2026 05:30:07 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;assets/banner.png&quot; alt=&quot;openGym&quot; width=&quot;720&quot; A self hosted gym and body weight tracker you actually own. Plan your week, run guided workouts, log every set and your body weight —&lt;br on your phone, synced across your devices, behind your own passkey login. — +1,433 stars today · 4,449 stars · 673 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/banner.png&amp;quot; alt=&amp;quot;openGym&amp;quot; width=&amp;quot;720&amp;quot; A self hosted gym and body weight tracker you actually own. Plan your week, run guided workouts, log every set and your body weight —&amp;lt;br on your phone, synced across your devices, behind your own passkey login.&lt;/p&gt;&lt;p&gt;🔥 +1,433 stars today · ⭐ &lt;b&gt;4,449&lt;/b&gt; stars · 🍴 &lt;b&gt;673&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/DuarteSantos8/openGym&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>morluto/rea</title>
+      <link>https://github.com/morluto/rea</link>
+      <guid isPermaLink="true">https://github.com/morluto/rea</guid>
+      <pubDate>Wed, 07 Oct 2026 04:59:35 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; English · 简体中文 · 日本語 · 한국어 · العربية REA: Reverse Engineer Anything One MCP for reverse engineering across binaries, applications, and runtime behavior. See a feature you like. Understand how it works, down to the binary level. — +2,956 stars today · 10,182 stars · 1,132 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; English · 简体中文 · 日本語 · 한국어 · العربية REA: Reverse Engineer Anything One MCP for reverse engineering across binaries, applications, and runtime behavior. See a feature you like. Understand how it works, down to the binary level.&lt;/p&gt;&lt;p&gt;🔥 +2,956 stars today · ⭐ &lt;b&gt;10,182&lt;/b&gt; stars · 🍴 &lt;b&gt;1,132&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/morluto/rea&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>tester-army/e2e</title>
       <link>https://github.com/tester-army/e2e</link>
       <guid isPermaLink="true">https://github.com/tester-army/e2e</guid>
-      <pubDate>Tue, 06 Oct 2026 05:30:07 GMT</pubDate>
-      <description>&lt;a href=&quot;https://tester.army/e2e?utm source=e2e&amp;utm medium=github&amp;utm campaign=readme banner&quot; &lt;img src=&quot;./.github/assets/readme banner.png&quot; alt=&quot;e2e, the open source AI testing framework by TesterArmy&quot; width=&quot;100%&quot; / &lt;/a &lt;p align=&quot;center&quot; — +1,398 stars today · 5,083 stars · 216 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;a href=&amp;quot;https://tester.army/e2e?utm source=e2e&amp;amp;utm medium=github&amp;amp;utm campaign=readme banner&amp;quot; &amp;lt;img src=&amp;quot;./.github/assets/readme banner.png&amp;quot; alt=&amp;quot;e2e, the open source AI testing framework by TesterArmy&amp;quot; width=&amp;quot;100%&amp;quot; / &amp;lt;/a &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,398 stars today · ⭐ &lt;b&gt;5,083&lt;/b&gt; stars · 🍴 &lt;b&gt;216&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/tester-army/e2e&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 07 Oct 2026 04:59:35 GMT</pubDate>
+      <description>&lt;a href=&quot;https://tester.army/e2e?utm source=e2e&amp;utm medium=github&amp;utm campaign=readme banner&quot; &lt;img src=&quot;./.github/assets/readme banner.png&quot; alt=&quot;e2e, the open source AI testing framework by TesterArmy&quot; width=&quot;100%&quot; / &lt;/a &lt;p align=&quot;center&quot; — +1,725 stars today · 6,533 stars · 292 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;a href=&amp;quot;https://tester.army/e2e?utm source=e2e&amp;amp;utm medium=github&amp;amp;utm campaign=readme banner&amp;quot; &amp;lt;img src=&amp;quot;./.github/assets/readme banner.png&amp;quot; alt=&amp;quot;e2e, the open source AI testing framework by TesterArmy&amp;quot; width=&amp;quot;100%&amp;quot; / &amp;lt;/a &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,725 stars today · ⭐ &lt;b&gt;6,533&lt;/b&gt; stars · 🍴 &lt;b&gt;292&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/tester-army/e2e&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>Panniantong/Agent-Reach</title>
-      <link>https://github.com/Panniantong/Agent-Reach</link>
-      <guid isPermaLink="true">https://github.com/Panniantong/Agent-Reach</guid>
-      <pubDate>Tue, 06 Oct 2026 05:30:07 GMT</pubDate>
-      <description>&lt;h1 align=&quot;center&quot; 👁️ Agent Reach&lt;/h1 &lt;p align=&quot;center&quot; &lt;strong 给你的 AI Agent 一键装上互联网能力&lt;/strong &lt;/p &lt;p align=&quot;center&quot; 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 — +1,155 stars today · 92,067 stars · 8,081 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; 👁️ Agent Reach&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong 给你的 AI Agent 一键装上互联网能力&amp;lt;/strong &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心&lt;/p&gt;&lt;p&gt;🔥 +1,155 stars today · ⭐ &lt;b&gt;92,067&lt;/b&gt; stars · 🍴 &lt;b&gt;8,081&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Panniantong/Agent-Reach&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>DuarteSantos8/openGym</title>
+      <link>https://github.com/DuarteSantos8/openGym</link>
+      <guid isPermaLink="true">https://github.com/DuarteSantos8/openGym</guid>
+      <pubDate>Wed, 07 Oct 2026 04:59:35 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;assets/banner.png&quot; alt=&quot;openGym&quot; width=&quot;720&quot; A self hosted gym and body weight tracker you actually own. Plan your week, run guided workouts, log every set and your body weight —&lt;br on your phone, synced across your devices, behind your own passkey login. — +1,419 stars today · 5,927 stars · 807 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/banner.png&amp;quot; alt=&amp;quot;openGym&amp;quot; width=&amp;quot;720&amp;quot; A self hosted gym and body weight tracker you actually own. Plan your week, run guided workouts, log every set and your body weight —&amp;lt;br on your phone, synced across your devices, behind your own passkey login.&lt;/p&gt;&lt;p&gt;🔥 +1,419 stars today · ⭐ &lt;b&gt;5,927&lt;/b&gt; stars · 🍴 &lt;b&gt;807&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/DuarteSantos8/openGym&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>boykopovar/AnyPS5</title>
       <link>https://github.com/boykopovar/AnyPS5</link>
       <guid isPermaLink="true">https://github.com/boykopovar/AnyPS5</guid>
-      <pubDate>Tue, 06 Oct 2026 05:30:07 GMT</pubDate>
-      <description>About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emulation or separate runtime process. — +997 stars today · 5,099 stars · 373 forks · Language: C++</description>
-      <content:encoded>&lt;p&gt;About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system&amp;#x27;s native format and implementations of system prx libraries suitable for dynamic linking. No emulation or separate runtime process.&lt;/p&gt;&lt;p&gt;🔥 +997 stars today · ⭐ &lt;b&gt;5,099&lt;/b&gt; stars · 🍴 &lt;b&gt;373&lt;/b&gt; forks · &lt;b&gt;C++&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/boykopovar/AnyPS5&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 07 Oct 2026 04:59:35 GMT</pubDate>
+      <description>About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emulation or separate runtime process. — +949 stars today · 6,881 stars · 514 forks · Language: C++</description>
+      <content:encoded>&lt;p&gt;About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system&amp;#x27;s native format and implementations of system prx libraries suitable for dynamic linking. No emulation or separate runtime process.&lt;/p&gt;&lt;p&gt;🔥 +949 stars today · ⭐ &lt;b&gt;6,881&lt;/b&gt; stars · 🍴 &lt;b&gt;514&lt;/b&gt; forks · &lt;b&gt;C++&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/boykopovar/AnyPS5&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>mattpocock/skills</title>
+      <link>https://github.com/mattpocock/skills</link>
+      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
+      <pubDate>Wed, 07 Oct 2026 04:59:35 GMT</pubDate>
+      <description>&lt;p &lt;a href=&quot;https://www.aihero.dev/s/skills newsletter&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&quot; — +889 stars today · 278,344 stars · 23,309 forks · Language: Shell</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p &amp;lt;a href=&amp;quot;https://www.aihero.dev/s/skills newsletter&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +889 stars today · ⭐ &lt;b&gt;278,344&lt;/b&gt; stars · 🍴 &lt;b&gt;23,309&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mattpocock/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>msitarzewski/agency-agents</title>
       <link>https://github.com/msitarzewski/agency-agents</link>
       <guid isPermaLink="true">https://github.com/msitarzewski/agency-agents</guid>
-      <pubDate>Tue, 06 Oct 2026 05:30:07 GMT</pubDate>
-      <description>🎭 The Agency: AI Specialists Ready to Transform Your Workflow A complete AI agency at your fingertips From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. — +744 stars today · 157,376 stars · 25,382 forks · Language: Shell</description>
-      <content:encoded>&lt;p&gt;🎭 The Agency: AI Specialists Ready to Transform Your Workflow A complete AI agency at your fingertips From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.&lt;/p&gt;&lt;p&gt;🔥 +744 stars today · ⭐ &lt;b&gt;157,376&lt;/b&gt; stars · 🍴 &lt;b&gt;25,382&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/msitarzewski/agency-agents&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>calesthio/OpenMontage</title>
-      <link>https://github.com/calesthio/OpenMontage</link>
-      <guid isPermaLink="true">https://github.com/calesthio/OpenMontage</guid>
-      <pubDate>Tue, 06 Oct 2026 05:30:07 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;assets/monty dark.svg&quot; &lt;img src=&quot;assets/monty light.svg&quot; alt=&quot;Monty the Clapper — the official mascot of OpenMontage&quot; width=&quot;200&quot; &lt;/picture &lt;/p — +742 stars today · 64,194 stars · 8,138 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;assets/monty dark.svg&amp;quot; &amp;lt;img src=&amp;quot;assets/monty light.svg&amp;quot; alt=&amp;quot;Monty the Clapper — the official mascot of OpenMontage&amp;quot; width=&amp;quot;200&amp;quot; &amp;lt;/picture &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +742 stars today · ⭐ &lt;b&gt;64,194&lt;/b&gt; stars · 🍴 &lt;b&gt;8,138&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/calesthio/OpenMontage&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>thedotmack/claude-mem</title>
-      <link>https://github.com/thedotmack/claude-mem</link>
-      <guid isPermaLink="true">https://github.com/thedotmack/claude-mem</guid>
-      <pubDate>Tue, 06 Oct 2026 05:30:07 GMT</pubDate>
-      <description>&lt;h1 align=&quot;center&quot; &lt;br &lt;a href=&quot;https://github.com/thedotmack/claude mem&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/public/claude mem logo for dark mode.webp&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;docs/public/claude mem logo for light mode.webp&quot; — +534 stars today · 96,712 stars · 8,532 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;br &amp;lt;a href=&amp;quot;https://github.com/thedotmack/claude mem&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for dark mode.webp&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for light mode.webp&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +534 stars today · ⭐ &lt;b&gt;96,712&lt;/b&gt; stars · 🍴 &lt;b&gt;8,532&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/thedotmack/claude-mem&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>caddyserver/caddy</title>
-      <link>https://github.com/caddyserver/caddy</link>
-      <guid isPermaLink="true">https://github.com/caddyserver/caddy</guid>
-      <pubDate>Tue, 06 Oct 2026 05:30:07 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://caddyserver.com&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://github.com/user attachments/assets/1d6be89c df8a 438c b01d cef6bf56440a&quot; — +515 stars today · 77,230 stars · 5,079 forks · Language: Go</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://caddyserver.com&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://github.com/user attachments/assets/1d6be89c df8a 438c b01d cef6bf56440a&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +515 stars today · ⭐ &lt;b&gt;77,230&lt;/b&gt; stars · 🍴 &lt;b&gt;5,079&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/caddyserver/caddy&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>pingdotgg/t3code</title>
-      <link>https://github.com/pingdotgg/t3code</link>
-      <guid isPermaLink="true">https://github.com/pingdotgg/t3code</guid>
-      <pubDate>Tue, 06 Oct 2026 05:30:07 GMT</pubDate>
-      <description>T3 Code T3 Code is an &quot;agent harness control surface&quot;. It enables control of the agents on your machine with a best in class mobile app (iOS, Android), web app and Electron based desktop app. — +485 stars today · 25,686 stars · 6,612 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;T3 Code T3 Code is an &amp;quot;agent harness control surface&amp;quot;. It enables control of the agents on your machine with a best in class mobile app (iOS, Android), web app and Electron based desktop app.&lt;/p&gt;&lt;p&gt;🔥 +485 stars today · ⭐ &lt;b&gt;25,686&lt;/b&gt; stars · 🍴 &lt;b&gt;6,612&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pingdotgg/t3code&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 07 Oct 2026 04:59:35 GMT</pubDate>
+      <description>🎭 The Agency: AI Specialists Ready to Transform Your Workflow A complete AI agency at your fingertips From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. — +623 stars today · 157,939 stars · 25,455 forks · Language: Shell</description>
+      <content:encoded>&lt;p&gt;🎭 The Agency: AI Specialists Ready to Transform Your Workflow A complete AI agency at your fingertips From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.&lt;/p&gt;&lt;p&gt;🔥 +623 stars today · ⭐ &lt;b&gt;157,939&lt;/b&gt; stars · 🍴 &lt;b&gt;25,455&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/msitarzewski/agency-agents&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>earthtojake/text-to-cad</title>
       <link>https://github.com/earthtojake/text-to-cad</link>
       <guid isPermaLink="true">https://github.com/earthtojake/text-to-cad</guid>
-      <pubDate>Tue, 06 Oct 2026 05:30:07 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;apps/docs/public/brand/logo texttocad animated.svg&quot; alt=&quot;text to cad&quot; width=&quot;800&quot; Give your agent CAD superpowers. Docs ![GitHub stars](https://github.com/earthtojake/text to cad/stargazers) ![skills.sh](https://skills.sh/earthtojake/text to cad) — +437 stars today · 17,529 stars · 1,775 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;apps/docs/public/brand/logo texttocad animated.svg&amp;quot; alt=&amp;quot;text to cad&amp;quot; width=&amp;quot;800&amp;quot; Give your agent CAD superpowers. Docs ![GitHub stars](https://github.com/earthtojake/text to cad/stargazers) ![skills.sh](https://skills.sh/earthtojake/text to cad)&lt;/p&gt;&lt;p&gt;🔥 +437 stars today · ⭐ &lt;b&gt;17,529&lt;/b&gt; stars · 🍴 &lt;b&gt;1,775&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/earthtojake/text-to-cad&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 07 Oct 2026 04:59:35 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;apps/docs/public/brand/logo texttocad animated.svg&quot; alt=&quot;text to cad&quot; width=&quot;800&quot; Give your agent CAD superpowers. Docs ![GitHub stars](https://github.com/earthtojake/text to cad/stargazers) ![skills.sh](https://skills.sh/earthtojake/text to cad) — +619 stars today · 18,077 stars · 1,809 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;apps/docs/public/brand/logo texttocad animated.svg&amp;quot; alt=&amp;quot;text to cad&amp;quot; width=&amp;quot;800&amp;quot; Give your agent CAD superpowers. Docs ![GitHub stars](https://github.com/earthtojake/text to cad/stargazers) ![skills.sh](https://skills.sh/earthtojake/text to cad)&lt;/p&gt;&lt;p&gt;🔥 +619 stars today · ⭐ &lt;b&gt;18,077&lt;/b&gt; stars · 🍴 &lt;b&gt;1,809&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/earthtojake/text-to-cad&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>michael-denyer/pstack-claude</title>
-      <link>https://github.com/michael-denyer/pstack-claude</link>
-      <guid isPermaLink="true">https://github.com/michael-denyer/pstack-claude</guid>
-      <pubDate>Tue, 06 Oct 2026 05:30:07 GMT</pubDate>
-      <description>pstack ![Buy Me A Coffee](https://buymeacoffee.com/codenyer) — +223 stars today · 1,472 stars · 155 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;pstack ![Buy Me A Coffee](https://buymeacoffee.com/codenyer)&lt;/p&gt;&lt;p&gt;🔥 +223 stars today · ⭐ &lt;b&gt;1,472&lt;/b&gt; stars · 🍴 &lt;b&gt;155&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/michael-denyer/pstack-claude&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>pbakaus/impeccable</title>
+      <link>https://github.com/pbakaus/impeccable</link>
+      <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
+      <pubDate>Wed, 07 Oct 2026 04:59:35 GMT</pubDate>
+      <description>Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 60 deterministic detector rules for AI generated frontend design. — +616 stars today · 77,815 stars · 4,633 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 60 deterministic detector rules for AI generated frontend design.&lt;/p&gt;&lt;p&gt;🔥 +616 stars today · ⭐ &lt;b&gt;77,815&lt;/b&gt; stars · 🍴 &lt;b&gt;4,633&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pbakaus/impeccable&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>M-Abozaid/esp32-c3-adblock</title>
-      <link>https://github.com/M-Abozaid/esp32-c3-adblock</link>
-      <guid isPermaLink="true">https://github.com/M-Abozaid/esp32-c3-adblock</guid>
-      <pubDate>Tue, 06 Oct 2026 05:30:07 GMT</pubDate>
-      <description>esp32 c3 adblock 日本語 README A Pi hole style DNS ad blocker that runs on a $2 ESP32 C3 — no PSRAM required . 📰 Featured on Tom's Hardware, XDA Developers, and Korben. The trick everyone misses: you don't need to keep the blocklist in RAM. Store the — +196 stars today · 1,464 stars · 128 forks · Language: C++</description>
-      <content:encoded>&lt;p&gt;esp32 c3 adblock 日本語 README A Pi hole style DNS ad blocker that runs on a $2 ESP32 C3 — no PSRAM required . 📰 Featured on Tom&amp;#x27;s Hardware, XDA Developers, and Korben. The trick everyone misses: you don&amp;#x27;t need to keep the blocklist in RAM. Store the&lt;/p&gt;&lt;p&gt;🔥 +196 stars today · ⭐ &lt;b&gt;1,464&lt;/b&gt; stars · 🍴 &lt;b&gt;128&lt;/b&gt; forks · &lt;b&gt;C++&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/M-Abozaid/esp32-c3-adblock&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>thedotmack/claude-mem</title>
+      <link>https://github.com/thedotmack/claude-mem</link>
+      <guid isPermaLink="true">https://github.com/thedotmack/claude-mem</guid>
+      <pubDate>Wed, 07 Oct 2026 04:59:35 GMT</pubDate>
+      <description>&lt;h1 align=&quot;center&quot; &lt;br &lt;a href=&quot;https://github.com/thedotmack/claude mem&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/public/claude mem logo for dark mode.webp&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;docs/public/claude mem logo for light mode.webp&quot; — +534 stars today · 97,268 stars · 8,571 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;br &amp;lt;a href=&amp;quot;https://github.com/thedotmack/claude mem&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for dark mode.webp&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for light mode.webp&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +534 stars today · ⭐ &lt;b&gt;97,268&lt;/b&gt; stars · 🍴 &lt;b&gt;8,571&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/thedotmack/claude-mem&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>Stremio/stremio-web</title>
-      <link>https://github.com/Stremio/stremio-web</link>
-      <guid isPermaLink="true">https://github.com/Stremio/stremio-web</guid>
-      <pubDate>Tue, 06 Oct 2026 05:30:07 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;/assets/images/stremio symbol.png&quot; width=&quot;90&quot; alt=&quot;Stremio logo&quot; Stremio Web Freedom to Stream — the official web UI of Stremio, a modern media center that's a one stop solution for your video entertainment. — +111 stars today · 14,340 stars · 1,636 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;/assets/images/stremio symbol.png&amp;quot; width=&amp;quot;90&amp;quot; alt=&amp;quot;Stremio logo&amp;quot; Stremio Web Freedom to Stream — the official web UI of Stremio, a modern media center that&amp;#x27;s a one stop solution for your video entertainment.&lt;/p&gt;&lt;p&gt;🔥 +111 stars today · ⭐ &lt;b&gt;14,340&lt;/b&gt; stars · 🍴 &lt;b&gt;1,636&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Stremio/stremio-web&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>ayghri/i-have-adhd</title>
+      <link>https://github.com/ayghri/i-have-adhd</link>
+      <guid isPermaLink="true">https://github.com/ayghri/i-have-adhd</guid>
+      <pubDate>Wed, 07 Oct 2026 04:59:35 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;./logo.png&quot; alt=&quot;i have adhd&quot; width=&quot;140&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;strong align=&quot;center&quot; ADHD friendly outputs. No ADHD diagnosis needed!&lt;/strong &lt;/p — +326 stars today · 54,508 stars · 3,133 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;./logo.png&amp;quot; alt=&amp;quot;i have adhd&amp;quot; width=&amp;quot;140&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong align=&amp;quot;center&amp;quot; ADHD friendly outputs. No ADHD diagnosis needed!&amp;lt;/strong &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +326 stars today · ⭐ &lt;b&gt;54,508&lt;/b&gt; stars · 🍴 &lt;b&gt;3,133&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ayghri/i-have-adhd&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>cloudflare/cloudflare-os</title>
-      <link>https://github.com/cloudflare/cloudflare-os</link>
-      <guid isPermaLink="true">https://github.com/cloudflare/cloudflare-os</guid>
-      <pubDate>Tue, 06 Oct 2026 05:30:07 GMT</pubDate>
-      <description>Cloudflare OS: An AI productivity environment — +101 stars today · 11,086 stars · 1,314 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;Cloudflare OS: An AI productivity environment&lt;/p&gt;&lt;p&gt;🔥 +101 stars today · ⭐ &lt;b&gt;11,086&lt;/b&gt; stars · 🍴 &lt;b&gt;1,314&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cloudflare/cloudflare-os&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>cathrynlavery/diagram-design</title>
+      <link>https://github.com/cathrynlavery/diagram-design</link>
+      <guid isPermaLink="true">https://github.com/cathrynlavery/diagram-design</guid>
+      <pubDate>Wed, 07 Oct 2026 04:59:35 GMT</pubDate>
+      <description>&lt;h1 &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/hero/hero dark.webp&quot; &lt;img alt=&quot;Diagram Design. Editorial diagrams your designer won't hate.&quot; src=&quot;docs/hero/hero light.webp&quot; &lt;/picture &lt;/h1 — +228 stars today · 44,161 stars · 2,845 forks · Language: HTML</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h1 &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/hero/hero dark.webp&amp;quot; &amp;lt;img alt=&amp;quot;Diagram Design. Editorial diagrams your designer won&amp;#x27;t hate.&amp;quot; src=&amp;quot;docs/hero/hero light.webp&amp;quot; &amp;lt;/picture &amp;lt;/h1&lt;/p&gt;&lt;p&gt;🔥 +228 stars today · ⭐ &lt;b&gt;44,161&lt;/b&gt; stars · 🍴 &lt;b&gt;2,845&lt;/b&gt; forks · &lt;b&gt;HTML&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cathrynlavery/diagram-design&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>deepseek-ai/DeepGEMM</title>
+      <link>https://github.com/deepseek-ai/DeepGEMM</link>
+      <guid isPermaLink="true">https://github.com/deepseek-ai/DeepGEMM</guid>
+      <pubDate>Wed, 07 Oct 2026 04:59:35 GMT</pubDate>
+      <description>DeepGEMM — +199 stars today · 8,766 stars · 1,382 forks · Language: Cuda</description>
+      <content:encoded>&lt;p&gt;DeepGEMM&lt;/p&gt;&lt;p&gt;🔥 +199 stars today · ⭐ &lt;b&gt;8,766&lt;/b&gt; stars · 🍴 &lt;b&gt;1,382&lt;/b&gt; forks · &lt;b&gt;Cuda&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/deepseek-ai/DeepGEMM&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
