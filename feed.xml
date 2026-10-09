@@ -7,112 +7,80 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Thu, 08 Oct 2026 05:10:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 05:13:01 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
     <item>
       <title>morluto/rea</title>
       <link>https://github.com/morluto/rea</link>
       <guid isPermaLink="true">https://github.com/morluto/rea</guid>
-      <pubDate>Thu, 08 Oct 2026 05:10:19 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; English · 简体中文 · 日本語 · 한국어 · العربية REA: Reverse Engineer Anything One MCP for reverse engineering across binaries, applications, and runtime behavior. See a feature you like. Understand how it works, down to the binary level. — +4,655 stars today · 16,718 stars · 1,745 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; English · 简体中文 · 日本語 · 한국어 · العربية REA: Reverse Engineer Anything One MCP for reverse engineering across binaries, applications, and runtime behavior. See a feature you like. Understand how it works, down to the binary level.&lt;/p&gt;&lt;p&gt;🔥 +4,655 stars today · ⭐ &lt;b&gt;16,718&lt;/b&gt; stars · 🍴 &lt;b&gt;1,745&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/morluto/rea&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 09 Oct 2026 05:13:01 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Türkçe · Русский · Tiếng Việt · ไทย · Deutsch · Español · Français · Українська · Polski · Português (Brasil) · العربية · فارسی REA: Reverse Engineer Anything One MCP for reverse engineering across binaries, applications, and runtime behavior. — +7,738 stars today · 29,760 stars · 3,542 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Türkçe · Русский · Tiếng Việt · ไทย · Deutsch · Español · Français · Українська · Polski · Português (Brasil) · العربية · فارسی REA: Reverse Engineer Anything One MCP for reverse engineering across binaries, applications, and runtime behavior.&lt;/p&gt;&lt;p&gt;🔥 +7,738 stars today · ⭐ &lt;b&gt;29,760&lt;/b&gt; stars · 🍴 &lt;b&gt;3,542&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/morluto/rea&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>boykopovar/AnyPS5</title>
       <link>https://github.com/boykopovar/AnyPS5</link>
       <guid isPermaLink="true">https://github.com/boykopovar/AnyPS5</guid>
-      <pubDate>Thu, 08 Oct 2026 05:10:19 GMT</pubDate>
-      <description>About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emulation or separate runtime process. — +2,716 stars today · 11,268 stars · 856 forks · Language: C++</description>
-      <content:encoded>&lt;p&gt;About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system&amp;#x27;s native format and implementations of system prx libraries suitable for dynamic linking. No emulation or separate runtime process.&lt;/p&gt;&lt;p&gt;🔥 +2,716 stars today · ⭐ &lt;b&gt;11,268&lt;/b&gt; stars · 🍴 &lt;b&gt;856&lt;/b&gt; forks · &lt;b&gt;C++&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/boykopovar/AnyPS5&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 09 Oct 2026 05:13:01 GMT</pubDate>
+      <description>About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emulation or separate runtime process. — +4,669 stars today · 16,610 stars · 1,320 forks · Language: C++</description>
+      <content:encoded>&lt;p&gt;About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system&amp;#x27;s native format and implementations of system prx libraries suitable for dynamic linking. No emulation or separate runtime process.&lt;/p&gt;&lt;p&gt;🔥 +4,669 stars today · ⭐ &lt;b&gt;16,610&lt;/b&gt; stars · 🍴 &lt;b&gt;1,320&lt;/b&gt; forks · &lt;b&gt;C++&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/boykopovar/AnyPS5&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>DuarteSantos8/openGym</title>
-      <link>https://github.com/DuarteSantos8/openGym</link>
-      <guid isPermaLink="true">https://github.com/DuarteSantos8/openGym</guid>
-      <pubDate>Thu, 08 Oct 2026 05:10:19 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;assets/banner.png&quot; alt=&quot;openGym&quot; width=&quot;720&quot; A self hosted gym and body weight tracker you actually own. Plan your week, run guided workouts, log every set and your body weight —&lt;br on your phone, synced across your devices, behind your own passkey login. — +1,493 stars today · 7,224 stars · 941 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/banner.png&amp;quot; alt=&amp;quot;openGym&amp;quot; width=&amp;quot;720&amp;quot; A self hosted gym and body weight tracker you actually own. Plan your week, run guided workouts, log every set and your body weight —&amp;lt;br on your phone, synced across your devices, behind your own passkey login.&lt;/p&gt;&lt;p&gt;🔥 +1,493 stars today · ⭐ &lt;b&gt;7,224&lt;/b&gt; stars · 🍴 &lt;b&gt;941&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/DuarteSantos8/openGym&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>storytold/artcraft</title>
+      <link>https://github.com/storytold/artcraft</link>
+      <guid isPermaLink="true">https://github.com/storytold/artcraft</guid>
+      <pubDate>Fri, 09 Oct 2026 05:13:01 GMT</pubDate>
+      <description>&lt;h1 align=&quot;center&quot; ArtCraft&lt;/h1 &lt;p align=&quot;center&quot; &lt;strong The IDE for artists.&lt;/strong &lt;/p &lt;! Main video: https://www.youtube.com/watch?v=kzvQMdg66Go GitHub media issue: https://github.com/storytold/artcraft/issues/1951 https://github.com/user attachments/assets/7339bd09 3e0d 44a7 a024 af9de64e4c11 — +2,103 stars today · 8,595 stars · 1,261 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; ArtCraft&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong The IDE for artists.&amp;lt;/strong &amp;lt;/p &amp;lt;! Main video: https://www.youtube.com/watch?v=kzvQMdg66Go GitHub media issue: https://github.com/storytold/artcraft/issues/1951 https://github.com/user attachments/assets/7339bd09 3e0d 44a7 a024 af9de64e4c11&lt;/p&gt;&lt;p&gt;🔥 +2,103 stars today · ⭐ &lt;b&gt;8,595&lt;/b&gt; stars · 🍴 &lt;b&gt;1,261&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/storytold/artcraft&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>mattpocock/skills</title>
       <link>https://github.com/mattpocock/skills</link>
       <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
-      <pubDate>Thu, 08 Oct 2026 05:10:19 GMT</pubDate>
-      <description>&lt;p &lt;a href=&quot;https://www.aihero.dev/s/skills newsletter&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&quot; — +1,403 stars today · 279,940 stars · 23,460 forks · Language: Shell</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p &amp;lt;a href=&amp;quot;https://www.aihero.dev/s/skills newsletter&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,403 stars today · ⭐ &lt;b&gt;279,940&lt;/b&gt; stars · 🍴 &lt;b&gt;23,460&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mattpocock/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>tester-army/e2e</title>
-      <link>https://github.com/tester-army/e2e</link>
-      <guid isPermaLink="true">https://github.com/tester-army/e2e</guid>
-      <pubDate>Thu, 08 Oct 2026 05:10:19 GMT</pubDate>
-      <description>&lt;a href=&quot;https://tester.army/e2e?utm source=e2e&amp;utm medium=github&amp;utm campaign=readme banner&quot; &lt;img src=&quot;./.github/assets/readme banner.png&quot; alt=&quot;e2e, the open source AI testing framework by TesterArmy&quot; width=&quot;100%&quot; / &lt;/a &lt;p align=&quot;center&quot; — +1,390 stars today · 7,699 stars · 350 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;a href=&amp;quot;https://tester.army/e2e?utm source=e2e&amp;amp;utm medium=github&amp;amp;utm campaign=readme banner&amp;quot; &amp;lt;img src=&amp;quot;./.github/assets/readme banner.png&amp;quot; alt=&amp;quot;e2e, the open source AI testing framework by TesterArmy&amp;quot; width=&amp;quot;100%&amp;quot; / &amp;lt;/a &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,390 stars today · ⭐ &lt;b&gt;7,699&lt;/b&gt; stars · 🍴 &lt;b&gt;350&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/tester-army/e2e&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 09 Oct 2026 05:13:01 GMT</pubDate>
+      <description>&lt;p &lt;a href=&quot;https://www.aihero.dev/s/skills newsletter&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&quot; — +1,774 stars today · 281,389 stars · 23,584 forks · Language: Shell</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p &amp;lt;a href=&amp;quot;https://www.aihero.dev/s/skills newsletter&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,774 stars today · ⭐ &lt;b&gt;281,389&lt;/b&gt; stars · 🍴 &lt;b&gt;23,584&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mattpocock/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>cathrynlavery/diagram-design</title>
       <link>https://github.com/cathrynlavery/diagram-design</link>
       <guid isPermaLink="true">https://github.com/cathrynlavery/diagram-design</guid>
-      <pubDate>Thu, 08 Oct 2026 05:10:19 GMT</pubDate>
-      <description>&lt;h1 &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/hero/hero dark.webp&quot; &lt;img alt=&quot;Diagram Design. Editorial diagrams your designer won't hate.&quot; src=&quot;docs/hero/hero light.webp&quot; &lt;/picture &lt;/h1 — +825 stars today · 45,211 stars · 2,905 forks · Language: HTML</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/hero/hero dark.webp&amp;quot; &amp;lt;img alt=&amp;quot;Diagram Design. Editorial diagrams your designer won&amp;#x27;t hate.&amp;quot; src=&amp;quot;docs/hero/hero light.webp&amp;quot; &amp;lt;/picture &amp;lt;/h1&lt;/p&gt;&lt;p&gt;🔥 +825 stars today · ⭐ &lt;b&gt;45,211&lt;/b&gt; stars · 🍴 &lt;b&gt;2,905&lt;/b&gt; forks · &lt;b&gt;HTML&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cathrynlavery/diagram-design&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>addyosmani/agent-skills</title>
-      <link>https://github.com/addyosmani/agent-skills</link>
-      <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
-      <pubDate>Thu, 08 Oct 2026 05:10:19 GMT</pubDate>
-      <description>Agent Skills Production grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. — +677 stars today · 102,962 stars · 10,781 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;Agent Skills Production grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.&lt;/p&gt;&lt;p&gt;🔥 +677 stars today · ⭐ &lt;b&gt;102,962&lt;/b&gt; stars · 🍴 &lt;b&gt;10,781&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/addyosmani/agent-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>ayghri/i-have-adhd</title>
-      <link>https://github.com/ayghri/i-have-adhd</link>
-      <guid isPermaLink="true">https://github.com/ayghri/i-have-adhd</guid>
-      <pubDate>Thu, 08 Oct 2026 05:10:19 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;./logo.png&quot; alt=&quot;i have adhd&quot; width=&quot;140&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;strong align=&quot;center&quot; ADHD friendly outputs. No ADHD diagnosis needed!&lt;/strong &lt;/p — +619 stars today · 55,302 stars · 3,165 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;./logo.png&amp;quot; alt=&amp;quot;i have adhd&amp;quot; width=&amp;quot;140&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong align=&amp;quot;center&amp;quot; ADHD friendly outputs. No ADHD diagnosis needed!&amp;lt;/strong &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +619 stars today · ⭐ &lt;b&gt;55,302&lt;/b&gt; stars · 🍴 &lt;b&gt;3,165&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ayghri/i-have-adhd&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 09 Oct 2026 05:13:01 GMT</pubDate>
+      <description>&lt;h1 &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/hero/hero dark.webp&quot; &lt;img alt=&quot;Diagram Design. Editorial diagrams your designer won't hate.&quot; src=&quot;docs/hero/hero light.webp&quot; &lt;/picture &lt;/h1 — +1,160 stars today · 46,714 stars · 2,970 forks · Language: HTML</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h1 &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/hero/hero dark.webp&amp;quot; &amp;lt;img alt=&amp;quot;Diagram Design. Editorial diagrams your designer won&amp;#x27;t hate.&amp;quot; src=&amp;quot;docs/hero/hero light.webp&amp;quot; &amp;lt;/picture &amp;lt;/h1&lt;/p&gt;&lt;p&gt;🔥 +1,160 stars today · ⭐ &lt;b&gt;46,714&lt;/b&gt; stars · 🍴 &lt;b&gt;2,970&lt;/b&gt; forks · &lt;b&gt;HTML&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cathrynlavery/diagram-design&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>thedotmack/claude-mem</title>
       <link>https://github.com/thedotmack/claude-mem</link>
       <guid isPermaLink="true">https://github.com/thedotmack/claude-mem</guid>
-      <pubDate>Thu, 08 Oct 2026 05:10:19 GMT</pubDate>
-      <description>&lt;h1 align=&quot;center&quot; &lt;br &lt;a href=&quot;https://github.com/thedotmack/claude mem&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/public/claude mem logo for dark mode.webp&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;docs/public/claude mem logo for light mode.webp&quot; — +578 stars today · 97,866 stars · 8,610 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;br &amp;lt;a href=&amp;quot;https://github.com/thedotmack/claude mem&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for dark mode.webp&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for light mode.webp&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +578 stars today · ⭐ &lt;b&gt;97,866&lt;/b&gt; stars · 🍴 &lt;b&gt;8,610&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/thedotmack/claude-mem&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 09 Oct 2026 05:13:01 GMT</pubDate>
+      <description>&lt;h1 align=&quot;center&quot; &lt;br &lt;a href=&quot;https://github.com/thedotmack/claude mem&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/public/claude mem logo for dark mode.webp&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;docs/public/claude mem logo for light mode.webp&quot; — +670 stars today · 98,643 stars · 8,648 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;br &amp;lt;a href=&amp;quot;https://github.com/thedotmack/claude mem&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for dark mode.webp&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for light mode.webp&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +670 stars today · ⭐ &lt;b&gt;98,643&lt;/b&gt; stars · 🍴 &lt;b&gt;8,648&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/thedotmack/claude-mem&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>cloudflare/security-audit-skill</title>
-      <link>https://github.com/cloudflare/security-audit-skill</link>
-      <guid isPermaLink="true">https://github.com/cloudflare/security-audit-skill</guid>
-      <pubDate>Thu, 08 Oct 2026 05:10:19 GMT</pubDate>
-      <description>security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting. — +576 stars today · 26,189 stars · 1,575 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting.&lt;/p&gt;&lt;p&gt;🔥 +576 stars today · ⭐ &lt;b&gt;26,189&lt;/b&gt; stars · 🍴 &lt;b&gt;1,575&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cloudflare/security-audit-skill&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>liquidslr/system-design-notes</title>
+      <link>https://github.com/liquidslr/system-design-notes</link>
+      <guid isPermaLink="true">https://github.com/liquidslr/system-design-notes</guid>
+      <pubDate>Fri, 09 Oct 2026 05:13:01 GMT</pubDate>
+      <description>System Design Interview An Insider's Guide (Vol 1 and 2) These notes are based on the System Design Interview books Vol 1 and Vol 2 2nd Ed Check the notes here: https://pagefy.io/system design/system design interview by alex xu Note: These notes are a work in progress. — +393 stars today · 24,834 stars · 4,625 forks</description>
+      <content:encoded>&lt;p&gt;System Design Interview An Insider&amp;#x27;s Guide (Vol 1 and 2) These notes are based on the System Design Interview books Vol 1 and Vol 2 2nd Ed Check the notes here: https://pagefy.io/system design/system design interview by alex xu Note: These notes are a work in progress.&lt;/p&gt;&lt;p&gt;🔥 +393 stars today · ⭐ &lt;b&gt;24,834&lt;/b&gt; stars · 🍴 &lt;b&gt;4,625&lt;/b&gt; forks&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/liquidslr/system-design-notes&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>trycua/cua</title>
-      <link>https://github.com/trycua/cua</link>
-      <guid isPermaLink="true">https://github.com/trycua/cua</guid>
-      <pubDate>Thu, 08 Oct 2026 05:10:19 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;a href=&quot;https://cua.ai&quot; target=&quot; blank&quot; rel=&quot;noopener noreferrer&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; alt=&quot;Cua logo&quot; width=&quot;150&quot; srcset=&quot;img/logo white.svg&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; alt=&quot;Cua logo&quot; width=&quot;150&quot; srcset=&quot;img/logo black.svg&quot; — +228 stars today · 28,845 stars · 2,042 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://cua.ai&amp;quot; target=&amp;quot; blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; alt=&amp;quot;Cua logo&amp;quot; width=&amp;quot;150&amp;quot; srcset=&amp;quot;img/logo white.svg&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; alt=&amp;quot;Cua logo&amp;quot; width=&amp;quot;150&amp;quot; srcset=&amp;quot;img/logo black.svg&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +228 stars today · ⭐ &lt;b&gt;28,845&lt;/b&gt; stars · 🍴 &lt;b&gt;2,042&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/trycua/cua&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>anthropics/knowledge-work-plugins</title>
+      <link>https://github.com/anthropics/knowledge-work-plugins</link>
+      <guid isPermaLink="true">https://github.com/anthropics/knowledge-work-plugins</guid>
+      <pubDate>Fri, 09 Oct 2026 05:13:01 GMT</pubDate>
+      <description>Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins — +392 stars today · 27,778 stars · 3,217 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins&lt;/p&gt;&lt;p&gt;🔥 +392 stars today · ⭐ &lt;b&gt;27,778&lt;/b&gt; stars · 🍴 &lt;b&gt;3,217&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/knowledge-work-plugins&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>EpicGames/raddebugger</title>
       <link>https://github.com/EpicGames/raddebugger</link>
       <guid isPermaLink="true">https://github.com/EpicGames/raddebugger</guid>
-      <pubDate>Thu, 08 Oct 2026 05:10:19 GMT</pubDate>
-      <description>The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and tips, can be found — +90 stars today · 7,920 stars · 386 forks · Language: C</description>
-      <content:encoded>&lt;p&gt;The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger&amp;#x27;s README, which includes usage instructions and tips, can be found&lt;/p&gt;&lt;p&gt;🔥 +90 stars today · ⭐ &lt;b&gt;7,920&lt;/b&gt; stars · 🍴 &lt;b&gt;386&lt;/b&gt; forks · &lt;b&gt;C&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/EpicGames/raddebugger&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>manaflow-ai/cmux</title>
-      <link>https://github.com/manaflow-ai/cmux</link>
-      <guid isPermaLink="true">https://github.com/manaflow-ai/cmux</guid>
-      <pubDate>Thu, 08 Oct 2026 05:10:19 GMT</pubDate>
-      <description>&lt;h1 align=&quot;center&quot; cmux&lt;/h1 &lt;p align=&quot;center&quot; A Ghostty based macOS terminal with vertical tabs and notifications for AI coding agents&lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot;https://github.com/manaflow ai/cmux/releases/latest/download/cmux macos.dmg&quot; — +44 stars today · 27,920 stars · 2,463 forks · Language: Swift</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; cmux&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; A Ghostty based macOS terminal with vertical tabs and notifications for AI coding agents&amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://github.com/manaflow ai/cmux/releases/latest/download/cmux macos.dmg&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +44 stars today · ⭐ &lt;b&gt;27,920&lt;/b&gt; stars · 🍴 &lt;b&gt;2,463&lt;/b&gt; forks · &lt;b&gt;Swift&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/manaflow-ai/cmux&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 09 Oct 2026 05:13:01 GMT</pubDate>
+      <description>The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and tips, can be found — +279 stars today · 8,161 stars · 391 forks · Language: C</description>
+      <content:encoded>&lt;p&gt;The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger&amp;#x27;s README, which includes usage instructions and tips, can be found&lt;/p&gt;&lt;p&gt;🔥 +279 stars today · ⭐ &lt;b&gt;8,161&lt;/b&gt; stars · 🍴 &lt;b&gt;391&lt;/b&gt; forks · &lt;b&gt;C&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/EpicGames/raddebugger&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
