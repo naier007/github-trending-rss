@@ -7,80 +7,96 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Fri, 09 Oct 2026 05:13:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 04:58:07 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
     <item>
       <title>morluto/rea</title>
       <link>https://github.com/morluto/rea</link>
       <guid isPermaLink="true">https://github.com/morluto/rea</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:01 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Türkçe · Русский · Tiếng Việt · ไทย · Deutsch · Español · Français · Українська · Polski · Português (Brasil) · العربية · فارسی REA: Reverse Engineer Anything One MCP for reverse engineering across binaries, applications, and runtime behavior. — +7,738 stars today · 29,760 stars · 3,542 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Türkçe · Русский · Tiếng Việt · ไทย · Deutsch · Español · Français · Українська · Polski · Português (Brasil) · العربية · فارسی REA: Reverse Engineer Anything One MCP for reverse engineering across binaries, applications, and runtime behavior.&lt;/p&gt;&lt;p&gt;🔥 +7,738 stars today · ⭐ &lt;b&gt;29,760&lt;/b&gt; stars · 🍴 &lt;b&gt;3,542&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/morluto/rea&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 10 Oct 2026 04:58:07 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Türkçe · Русский · Tiếng Việt · ไทย · Deutsch · Español · Français · Українська · Polski · Português (Brasil) · العربية · فارسی REA: Reverse Engineer Anything One MCP for reverse engineering across binaries, applications, and runtime behavior. — +14,927 stars today · 51,571 stars · 9,338 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Türkçe · Русский · Tiếng Việt · ไทย · Deutsch · Español · Français · Українська · Polski · Português (Brasil) · العربية · فارسی REA: Reverse Engineer Anything One MCP for reverse engineering across binaries, applications, and runtime behavior.&lt;/p&gt;&lt;p&gt;🔥 +14,927 stars today · ⭐ &lt;b&gt;51,571&lt;/b&gt; stars · 🍴 &lt;b&gt;9,338&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/morluto/rea&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>boykopovar/AnyPS5</title>
       <link>https://github.com/boykopovar/AnyPS5</link>
       <guid isPermaLink="true">https://github.com/boykopovar/AnyPS5</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:01 GMT</pubDate>
-      <description>About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emulation or separate runtime process. — +4,669 stars today · 16,610 stars · 1,320 forks · Language: C++</description>
-      <content:encoded>&lt;p&gt;About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system&amp;#x27;s native format and implementations of system prx libraries suitable for dynamic linking. No emulation or separate runtime process.&lt;/p&gt;&lt;p&gt;🔥 +4,669 stars today · ⭐ &lt;b&gt;16,610&lt;/b&gt; stars · 🍴 &lt;b&gt;1,320&lt;/b&gt; forks · &lt;b&gt;C++&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/boykopovar/AnyPS5&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 10 Oct 2026 04:58:07 GMT</pubDate>
+      <description>About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system's native format and implementations of system prx libraries suitable for dynamic linking. No emulation or separate runtime process. — +5,868 stars today · 23,026 stars · 1,897 forks · Language: C++</description>
+      <content:encoded>&lt;p&gt;About Tool for automatic executables porting to Linux and Windows. Includes a relinker that converts executable to the target system&amp;#x27;s native format and implementations of system prx libraries suitable for dynamic linking. No emulation or separate runtime process.&lt;/p&gt;&lt;p&gt;🔥 +5,868 stars today · ⭐ &lt;b&gt;23,026&lt;/b&gt; stars · 🍴 &lt;b&gt;1,897&lt;/b&gt; forks · &lt;b&gt;C++&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/boykopovar/AnyPS5&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>storytold/artcraft</title>
       <link>https://github.com/storytold/artcraft</link>
       <guid isPermaLink="true">https://github.com/storytold/artcraft</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:01 GMT</pubDate>
-      <description>&lt;h1 align=&quot;center&quot; ArtCraft&lt;/h1 &lt;p align=&quot;center&quot; &lt;strong The IDE for artists.&lt;/strong &lt;/p &lt;! Main video: https://www.youtube.com/watch?v=kzvQMdg66Go GitHub media issue: https://github.com/storytold/artcraft/issues/1951 https://github.com/user attachments/assets/7339bd09 3e0d 44a7 a024 af9de64e4c11 — +2,103 stars today · 8,595 stars · 1,261 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; ArtCraft&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong The IDE for artists.&amp;lt;/strong &amp;lt;/p &amp;lt;! Main video: https://www.youtube.com/watch?v=kzvQMdg66Go GitHub media issue: https://github.com/storytold/artcraft/issues/1951 https://github.com/user attachments/assets/7339bd09 3e0d 44a7 a024 af9de64e4c11&lt;/p&gt;&lt;p&gt;🔥 +2,103 stars today · ⭐ &lt;b&gt;8,595&lt;/b&gt; stars · 🍴 &lt;b&gt;1,261&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/storytold/artcraft&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>mattpocock/skills</title>
-      <link>https://github.com/mattpocock/skills</link>
-      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:01 GMT</pubDate>
-      <description>&lt;p &lt;a href=&quot;https://www.aihero.dev/s/skills newsletter&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&quot; — +1,774 stars today · 281,389 stars · 23,584 forks · Language: Shell</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p &amp;lt;a href=&amp;quot;https://www.aihero.dev/s/skills newsletter&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,774 stars today · ⭐ &lt;b&gt;281,389&lt;/b&gt; stars · 🍴 &lt;b&gt;23,584&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mattpocock/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 10 Oct 2026 04:58:07 GMT</pubDate>
+      <description>&lt;h1 align=&quot;center&quot; ArtCraft&lt;/h1 &lt;p align=&quot;center&quot; &lt;strong The IDE for artists.&lt;/strong &lt;/p &lt;! Main video: https://www.youtube.com/watch?v=kzvQMdg66Go GitHub media issue: https://github.com/storytold/artcraft/issues/1951 https://github.com/user attachments/assets/7339bd09 3e0d 44a7 a024 af9de64e4c11 — +3,752 stars today · 11,986 stars · 1,818 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; ArtCraft&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong The IDE for artists.&amp;lt;/strong &amp;lt;/p &amp;lt;! Main video: https://www.youtube.com/watch?v=kzvQMdg66Go GitHub media issue: https://github.com/storytold/artcraft/issues/1951 https://github.com/user attachments/assets/7339bd09 3e0d 44a7 a024 af9de64e4c11&lt;/p&gt;&lt;p&gt;🔥 +3,752 stars today · ⭐ &lt;b&gt;11,986&lt;/b&gt; stars · 🍴 &lt;b&gt;1,818&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/storytold/artcraft&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>cathrynlavery/diagram-design</title>
       <link>https://github.com/cathrynlavery/diagram-design</link>
       <guid isPermaLink="true">https://github.com/cathrynlavery/diagram-design</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:01 GMT</pubDate>
-      <description>&lt;h1 &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/hero/hero dark.webp&quot; &lt;img alt=&quot;Diagram Design. Editorial diagrams your designer won't hate.&quot; src=&quot;docs/hero/hero light.webp&quot; &lt;/picture &lt;/h1 — +1,160 stars today · 46,714 stars · 2,970 forks · Language: HTML</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/hero/hero dark.webp&amp;quot; &amp;lt;img alt=&amp;quot;Diagram Design. Editorial diagrams your designer won&amp;#x27;t hate.&amp;quot; src=&amp;quot;docs/hero/hero light.webp&amp;quot; &amp;lt;/picture &amp;lt;/h1&lt;/p&gt;&lt;p&gt;🔥 +1,160 stars today · ⭐ &lt;b&gt;46,714&lt;/b&gt; stars · 🍴 &lt;b&gt;2,970&lt;/b&gt; forks · &lt;b&gt;HTML&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cathrynlavery/diagram-design&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 10 Oct 2026 04:58:07 GMT</pubDate>
+      <description>Diagram Design An agent skill for Claude Code, Codex, Copilot, Cursor and more that draws editorial diagrams as one self contained HTML+SVG file, in your brand, with design rules baked in. 44 diagram types. No shadows. No Mermaid slop. Project site: diagramdesign.dev — +1,739 stars today · 48,102 stars · 3,044 forks · Language: HTML</description>
+      <content:encoded>&lt;p&gt;Diagram Design An agent skill for Claude Code, Codex, Copilot, Cursor and more that draws editorial diagrams as one self contained HTML+SVG file, in your brand, with design rules baked in. 44 diagram types. No shadows. No Mermaid slop. Project site: diagramdesign.dev&lt;/p&gt;&lt;p&gt;🔥 +1,739 stars today · ⭐ &lt;b&gt;48,102&lt;/b&gt; stars · 🍴 &lt;b&gt;3,044&lt;/b&gt; forks · &lt;b&gt;HTML&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cathrynlavery/diagram-design&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>thedotmack/claude-mem</title>
-      <link>https://github.com/thedotmack/claude-mem</link>
-      <guid isPermaLink="true">https://github.com/thedotmack/claude-mem</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:01 GMT</pubDate>
-      <description>&lt;h1 align=&quot;center&quot; &lt;br &lt;a href=&quot;https://github.com/thedotmack/claude mem&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/public/claude mem logo for dark mode.webp&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;docs/public/claude mem logo for light mode.webp&quot; — +670 stars today · 98,643 stars · 8,648 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;br &amp;lt;a href=&amp;quot;https://github.com/thedotmack/claude mem&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for dark mode.webp&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for light mode.webp&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +670 stars today · ⭐ &lt;b&gt;98,643&lt;/b&gt; stars · 🍴 &lt;b&gt;8,648&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/thedotmack/claude-mem&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>liquidslr/system-design-notes</title>
-      <link>https://github.com/liquidslr/system-design-notes</link>
-      <guid isPermaLink="true">https://github.com/liquidslr/system-design-notes</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:01 GMT</pubDate>
-      <description>System Design Interview An Insider's Guide (Vol 1 and 2) These notes are based on the System Design Interview books Vol 1 and Vol 2 2nd Ed Check the notes here: https://pagefy.io/system design/system design interview by alex xu Note: These notes are a work in progress. — +393 stars today · 24,834 stars · 4,625 forks</description>
-      <content:encoded>&lt;p&gt;System Design Interview An Insider&amp;#x27;s Guide (Vol 1 and 2) These notes are based on the System Design Interview books Vol 1 and Vol 2 2nd Ed Check the notes here: https://pagefy.io/system design/system design interview by alex xu Note: These notes are a work in progress.&lt;/p&gt;&lt;p&gt;🔥 +393 stars today · ⭐ &lt;b&gt;24,834&lt;/b&gt; stars · 🍴 &lt;b&gt;4,625&lt;/b&gt; forks&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/liquidslr/system-design-notes&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>mattpocock/skills</title>
+      <link>https://github.com/mattpocock/skills</link>
+      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
+      <pubDate>Sat, 10 Oct 2026 04:58:07 GMT</pubDate>
+      <description>&lt;p &lt;a href=&quot;https://www.aihero.dev/s/skills newsletter&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&quot; — +1,687 stars today · 283,018 stars · 23,713 forks · Language: Shell</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p &amp;lt;a href=&amp;quot;https://www.aihero.dev/s/skills newsletter&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,687 stars today · ⭐ &lt;b&gt;283,018&lt;/b&gt; stars · 🍴 &lt;b&gt;23,713&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mattpocock/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>anthropics/knowledge-work-plugins</title>
       <link>https://github.com/anthropics/knowledge-work-plugins</link>
       <guid isPermaLink="true">https://github.com/anthropics/knowledge-work-plugins</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:01 GMT</pubDate>
-      <description>Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins — +392 stars today · 27,778 stars · 3,217 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins&lt;/p&gt;&lt;p&gt;🔥 +392 stars today · ⭐ &lt;b&gt;27,778&lt;/b&gt; stars · 🍴 &lt;b&gt;3,217&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/knowledge-work-plugins&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 10 Oct 2026 04:58:07 GMT</pubDate>
+      <description>Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins — +709 stars today · 28,375 stars · 3,253 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins&lt;/p&gt;&lt;p&gt;🔥 +709 stars today · ⭐ &lt;b&gt;28,375&lt;/b&gt; stars · 🍴 &lt;b&gt;3,253&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/knowledge-work-plugins&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>EpicGames/raddebugger</title>
-      <link>https://github.com/EpicGames/raddebugger</link>
-      <guid isPermaLink="true">https://github.com/EpicGames/raddebugger</guid>
-      <pubDate>Fri, 09 Oct 2026 05:13:01 GMT</pubDate>
-      <description>The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and tips, can be found — +279 stars today · 8,161 stars · 391 forks · Language: C</description>
-      <content:encoded>&lt;p&gt;The RAD Debugger Project NOTE: This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger&amp;#x27;s README, which includes usage instructions and tips, can be found&lt;/p&gt;&lt;p&gt;🔥 +279 stars today · ⭐ &lt;b&gt;8,161&lt;/b&gt; stars · 🍴 &lt;b&gt;391&lt;/b&gt; forks · &lt;b&gt;C&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/EpicGames/raddebugger&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>addyosmani/agent-skills</title>
+      <link>https://github.com/addyosmani/agent-skills</link>
+      <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
+      <pubDate>Sat, 10 Oct 2026 04:58:07 GMT</pubDate>
+      <description>Agent Skills Production grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. — +436 stars today · 104,125 stars · 10,871 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;Agent Skills Production grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.&lt;/p&gt;&lt;p&gt;🔥 +436 stars today · ⭐ &lt;b&gt;104,125&lt;/b&gt; stars · 🍴 &lt;b&gt;10,871&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/addyosmani/agent-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>alibaba/open-code-review</title>
+      <link>https://github.com/alibaba/open-code-review</link>
+      <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
+      <pubDate>Sat, 10 Oct 2026 04:58:07 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;a href=&quot;https://open codereview.ai&quot; &lt;img src=&quot;imgs/logo core.svg&quot; alt=&quot;OpenCodeReview logo&quot; width=&quot;180&quot; / &lt;/a &lt;h1 OpenCodeReview&lt;/h1 &lt;/div — +326 stars today · 45,425 stars · 3,278 forks · Language: Go</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://open codereview.ai&amp;quot; &amp;lt;img src=&amp;quot;imgs/logo core.svg&amp;quot; alt=&amp;quot;OpenCodeReview logo&amp;quot; width=&amp;quot;180&amp;quot; / &amp;lt;/a &amp;lt;h1 OpenCodeReview&amp;lt;/h1 &amp;lt;/div&lt;/p&gt;&lt;p&gt;🔥 +326 stars today · ⭐ &lt;b&gt;45,425&lt;/b&gt; stars · 🍴 &lt;b&gt;3,278&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/alibaba/open-code-review&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Robbyant/lingbot-map</title>
+      <link>https://github.com/Robbyant/lingbot-map</link>
+      <guid isPermaLink="true">https://github.com/Robbyant/lingbot-map</guid>
+      <pubDate>Sat, 10 Oct 2026 04:58:07 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;assets/teaser.webp&quot; width=&quot;100%&quot; &lt;h1 LingBot Map: Geometric Context Transformer for Streaming 3D Reconstruction&lt;/h1 Robbyant Team &lt;/div &lt;div align=&quot;center&quot; — +110 stars today · 17,781 stars · 1,956 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/teaser.webp&amp;quot; width=&amp;quot;100%&amp;quot; &amp;lt;h1 LingBot Map: Geometric Context Transformer for Streaming 3D Reconstruction&amp;lt;/h1 Robbyant Team &amp;lt;/div &amp;lt;div align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +110 stars today · ⭐ &lt;b&gt;17,781&lt;/b&gt; stars · 🍴 &lt;b&gt;1,956&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Robbyant/lingbot-map&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>BerriAI/litellm</title>
+      <link>https://github.com/BerriAI/litellm</link>
+      <guid isPermaLink="true">https://github.com/BerriAI/litellm</guid>
+      <pubDate>Sat, 10 Oct 2026 04:58:07 GMT</pubDate>
+      <description>&lt;h1 align=&quot;center&quot; 🚅 LiteLLM &lt;/h1 &lt;p align=&quot;center&quot; &lt;p align=&quot;center&quot; LiteLLM AI Gateway &lt;/p — +95 stars today · 60,755 stars · 12,197 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; 🚅 LiteLLM &amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;p align=&amp;quot;center&amp;quot; LiteLLM AI Gateway &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +95 stars today · ⭐ &lt;b&gt;60,755&lt;/b&gt; stars · 🍴 &lt;b&gt;12,197&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/BerriAI/litellm&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>twostraws/SwiftUI-Agent-Skill</title>
+      <link>https://github.com/twostraws/SwiftUI-Agent-Skill</link>
+      <guid isPermaLink="true">https://github.com/twostraws/SwiftUI-Agent-Skill</guid>
+      <pubDate>Sat, 10 Oct 2026 04:58:07 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/logo.svg&quot; alt=&quot;SwiftUI Pro Agent Skill for Claude Code, Codex, and Gemini&quot; height=&quot;100&quot; / &lt;/p &lt;h1 align=&quot;center&quot; SwiftUI Agent Skill for AI Coding Assistants&lt;/h1 &lt;p align=&quot;center&quot; — +65 stars today · 5,544 stars · 197 forks</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/logo.svg&amp;quot; alt=&amp;quot;SwiftUI Pro Agent Skill for Claude Code, Codex, and Gemini&amp;quot; height=&amp;quot;100&amp;quot; / &amp;lt;/p &amp;lt;h1 align=&amp;quot;center&amp;quot; SwiftUI Agent Skill for AI Coding Assistants&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +65 stars today · ⭐ &lt;b&gt;5,544&lt;/b&gt; stars · 🍴 &lt;b&gt;197&lt;/b&gt; forks&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/twostraws/SwiftUI-Agent-Skill&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
