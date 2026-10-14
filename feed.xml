@@ -7,80 +7,80 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Tue, 13 Oct 2026 06:01:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:05:02 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
     <item>
       <title>morluto/rea</title>
       <link>https://github.com/morluto/rea</link>
       <guid isPermaLink="true">https://github.com/morluto/rea</guid>
-      <pubDate>Tue, 13 Oct 2026 06:01:33 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Türkçe · Русский · Tiếng Việt · ไทย · Deutsch · Español · Français · Українська · Polski · Português (Brasil) · العربية · فارسی · Bahasa Indonesia · Italiano REA: Reverse Engineer Anything — +45,327 stars today · 171,185 stars · 40,891 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Türkçe · Русский · Tiếng Việt · ไทย · Deutsch · Español · Français · Українська · Polski · Português (Brasil) · العربية · فارسی · Bahasa Indonesia · Italiano REA: Reverse Engineer Anything&lt;/p&gt;&lt;p&gt;🔥 +45,327 stars today · ⭐ &lt;b&gt;171,185&lt;/b&gt; stars · 🍴 &lt;b&gt;40,891&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/morluto/rea&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 14 Oct 2026 04:05:02 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Türkçe · Русский · Tiếng Việt · ไทย · Deutsch · Español · Français · Українська · Polski · Português (Brasil) · العربية · فارسی · Bahasa Indonesia · Italiano · Ελληνικά REA: Reverse Engineer Anything — +54,679 stars today · 213,815 stars · 52,655 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Türkçe · Русский · Tiếng Việt · ไทย · Deutsch · Español · Français · Українська · Polski · Português (Brasil) · العربية · فارسی · Bahasa Indonesia · Italiano · Ελληνικά REA: Reverse Engineer Anything&lt;/p&gt;&lt;p&gt;🔥 +54,679 stars today · ⭐ &lt;b&gt;213,815&lt;/b&gt; stars · 🍴 &lt;b&gt;52,655&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/morluto/rea&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>storytold/artcraft</title>
       <link>https://github.com/storytold/artcraft</link>
       <guid isPermaLink="true">https://github.com/storytold/artcraft</guid>
-      <pubDate>Tue, 13 Oct 2026 06:01:33 GMT</pubDate>
-      <description>&lt;h1 align=&quot;center&quot; ArtCraft&lt;/h1 &lt;p align=&quot;center&quot; &lt;strong The IDE for artists.&lt;/strong &lt;/p &lt;! Main video: https://www.youtube.com/watch?v=kzvQMdg66Go GitHub media issue: https://github.com/storytold/artcraft/issues/1951 https://github.com/user attachments/assets/7339bd09 3e0d 44a7 a024 af9de64e4c11 — +4,095 stars today · 22,920 stars · 3,668 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; ArtCraft&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong The IDE for artists.&amp;lt;/strong &amp;lt;/p &amp;lt;! Main video: https://www.youtube.com/watch?v=kzvQMdg66Go GitHub media issue: https://github.com/storytold/artcraft/issues/1951 https://github.com/user attachments/assets/7339bd09 3e0d 44a7 a024 af9de64e4c11&lt;/p&gt;&lt;p&gt;🔥 +4,095 stars today · ⭐ &lt;b&gt;22,920&lt;/b&gt; stars · 🍴 &lt;b&gt;3,668&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/storytold/artcraft&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>cathrynlavery/diagram-design</title>
-      <link>https://github.com/cathrynlavery/diagram-design</link>
-      <guid isPermaLink="true">https://github.com/cathrynlavery/diagram-design</guid>
-      <pubDate>Tue, 13 Oct 2026 06:01:33 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;h1 &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/hero/hero dark.webp&quot; &lt;img alt=&quot;Diagram Design. Editorial diagrams your designer won't hate.&quot; src=&quot;docs/hero/hero light.webp&quot; &lt;/picture — +2,081 stars today · 52,998 stars · 3,348 forks · Language: HTML</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;h1 &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/hero/hero dark.webp&amp;quot; &amp;lt;img alt=&amp;quot;Diagram Design. Editorial diagrams your designer won&amp;#x27;t hate.&amp;quot; src=&amp;quot;docs/hero/hero light.webp&amp;quot; &amp;lt;/picture&lt;/p&gt;&lt;p&gt;🔥 +2,081 stars today · ⭐ &lt;b&gt;52,998&lt;/b&gt; stars · 🍴 &lt;b&gt;3,348&lt;/b&gt; forks · &lt;b&gt;HTML&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cathrynlavery/diagram-design&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 14 Oct 2026 04:05:02 GMT</pubDate>
+      <description>&lt;h1 align=&quot;center&quot; ArtCraft&lt;/h1 &lt;p align=&quot;center&quot; &lt;strong The IDE for artists.&lt;/strong &lt;/p &lt;! Main video: https://www.youtube.com/watch?v=kzvQMdg66Go GitHub media issue: https://github.com/storytold/artcraft/issues/1951 https://github.com/user attachments/assets/7339bd09 3e0d 44a7 a024 af9de64e4c11 — +4,081 stars today · 26,117 stars · 4,096 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; ArtCraft&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong The IDE for artists.&amp;lt;/strong &amp;lt;/p &amp;lt;! Main video: https://www.youtube.com/watch?v=kzvQMdg66Go GitHub media issue: https://github.com/storytold/artcraft/issues/1951 https://github.com/user attachments/assets/7339bd09 3e0d 44a7 a024 af9de64e4c11&lt;/p&gt;&lt;p&gt;🔥 +4,081 stars today · ⭐ &lt;b&gt;26,117&lt;/b&gt; stars · 🍴 &lt;b&gt;4,096&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/storytold/artcraft&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>bilawalsidhu/gods-eye-view</title>
       <link>https://github.com/bilawalsidhu/gods-eye-view</link>
       <guid isPermaLink="true">https://github.com/bilawalsidhu/gods-eye-view</guid>
-      <pubDate>Tue, 13 Oct 2026 06:01:33 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; 🌐 God's Eye View ![CI](https://github.com/bilawalsidhu/gods eye view/actions/workflows/ci.yml) ![Reached 1 on GitHub Trending](https://x.com/bilawalsidhu/status/2093798887815348521) — +1,895 stars today · 54,073 stars · 10,650 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; 🌐 God&amp;#x27;s Eye View ![CI](https://github.com/bilawalsidhu/gods eye view/actions/workflows/ci.yml) ![Reached 1 on GitHub Trending](https://x.com/bilawalsidhu/status/2093798887815348521)&lt;/p&gt;&lt;p&gt;🔥 +1,895 stars today · ⭐ &lt;b&gt;54,073&lt;/b&gt; stars · 🍴 &lt;b&gt;10,650&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/bilawalsidhu/gods-eye-view&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 14 Oct 2026 04:05:02 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; 🌐 God's Eye View ![CI](https://github.com/bilawalsidhu/gods eye view/actions/workflows/ci.yml) ![Reached 1 on GitHub Trending](https://x.com/bilawalsidhu/status/2093798887815348521) — +1,961 stars today · 55,656 stars · 10,862 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; 🌐 God&amp;#x27;s Eye View ![CI](https://github.com/bilawalsidhu/gods eye view/actions/workflows/ci.yml) ![Reached 1 on GitHub Trending](https://x.com/bilawalsidhu/status/2093798887815348521)&lt;/p&gt;&lt;p&gt;🔥 +1,961 stars today · ⭐ &lt;b&gt;55,656&lt;/b&gt; stars · 🍴 &lt;b&gt;10,862&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/bilawalsidhu/gods-eye-view&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>cathrynlavery/diagram-design</title>
+      <link>https://github.com/cathrynlavery/diagram-design</link>
+      <guid isPermaLink="true">https://github.com/cathrynlavery/diagram-design</guid>
+      <pubDate>Wed, 14 Oct 2026 04:05:02 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;h1 &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/hero/hero dark.webp&quot; &lt;img alt=&quot;Diagram Design. Editorial diagrams your designer won't hate.&quot; src=&quot;docs/hero/hero light.webp&quot; &lt;/picture — +1,815 stars today · 54,422 stars · 3,443 forks · Language: HTML</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;h1 &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/hero/hero dark.webp&amp;quot; &amp;lt;img alt=&amp;quot;Diagram Design. Editorial diagrams your designer won&amp;#x27;t hate.&amp;quot; src=&amp;quot;docs/hero/hero light.webp&amp;quot; &amp;lt;/picture&lt;/p&gt;&lt;p&gt;🔥 +1,815 stars today · ⭐ &lt;b&gt;54,422&lt;/b&gt; stars · 🍴 &lt;b&gt;3,443&lt;/b&gt; forks · &lt;b&gt;HTML&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cathrynlavery/diagram-design&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>debpalash/VoiceStudio</title>
+      <link>https://github.com/debpalash/VoiceStudio</link>
+      <guid isPermaLink="true">https://github.com/debpalash/VoiceStudio</guid>
+      <pubDate>Wed, 14 Oct 2026 04:05:02 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;docs/logo.png&quot; alt=&quot;VoiceStudio&quot; width=&quot;88&quot; / &lt;h1 VoiceStudio&lt;/h1 &lt;p — +1,748 stars today · 63,807 stars · 7,093 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/logo.png&amp;quot; alt=&amp;quot;VoiceStudio&amp;quot; width=&amp;quot;88&amp;quot; / &amp;lt;h1 VoiceStudio&amp;lt;/h1 &amp;lt;p&lt;/p&gt;&lt;p&gt;🔥 +1,748 stars today · ⭐ &lt;b&gt;63,807&lt;/b&gt; stars · 🍴 &lt;b&gt;7,093&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/debpalash/VoiceStudio&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>xtool-org/xtool</title>
+      <link>https://github.com/xtool-org/xtool</link>
+      <guid isPermaLink="true">https://github.com/xtool-org/xtool</guid>
+      <pubDate>Wed, 14 Oct 2026 04:05:02 GMT</pubDate>
+      <description>xtool Cross platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, and macOS. Overview xtool is a cross platform (Linux/WSL/macOS) tool that replicates Xcode functionality with open standards. ✅ Build a SwiftPM package into an iOS app ✅ Sign and install iOS apps — +1,198 stars today · 9,610 stars · 407 forks · Language: Swift</description>
+      <content:encoded>&lt;p&gt;xtool Cross platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, and macOS. Overview xtool is a cross platform (Linux/WSL/macOS) tool that replicates Xcode functionality with open standards. ✅ Build a SwiftPM package into an iOS app ✅ Sign and install iOS apps&lt;/p&gt;&lt;p&gt;🔥 +1,198 stars today · ⭐ &lt;b&gt;9,610&lt;/b&gt; stars · 🍴 &lt;b&gt;407&lt;/b&gt; forks · &lt;b&gt;Swift&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/xtool-org/xtool&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>lyogavin/airllm</title>
       <link>https://github.com/lyogavin/airllm</link>
       <guid isPermaLink="true">https://github.com/lyogavin/airllm</guid>
-      <pubDate>Tue, 13 Oct 2026 06:01:33 GMT</pubDate>
-      <description>Quickstart Configurations MacOS Example notebooks FAQ — +879 stars today · 37,723 stars · 3,886 forks · Language: Jupyter Notebook</description>
-      <content:encoded>&lt;p&gt;Quickstart Configurations MacOS Example notebooks FAQ&lt;/p&gt;&lt;p&gt;🔥 +879 stars today · ⭐ &lt;b&gt;37,723&lt;/b&gt; stars · 🍴 &lt;b&gt;3,886&lt;/b&gt; forks · &lt;b&gt;Jupyter Notebook&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/lyogavin/airllm&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Alishahryar1/free-claude-code</title>
-      <link>https://github.com/Alishahryar1/free-claude-code</link>
-      <guid isPermaLink="true">https://github.com/Alishahryar1/free-claude-code</guid>
-      <pubDate>Tue, 13 Oct 2026 06:01:33 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;h1 &lt;picture &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;assets/free claude code wordmark light.svg&quot; &lt;img src=&quot;assets/free claude code wordmark dark.svg&quot; alt=&quot;Free Claude Code&quot; width=&quot;610&quot; &lt;/picture — +626 stars today · 59,447 stars · 9,348 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;h1 &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;assets/free claude code wordmark light.svg&amp;quot; &amp;lt;img src=&amp;quot;assets/free claude code wordmark dark.svg&amp;quot; alt=&amp;quot;Free Claude Code&amp;quot; width=&amp;quot;610&amp;quot; &amp;lt;/picture&lt;/p&gt;&lt;p&gt;🔥 +626 stars today · ⭐ &lt;b&gt;59,447&lt;/b&gt; stars · 🍴 &lt;b&gt;9,348&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Alishahryar1/free-claude-code&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 14 Oct 2026 04:05:02 GMT</pubDate>
+      <description>Quickstart Configurations MacOS Example notebooks FAQ — +1,001 stars today · 38,424 stars · 3,929 forks · Language: Jupyter Notebook</description>
+      <content:encoded>&lt;p&gt;Quickstart Configurations MacOS Example notebooks FAQ&lt;/p&gt;&lt;p&gt;🔥 +1,001 stars today · ⭐ &lt;b&gt;38,424&lt;/b&gt; stars · 🍴 &lt;b&gt;3,929&lt;/b&gt; forks · &lt;b&gt;Jupyter Notebook&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/lyogavin/airllm&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>mksglu/context-mode</title>
       <link>https://github.com/mksglu/context-mode</link>
       <guid isPermaLink="true">https://github.com/mksglu/context-mode</guid>
-      <pubDate>Tue, 13 Oct 2026 06:01:33 GMT</pubDate>
-      <description>Context Mode The other half of the context problem. — +246 stars today · 27,511 stars · 1,954 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;Context Mode The other half of the context problem.&lt;/p&gt;&lt;p&gt;🔥 +246 stars today · ⭐ &lt;b&gt;27,511&lt;/b&gt; stars · 🍴 &lt;b&gt;1,954&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mksglu/context-mode&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 14 Oct 2026 04:05:02 GMT</pubDate>
+      <description>Context Mode The other half of the context problem. — +969 stars today · 28,384 stars · 1,997 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;Context Mode The other half of the context problem.&lt;/p&gt;&lt;p&gt;🔥 +969 stars today · ⭐ &lt;b&gt;28,384&lt;/b&gt; stars · 🍴 &lt;b&gt;1,997&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mksglu/context-mode&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>open-webui/open-webui</title>
-      <link>https://github.com/open-webui/open-webui</link>
-      <guid isPermaLink="true">https://github.com/open-webui/open-webui</guid>
-      <pubDate>Tue, 13 Oct 2026 06:01:33 GMT</pubDate>
-      <description>Open WebUI 👋 ![Discord](https://discord.gg/5rJgQTnV4s) ![](https://github.com/sponsors/open webui) — +157 stars today · 155,271 stars · 22,660 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Open WebUI 👋 ![Discord](https://discord.gg/5rJgQTnV4s) ![](https://github.com/sponsors/open webui)&lt;/p&gt;&lt;p&gt;🔥 +157 stars today · ⭐ &lt;b&gt;155,271&lt;/b&gt; stars · 🍴 &lt;b&gt;22,660&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/open-webui/open-webui&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>microsoft/BitNet</title>
-      <link>https://github.com/microsoft/BitNet</link>
-      <guid isPermaLink="true">https://github.com/microsoft/BitNet</guid>
-      <pubDate>Tue, 13 Oct 2026 06:01:33 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; bitnet.cpp ![License: MIT](https://opensource.org/licenses/MIT) ![Hugging Face](https://huggingface.co/collections/microsoft/bitnet) ![Technical Report](https://arxiv.org/abs/2502.11880) ![Demo](https://demo bitnet h0h8hcfqeqhrf5gf.canadacentral 01.azurewebsites.net/) — +97 stars today · 41,006 stars · 3,816 forks · Language: C++</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; bitnet.cpp ![License: MIT](https://opensource.org/licenses/MIT) ![Hugging Face](https://huggingface.co/collections/microsoft/bitnet) ![Technical Report](https://arxiv.org/abs/2502.11880) ![Demo](https://demo bitnet h0h8hcfqeqhrf5gf.canadacentral 01.azurewebsites.net/)&lt;/p&gt;&lt;p&gt;🔥 +97 stars today · ⭐ &lt;b&gt;41,006&lt;/b&gt; stars · 🍴 &lt;b&gt;3,816&lt;/b&gt; forks · &lt;b&gt;C++&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/microsoft/BitNet&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>vercel-labs/skills</title>
+      <link>https://github.com/vercel-labs/skills</link>
+      <guid isPermaLink="true">https://github.com/vercel-labs/skills</guid>
+      <pubDate>Wed, 14 Oct 2026 04:05:02 GMT</pubDate>
+      <description>skills The CLI for the open agent skills ecosystem. &lt;! agent list:start Supports OpenCode , Claude Code , Codex , Cursor , and 75 more. &lt;! agent list:end &lt;p — +190 stars today · 34,647 stars · 2,954 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;skills The CLI for the open agent skills ecosystem. &amp;lt;! agent list:start Supports OpenCode , Claude Code , Codex , Cursor , and 75 more. &amp;lt;! agent list:end &amp;lt;p&lt;/p&gt;&lt;p&gt;🔥 +190 stars today · ⭐ &lt;b&gt;34,647&lt;/b&gt; stars · 🍴 &lt;b&gt;2,954&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/vercel-labs/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
