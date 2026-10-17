@@ -7,104 +7,112 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Fri, 16 Oct 2026 03:43:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 03:33:13 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
-    <item>
-      <title>morluto/rea</title>
-      <link>https://github.com/morluto/rea</link>
-      <guid isPermaLink="true">https://github.com/morluto/rea</guid>
-      <pubDate>Fri, 16 Oct 2026 03:43:03 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Türkçe · Русский · Tiếng Việt · ไทย · Deutsch · Español · Français · Українська · Polski · Português (Brasil) · العربية · فارسی · Bahasa Indonesia · Italiano · Ελληνικά REA: Reverse Engineer Anything — +32,314 stars today · 274,272 stars · 69,042 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; English · 简体中文 · 繁體中文 · 日本語 · 한국어 · Türkçe · Русский · Tiếng Việt · ไทย · Deutsch · Español · Français · Українська · Polski · Português (Brasil) · العربية · فارسی · Bahasa Indonesia · Italiano · Ελληνικά REA: Reverse Engineer Anything&lt;/p&gt;&lt;p&gt;🔥 +32,314 stars today · ⭐ &lt;b&gt;274,272&lt;/b&gt; stars · 🍴 &lt;b&gt;69,042&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/morluto/rea&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
     <item>
       <title>debpalash/VoiceStudio</title>
       <link>https://github.com/debpalash/VoiceStudio</link>
       <guid isPermaLink="true">https://github.com/debpalash/VoiceStudio</guid>
-      <pubDate>Fri, 16 Oct 2026 03:43:03 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;docs/logo.png&quot; alt=&quot;VoiceStudio&quot; width=&quot;88&quot; / &lt;h1 VoiceStudio&lt;/h1 &lt;p — +3,024 stars today · 69,356 stars · 7,594 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/logo.png&amp;quot; alt=&amp;quot;VoiceStudio&amp;quot; width=&amp;quot;88&amp;quot; / &amp;lt;h1 VoiceStudio&amp;lt;/h1 &amp;lt;p&lt;/p&gt;&lt;p&gt;🔥 +3,024 stars today · ⭐ &lt;b&gt;69,356&lt;/b&gt; stars · 🍴 &lt;b&gt;7,594&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/debpalash/VoiceStudio&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>NationalSecurityAgency/ghidra</title>
-      <link>https://github.com/NationalSecurityAgency/ghidra</link>
-      <guid isPermaLink="true">https://github.com/NationalSecurityAgency/ghidra</guid>
-      <pubDate>Fri, 16 Oct 2026 03:43:03 GMT</pubDate>
-      <description>&lt;img src=&quot;Ghidra/Features/Base/src/main/resources/images/GHIDRA 3.png&quot; width=&quot;400&quot; Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the — +1,369 stars today · 88,921 stars · 9,932 forks · Language: Java</description>
-      <content:encoded>&lt;p&gt;&amp;lt;img src=&amp;quot;Ghidra/Features/Base/src/main/resources/images/GHIDRA 3.png&amp;quot; width=&amp;quot;400&amp;quot; Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the&lt;/p&gt;&lt;p&gt;🔥 +1,369 stars today · ⭐ &lt;b&gt;88,921&lt;/b&gt; stars · 🍴 &lt;b&gt;9,932&lt;/b&gt; forks · &lt;b&gt;Java&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/NationalSecurityAgency/ghidra&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>K-Dense-AI/scientific-agent-skills</title>
-      <link>https://github.com/K-Dense-AI/scientific-agent-skills</link>
-      <guid isPermaLink="true">https://github.com/K-Dense-AI/scientific-agent-skills</guid>
-      <pubDate>Fri, 16 Oct 2026 03:43:03 GMT</pubDate>
-      <description>Scientific Agent Skills ![License: MIT](LICENSE.md) ![arXiv](https://arxiv.org/abs/2609.00065) ![Version](pyproject.toml) ![Skills]( whats included) ![Databases]( whats included) — +1,091 stars today · 50,634 stars · 4,501 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Scientific Agent Skills ![License: MIT](LICENSE.md) ![arXiv](https://arxiv.org/abs/2609.00065) ![Version](pyproject.toml) ![Skills]( whats included) ![Databases]( whats included)&lt;/p&gt;&lt;p&gt;🔥 +1,091 stars today · ⭐ &lt;b&gt;50,634&lt;/b&gt; stars · 🍴 &lt;b&gt;4,501&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/K-Dense-AI/scientific-agent-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>affaan-m/ECC</title>
-      <link>https://github.com/affaan-m/ECC</link>
-      <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
-      <pubDate>Fri, 16 Oct 2026 03:43:03 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/hero.png&quot; alt=&quot;ECC the agent harness operating system&quot; width=&quot;100%&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot;https://www.star history.com/affaan m/ecc&quot; &lt;picture — +1,013 stars today · 280,518 stars · 41,716 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/hero.png&amp;quot; alt=&amp;quot;ECC the agent harness operating system&amp;quot; width=&amp;quot;100%&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://www.star history.com/affaan m/ecc&amp;quot; &amp;lt;picture&lt;/p&gt;&lt;p&gt;🔥 +1,013 stars today · ⭐ &lt;b&gt;280,518&lt;/b&gt; stars · 🍴 &lt;b&gt;41,716&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/affaan-m/ECC&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>mksglu/context-mode</title>
-      <link>https://github.com/mksglu/context-mode</link>
-      <guid isPermaLink="true">https://github.com/mksglu/context-mode</guid>
-      <pubDate>Fri, 16 Oct 2026 03:43:03 GMT</pubDate>
-      <description>Context Mode The other half of the context problem. — +904 stars today · 29,856 stars · 2,084 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;Context Mode The other half of the context problem.&lt;/p&gt;&lt;p&gt;🔥 +904 stars today · ⭐ &lt;b&gt;29,856&lt;/b&gt; stars · 🍴 &lt;b&gt;2,084&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mksglu/context-mode&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 17 Oct 2026 03:33:13 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;docs/logo.png&quot; alt=&quot;VoiceStudio&quot; width=&quot;88&quot; / &lt;h1 VoiceStudio&lt;/h1 &lt;p — +2,301 stars today · 71,428 stars · 7,812 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/logo.png&amp;quot; alt=&amp;quot;VoiceStudio&amp;quot; width=&amp;quot;88&amp;quot; / &amp;lt;h1 VoiceStudio&amp;lt;/h1 &amp;lt;p&lt;/p&gt;&lt;p&gt;🔥 +2,301 stars today · ⭐ &lt;b&gt;71,428&lt;/b&gt; stars · 🍴 &lt;b&gt;7,812&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/debpalash/VoiceStudio&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>xerj-org/xerj</title>
       <link>https://github.com/xerj-org/xerj</link>
       <guid isPermaLink="true">https://github.com/xerj-org/xerj</guid>
-      <pubDate>Fri, 16 Oct 2026 03:43:03 GMT</pubDate>
-      <description>XERJ — +715 stars today · 5,823 stars · 313 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;XERJ&lt;/p&gt;&lt;p&gt;🔥 +715 stars today · ⭐ &lt;b&gt;5,823&lt;/b&gt; stars · 🍴 &lt;b&gt;313&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/xerj-org/xerj&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>obra/superpowers</title>
-      <link>https://github.com/obra/superpowers</link>
-      <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-      <pubDate>Fri, 16 Oct 2026 03:43:03 GMT</pubDate>
-      <description>Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started — +582 stars today · 300,030 stars · 26,793 forks · Language: Shell</description>
-      <content:encoded>&lt;p&gt;Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started&lt;/p&gt;&lt;p&gt;🔥 +582 stars today · ⭐ &lt;b&gt;300,030&lt;/b&gt; stars · 🍴 &lt;b&gt;26,793&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/obra/superpowers&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>JuliusBrussee/caveman</title>
-      <link>https://github.com/JuliusBrussee/caveman</link>
-      <guid isPermaLink="true">https://github.com/JuliusBrussee/caveman</guid>
-      <pubDate>Fri, 16 Oct 2026 03:43:03 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;docs/assets/caveman logo banner.png&quot; alt=&quot;Caveman&quot; width=&quot;720&quot; why many token when few do trick Caveman make your AI agent say less and read less. Code stay exact. Brain still big. — +433 stars today · 112,674 stars · 6,526 forks · Language: Go</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/assets/caveman logo banner.png&amp;quot; alt=&amp;quot;Caveman&amp;quot; width=&amp;quot;720&amp;quot; why many token when few do trick Caveman make your AI agent say less and read less. Code stay exact. Brain still big.&lt;/p&gt;&lt;p&gt;🔥 +433 stars today · ⭐ &lt;b&gt;112,674&lt;/b&gt; stars · 🍴 &lt;b&gt;6,526&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/JuliusBrussee/caveman&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 17 Oct 2026 03:33:13 GMT</pubDate>
+      <description>XERJ — +1,648 stars today · 7,040 stars · 356 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;XERJ&lt;/p&gt;&lt;p&gt;🔥 +1,648 stars today · ⭐ &lt;b&gt;7,040&lt;/b&gt; stars · 🍴 &lt;b&gt;356&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/xerj-org/xerj&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>anthropics/claude-plugins-official</title>
       <link>https://github.com/anthropics/claude-plugins-official</link>
       <guid isPermaLink="true">https://github.com/anthropics/claude-plugins-official</guid>
-      <pubDate>Fri, 16 Oct 2026 03:43:03 GMT</pubDate>
-      <description>Claude Code Plugins Directory A curated directory of high quality plugins for Claude Code. — +307 stars today · 39,258 stars · 4,339 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Claude Code Plugins Directory A curated directory of high quality plugins for Claude Code.&lt;/p&gt;&lt;p&gt;🔥 +307 stars today · ⭐ &lt;b&gt;39,258&lt;/b&gt; stars · 🍴 &lt;b&gt;4,339&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-plugins-official&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 17 Oct 2026 03:33:13 GMT</pubDate>
+      <description>Claude Code Plugins Directory A curated directory of high quality plugins for Claude Code. — +1,552 stars today · 40,709 stars · 4,408 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;Claude Code Plugins Directory A curated directory of high quality plugins for Claude Code.&lt;/p&gt;&lt;p&gt;🔥 +1,552 stars today · ⭐ &lt;b&gt;40,709&lt;/b&gt; stars · 🍴 &lt;b&gt;4,408&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-plugins-official&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>K-Dense-AI/scientific-agent-skills</title>
+      <link>https://github.com/K-Dense-AI/scientific-agent-skills</link>
+      <guid isPermaLink="true">https://github.com/K-Dense-AI/scientific-agent-skills</guid>
+      <pubDate>Sat, 17 Oct 2026 03:33:13 GMT</pubDate>
+      <description>Scientific Agent Skills ![License: MIT](LICENSE.md) ![arXiv](https://arxiv.org/abs/2609.00065) ![Version](pyproject.toml) ![Skills]( whats included) ![Databases]( whats included) — +1,158 stars today · 51,598 stars · 4,570 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;Scientific Agent Skills ![License: MIT](LICENSE.md) ![arXiv](https://arxiv.org/abs/2609.00065) ![Version](pyproject.toml) ![Skills]( whats included) ![Databases]( whats included)&lt;/p&gt;&lt;p&gt;🔥 +1,158 stars today · ⭐ &lt;b&gt;51,598&lt;/b&gt; stars · 🍴 &lt;b&gt;4,570&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/K-Dense-AI/scientific-agent-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>affaan-m/ECC</title>
+      <link>https://github.com/affaan-m/ECC</link>
+      <guid isPermaLink="true">https://github.com/affaan-m/ECC</guid>
+      <pubDate>Sat, 17 Oct 2026 03:33:13 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/hero.png&quot; alt=&quot;ECC the agent harness operating system&quot; width=&quot;100%&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot;https://www.star history.com/affaan m/ecc&quot; &lt;picture — +1,057 stars today · 281,608 stars · 41,876 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/hero.png&amp;quot; alt=&amp;quot;ECC the agent harness operating system&amp;quot; width=&amp;quot;100%&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://www.star history.com/affaan m/ecc&amp;quot; &amp;lt;picture&lt;/p&gt;&lt;p&gt;🔥 +1,057 stars today · ⭐ &lt;b&gt;281,608&lt;/b&gt; stars · 🍴 &lt;b&gt;41,876&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/affaan-m/ECC&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>obra/superpowers</title>
+      <link>https://github.com/obra/superpowers</link>
+      <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
+      <pubDate>Sat, 17 Oct 2026 03:33:13 GMT</pubDate>
+      <description>Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started — +973 stars today · 300,733 stars · 26,847 forks · Language: Shell</description>
+      <content:encoded>&lt;p&gt;Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started&lt;/p&gt;&lt;p&gt;🔥 +973 stars today · ⭐ &lt;b&gt;300,733&lt;/b&gt; stars · 🍴 &lt;b&gt;26,847&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/obra/superpowers&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>MadsLorentzen/ai-job-search</title>
+      <link>https://github.com/MadsLorentzen/ai-job-search</link>
+      <guid isPermaLink="true">https://github.com/MadsLorentzen/ai-job-search</guid>
+      <pubDate>Sat, 17 Oct 2026 03:33:13 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/mascot/pip flight loop.gif&quot; alt=&quot;Pip, the courier bird&quot; width=&quot;200&quot; &lt;/p AI Job Search The job search that runs on your machine. &lt;p align=&quot;center&quot; — +898 stars today · 48,667 stars · 16,661 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/mascot/pip flight loop.gif&amp;quot; alt=&amp;quot;Pip, the courier bird&amp;quot; width=&amp;quot;200&amp;quot; &amp;lt;/p AI Job Search The job search that runs on your machine. &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +898 stars today · ⭐ &lt;b&gt;48,667&lt;/b&gt; stars · 🍴 &lt;b&gt;16,661&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/MadsLorentzen/ai-job-search&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>ruvnet/ruflo</title>
       <link>https://github.com/ruvnet/ruflo</link>
       <guid isPermaLink="true">https://github.com/ruvnet/ruflo</guid>
-      <pubDate>Fri, 16 Oct 2026 03:43:03 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;a href=&quot;https://cognitum.one/agentic engineering&quot; &lt;img src=&quot;ruflo/assets/ruflo neon flicker.gif&quot; alt=&quot;Ruflo animated neon sign&quot; width=&quot;100%&quot; &lt;/a An agent meta harness for Claude Code and Codex. &lt;! Try Ruflo — the 3 badges first time visitors actually act on — +147 stars today · 75,215 stars · 8,936 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://cognitum.one/agentic engineering&amp;quot; &amp;lt;img src=&amp;quot;ruflo/assets/ruflo neon flicker.gif&amp;quot; alt=&amp;quot;Ruflo animated neon sign&amp;quot; width=&amp;quot;100%&amp;quot; &amp;lt;/a An agent meta harness for Claude Code and Codex. &amp;lt;! Try Ruflo — the 3 badges first time visitors actually act on&lt;/p&gt;&lt;p&gt;🔥 +147 stars today · ⭐ &lt;b&gt;75,215&lt;/b&gt; stars · 🍴 &lt;b&gt;8,936&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ruvnet/ruflo&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 17 Oct 2026 03:33:13 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;a href=&quot;https://cognitum.one/agentic engineering&quot; &lt;img src=&quot;ruflo/assets/ruflo neon flicker.gif&quot; alt=&quot;Ruflo animated neon sign&quot; width=&quot;100%&quot; &lt;/a An agent meta harness for Claude Code and Codex. &lt;! Try Ruflo — the 3 badges first time visitors actually act on — +672 stars today · 75,681 stars · 8,969 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://cognitum.one/agentic engineering&amp;quot; &amp;lt;img src=&amp;quot;ruflo/assets/ruflo neon flicker.gif&amp;quot; alt=&amp;quot;Ruflo animated neon sign&amp;quot; width=&amp;quot;100%&amp;quot; &amp;lt;/a An agent meta harness for Claude Code and Codex. &amp;lt;! Try Ruflo — the 3 badges first time visitors actually act on&lt;/p&gt;&lt;p&gt;🔥 +672 stars today · ⭐ &lt;b&gt;75,681&lt;/b&gt; stars · 🍴 &lt;b&gt;8,969&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ruvnet/ruflo&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>lightseekorg/tokenspeed</title>
-      <link>https://github.com/lightseekorg/tokenspeed</link>
-      <guid isPermaLink="true">https://github.com/lightseekorg/tokenspeed</guid>
-      <pubDate>Fri, 16 Oct 2026 03:43:03 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;https://raw.githubusercontent.com/lightseekorg/tokenspeed/main/assets/banner/tokenspeed banner.png&quot; alt=&quot;TokenSpeed: Tokens at the speed of light&quot; width=&quot;100%&quot; / &lt;/p — +30 stars today · 2,534 stars · 337 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;https://raw.githubusercontent.com/lightseekorg/tokenspeed/main/assets/banner/tokenspeed banner.png&amp;quot; alt=&amp;quot;TokenSpeed: Tokens at the speed of light&amp;quot; width=&amp;quot;100%&amp;quot; / &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +30 stars today · ⭐ &lt;b&gt;2,534&lt;/b&gt; stars · 🍴 &lt;b&gt;337&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/lightseekorg/tokenspeed&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>hmjz100/LinkSwift</title>
+      <link>https://github.com/hmjz100/LinkSwift</link>
+      <guid isPermaLink="true">https://github.com/hmjz100/LinkSwift</guid>
+      <pubDate>Sat, 17 Oct 2026 03:33:13 GMT</pubDate>
+      <description>[!IMPORTANT] 如果您是从 GreasyFork 找到这的，建议前往下方的 安装 选择一个合适的源覆盖安装，避免因脚本失效或 GF 黑产刷子导致无法及时更新。 &lt;p align=&quot;center&quot; “出淤泥而不染，濯清涟而不妖”&lt;/p &lt;hr &lt;p align=&quot;center&quot; 搭配使用，效果更佳！👋扩展脚本 — +538 stars today · 23,840 stars · 1,449 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;[!IMPORTANT] 如果您是从 GreasyFork 找到这的，建议前往下方的 安装 选择一个合适的源覆盖安装，避免因脚本失效或 GF 黑产刷子导致无法及时更新。 &amp;lt;p align=&amp;quot;center&amp;quot; “出淤泥而不染，濯清涟而不妖”&amp;lt;/p &amp;lt;hr &amp;lt;p align=&amp;quot;center&amp;quot; 搭配使用，效果更佳！👋扩展脚本&lt;/p&gt;&lt;p&gt;🔥 +538 stars today · ⭐ &lt;b&gt;23,840&lt;/b&gt; stars · 🍴 &lt;b&gt;1,449&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/hmjz100/LinkSwift&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>mksglu/context-mode</title>
+      <link>https://github.com/mksglu/context-mode</link>
+      <guid isPermaLink="true">https://github.com/mksglu/context-mode</guid>
+      <pubDate>Sat, 17 Oct 2026 03:33:13 GMT</pubDate>
+      <description>Context Mode The other half of the context problem. — +449 stars today · 30,269 stars · 2,130 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;Context Mode The other half of the context problem.&lt;/p&gt;&lt;p&gt;🔥 +449 stars today · ⭐ &lt;b&gt;30,269&lt;/b&gt; stars · 🍴 &lt;b&gt;2,130&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mksglu/context-mode&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>HKUDS/CLI-Anything</title>
+      <link>https://github.com/HKUDS/CLI-Anything</link>
+      <guid isPermaLink="true">https://github.com/HKUDS/CLI-Anything</guid>
+      <pubDate>Sat, 17 Oct 2026 03:33:13 GMT</pubDate>
+      <description>&lt;h1 align=&quot;center&quot; &lt;img src=&quot;assets/icon.png&quot; alt=&quot;&quot; width=&quot;64&quot; style=&quot;vertical align: middle;&quot; &amp;nbsp; CLI Anything: Making ALL Software Agent Native&lt;/h1 &lt;div align=&quot;center&quot; — +281 stars today · 53,566 stars · 4,859 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/icon.png&amp;quot; alt=&amp;quot;&amp;quot; width=&amp;quot;64&amp;quot; style=&amp;quot;vertical align: middle;&amp;quot; &amp;amp;nbsp; CLI Anything: Making ALL Software Agent Native&amp;lt;/h1 &amp;lt;div align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +281 stars today · ⭐ &lt;b&gt;53,566&lt;/b&gt; stars · 🍴 &lt;b&gt;4,859&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/HKUDS/CLI-Anything&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>cursor/plugins</title>
+      <link>https://github.com/cursor/plugins</link>
+      <guid isPermaLink="true">https://github.com/cursor/plugins</guid>
+      <pubDate>Sat, 17 Oct 2026 03:33:13 GMT</pubDate>
+      <description>Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor plugin/plugin.json manifest. Plugins name Plugin Author Category description (from marketplace) : : : : : — +278 stars today · 12,011 stars · 1,165 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor plugin/plugin.json manifest. Plugins name Plugin Author Category description (from marketplace) : : : : :&lt;/p&gt;&lt;p&gt;🔥 +278 stars today · ⭐ &lt;b&gt;12,011&lt;/b&gt; stars · 🍴 &lt;b&gt;1,165&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cursor/plugins&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>android/skills</title>
+      <link>https://github.com/android/skills</link>
+      <guid isPermaLink="true">https://github.com/android/skills</guid>
+      <pubDate>Sat, 17 Oct 2026 03:33:13 GMT</pubDate>
+      <description>Android skills Android skills are a dedicated repository of AI optimized, modular instructions and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android development from developer.android.com. — +36 stars today · 8,121 stars · 537 forks · Language: Kotlin</description>
+      <content:encoded>&lt;p&gt;Android skills Android skills are a dedicated repository of AI optimized, modular instructions and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android development from developer.android.com.&lt;/p&gt;&lt;p&gt;🔥 +36 stars today · ⭐ &lt;b&gt;8,121&lt;/b&gt; stars · 🍴 &lt;b&gt;537&lt;/b&gt; forks · &lt;b&gt;Kotlin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/android/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
