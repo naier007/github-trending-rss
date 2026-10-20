@@ -7,112 +7,104 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Mon, 19 Oct 2026 03:49:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 04:01:09 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
     <item>
       <title>MadsLorentzen/ai-job-search</title>
       <link>https://github.com/MadsLorentzen/ai-job-search</link>
       <guid isPermaLink="true">https://github.com/MadsLorentzen/ai-job-search</guid>
-      <pubDate>Mon, 19 Oct 2026 03:49:41 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/mascot/pip flight loop.gif&quot; alt=&quot;Pip, the courier bird&quot; width=&quot;200&quot; &lt;/p AI Job Search The job search that runs on your machine. &lt;p align=&quot;center&quot; — +2,232 stars today · 53,784 stars · 17,482 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/mascot/pip flight loop.gif&amp;quot; alt=&amp;quot;Pip, the courier bird&amp;quot; width=&amp;quot;200&amp;quot; &amp;lt;/p AI Job Search The job search that runs on your machine. &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +2,232 stars today · ⭐ &lt;b&gt;53,784&lt;/b&gt; stars · 🍴 &lt;b&gt;17,482&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/MadsLorentzen/ai-job-search&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>debpalash/VoiceStudio</title>
-      <link>https://github.com/debpalash/VoiceStudio</link>
-      <guid isPermaLink="true">https://github.com/debpalash/VoiceStudio</guid>
-      <pubDate>Mon, 19 Oct 2026 03:49:41 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;docs/logo.png&quot; alt=&quot;VoiceStudio&quot; width=&quot;88&quot; / &lt;h1 VoiceStudio&lt;/h1 &lt;p — +2,082 stars today · 75,761 stars · 8,297 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/logo.png&amp;quot; alt=&amp;quot;VoiceStudio&amp;quot; width=&amp;quot;88&amp;quot; / &amp;lt;h1 VoiceStudio&amp;lt;/h1 &amp;lt;p&lt;/p&gt;&lt;p&gt;🔥 +2,082 stars today · ⭐ &lt;b&gt;75,761&lt;/b&gt; stars · 🍴 &lt;b&gt;8,297&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/debpalash/VoiceStudio&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>anomalyco/opencode</title>
-      <link>https://github.com/anomalyco/opencode</link>
-      <guid isPermaLink="true">https://github.com/anomalyco/opencode</guid>
-      <pubDate>Mon, 19 Oct 2026 03:49:41 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://opencode.ai&quot; &lt;picture &lt;source srcset=&quot;packages/console/app/src/asset/logo ornate dark.svg&quot; media=&quot;(prefers color scheme: dark)&quot; &lt;source srcset=&quot;packages/console/app/src/asset/logo ornate light.svg&quot; media=&quot;(prefers color scheme: light)&quot; — +1,414 stars today · 216,757 stars · 29,018 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://opencode.ai&amp;quot; &amp;lt;picture &amp;lt;source srcset=&amp;quot;packages/console/app/src/asset/logo ornate dark.svg&amp;quot; media=&amp;quot;(prefers color scheme: dark)&amp;quot; &amp;lt;source srcset=&amp;quot;packages/console/app/src/asset/logo ornate light.svg&amp;quot; media=&amp;quot;(prefers color scheme: light)&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,414 stars today · ⭐ &lt;b&gt;216,757&lt;/b&gt; stars · 🍴 &lt;b&gt;29,018&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>anthropics/claude-plugins-official</title>
-      <link>https://github.com/anthropics/claude-plugins-official</link>
-      <guid isPermaLink="true">https://github.com/anthropics/claude-plugins-official</guid>
-      <pubDate>Mon, 19 Oct 2026 03:49:41 GMT</pubDate>
-      <description>Claude Code Plugins Directory A curated directory of high quality plugins for Claude Code. — +1,175 stars today · 42,803 stars · 4,539 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Claude Code Plugins Directory A curated directory of high quality plugins for Claude Code.&lt;/p&gt;&lt;p&gt;🔥 +1,175 stars today · ⭐ &lt;b&gt;42,803&lt;/b&gt; stars · 🍴 &lt;b&gt;4,539&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-plugins-official&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 20 Oct 2026 04:01:09 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/mascot/pip flight loop.gif&quot; alt=&quot;Pip, the courier bird&quot; width=&quot;200&quot; &lt;/p AI Job Search The job search that runs on your machine. &lt;p align=&quot;center&quot; — +3,856 stars today · 57,801 stars · 18,304 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/mascot/pip flight loop.gif&amp;quot; alt=&amp;quot;Pip, the courier bird&amp;quot; width=&amp;quot;200&amp;quot; &amp;lt;/p AI Job Search The job search that runs on your machine. &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +3,856 stars today · ⭐ &lt;b&gt;57,801&lt;/b&gt; stars · 🍴 &lt;b&gt;18,304&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/MadsLorentzen/ai-job-search&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>stablyai/orca</title>
       <link>https://github.com/stablyai/orca</link>
       <guid isPermaLink="true">https://github.com/stablyai/orca</guid>
-      <pubDate>Mon, 19 Oct 2026 03:49:41 GMT</pubDate>
-      <description>&lt;h1 align=&quot;center&quot; &lt;a href=&quot;https://onOrca.dev&quot; &lt;img src=&quot;resources/build/icon.png&quot; alt=&quot;Orca&quot; width=&quot;64&quot; valign=&quot;middle&quot; / &lt;/a Orca &lt;/h1 &lt;p align=&quot;center&quot; — +1,146 stars today · 96,919 stars · 6,191 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://onOrca.dev&amp;quot; &amp;lt;img src=&amp;quot;resources/build/icon.png&amp;quot; alt=&amp;quot;Orca&amp;quot; width=&amp;quot;64&amp;quot; valign=&amp;quot;middle&amp;quot; / &amp;lt;/a Orca &amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,146 stars today · ⭐ &lt;b&gt;96,919&lt;/b&gt; stars · 🍴 &lt;b&gt;6,191&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/stablyai/orca&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 20 Oct 2026 04:01:09 GMT</pubDate>
+      <description>&lt;h1 align=&quot;center&quot; &lt;a href=&quot;https://onOrca.dev&quot; &lt;img src=&quot;resources/build/icon.png&quot; alt=&quot;Orca&quot; width=&quot;64&quot; valign=&quot;middle&quot; / &lt;/a Orca &lt;/h1 &lt;p align=&quot;center&quot; — +1,590 stars today · 98,488 stars · 6,283 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://onOrca.dev&amp;quot; &amp;lt;img src=&amp;quot;resources/build/icon.png&amp;quot; alt=&amp;quot;Orca&amp;quot; width=&amp;quot;64&amp;quot; valign=&amp;quot;middle&amp;quot; / &amp;lt;/a Orca &amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,590 stars today · ⭐ &lt;b&gt;98,488&lt;/b&gt; stars · 🍴 &lt;b&gt;6,283&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/stablyai/orca&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>HKUDS/CLI-Anything</title>
-      <link>https://github.com/HKUDS/CLI-Anything</link>
-      <guid isPermaLink="true">https://github.com/HKUDS/CLI-Anything</guid>
-      <pubDate>Mon, 19 Oct 2026 03:49:41 GMT</pubDate>
-      <description>&lt;h1 align=&quot;center&quot; &lt;img src=&quot;assets/icon.png&quot; alt=&quot;&quot; width=&quot;64&quot; style=&quot;vertical align: middle;&quot; &amp;nbsp; CLI Anything: Making ALL Software Agent Native&lt;/h1 &lt;div align=&quot;center&quot; — +589 stars today · 54,698 stars · 4,952 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/icon.png&amp;quot; alt=&amp;quot;&amp;quot; width=&amp;quot;64&amp;quot; style=&amp;quot;vertical align: middle;&amp;quot; &amp;amp;nbsp; CLI Anything: Making ALL Software Agent Native&amp;lt;/h1 &amp;lt;div align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +589 stars today · ⭐ &lt;b&gt;54,698&lt;/b&gt; stars · 🍴 &lt;b&gt;4,952&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/HKUDS/CLI-Anything&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>ruvnet/ruflo</title>
-      <link>https://github.com/ruvnet/ruflo</link>
-      <guid isPermaLink="true">https://github.com/ruvnet/ruflo</guid>
-      <pubDate>Mon, 19 Oct 2026 03:49:41 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;a href=&quot;https://cognitum.one/agentic engineering&quot; &lt;img src=&quot;ruflo/assets/ruflo neon flicker.gif&quot; alt=&quot;Ruflo animated neon sign&quot; width=&quot;100%&quot; &lt;/a An agent meta harness for Claude Code and Codex. &lt;! Try Ruflo — the 3 badges first time visitors actually act on — +513 stars today · 76,620 stars · 9,060 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://cognitum.one/agentic engineering&amp;quot; &amp;lt;img src=&amp;quot;ruflo/assets/ruflo neon flicker.gif&amp;quot; alt=&amp;quot;Ruflo animated neon sign&amp;quot; width=&amp;quot;100%&amp;quot; &amp;lt;/a An agent meta harness for Claude Code and Codex. &amp;lt;! Try Ruflo — the 3 badges first time visitors actually act on&lt;/p&gt;&lt;p&gt;🔥 +513 stars today · ⭐ &lt;b&gt;76,620&lt;/b&gt; stars · 🍴 &lt;b&gt;9,060&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ruvnet/ruflo&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>akitaonrails/ai-memory</title>
-      <link>https://github.com/akitaonrails/ai-memory</link>
-      <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
-      <pubDate>Mon, 19 Oct 2026 03:49:41 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/logo dark.png&quot; &lt;img alt=&quot;ai memory&quot; src=&quot;docs/logo light.png&quot; width=&quot;480&quot; &lt;/picture &lt;/p — +512 stars today · 10,613 stars · 754 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/logo dark.png&amp;quot; &amp;lt;img alt=&amp;quot;ai memory&amp;quot; src=&amp;quot;docs/logo light.png&amp;quot; width=&amp;quot;480&amp;quot; &amp;lt;/picture &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +512 stars today · ⭐ &lt;b&gt;10,613&lt;/b&gt; stars · 🍴 &lt;b&gt;754&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/akitaonrails/ai-memory&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>android/skills</title>
-      <link>https://github.com/android/skills</link>
-      <guid isPermaLink="true">https://github.com/android/skills</guid>
-      <pubDate>Mon, 19 Oct 2026 03:49:41 GMT</pubDate>
-      <description>Android skills Android skills are a dedicated repository of AI optimized, modular instructions and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android development from developer.android.com. — +375 stars today · 8,843 stars · 568 forks · Language: Kotlin</description>
-      <content:encoded>&lt;p&gt;Android skills Android skills are a dedicated repository of AI optimized, modular instructions and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android development from developer.android.com.&lt;/p&gt;&lt;p&gt;🔥 +375 stars today · ⭐ &lt;b&gt;8,843&lt;/b&gt; stars · 🍴 &lt;b&gt;568&lt;/b&gt; forks · &lt;b&gt;Kotlin&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/android/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>cursor/plugins</title>
-      <link>https://github.com/cursor/plugins</link>
-      <guid isPermaLink="true">https://github.com/cursor/plugins</guid>
-      <pubDate>Mon, 19 Oct 2026 03:49:41 GMT</pubDate>
-      <description>Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor plugin/plugin.json manifest. Plugins name Plugin Author Category description (from marketplace) : : : : : — +350 stars today · 12,804 stars · 1,259 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own .cursor plugin/plugin.json manifest. Plugins name Plugin Author Category description (from marketplace) : : : : :&lt;/p&gt;&lt;p&gt;🔥 +350 stars today · ⭐ &lt;b&gt;12,804&lt;/b&gt; stars · 🍴 &lt;b&gt;1,259&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cursor/plugins&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>anomalyco/opencode</title>
+      <link>https://github.com/anomalyco/opencode</link>
+      <guid isPermaLink="true">https://github.com/anomalyco/opencode</guid>
+      <pubDate>Tue, 20 Oct 2026 04:01:09 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://opencode.ai&quot; &lt;picture &lt;source srcset=&quot;packages/console/app/src/asset/logo ornate dark.svg&quot; media=&quot;(prefers color scheme: dark)&quot; &lt;source srcset=&quot;packages/console/app/src/asset/logo ornate light.svg&quot; media=&quot;(prefers color scheme: light)&quot; — +1,311 stars today · 217,966 stars · 29,130 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://opencode.ai&amp;quot; &amp;lt;picture &amp;lt;source srcset=&amp;quot;packages/console/app/src/asset/logo ornate dark.svg&amp;quot; media=&amp;quot;(prefers color scheme: dark)&amp;quot; &amp;lt;source srcset=&amp;quot;packages/console/app/src/asset/logo ornate light.svg&amp;quot; media=&amp;quot;(prefers color scheme: light)&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,311 stars today · ⭐ &lt;b&gt;217,966&lt;/b&gt; stars · 🍴 &lt;b&gt;29,130&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/opencode&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>Comfy-Org/ComfyUI</title>
       <link>https://github.com/Comfy-Org/ComfyUI</link>
       <guid isPermaLink="true">https://github.com/Comfy-Org/ComfyUI</guid>
-      <pubDate>Mon, 19 Oct 2026 03:49:41 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; ComfyUI The most powerful and modular AI engine for content creation. [![Website][website shield]][website url] [![Dynamic JSON Badge][discord shield]][discord url] [![Twitter][twitter shield]][twitter url] — +154 stars today · 138,766 stars · 16,509 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; ComfyUI The most powerful and modular AI engine for content creation. [![Website][website shield]][website url] [![Dynamic JSON Badge][discord shield]][discord url] [![Twitter][twitter shield]][twitter url]&lt;/p&gt;&lt;p&gt;🔥 +154 stars today · ⭐ &lt;b&gt;138,766&lt;/b&gt; stars · 🍴 &lt;b&gt;16,509&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Comfy-Org/ComfyUI&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 20 Oct 2026 04:01:09 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; ComfyUI The most powerful and modular AI engine for content creation. [![Website][website shield]][website url] [![Dynamic JSON Badge][discord shield]][discord url] [![Twitter][twitter shield]][twitter url] — +1,011 stars today · 139,909 stars · 16,597 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; ComfyUI The most powerful and modular AI engine for content creation. [![Website][website shield]][website url] [![Dynamic JSON Badge][discord shield]][discord url] [![Twitter][twitter shield]][twitter url]&lt;/p&gt;&lt;p&gt;🔥 +1,011 stars today · ⭐ &lt;b&gt;139,909&lt;/b&gt; stars · 🍴 &lt;b&gt;16,597&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Comfy-Org/ComfyUI&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>akitaonrails/ai-memory</title>
+      <link>https://github.com/akitaonrails/ai-memory</link>
+      <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
+      <pubDate>Tue, 20 Oct 2026 04:01:09 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/logo dark.png&quot; &lt;img alt=&quot;ai memory&quot; src=&quot;docs/logo light.png&quot; width=&quot;480&quot; &lt;/picture &lt;/p — +666 stars today · 11,484 stars · 816 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/logo dark.png&amp;quot; &amp;lt;img alt=&amp;quot;ai memory&amp;quot; src=&amp;quot;docs/logo light.png&amp;quot; width=&amp;quot;480&amp;quot; &amp;lt;/picture &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +666 stars today · ⭐ &lt;b&gt;11,484&lt;/b&gt; stars · 🍴 &lt;b&gt;816&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/akitaonrails/ai-memory&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>HKUDS/CLI-Anything</title>
+      <link>https://github.com/HKUDS/CLI-Anything</link>
+      <guid isPermaLink="true">https://github.com/HKUDS/CLI-Anything</guid>
+      <pubDate>Tue, 20 Oct 2026 04:01:09 GMT</pubDate>
+      <description>&lt;h1 align=&quot;center&quot; &lt;img src=&quot;assets/icon.png&quot; alt=&quot;&quot; width=&quot;64&quot; style=&quot;vertical align: middle;&quot; &amp;nbsp; CLI Anything: Making ALL Software Agent Native&lt;/h1 &lt;div align=&quot;center&quot; — +606 stars today · 55,346 stars · 4,992 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/icon.png&amp;quot; alt=&amp;quot;&amp;quot; width=&amp;quot;64&amp;quot; style=&amp;quot;vertical align: middle;&amp;quot; &amp;amp;nbsp; CLI Anything: Making ALL Software Agent Native&amp;lt;/h1 &amp;lt;div align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +606 stars today · ⭐ &lt;b&gt;55,346&lt;/b&gt; stars · 🍴 &lt;b&gt;4,992&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/HKUDS/CLI-Anything&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>ruvnet/ruflo</title>
+      <link>https://github.com/ruvnet/ruflo</link>
+      <guid isPermaLink="true">https://github.com/ruvnet/ruflo</guid>
+      <pubDate>Tue, 20 Oct 2026 04:01:09 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;a href=&quot;https://cognitum.one/agentic engineering&quot; &lt;img src=&quot;ruflo/assets/ruflo neon flicker.gif&quot; alt=&quot;Ruflo animated neon sign&quot; width=&quot;100%&quot; &lt;/a An agent meta harness for Claude Code and Codex. &lt;! Try Ruflo — the 3 badges first time visitors actually act on — +564 stars today · 77,302 stars · 9,111 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://cognitum.one/agentic engineering&amp;quot; &amp;lt;img src=&amp;quot;ruflo/assets/ruflo neon flicker.gif&amp;quot; alt=&amp;quot;Ruflo animated neon sign&amp;quot; width=&amp;quot;100%&amp;quot; &amp;lt;/a An agent meta harness for Claude Code and Codex. &amp;lt;! Try Ruflo — the 3 badges first time visitors actually act on&lt;/p&gt;&lt;p&gt;🔥 +564 stars today · ⭐ &lt;b&gt;77,302&lt;/b&gt; stars · 🍴 &lt;b&gt;9,111&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ruvnet/ruflo&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>Kruk2/jasna</title>
       <link>https://github.com/Kruk2/jasna</link>
       <guid isPermaLink="true">https://github.com/Kruk2/jasna</guid>
-      <pubDate>Mon, 19 Oct 2026 03:49:41 GMT</pubDate>
-      <description>The only places to get a genuine License code for the supporter models are Buy Me a Coffee, Unifans, and for China the seller in the Chinese README. 支持者模型的正版许可证码只能通过 Buy Me a Coffee、Unifans 或 闲鱼 获取。 English 日本語 中文 — +115 stars today · 2,509 stars · 194 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;The only places to get a genuine License code for the supporter models are Buy Me a Coffee, Unifans, and for China the seller in the Chinese README. 支持者模型的正版许可证码只能通过 Buy Me a Coffee、Unifans 或 闲鱼 获取。 English 日本語 中文&lt;/p&gt;&lt;p&gt;🔥 +115 stars today · ⭐ &lt;b&gt;2,509&lt;/b&gt; stars · 🍴 &lt;b&gt;194&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Kruk2/jasna&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 20 Oct 2026 04:01:09 GMT</pubDate>
+      <description>The only places to get a genuine License code for the supporter models are Buy Me a Coffee, Unifans, and for China the seller in the Chinese README. 支持者模型的正版许可证码只能通过 Buy Me a Coffee、Unifans 或 闲鱼 获取。 English 日本語 中文 — +498 stars today · 2,990 stars · 216 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;The only places to get a genuine License code for the supporter models are Buy Me a Coffee, Unifans, and for China the seller in the Chinese README. 支持者模型的正版许可证码只能通过 Buy Me a Coffee、Unifans 或 闲鱼 获取。 English 日本語 中文&lt;/p&gt;&lt;p&gt;🔥 +498 stars today · ⭐ &lt;b&gt;2,990&lt;/b&gt; stars · 🍴 &lt;b&gt;216&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Kruk2/jasna&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>mlabonne/llm-course</title>
-      <link>https://github.com/mlabonne/llm-course</link>
-      <guid isPermaLink="true">https://github.com/mlabonne/llm-course</guid>
-      <pubDate>Mon, 19 Oct 2026 03:49:41 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;img/banner.png&quot; alt=&quot;LLM Course&quot; &lt;p align=&quot;center&quot; 𝕏 &lt;a href=&quot;https://twitter.com/maximelabonne&quot; Follow me on X&lt;/a • 🤗 &lt;a href=&quot;https://huggingface.co/mlabonne&quot; Hugging Face&lt;/a • 💻 &lt;a href=&quot;https://mlabonne.github.io/blog&quot; Blog&lt;/a • — +81 stars today · 84,135 stars · 9,788 forks</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;img/banner.png&amp;quot; alt=&amp;quot;LLM Course&amp;quot; &amp;lt;p align=&amp;quot;center&amp;quot; 𝕏 &amp;lt;a href=&amp;quot;https://twitter.com/maximelabonne&amp;quot; Follow me on X&amp;lt;/a • 🤗 &amp;lt;a href=&amp;quot;https://huggingface.co/mlabonne&amp;quot; Hugging Face&amp;lt;/a • 💻 &amp;lt;a href=&amp;quot;https://mlabonne.github.io/blog&amp;quot; Blog&amp;lt;/a •&lt;/p&gt;&lt;p&gt;🔥 +81 stars today · ⭐ &lt;b&gt;84,135&lt;/b&gt; stars · 🍴 &lt;b&gt;9,788&lt;/b&gt; forks&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mlabonne/llm-course&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>shiyu-coder/Kronos</title>
+      <link>https://github.com/shiyu-coder/Kronos</link>
+      <guid isPermaLink="true">https://github.com/shiyu-coder/Kronos</guid>
+      <pubDate>Tue, 20 Oct 2026 04:01:09 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;h2 &lt;b Kronos: A Foundation Model for the Language of Financial Markets &lt;/b &lt;/h2 &lt;/div &lt;div align=&quot;center&quot; &lt;/a &lt;a href=&quot;https://huggingface.co/NeoQuasar&quot; — +363 stars today · 41,780 stars · 6,937 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;h2 &amp;lt;b Kronos: A Foundation Model for the Language of Financial Markets &amp;lt;/b &amp;lt;/h2 &amp;lt;/div &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;/a &amp;lt;a href=&amp;quot;https://huggingface.co/NeoQuasar&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +363 stars today · ⭐ &lt;b&gt;41,780&lt;/b&gt; stars · 🍴 &lt;b&gt;6,937&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/shiyu-coder/Kronos&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>headroomlabs-ai/headroom</title>
+      <link>https://github.com/headroomlabs-ai/headroom</link>
+      <guid isPermaLink="true">https://github.com/headroomlabs-ai/headroom</guid>
+      <pubDate>Tue, 20 Oct 2026 04:01:09 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;.github/assets/hero.svg&quot; alt=&quot;Headroom — the context compression layer for AI agents. A 55,957 token agent prompt compresses to the 24,340 tokens actually sent to the model, and the FATAL line at item 67 survives byte for byte.&quot; width=&quot;880&quot; — +310 stars today · 76,334 stars · 5,926 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;.github/assets/hero.svg&amp;quot; alt=&amp;quot;Headroom — the context compression layer for AI agents. A 55,957 token agent prompt compresses to the 24,340 tokens actually sent to the model, and the FATAL line at item 67 survives byte for byte.&amp;quot; width=&amp;quot;880&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +310 stars today · ⭐ &lt;b&gt;76,334&lt;/b&gt; stars · 🍴 &lt;b&gt;5,926&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/headroomlabs-ai/headroom&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>withmarbleapp/os-taxonomy</title>
+      <link>https://github.com/withmarbleapp/os-taxonomy</link>
+      <guid isPermaLink="true">https://github.com/withmarbleapp/os-taxonomy</guid>
+      <pubDate>Tue, 20 Oct 2026 04:01:09 GMT</pubDate>
+      <description>Marble Skill Taxonomy An open, structured taxonomy of what children learn across the primary/elementary years — decomposed into fine grained &quot;micro topics&quot;, wired into a prerequisite graph, and aligned to national curriculum standards. Produced by Marble. — +284 stars today · 6,237 stars · 1,017 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;Marble Skill Taxonomy An open, structured taxonomy of what children learn across the primary/elementary years — decomposed into fine grained &amp;quot;micro topics&amp;quot;, wired into a prerequisite graph, and aligned to national curriculum standards. Produced by Marble.&lt;/p&gt;&lt;p&gt;🔥 +284 stars today · ⭐ &lt;b&gt;6,237&lt;/b&gt; stars · 🍴 &lt;b&gt;1,017&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/withmarbleapp/os-taxonomy&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>anthropics/claude-code</title>
+      <link>https://github.com/anthropics/claude-code</link>
+      <guid isPermaLink="true">https://github.com/anthropics/claude-code</guid>
+      <pubDate>Tue, 20 Oct 2026 04:01:09 GMT</pubDate>
+      <description>Claude Code [npm]: https://img.shields.io/npm/v/@anthropic ai/claude code.svg?style=flat square — +167 stars today · 152,716 stars · 27,146 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;Claude Code [npm]: https://img.shields.io/npm/v/@anthropic ai/claude code.svg?style=flat square&lt;/p&gt;&lt;p&gt;🔥 +167 stars today · ⭐ &lt;b&gt;152,716&lt;/b&gt; stars · 🍴 &lt;b&gt;27,146&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/claude-code&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
