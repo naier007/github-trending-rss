@@ -7,96 +7,80 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Thu, 22 Oct 2026 03:50:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 03:54:21 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
-    <item>
-      <title>DietrichGebert/ponytail</title>
-      <link>https://github.com/DietrichGebert/ponytail</link>
-      <guid isPermaLink="true">https://github.com/DietrichGebert/ponytail</guid>
-      <pubDate>Thu, 22 Oct 2026 03:50:07 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;assets/logo dark.png&quot; &lt;img src=&quot;assets/logo.png&quot; width=&quot;220&quot; alt=&quot;Ponytail, the lazy senior dev&quot; &lt;/picture &lt;/p — +2,079 stars today · 171,917 stars · 9,356 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;assets/logo dark.png&amp;quot; &amp;lt;img src=&amp;quot;assets/logo.png&amp;quot; width=&amp;quot;220&amp;quot; alt=&amp;quot;Ponytail, the lazy senior dev&amp;quot; &amp;lt;/picture &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +2,079 stars today · ⭐ &lt;b&gt;171,917&lt;/b&gt; stars · 🍴 &lt;b&gt;9,356&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/DietrichGebert/ponytail&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
     <item>
       <title>cloudflare/security-audit-skill</title>
       <link>https://github.com/cloudflare/security-audit-skill</link>
       <guid isPermaLink="true">https://github.com/cloudflare/security-audit-skill</guid>
-      <pubDate>Thu, 22 Oct 2026 03:50:07 GMT</pubDate>
-      <description>security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting. — +2,012 stars today · 36,903 stars · 2,302 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting.&lt;/p&gt;&lt;p&gt;🔥 +2,012 stars today · ⭐ &lt;b&gt;36,903&lt;/b&gt; stars · 🍴 &lt;b&gt;2,302&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cloudflare/security-audit-skill&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 23 Oct 2026 03:54:21 GMT</pubDate>
+      <description>security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting. — +2,979 stars today · 39,838 stars · 2,485 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting.&lt;/p&gt;&lt;p&gt;🔥 +2,979 stars today · ⭐ &lt;b&gt;39,838&lt;/b&gt; stars · 🍴 &lt;b&gt;2,485&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cloudflare/security-audit-skill&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>stablyai/orca</title>
-      <link>https://github.com/stablyai/orca</link>
-      <guid isPermaLink="true">https://github.com/stablyai/orca</guid>
-      <pubDate>Thu, 22 Oct 2026 03:50:07 GMT</pubDate>
-      <description>&lt;h1 align=&quot;center&quot; &lt;a href=&quot;https://onOrca.dev&quot; &lt;img src=&quot;resources/build/icon.png&quot; alt=&quot;Orca&quot; width=&quot;64&quot; valign=&quot;middle&quot; / &lt;/a Orca &lt;/h1 &lt;p align=&quot;center&quot; — +1,541 stars today · 101,561 stars · 6,424 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://onOrca.dev&amp;quot; &amp;lt;img src=&amp;quot;resources/build/icon.png&amp;quot; alt=&amp;quot;Orca&amp;quot; width=&amp;quot;64&amp;quot; valign=&amp;quot;middle&amp;quot; / &amp;lt;/a Orca &amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,541 stars today · ⭐ &lt;b&gt;101,561&lt;/b&gt; stars · 🍴 &lt;b&gt;6,424&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/stablyai/orca&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>DietrichGebert/ponytail</title>
+      <link>https://github.com/DietrichGebert/ponytail</link>
+      <guid isPermaLink="true">https://github.com/DietrichGebert/ponytail</guid>
+      <pubDate>Fri, 23 Oct 2026 03:54:21 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;assets/logo dark.png&quot; &lt;img src=&quot;assets/logo.png&quot; width=&quot;220&quot; alt=&quot;Ponytail, the lazy senior dev&quot; &lt;/picture &lt;/p — +1,948 stars today · 173,748 stars · 9,462 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;assets/logo dark.png&amp;quot; &amp;lt;img src=&amp;quot;assets/logo.png&amp;quot; width=&amp;quot;220&amp;quot; alt=&amp;quot;Ponytail, the lazy senior dev&amp;quot; &amp;lt;/picture &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +1,948 stars today · ⭐ &lt;b&gt;173,748&lt;/b&gt; stars · 🍴 &lt;b&gt;9,462&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/DietrichGebert/ponytail&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>Graphify-Labs/graphify</title>
       <link>https://github.com/Graphify-Labs/graphify</link>
       <guid isPermaLink="true">https://github.com/Graphify-Labs/graphify</guid>
-      <pubDate>Thu, 22 Oct 2026 03:50:07 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://graphify.com&quot; &lt;img src=&quot;https://raw.githubusercontent.com/Graphify Labs/graphify/v8/docs/graphify logo.png&quot; width=&quot;360&quot; height=&quot;189&quot; alt=&quot;Graphify&quot;/ &lt;/a &lt;/p &lt;p align=&quot;center&quot; — +1,433 stars today · 131,826 stars · 12,650 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://graphify.com&amp;quot; &amp;lt;img src=&amp;quot;https://raw.githubusercontent.com/Graphify Labs/graphify/v8/docs/graphify logo.png&amp;quot; width=&amp;quot;360&amp;quot; height=&amp;quot;189&amp;quot; alt=&amp;quot;Graphify&amp;quot;/ &amp;lt;/a &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,433 stars today · ⭐ &lt;b&gt;131,826&lt;/b&gt; stars · 🍴 &lt;b&gt;12,650&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Graphify-Labs/graphify&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Comfy-Org/ComfyUI</title>
-      <link>https://github.com/Comfy-Org/ComfyUI</link>
-      <guid isPermaLink="true">https://github.com/Comfy-Org/ComfyUI</guid>
-      <pubDate>Thu, 22 Oct 2026 03:50:07 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; ComfyUI The most powerful and modular AI engine for content creation. [![Website][website shield]][website url] [![Dynamic JSON Badge][discord shield]][discord url] [![Twitter][twitter shield]][twitter url] — +939 stars today · 141,625 stars · 16,735 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; ComfyUI The most powerful and modular AI engine for content creation. [![Website][website shield]][website url] [![Dynamic JSON Badge][discord shield]][discord url] [![Twitter][twitter shield]][twitter url]&lt;/p&gt;&lt;p&gt;🔥 +939 stars today · ⭐ &lt;b&gt;141,625&lt;/b&gt; stars · 🍴 &lt;b&gt;16,735&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Comfy-Org/ComfyUI&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>shiyu-coder/Kronos</title>
-      <link>https://github.com/shiyu-coder/Kronos</link>
-      <guid isPermaLink="true">https://github.com/shiyu-coder/Kronos</guid>
-      <pubDate>Thu, 22 Oct 2026 03:50:07 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;h2 &lt;b Kronos: A Foundation Model for the Language of Financial Markets &lt;/b &lt;/h2 &lt;/div &lt;div align=&quot;center&quot; &lt;/a &lt;a href=&quot;https://huggingface.co/NeoQuasar&quot; — +575 stars today · 42,899 stars · 7,079 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;h2 &amp;lt;b Kronos: A Foundation Model for the Language of Financial Markets &amp;lt;/b &amp;lt;/h2 &amp;lt;/div &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;/a &amp;lt;a href=&amp;quot;https://huggingface.co/NeoQuasar&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +575 stars today · ⭐ &lt;b&gt;42,899&lt;/b&gt; stars · 🍴 &lt;b&gt;7,079&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/shiyu-coder/Kronos&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 23 Oct 2026 03:54:21 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://graphify.com&quot; &lt;img src=&quot;https://raw.githubusercontent.com/Graphify Labs/graphify/v8/docs/graphify logo.png&quot; width=&quot;360&quot; height=&quot;189&quot; alt=&quot;Graphify&quot;/ &lt;/a &lt;/p &lt;p align=&quot;center&quot; — +1,408 stars today · 133,130 stars · 12,733 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://graphify.com&amp;quot; &amp;lt;img src=&amp;quot;https://raw.githubusercontent.com/Graphify Labs/graphify/v8/docs/graphify logo.png&amp;quot; width=&amp;quot;360&amp;quot; height=&amp;quot;189&amp;quot; alt=&amp;quot;Graphify&amp;quot;/ &amp;lt;/a &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,408 stars today · ⭐ &lt;b&gt;133,130&lt;/b&gt; stars · 🍴 &lt;b&gt;12,733&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Graphify-Labs/graphify&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>supabase/supabase</title>
       <link>https://github.com/supabase/supabase</link>
       <guid isPermaLink="true">https://github.com/supabase/supabase</guid>
-      <pubDate>Thu, 22 Oct 2026 03:50:07 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;https://user images.githubusercontent.com/8291514/213727234 cda046d6 28c6 491a b284 b86c5cede25d.png gh light mode only&quot; &lt;img src=&quot;https://user images.githubusercontent.com/8291514/213727225 56186826 bee8 43b5 9b15 86e839d89393.png gh dark mode only&quot; &lt;/p Supabase — +504 stars today · 113,102 stars · 16,956 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;https://user images.githubusercontent.com/8291514/213727234 cda046d6 28c6 491a b284 b86c5cede25d.png gh light mode only&amp;quot; &amp;lt;img src=&amp;quot;https://user images.githubusercontent.com/8291514/213727225 56186826 bee8 43b5 9b15 86e839d89393.png gh dark mode only&amp;quot; &amp;lt;/p Supabase&lt;/p&gt;&lt;p&gt;🔥 +504 stars today · ⭐ &lt;b&gt;113,102&lt;/b&gt; stars · 🍴 &lt;b&gt;16,956&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/supabase/supabase&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 23 Oct 2026 03:54:21 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;https://user images.githubusercontent.com/8291514/213727234 cda046d6 28c6 491a b284 b86c5cede25d.png gh light mode only&quot; &lt;img src=&quot;https://user images.githubusercontent.com/8291514/213727225 56186826 bee8 43b5 9b15 86e839d89393.png gh dark mode only&quot; &lt;/p Supabase — +693 stars today · 113,546 stars · 17,009 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;https://user images.githubusercontent.com/8291514/213727234 cda046d6 28c6 491a b284 b86c5cede25d.png gh light mode only&amp;quot; &amp;lt;img src=&amp;quot;https://user images.githubusercontent.com/8291514/213727225 56186826 bee8 43b5 9b15 86e839d89393.png gh dark mode only&amp;quot; &amp;lt;/p Supabase&lt;/p&gt;&lt;p&gt;🔥 +693 stars today · ⭐ &lt;b&gt;113,546&lt;/b&gt; stars · 🍴 &lt;b&gt;17,009&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/supabase/supabase&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>headroomlabs-ai/headroom</title>
-      <link>https://github.com/headroomlabs-ai/headroom</link>
-      <guid isPermaLink="true">https://github.com/headroomlabs-ai/headroom</guid>
-      <pubDate>Thu, 22 Oct 2026 03:50:07 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;.github/assets/hero.svg&quot; alt=&quot;Headroom — the context compression layer for AI agents. A 55,957 token agent prompt compresses to the 24,340 tokens actually sent to the model, and the FATAL line at item 67 survives byte for byte.&quot; width=&quot;880&quot; — +474 stars today · 77,327 stars · 6,006 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;.github/assets/hero.svg&amp;quot; alt=&amp;quot;Headroom — the context compression layer for AI agents. A 55,957 token agent prompt compresses to the 24,340 tokens actually sent to the model, and the FATAL line at item 67 survives byte for byte.&amp;quot; width=&amp;quot;880&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +474 stars today · ⭐ &lt;b&gt;77,327&lt;/b&gt; stars · 🍴 &lt;b&gt;6,006&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/headroomlabs-ai/headroom&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>anthropics/knowledge-work-plugins</title>
+      <link>https://github.com/anthropics/knowledge-work-plugins</link>
+      <guid isPermaLink="true">https://github.com/anthropics/knowledge-work-plugins</guid>
+      <pubDate>Fri, 23 Oct 2026 03:54:21 GMT</pubDate>
+      <description>Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins — +303 stars today · 31,710 stars · 3,541 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins&lt;/p&gt;&lt;p&gt;🔥 +303 stars today · ⭐ &lt;b&gt;31,710&lt;/b&gt; stars · 🍴 &lt;b&gt;3,541&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/knowledge-work-plugins&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>vllm-project/vllm</title>
-      <link>https://github.com/vllm-project/vllm</link>
-      <guid isPermaLink="true">https://github.com/vllm-project/vllm</guid>
-      <pubDate>Thu, 22 Oct 2026 03:50:07 GMT</pubDate>
-      <description>&lt;! markdownlint disable MD001 MD041 &lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://raw.githubusercontent.com/vllm project/vllm/main/docs/assets/logos/vllm logo text dark.png&quot; — +441 stars today · 94,946 stars · 23,761 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;! markdownlint disable MD001 MD041 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://raw.githubusercontent.com/vllm project/vllm/main/docs/assets/logos/vllm logo text dark.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +441 stars today · ⭐ &lt;b&gt;94,946&lt;/b&gt; stars · 🍴 &lt;b&gt;23,761&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/vllm-project/vllm&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>php/php-src</title>
+      <link>https://github.com/php/php-src</link>
+      <guid isPermaLink="true">https://github.com/php/php-src</guid>
+      <pubDate>Fri, 23 Oct 2026 03:54:21 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;a href=&quot;https://www.php.net&quot; &lt;img alt=&quot;PHP&quot; src=&quot;https://www.php.net/images/logos/new php logo.svg&quot; width=&quot;150&quot; — +287 stars today · 41,243 stars · 8,322 forks · Language: C</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://www.php.net&amp;quot; &amp;lt;img alt=&amp;quot;PHP&amp;quot; src=&amp;quot;https://www.php.net/images/logos/new php logo.svg&amp;quot; width=&amp;quot;150&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +287 stars today · ⭐ &lt;b&gt;41,243&lt;/b&gt; stars · 🍴 &lt;b&gt;8,322&lt;/b&gt; forks · &lt;b&gt;C&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/php/php-src&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>akitaonrails/ai-memory</title>
-      <link>https://github.com/akitaonrails/ai-memory</link>
-      <guid isPermaLink="true">https://github.com/akitaonrails/ai-memory</guid>
-      <pubDate>Thu, 22 Oct 2026 03:50:07 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/logo dark.png&quot; &lt;img alt=&quot;ai memory&quot; src=&quot;docs/logo light.png&quot; width=&quot;480&quot; &lt;/picture &lt;/p — +286 stars today · 12,431 stars · 876 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/logo dark.png&amp;quot; &amp;lt;img alt=&amp;quot;ai memory&amp;quot; src=&amp;quot;docs/logo light.png&amp;quot; width=&amp;quot;480&amp;quot; &amp;lt;/picture &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +286 stars today · ⭐ &lt;b&gt;12,431&lt;/b&gt; stars · 🍴 &lt;b&gt;876&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/akitaonrails/ai-memory&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>luongnv89/claude-howto</title>
+      <link>https://github.com/luongnv89/claude-howto</link>
+      <guid isPermaLink="true">https://github.com/luongnv89/claude-howto</guid>
+      <pubDate>Fri, 23 Oct 2026 03:54:21 GMT</pubDate>
+      <description>&lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;resources/logos/claude howto logo dark.svg&quot; &lt;img alt=&quot;Claude How To&quot; src=&quot;resources/logos/claude howto logo.svg&quot; &lt;/picture &lt;p align=&quot;center&quot; &lt;a href=&quot;https://github.com/trending&quot; — +177 stars today · 43,383 stars · 5,401 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;resources/logos/claude howto logo dark.svg&amp;quot; &amp;lt;img alt=&amp;quot;Claude How To&amp;quot; src=&amp;quot;resources/logos/claude howto logo.svg&amp;quot; &amp;lt;/picture &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://github.com/trending&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +177 stars today · ⭐ &lt;b&gt;43,383&lt;/b&gt; stars · 🍴 &lt;b&gt;5,401&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/luongnv89/claude-howto&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>twentyhq/twenty</title>
-      <link>https://github.com/twentyhq/twenty</link>
-      <guid isPermaLink="true">https://github.com/twentyhq/twenty</guid>
-      <pubDate>Thu, 22 Oct 2026 03:50:07 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://www.twenty.com&quot; &lt;img src=&quot;./packages/twenty website/public/images/core/logo.svg&quot; width=&quot;100px&quot; alt=&quot;Twenty logo&quot; / &lt;/a &lt;/p &lt;h2 align=&quot;center&quot; The 1 Open Source CRM&lt;/h2 — +112 stars today · 59,266 stars · 9,667 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://www.twenty.com&amp;quot; &amp;lt;img src=&amp;quot;./packages/twenty website/public/images/core/logo.svg&amp;quot; width=&amp;quot;100px&amp;quot; alt=&amp;quot;Twenty logo&amp;quot; / &amp;lt;/a &amp;lt;/p &amp;lt;h2 align=&amp;quot;center&amp;quot; The 1 Open Source CRM&amp;lt;/h2&lt;/p&gt;&lt;p&gt;🔥 +112 stars today · ⭐ &lt;b&gt;59,266&lt;/b&gt; stars · 🍴 &lt;b&gt;9,667&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/twentyhq/twenty&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>Meloong-Git/PCL</title>
+      <link>https://github.com/Meloong-Git/PCL</link>
+      <guid isPermaLink="true">https://github.com/Meloong-Git/PCL</guid>
+      <pubDate>Fri, 23 Oct 2026 03:54:21 GMT</pubDate>
+      <description>Plain Craft Launcher ![Stars](https://github.com/Meloong Git/PCL/) ![Issues](https://github.com/Meloong Git/PCL/issues) ![哔哩哔哩](https://space.bilibili.com/11343203/dynamic) ![爱发电](https://meloong.com/afd/a/LTCat) 包含 PCL 的大部分源代码，包括 UI 库、动画模块、下载模块、Minecraft 启动模块等！&lt;br/ — +119 stars today · 8,752 stars · 1,209 forks · Language: Visual Basic .NET</description>
+      <content:encoded>&lt;p&gt;Plain Craft Launcher ![Stars](https://github.com/Meloong Git/PCL/) ![Issues](https://github.com/Meloong Git/PCL/issues) ![哔哩哔哩](https://space.bilibili.com/11343203/dynamic) ![爱发电](https://meloong.com/afd/a/LTCat) 包含 PCL 的大部分源代码，包括 UI 库、动画模块、下载模块、Minecraft 启动模块等！&amp;lt;br/&lt;/p&gt;&lt;p&gt;🔥 +119 stars today · ⭐ &lt;b&gt;8,752&lt;/b&gt; stars · 🍴 &lt;b&gt;1,209&lt;/b&gt; forks · &lt;b&gt;Visual Basic .NET&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Meloong-Git/PCL&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>fastapi/fastapi</title>
+      <link>https://github.com/fastapi/fastapi</link>
+      <guid isPermaLink="true">https://github.com/fastapi/fastapi</guid>
+      <pubDate>Fri, 23 Oct 2026 03:54:21 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://fastapi.tiangolo.com&quot; &lt;img src=&quot;https://fastapi.tiangolo.com/img/logo margin/logo teal.png&quot; alt=&quot;FastAPI&quot; &lt;/a &lt;/p &lt;p align=&quot;center&quot; &lt;em FastAPI framework, high performance, easy to learn, fast to code, ready for production&lt;/em &lt;/p — +101 stars today · 103,852 stars · 10,093 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://fastapi.tiangolo.com&amp;quot; &amp;lt;img src=&amp;quot;https://fastapi.tiangolo.com/img/logo margin/logo teal.png&amp;quot; alt=&amp;quot;FastAPI&amp;quot; &amp;lt;/a &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;em FastAPI framework, high performance, easy to learn, fast to code, ready for production&amp;lt;/em &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +101 stars today · ⭐ &lt;b&gt;103,852&lt;/b&gt; stars · 🍴 &lt;b&gt;10,093&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/fastapi/fastapi&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
