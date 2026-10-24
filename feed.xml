@@ -7,80 +7,72 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Fri, 23 Oct 2026 03:54:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 03:48:54 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
     <item>
       <title>cloudflare/security-audit-skill</title>
       <link>https://github.com/cloudflare/security-audit-skill</link>
       <guid isPermaLink="true">https://github.com/cloudflare/security-audit-skill</guid>
-      <pubDate>Fri, 23 Oct 2026 03:54:21 GMT</pubDate>
-      <description>security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting. — +2,979 stars today · 39,838 stars · 2,485 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting.&lt;/p&gt;&lt;p&gt;🔥 +2,979 stars today · ⭐ &lt;b&gt;39,838&lt;/b&gt; stars · 🍴 &lt;b&gt;2,485&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cloudflare/security-audit-skill&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 24 Oct 2026 03:48:54 GMT</pubDate>
+      <description>security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting. — +2,716 stars today · 42,362 stars · 2,647 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting.&lt;/p&gt;&lt;p&gt;🔥 +2,716 stars today · ⭐ &lt;b&gt;42,362&lt;/b&gt; stars · 🍴 &lt;b&gt;2,647&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cloudflare/security-audit-skill&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>DietrichGebert/ponytail</title>
-      <link>https://github.com/DietrichGebert/ponytail</link>
-      <guid isPermaLink="true">https://github.com/DietrichGebert/ponytail</guid>
-      <pubDate>Fri, 23 Oct 2026 03:54:21 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;assets/logo dark.png&quot; &lt;img src=&quot;assets/logo.png&quot; width=&quot;220&quot; alt=&quot;Ponytail, the lazy senior dev&quot; &lt;/picture &lt;/p — +1,948 stars today · 173,748 stars · 9,462 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;assets/logo dark.png&amp;quot; &amp;lt;img src=&amp;quot;assets/logo.png&amp;quot; width=&amp;quot;220&amp;quot; alt=&amp;quot;Ponytail, the lazy senior dev&amp;quot; &amp;lt;/picture &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +1,948 stars today · ⭐ &lt;b&gt;173,748&lt;/b&gt; stars · 🍴 &lt;b&gt;9,462&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/DietrichGebert/ponytail&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Graphify-Labs/graphify</title>
-      <link>https://github.com/Graphify-Labs/graphify</link>
-      <guid isPermaLink="true">https://github.com/Graphify-Labs/graphify</guid>
-      <pubDate>Fri, 23 Oct 2026 03:54:21 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://graphify.com&quot; &lt;img src=&quot;https://raw.githubusercontent.com/Graphify Labs/graphify/v8/docs/graphify logo.png&quot; width=&quot;360&quot; height=&quot;189&quot; alt=&quot;Graphify&quot;/ &lt;/a &lt;/p &lt;p align=&quot;center&quot; — +1,408 stars today · 133,130 stars · 12,733 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://graphify.com&amp;quot; &amp;lt;img src=&amp;quot;https://raw.githubusercontent.com/Graphify Labs/graphify/v8/docs/graphify logo.png&amp;quot; width=&amp;quot;360&amp;quot; height=&amp;quot;189&amp;quot; alt=&amp;quot;Graphify&amp;quot;/ &amp;lt;/a &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,408 stars today · ⭐ &lt;b&gt;133,130&lt;/b&gt; stars · 🍴 &lt;b&gt;12,733&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Graphify-Labs/graphify&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>supabase/supabase</title>
-      <link>https://github.com/supabase/supabase</link>
-      <guid isPermaLink="true">https://github.com/supabase/supabase</guid>
-      <pubDate>Fri, 23 Oct 2026 03:54:21 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;https://user images.githubusercontent.com/8291514/213727234 cda046d6 28c6 491a b284 b86c5cede25d.png gh light mode only&quot; &lt;img src=&quot;https://user images.githubusercontent.com/8291514/213727225 56186826 bee8 43b5 9b15 86e839d89393.png gh dark mode only&quot; &lt;/p Supabase — +693 stars today · 113,546 stars · 17,009 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;https://user images.githubusercontent.com/8291514/213727234 cda046d6 28c6 491a b284 b86c5cede25d.png gh light mode only&amp;quot; &amp;lt;img src=&amp;quot;https://user images.githubusercontent.com/8291514/213727225 56186826 bee8 43b5 9b15 86e839d89393.png gh dark mode only&amp;quot; &amp;lt;/p Supabase&lt;/p&gt;&lt;p&gt;🔥 +693 stars today · ⭐ &lt;b&gt;113,546&lt;/b&gt; stars · 🍴 &lt;b&gt;17,009&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/supabase/supabase&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>anthropics/knowledge-work-plugins</title>
-      <link>https://github.com/anthropics/knowledge-work-plugins</link>
-      <guid isPermaLink="true">https://github.com/anthropics/knowledge-work-plugins</guid>
-      <pubDate>Fri, 23 Oct 2026 03:54:21 GMT</pubDate>
-      <description>Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins — +303 stars today · 31,710 stars · 3,541 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins&lt;/p&gt;&lt;p&gt;🔥 +303 stars today · ⭐ &lt;b&gt;31,710&lt;/b&gt; stars · 🍴 &lt;b&gt;3,541&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/knowledge-work-plugins&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>NVIDIA/OpenShell</title>
+      <link>https://github.com/NVIDIA/OpenShell</link>
+      <guid isPermaLink="true">https://github.com/NVIDIA/OpenShell</guid>
+      <pubDate>Sat, 24 Oct 2026 03:48:54 GMT</pubDate>
+      <description>&lt;! markdownlint disable MD033 MD041 &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/brand/assets/openshell banner dark.png&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;docs/brand/assets/openshell banner light.png&quot; — +1,119 stars today · 18,894 stars · 1,887 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;&amp;lt;! markdownlint disable MD033 MD041 &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/brand/assets/openshell banner dark.png&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;docs/brand/assets/openshell banner light.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,119 stars today · ⭐ &lt;b&gt;18,894&lt;/b&gt; stars · 🍴 &lt;b&gt;1,887&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/NVIDIA/OpenShell&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>php/php-src</title>
       <link>https://github.com/php/php-src</link>
       <guid isPermaLink="true">https://github.com/php/php-src</guid>
-      <pubDate>Fri, 23 Oct 2026 03:54:21 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;a href=&quot;https://www.php.net&quot; &lt;img alt=&quot;PHP&quot; src=&quot;https://www.php.net/images/logos/new php logo.svg&quot; width=&quot;150&quot; — +287 stars today · 41,243 stars · 8,322 forks · Language: C</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://www.php.net&amp;quot; &amp;lt;img alt=&amp;quot;PHP&amp;quot; src=&amp;quot;https://www.php.net/images/logos/new php logo.svg&amp;quot; width=&amp;quot;150&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +287 stars today · ⭐ &lt;b&gt;41,243&lt;/b&gt; stars · 🍴 &lt;b&gt;8,322&lt;/b&gt; forks · &lt;b&gt;C&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/php/php-src&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 24 Oct 2026 03:48:54 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;a href=&quot;https://www.php.net&quot; &lt;img alt=&quot;PHP&quot; src=&quot;https://www.php.net/images/logos/new php logo.svg&quot; width=&quot;150&quot; — +716 stars today · 41,593 stars · 8,363 forks · Language: C</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://www.php.net&amp;quot; &amp;lt;img alt=&amp;quot;PHP&amp;quot; src=&amp;quot;https://www.php.net/images/logos/new php logo.svg&amp;quot; width=&amp;quot;150&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +716 stars today · ⭐ &lt;b&gt;41,593&lt;/b&gt; stars · 🍴 &lt;b&gt;8,363&lt;/b&gt; forks · &lt;b&gt;C&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/php/php-src&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>luongnv89/claude-howto</title>
-      <link>https://github.com/luongnv89/claude-howto</link>
-      <guid isPermaLink="true">https://github.com/luongnv89/claude-howto</guid>
-      <pubDate>Fri, 23 Oct 2026 03:54:21 GMT</pubDate>
-      <description>&lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;resources/logos/claude howto logo dark.svg&quot; &lt;img alt=&quot;Claude How To&quot; src=&quot;resources/logos/claude howto logo.svg&quot; &lt;/picture &lt;p align=&quot;center&quot; &lt;a href=&quot;https://github.com/trending&quot; — +177 stars today · 43,383 stars · 5,401 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;resources/logos/claude howto logo dark.svg&amp;quot; &amp;lt;img alt=&amp;quot;Claude How To&amp;quot; src=&amp;quot;resources/logos/claude howto logo.svg&amp;quot; &amp;lt;/picture &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://github.com/trending&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +177 stars today · ⭐ &lt;b&gt;43,383&lt;/b&gt; stars · 🍴 &lt;b&gt;5,401&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/luongnv89/claude-howto&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>anthropics/knowledge-work-plugins</title>
+      <link>https://github.com/anthropics/knowledge-work-plugins</link>
+      <guid isPermaLink="true">https://github.com/anthropics/knowledge-work-plugins</guid>
+      <pubDate>Sat, 24 Oct 2026 03:48:54 GMT</pubDate>
+      <description>Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins — +635 stars today · 32,296 stars · 3,576 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code. Why Plugins&lt;/p&gt;&lt;p&gt;🔥 +635 stars today · ⭐ &lt;b&gt;32,296&lt;/b&gt; stars · 🍴 &lt;b&gt;3,576&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/knowledge-work-plugins&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>Meloong-Git/PCL</title>
-      <link>https://github.com/Meloong-Git/PCL</link>
-      <guid isPermaLink="true">https://github.com/Meloong-Git/PCL</guid>
-      <pubDate>Fri, 23 Oct 2026 03:54:21 GMT</pubDate>
-      <description>Plain Craft Launcher ![Stars](https://github.com/Meloong Git/PCL/) ![Issues](https://github.com/Meloong Git/PCL/issues) ![哔哩哔哩](https://space.bilibili.com/11343203/dynamic) ![爱发电](https://meloong.com/afd/a/LTCat) 包含 PCL 的大部分源代码，包括 UI 库、动画模块、下载模块、Minecraft 启动模块等！&lt;br/ — +119 stars today · 8,752 stars · 1,209 forks · Language: Visual Basic .NET</description>
-      <content:encoded>&lt;p&gt;Plain Craft Launcher ![Stars](https://github.com/Meloong Git/PCL/) ![Issues](https://github.com/Meloong Git/PCL/issues) ![哔哩哔哩](https://space.bilibili.com/11343203/dynamic) ![爱发电](https://meloong.com/afd/a/LTCat) 包含 PCL 的大部分源代码，包括 UI 库、动画模块、下载模块、Minecraft 启动模块等！&amp;lt;br/&lt;/p&gt;&lt;p&gt;🔥 +119 stars today · ⭐ &lt;b&gt;8,752&lt;/b&gt; stars · 🍴 &lt;b&gt;1,209&lt;/b&gt; forks · &lt;b&gt;Visual Basic .NET&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Meloong-Git/PCL&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>Renhuai123/ziwei-doushu</title>
+      <link>https://github.com/Renhuai123/ziwei-doushu</link>
+      <guid isPermaLink="true">https://github.com/Renhuai123/ziwei-doushu</guid>
+      <pubDate>Sat, 24 Oct 2026 03:48:54 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; 紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 ![CI](https://github.com/Renhuai123/ziwei doushu/actions/workflows/ci.yml) ![License: MIT](./LICENSE) ![Dataset: CC BY 4.0](./DATASET LICENSE) — +546 stars today · 6,964 stars · 1,425 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; 紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 ![CI](https://github.com/Renhuai123/ziwei doushu/actions/workflows/ci.yml) ![License: MIT](./LICENSE) ![Dataset: CC BY 4.0](./DATASET LICENSE)&lt;/p&gt;&lt;p&gt;🔥 +546 stars today · ⭐ &lt;b&gt;6,964&lt;/b&gt; stars · 🍴 &lt;b&gt;1,425&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Renhuai123/ziwei-doushu&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>fastapi/fastapi</title>
-      <link>https://github.com/fastapi/fastapi</link>
-      <guid isPermaLink="true">https://github.com/fastapi/fastapi</guid>
-      <pubDate>Fri, 23 Oct 2026 03:54:21 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://fastapi.tiangolo.com&quot; &lt;img src=&quot;https://fastapi.tiangolo.com/img/logo margin/logo teal.png&quot; alt=&quot;FastAPI&quot; &lt;/a &lt;/p &lt;p align=&quot;center&quot; &lt;em FastAPI framework, high performance, easy to learn, fast to code, ready for production&lt;/em &lt;/p — +101 stars today · 103,852 stars · 10,093 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://fastapi.tiangolo.com&amp;quot; &amp;lt;img src=&amp;quot;https://fastapi.tiangolo.com/img/logo margin/logo teal.png&amp;quot; alt=&amp;quot;FastAPI&amp;quot; &amp;lt;/a &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;em FastAPI framework, high performance, easy to learn, fast to code, ready for production&amp;lt;/em &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +101 stars today · ⭐ &lt;b&gt;103,852&lt;/b&gt; stars · 🍴 &lt;b&gt;10,093&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/fastapi/fastapi&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>SnailSploit/Claude-Red</title>
+      <link>https://github.com/SnailSploit/Claude-Red</link>
+      <guid isPermaLink="true">https://github.com/SnailSploit/Claude-Red</guid>
+      <pubDate>Sat, 24 Oct 2026 03:48:54 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; claude red Offensive security skills for Claude — drop in SKILL.md files that turn Claude into a context aware red team operator. ![License: MIT](LICENSE) ![Skills]( skill index) ![Categories]( categories) — +226 stars today · 8,573 stars · 1,106 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; claude red Offensive security skills for Claude — drop in SKILL.md files that turn Claude into a context aware red team operator. ![License: MIT](LICENSE) ![Skills]( skill index) ![Categories]( categories)&lt;/p&gt;&lt;p&gt;🔥 +226 stars today · ⭐ &lt;b&gt;8,573&lt;/b&gt; stars · 🍴 &lt;b&gt;1,106&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/SnailSploit/Claude-Red&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>OpenBMB/VoxCPM</title>
+      <link>https://github.com/OpenBMB/VoxCPM</link>
+      <guid isPermaLink="true">https://github.com/OpenBMB/VoxCPM</guid>
+      <pubDate>Sat, 24 Oct 2026 03:48:54 GMT</pubDate>
+      <description>&lt;h2 align=&quot;center&quot; VoxCPM2: Tokenizer Free TTS for Multilingual Speech Generation, Creative Voice Design, and True to Life Cloning&lt;/h2 &lt;p align=&quot;center&quot; &lt;b English&lt;/b &lt;a href=&quot;./README zh.md&quot; 中文&lt;/a &lt;/p &lt;p align=&quot;center&quot; — +150 stars today · 40,327 stars · 4,582 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h2 align=&amp;quot;center&amp;quot; VoxCPM2: Tokenizer Free TTS for Multilingual Speech Generation, Creative Voice Design, and True to Life Cloning&amp;lt;/h2 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;b English&amp;lt;/b &amp;lt;a href=&amp;quot;./README zh.md&amp;quot; 中文&amp;lt;/a &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +150 stars today · ⭐ &lt;b&gt;40,327&lt;/b&gt; stars · 🍴 &lt;b&gt;4,582&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/OpenBMB/VoxCPM&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>nodejs/node</title>
+      <link>https://github.com/nodejs/node</link>
+      <guid isPermaLink="true">https://github.com/nodejs/node</guid>
+      <pubDate>Sat, 24 Oct 2026 03:48:54 GMT</pubDate>
+      <description>Node.js Node.js is an open source, cross platform JavaScript runtime environment. For information on using Node.js, see the [Node.js website][]. The Node.js project uses an open governance model. The [OpenJS Foundation][] provides support for the project. — +66 stars today · 122,922 stars · 39,835 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;Node.js Node.js is an open source, cross platform JavaScript runtime environment. For information on using Node.js, see the [Node.js website][]. The Node.js project uses an open governance model. The [OpenJS Foundation][] provides support for the project.&lt;/p&gt;&lt;p&gt;🔥 +66 stars today · ⭐ &lt;b&gt;122,922&lt;/b&gt; stars · 🍴 &lt;b&gt;39,835&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/nodejs/node&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
