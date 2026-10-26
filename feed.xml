@@ -7,88 +7,96 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Sun, 25 Oct 2026 03:47:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 03:51:23 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
     <item>
       <title>cloudflare/security-audit-skill</title>
       <link>https://github.com/cloudflare/security-audit-skill</link>
       <guid isPermaLink="true">https://github.com/cloudflare/security-audit-skill</guid>
-      <pubDate>Sun, 25 Oct 2026 03:47:36 GMT</pubDate>
-      <description>security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting. — +2,264 stars today · 44,866 stars · 2,782 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting.&lt;/p&gt;&lt;p&gt;🔥 +2,264 stars today · ⭐ &lt;b&gt;44,866&lt;/b&gt; stars · 🍴 &lt;b&gt;2,782&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cloudflare/security-audit-skill&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Mon, 26 Oct 2026 03:51:23 GMT</pubDate>
+      <description>security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting. — +2,878 stars today · 47,171 stars · 2,927 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting.&lt;/p&gt;&lt;p&gt;🔥 +2,878 stars today · ⭐ &lt;b&gt;47,171&lt;/b&gt; stars · 🍴 &lt;b&gt;2,927&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cloudflare/security-audit-skill&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>NVIDIA/OpenShell</title>
-      <link>https://github.com/NVIDIA/OpenShell</link>
-      <guid isPermaLink="true">https://github.com/NVIDIA/OpenShell</guid>
-      <pubDate>Sun, 25 Oct 2026 03:47:36 GMT</pubDate>
-      <description>&lt;! markdownlint disable MD033 MD041 &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/brand/assets/openshell banner dark.png&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;docs/brand/assets/openshell banner light.png&quot; — +896 stars today · 19,544 stars · 1,936 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;&amp;lt;! markdownlint disable MD033 MD041 &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/brand/assets/openshell banner dark.png&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;docs/brand/assets/openshell banner light.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +896 stars today · ⭐ &lt;b&gt;19,544&lt;/b&gt; stars · 🍴 &lt;b&gt;1,936&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/NVIDIA/OpenShell&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>pbakaus/impeccable</title>
-      <link>https://github.com/pbakaus/impeccable</link>
-      <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
-      <pubDate>Sun, 25 Oct 2026 03:47:36 GMT</pubDate>
-      <description>Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 62 deterministic detector rules for AI generated frontend design. — +619 stars today · 86,525 stars · 5,163 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 62 deterministic detector rules for AI generated frontend design.&lt;/p&gt;&lt;p&gt;🔥 +619 stars today · ⭐ &lt;b&gt;86,525&lt;/b&gt; stars · 🍴 &lt;b&gt;5,163&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pbakaus/impeccable&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>makecindy/cindy</title>
-      <link>https://github.com/makecindy/cindy</link>
-      <guid isPermaLink="true">https://github.com/makecindy/cindy</guid>
-      <pubDate>Sun, 25 Oct 2026 03:47:36 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://cindy.app&quot; &lt;img src=&quot;.github/assets/hero en.webp&quot; width=&quot;100%&quot; alt=&quot;CINDY — Consider it done. The open source AI agent that works out of the box, doing real work on your own computer.&quot; &lt;/a &lt;/p &lt;p align=&quot;center&quot; — +477 stars today · 4,168 stars · 600 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://cindy.app&amp;quot; &amp;lt;img src=&amp;quot;.github/assets/hero en.webp&amp;quot; width=&amp;quot;100%&amp;quot; alt=&amp;quot;CINDY — Consider it done. The open source AI agent that works out of the box, doing real work on your own computer.&amp;quot; &amp;lt;/a &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +477 stars today · ⭐ &lt;b&gt;4,168&lt;/b&gt; stars · 🍴 &lt;b&gt;600&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/makecindy/cindy&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>debpalash/VoiceStudio</title>
+      <link>https://github.com/debpalash/VoiceStudio</link>
+      <guid isPermaLink="true">https://github.com/debpalash/VoiceStudio</guid>
+      <pubDate>Mon, 26 Oct 2026 03:51:23 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;docs/logo.png&quot; alt=&quot;VoiceStudio&quot; width=&quot;88&quot; / &lt;h1 VoiceStudio&lt;/h1 &lt;p — +1,592 stars today · 87,119 stars · 9,632 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/logo.png&amp;quot; alt=&amp;quot;VoiceStudio&amp;quot; width=&amp;quot;88&amp;quot; / &amp;lt;h1 VoiceStudio&amp;lt;/h1 &amp;lt;p&lt;/p&gt;&lt;p&gt;🔥 +1,592 stars today · ⭐ &lt;b&gt;87,119&lt;/b&gt; stars · 🍴 &lt;b&gt;9,632&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/debpalash/VoiceStudio&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>Nutlope/hallmark</title>
       <link>https://github.com/Nutlope/hallmark</link>
       <guid isPermaLink="true">https://github.com/Nutlope/hallmark</guid>
-      <pubDate>Sun, 25 Oct 2026 03:47:36 GMT</pubDate>
-      <description>Hallmark A design skill for Claude Code, Codex, Cursor and OpenCode that refuses to look AI generated. usehallmark.com &amp;nbsp;·&amp;nbsp; forty eight themes &amp;nbsp;·&amp;nbsp; custom on request &amp;nbsp;·&amp;nbsp; redesign and audit by name Made by Together AI. &lt;p align=&quot;center&quot; — +455 stars today · 32,273 stars · 1,657 forks · Language: CSS</description>
-      <content:encoded>&lt;p&gt;Hallmark A design skill for Claude Code, Codex, Cursor and OpenCode that refuses to look AI generated. usehallmark.com &amp;amp;nbsp;·&amp;amp;nbsp; forty eight themes &amp;amp;nbsp;·&amp;amp;nbsp; custom on request &amp;amp;nbsp;·&amp;amp;nbsp; redesign and audit by name Made by Together AI. &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +455 stars today · ⭐ &lt;b&gt;32,273&lt;/b&gt; stars · 🍴 &lt;b&gt;1,657&lt;/b&gt; forks · &lt;b&gt;CSS&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Nutlope/hallmark&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Mon, 26 Oct 2026 03:51:23 GMT</pubDate>
+      <description>Hallmark A design skill for Claude Code, Codex, Cursor and OpenCode that refuses to look AI generated. usehallmark.com &amp;nbsp;·&amp;nbsp; forty eight themes &amp;nbsp;·&amp;nbsp; custom on request &amp;nbsp;·&amp;nbsp; redesign and audit by name Made by Together AI. &lt;p align=&quot;center&quot; — +1,317 stars today · 34,156 stars · 1,779 forks · Language: CSS</description>
+      <content:encoded>&lt;p&gt;Hallmark A design skill for Claude Code, Codex, Cursor and OpenCode that refuses to look AI generated. usehallmark.com &amp;amp;nbsp;·&amp;amp;nbsp; forty eight themes &amp;amp;nbsp;·&amp;amp;nbsp; custom on request &amp;amp;nbsp;·&amp;amp;nbsp; redesign and audit by name Made by Together AI. &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,317 stars today · ⭐ &lt;b&gt;34,156&lt;/b&gt; stars · 🍴 &lt;b&gt;1,779&lt;/b&gt; forks · &lt;b&gt;CSS&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Nutlope/hallmark&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>luongnv89/claude-howto</title>
-      <link>https://github.com/luongnv89/claude-howto</link>
-      <guid isPermaLink="true">https://github.com/luongnv89/claude-howto</guid>
-      <pubDate>Sun, 25 Oct 2026 03:47:36 GMT</pubDate>
-      <description>&lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;resources/logos/claude howto logo dark.svg&quot; &lt;img alt=&quot;Claude How To&quot; src=&quot;resources/logos/claude howto logo.svg&quot; &lt;/picture &lt;p align=&quot;center&quot; &lt;a href=&quot;https://github.com/trending&quot; — +392 stars today · 44,641 stars · 5,496 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;resources/logos/claude howto logo dark.svg&amp;quot; &amp;lt;img alt=&amp;quot;Claude How To&amp;quot; src=&amp;quot;resources/logos/claude howto logo.svg&amp;quot; &amp;lt;/picture &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://github.com/trending&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +392 stars today · ⭐ &lt;b&gt;44,641&lt;/b&gt; stars · 🍴 &lt;b&gt;5,496&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/luongnv89/claude-howto&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>pbakaus/impeccable</title>
+      <link>https://github.com/pbakaus/impeccable</link>
+      <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
+      <pubDate>Mon, 26 Oct 2026 03:51:23 GMT</pubDate>
+      <description>Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 62 deterministic detector rules for AI generated frontend design. — +1,092 stars today · 87,906 stars · 5,251 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 62 deterministic detector rules for AI generated frontend design.&lt;/p&gt;&lt;p&gt;🔥 +1,092 stars today · ⭐ &lt;b&gt;87,906&lt;/b&gt; stars · 🍴 &lt;b&gt;5,251&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pbakaus/impeccable&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>makecindy/cindy</title>
+      <link>https://github.com/makecindy/cindy</link>
+      <guid isPermaLink="true">https://github.com/makecindy/cindy</guid>
+      <pubDate>Mon, 26 Oct 2026 03:51:23 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://cindy.app&quot; &lt;img src=&quot;.github/assets/hero en.webp&quot; width=&quot;100%&quot; alt=&quot;CINDY — Consider it done. The open source AI agent that works out of the box, doing real work on your own computer.&quot; &lt;/a &lt;/p &lt;p align=&quot;center&quot; — +675 stars today · 5,100 stars · 685 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://cindy.app&amp;quot; &amp;lt;img src=&amp;quot;.github/assets/hero en.webp&amp;quot; width=&amp;quot;100%&amp;quot; alt=&amp;quot;CINDY — Consider it done. The open source AI agent that works out of the box, doing real work on your own computer.&amp;quot; &amp;lt;/a &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +675 stars today · ⭐ &lt;b&gt;5,100&lt;/b&gt; stars · 🍴 &lt;b&gt;685&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/makecindy/cindy&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>pollen-robotics/microduck</title>
       <link>https://github.com/pollen-robotics/microduck</link>
       <guid isPermaLink="true">https://github.com/pollen-robotics/microduck</guid>
-      <pubDate>Sun, 25 Oct 2026 03:47:36 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;https://github.com/user attachments/assets/c2f7c245 8217 46a1 8d1e e0ba967cd969&quot; alt=&quot;microduck&quot; width=&quot;820&quot; &lt;/p &lt;h1 align=&quot;center&quot; Microduck&lt;/h1 &lt;p align=&quot;center&quot; &lt;em A tiny biped robot that moves using reinforcement learning policies.&lt;/em — +319 stars today · 11,068 stars · 1,417 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;https://github.com/user attachments/assets/c2f7c245 8217 46a1 8d1e e0ba967cd969&amp;quot; alt=&amp;quot;microduck&amp;quot; width=&amp;quot;820&amp;quot; &amp;lt;/p &amp;lt;h1 align=&amp;quot;center&amp;quot; Microduck&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;em A tiny biped robot that moves using reinforcement learning policies.&amp;lt;/em&lt;/p&gt;&lt;p&gt;🔥 +319 stars today · ⭐ &lt;b&gt;11,068&lt;/b&gt; stars · 🍴 &lt;b&gt;1,417&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pollen-robotics/microduck&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Mon, 26 Oct 2026 03:51:23 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;https://github.com/user attachments/assets/c2f7c245 8217 46a1 8d1e e0ba967cd969&quot; alt=&quot;microduck&quot; width=&quot;820&quot; &lt;/p &lt;h1 align=&quot;center&quot; Microduck&lt;/h1 &lt;p align=&quot;center&quot; &lt;em A tiny biped robot that moves using reinforcement learning policies.&lt;/em — +647 stars today · 11,800 stars · 1,498 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;https://github.com/user attachments/assets/c2f7c245 8217 46a1 8d1e e0ba967cd969&amp;quot; alt=&amp;quot;microduck&amp;quot; width=&amp;quot;820&amp;quot; &amp;lt;/p &amp;lt;h1 align=&amp;quot;center&amp;quot; Microduck&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;em A tiny biped robot that moves using reinforcement learning policies.&amp;lt;/em&lt;/p&gt;&lt;p&gt;🔥 +647 stars today · ⭐ &lt;b&gt;11,800&lt;/b&gt; stars · 🍴 &lt;b&gt;1,498&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pollen-robotics/microduck&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>jbiaojerry/ebook-treasure-chest</title>
-      <link>https://github.com/jbiaojerry/ebook-treasure-chest</link>
-      <guid isPermaLink="true">https://github.com/jbiaojerry/ebook-treasure-chest</guid>
-      <pubDate>Sun, 25 Oct 2026 03:47:36 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;.github/logo.png&quot; alt=&quot;Project Logo&quot; &lt;/p 电子书下载宝库 🌐 在线访问 GitHub Pages 体验强大的实时搜索功能和多关键字搜索，快速找到你想要的电子书！ 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 — +227 stars today · 22,736 stars · 3,197 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;.github/logo.png&amp;quot; alt=&amp;quot;Project Logo&amp;quot; &amp;lt;/p 电子书下载宝库 🌐 在线访问 GitHub Pages 体验强大的实时搜索功能和多关键字搜索，快速找到你想要的电子书！ 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。&lt;/p&gt;&lt;p&gt;🔥 +227 stars today · ⭐ &lt;b&gt;22,736&lt;/b&gt; stars · 🍴 &lt;b&gt;3,197&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/jbiaojerry/ebook-treasure-chest&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>TauricResearch/TradingAgents</title>
+      <link>https://github.com/TauricResearch/TradingAgents</link>
+      <guid isPermaLink="true">https://github.com/TauricResearch/TradingAgents</guid>
+      <pubDate>Mon, 26 Oct 2026 03:51:23 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;tradingagents/assets/tauric logo.svg&quot; width=&quot;60%&quot; alt=&quot;Tauric Research&quot; &lt;/p &lt;div align=&quot;center&quot; style=&quot;line height: 1;&quot; &lt;a href=&quot;https://arxiv.org/abs/2412.20138&quot; target=&quot; blank&quot; &lt;img alt=&quot;arXiv&quot; src=&quot;https://img.shields.io/badge/arXiv 2412.20138 B31B1B?logo=arxiv&quot;/ &lt;/a — +381 stars today · 114,795 stars · 22,144 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;tradingagents/assets/tauric logo.svg&amp;quot; width=&amp;quot;60%&amp;quot; alt=&amp;quot;Tauric Research&amp;quot; &amp;lt;/p &amp;lt;div align=&amp;quot;center&amp;quot; style=&amp;quot;line height: 1;&amp;quot; &amp;lt;a href=&amp;quot;https://arxiv.org/abs/2412.20138&amp;quot; target=&amp;quot; blank&amp;quot; &amp;lt;img alt=&amp;quot;arXiv&amp;quot; src=&amp;quot;https://img.shields.io/badge/arXiv 2412.20138 B31B1B?logo=arxiv&amp;quot;/ &amp;lt;/a&lt;/p&gt;&lt;p&gt;🔥 +381 stars today · ⭐ &lt;b&gt;114,795&lt;/b&gt; stars · 🍴 &lt;b&gt;22,144&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/TauricResearch/TradingAgents&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>google-gemini/gemini-cli</title>
-      <link>https://github.com/google-gemini/gemini-cli</link>
-      <guid isPermaLink="true">https://github.com/google-gemini/gemini-cli</guid>
-      <pubDate>Sun, 25 Oct 2026 03:47:36 GMT</pubDate>
-      <description>[!NOTE] Unpaid tier and Google One users: Gemini CLI was replaced by Antigravity CLI on June 18th, 2026. To learn more, see our blog post. Gemini CLI has not been optimized for Gemini 4 Argon. To use Gemini 4 Argon, please use Antigravity. — +44 stars today · 108,136 stars · 14,814 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;[!NOTE] Unpaid tier and Google One users: Gemini CLI was replaced by Antigravity CLI on June 18th, 2026. To learn more, see our blog post. Gemini CLI has not been optimized for Gemini 4 Argon. To use Gemini 4 Argon, please use Antigravity.&lt;/p&gt;&lt;p&gt;🔥 +44 stars today · ⭐ &lt;b&gt;108,136&lt;/b&gt; stars · 🍴 &lt;b&gt;14,814&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/google-gemini/gemini-cli&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>Renhuai123/ziwei-doushu</title>
+      <link>https://github.com/Renhuai123/ziwei-doushu</link>
+      <guid isPermaLink="true">https://github.com/Renhuai123/ziwei-doushu</guid>
+      <pubDate>Mon, 26 Oct 2026 03:51:23 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; 紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 ![CI](https://github.com/Renhuai123/ziwei doushu/actions/workflows/ci.yml) ![License: MIT](./LICENSE) ![Dataset: CC BY 4.0](./DATASET LICENSE) — +199 stars today · 7,807 stars · 1,576 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; 紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 ![CI](https://github.com/Renhuai123/ziwei doushu/actions/workflows/ci.yml) ![License: MIT](./LICENSE) ![Dataset: CC BY 4.0](./DATASET LICENSE)&lt;/p&gt;&lt;p&gt;🔥 +199 stars today · ⭐ &lt;b&gt;7,807&lt;/b&gt; stars · 🍴 &lt;b&gt;1,576&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Renhuai123/ziwei-doushu&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>aws/agent-toolkit-for-aws</title>
-      <link>https://github.com/aws/agent-toolkit-for-aws</link>
-      <guid isPermaLink="true">https://github.com/aws/agent-toolkit-for-aws</guid>
-      <pubDate>Sun, 25 Oct 2026 03:47:36 GMT</pubDate>
-      <description>Agent Toolkit for AWS ![License](LICENSE) ![Build](https://github.com/aws/agent toolkit for aws/actions/workflows/build.yml) ![Status](https://github.com/aws/agent toolkit for aws) Help AI coding agents build, deploy, and manage applications on AWS. — +13 stars today · 3,168 stars · 400 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Agent Toolkit for AWS ![License](LICENSE) ![Build](https://github.com/aws/agent toolkit for aws/actions/workflows/build.yml) ![Status](https://github.com/aws/agent toolkit for aws) Help AI coding agents build, deploy, and manage applications on AWS.&lt;/p&gt;&lt;p&gt;🔥 +13 stars today · ⭐ &lt;b&gt;3,168&lt;/b&gt; stars · 🍴 &lt;b&gt;400&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/aws/agent-toolkit-for-aws&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>AgriciDaniel/claude-seo</title>
+      <link>https://github.com/AgriciDaniel/claude-seo</link>
+      <guid isPermaLink="true">https://github.com/AgriciDaniel/claude-seo</guid>
+      <pubDate>Mon, 26 Oct 2026 03:51:23 GMT</pubDate>
+      <description>&lt;! Claude SEO (claude seo): free, open source SEO audit plugin for Claude Code by Agrici Daniel. Technical SEO, Core Web Vitals, E E A T, Schema.org, AI search (GEO), local SEO, e commerce and international SEO. 26 sub skills and 19 specialist agents. MIT licensed. — +197 stars today · 21,112 stars · 2,964 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;! Claude SEO (claude seo): free, open source SEO audit plugin for Claude Code by Agrici Daniel. Technical SEO, Core Web Vitals, E E A T, Schema.org, AI search (GEO), local SEO, e commerce and international SEO. 26 sub skills and 19 specialist agents. MIT licensed.&lt;/p&gt;&lt;p&gt;🔥 +197 stars today · ⭐ &lt;b&gt;21,112&lt;/b&gt; stars · 🍴 &lt;b&gt;2,964&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/AgriciDaniel/claude-seo&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>coollabsio/coolify</title>
+      <link>https://github.com/coollabsio/coolify</link>
+      <guid isPermaLink="true">https://github.com/coollabsio/coolify</guid>
+      <pubDate>Mon, 26 Oct 2026 03:51:23 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;./public/coolify logo.svg&quot; alt=&quot;Coolify logo&quot; width=&quot;120&quot; / Coolify An open source platform to deploy applications, databases, and services on your own servers. Open source &amp; free forever, backed by our philosophy. ) — +152 stars today · 64,529 stars · 5,796 forks · Language: PHP</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;./public/coolify logo.svg&amp;quot; alt=&amp;quot;Coolify logo&amp;quot; width=&amp;quot;120&amp;quot; / Coolify An open source platform to deploy applications, databases, and services on your own servers. Open source &amp;amp; free forever, backed by our philosophy. )&lt;/p&gt;&lt;p&gt;🔥 +152 stars today · ⭐ &lt;b&gt;64,529&lt;/b&gt; stars · 🍴 &lt;b&gt;5,796&lt;/b&gt; forks · &lt;b&gt;PHP&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/coollabsio/coolify&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>JetBrains/thinkrail</title>
+      <link>https://github.com/JetBrains/thinkrail</link>
+      <guid isPermaLink="true">https://github.com/JetBrains/thinkrail</guid>
+      <pubDate>Mon, 26 Oct 2026 03:51:23 GMT</pubDate>
+      <description>ThinkRail ![JetBrains incubator project](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub) ![GitHub stars](https://star history.com/ JetBrains/thinkrail&amp;Date) ThinkRail is the agentic IDE that gets better every time you use it — learning your project through — +51 stars today · 1,938 stars · 110 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;ThinkRail ![JetBrains incubator project](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub) ![GitHub stars](https://star history.com/ JetBrains/thinkrail&amp;amp;Date) ThinkRail is the agentic IDE that gets better every time you use it — learning your project through&lt;/p&gt;&lt;p&gt;🔥 +51 stars today · ⭐ &lt;b&gt;1,938&lt;/b&gt; stars · 🍴 &lt;b&gt;110&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/JetBrains/thinkrail&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
