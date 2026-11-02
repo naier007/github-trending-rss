@@ -7,120 +7,144 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Sun, 01 Nov 2026 05:00:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 05:01:45 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
-    <item>
-      <title>thedotmack/claude-mem</title>
-      <link>https://github.com/thedotmack/claude-mem</link>
-      <guid isPermaLink="true">https://github.com/thedotmack/claude-mem</guid>
-      <pubDate>Sun, 01 Nov 2026 05:00:29 GMT</pubDate>
-      <description>&lt;h1 align=&quot;center&quot; &lt;br &lt;a href=&quot;https://github.com/thedotmack/claude mem&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/public/claude mem logo for dark mode.webp&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;docs/public/claude mem logo for light mode.webp&quot; — +1,723 stars today · 108,084 stars · 9,482 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;br &amp;lt;a href=&amp;quot;https://github.com/thedotmack/claude mem&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for dark mode.webp&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for light mode.webp&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,723 stars today · ⭐ &lt;b&gt;108,084&lt;/b&gt; stars · 🍴 &lt;b&gt;9,482&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/thedotmack/claude-mem&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>pbakaus/impeccable</title>
-      <link>https://github.com/pbakaus/impeccable</link>
-      <guid isPermaLink="true">https://github.com/pbakaus/impeccable</guid>
-      <pubDate>Sun, 01 Nov 2026 05:00:29 GMT</pubDate>
-      <description>Impeccable The design vocabulary for your coding agent. Steer with polish and bolder , review with critique and audit , and catch AI slop before it ships. From your project root: npx impeccable install Reload your coding tool, then run /impeccable init in your agent ( $impeccable init on Codex). — +1,338 stars today · 98,466 stars · 5,811 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;Impeccable The design vocabulary for your coding agent. Steer with polish and bolder , review with critique and audit , and catch AI slop before it ships. From your project root: npx impeccable install Reload your coding tool, then run /impeccable init in your agent ( $impeccable init on Codex).&lt;/p&gt;&lt;p&gt;🔥 +1,338 stars today · ⭐ &lt;b&gt;98,466&lt;/b&gt; stars · 🍴 &lt;b&gt;5,811&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pbakaus/impeccable&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>milind-soni/OpenMausBot</title>
-      <link>https://github.com/milind-soni/OpenMausBot</link>
-      <guid isPermaLink="true">https://github.com/milind-soni/OpenMausBot</guid>
-      <pubDate>Sun, 01 Nov 2026 05:00:29 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; OpenMausBot The open source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &amp;nbsp;·&amp;nbsp; Download &amp;nbsp;·&amp;nbsp; Open source Grok Bot alternative, compared — +1,303 stars today · 9,813 stars · 1,363 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; OpenMausBot The open source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &amp;amp;nbsp;·&amp;amp;nbsp; Download &amp;amp;nbsp;·&amp;amp;nbsp; Open source Grok Bot alternative, compared&lt;/p&gt;&lt;p&gt;🔥 +1,303 stars today · ⭐ &lt;b&gt;9,813&lt;/b&gt; stars · 🍴 &lt;b&gt;1,363&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/milind-soni/OpenMausBot&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
     <item>
       <title>pingdotgg/t3code</title>
       <link>https://github.com/pingdotgg/t3code</link>
       <guid isPermaLink="true">https://github.com/pingdotgg/t3code</guid>
-      <pubDate>Sun, 01 Nov 2026 05:00:29 GMT</pubDate>
-      <description>T3 Code T3 Code is an &quot;agent harness control surface&quot;. It enables control of the agents on your machine with a best in class mobile app (iOS, Android), web app and Electron based desktop app. — +1,148 stars today · 35,907 stars · 8,805 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;T3 Code T3 Code is an &amp;quot;agent harness control surface&amp;quot;. It enables control of the agents on your machine with a best in class mobile app (iOS, Android), web app and Electron based desktop app.&lt;/p&gt;&lt;p&gt;🔥 +1,148 stars today · ⭐ &lt;b&gt;35,907&lt;/b&gt; stars · 🍴 &lt;b&gt;8,805&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pingdotgg/t3code&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
+      <description>T3 Code T3 Code is an &quot;agent harness control surface&quot;. It enables control of the agents on your machine with a best in class mobile app (iOS, Android), web app and Electron based desktop app. — +3,094 stars today · 38,550 stars · 8,943 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;T3 Code T3 Code is an &amp;quot;agent harness control surface&amp;quot;. It enables control of the agents on your machine with a best in class mobile app (iOS, Android), web app and Electron based desktop app.&lt;/p&gt;&lt;p&gt;🔥 +3,094 stars today · ⭐ &lt;b&gt;38,550&lt;/b&gt; stars · 🍴 &lt;b&gt;8,943&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pingdotgg/t3code&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>Renhuai123/ziwei-doushu</title>
-      <link>https://github.com/Renhuai123/ziwei-doushu</link>
-      <guid isPermaLink="true">https://github.com/Renhuai123/ziwei-doushu</guid>
-      <pubDate>Sun, 01 Nov 2026 05:00:29 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; 紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 ![CI](https://github.com/Renhuai123/ziwei doushu/actions/workflows/ci.yml) ![License: MIT](./LICENSE) ![Dataset: CC BY 4.0](./DATASET LICENSE) — +1,092 stars today · 12,436 stars · 2,442 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; 紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 ![CI](https://github.com/Renhuai123/ziwei doushu/actions/workflows/ci.yml) ![License: MIT](./LICENSE) ![Dataset: CC BY 4.0](./DATASET LICENSE)&lt;/p&gt;&lt;p&gt;🔥 +1,092 stars today · ⭐ &lt;b&gt;12,436&lt;/b&gt; stars · 🍴 &lt;b&gt;2,442&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Renhuai123/ziwei-doushu&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>thedotmack/claude-mem</title>
+      <link>https://github.com/thedotmack/claude-mem</link>
+      <guid isPermaLink="true">https://github.com/thedotmack/claude-mem</guid>
+      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
+      <description>&lt;h1 align=&quot;center&quot; &lt;br &lt;a href=&quot;https://github.com/thedotmack/claude mem&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/public/claude mem logo for dark mode.webp&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;docs/public/claude mem logo for light mode.webp&quot; — +1,526 stars today · 109,633 stars · 9,582 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;br &amp;lt;a href=&amp;quot;https://github.com/thedotmack/claude mem&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for dark mode.webp&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for light mode.webp&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,526 stars today · ⭐ &lt;b&gt;109,633&lt;/b&gt; stars · 🍴 &lt;b&gt;9,582&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/thedotmack/claude-mem&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>Orkas-AI/Orkas</title>
-      <link>https://github.com/Orkas-AI/Orkas</link>
-      <guid isPermaLink="true">https://github.com/Orkas-AI/Orkas</guid>
-      <pubDate>Sun, 01 Nov 2026 05:00:29 GMT</pubDate>
-      <description>Orkas An open source team of AI agents on your desktop — it turns your goals into finished work and keeps it moving. — +1,044 stars today · 6,766 stars · 407 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;Orkas An open source team of AI agents on your desktop — it turns your goals into finished work and keeps it moving.&lt;/p&gt;&lt;p&gt;🔥 +1,044 stars today · ⭐ &lt;b&gt;6,766&lt;/b&gt; stars · 🍴 &lt;b&gt;407&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Orkas-AI/Orkas&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>patchy631/ai-engineering-hub</title>
+      <link>https://github.com/patchy631/ai-engineering-hub</link>
+      <guid isPermaLink="true">https://github.com/patchy631/ai-engineering-hub</guid>
+      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://trendshift.io/repositories/12800&quot; &lt;img src=&quot;assets/TRENDING BADGE.png&quot; alt=&quot;Trending Badge&quot; style=&quot;width: 250px; height: 55px;&quot; width=&quot;250&quot; height=&quot;55&quot;/ &lt;/a &lt;/p &lt;p align=&quot;center&quot; — +1,191 stars today · 40,467 stars · 6,500 forks · Language: Jupyter Notebook</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://trendshift.io/repositories/12800&amp;quot; &amp;lt;img src=&amp;quot;assets/TRENDING BADGE.png&amp;quot; alt=&amp;quot;Trending Badge&amp;quot; style=&amp;quot;width: 250px; height: 55px;&amp;quot; width=&amp;quot;250&amp;quot; height=&amp;quot;55&amp;quot;/ &amp;lt;/a &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,191 stars today · ⭐ &lt;b&gt;40,467&lt;/b&gt; stars · 🍴 &lt;b&gt;6,500&lt;/b&gt; forks · &lt;b&gt;Jupyter Notebook&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/patchy631/ai-engineering-hub&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>HKUDS/DeepTutor</title>
-      <link>https://github.com/HKUDS/DeepTutor</link>
-      <guid isPermaLink="true">https://github.com/HKUDS/DeepTutor</guid>
-      <pubDate>Sun, 01 Nov 2026 05:00:29 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;p align=&quot;center&quot; &lt;img src=&quot;assets/figs/logo/color full.png&quot; alt=&quot;DeepTutor&quot; width=&quot;480&quot; &lt;/p &lt;h1 align=&quot;center&quot; DeepTutor: Lifelong Personalized Tutoring&lt;/h1 &lt;p align=&quot;center&quot; — +1,034 stars today · 53,013 stars · 6,491 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/figs/logo/color full.png&amp;quot; alt=&amp;quot;DeepTutor&amp;quot; width=&amp;quot;480&amp;quot; &amp;lt;/p &amp;lt;h1 align=&amp;quot;center&amp;quot; DeepTutor: Lifelong Personalized Tutoring&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,034 stars today · ⭐ &lt;b&gt;53,013&lt;/b&gt; stars · 🍴 &lt;b&gt;6,491&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/HKUDS/DeepTutor&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>lightpanda-io/browser</title>
-      <link>https://github.com/lightpanda-io/browser</link>
-      <guid isPermaLink="true">https://github.com/lightpanda-io/browser</guid>
-      <pubDate>Sun, 01 Nov 2026 05:00:29 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://lightpanda.io&quot; &lt;img src=&quot;https://cdn.lightpanda.io/assets/images/logo/lpd logo.png&quot; alt=&quot;Logo&quot; height=170 &lt;/a &lt;/p &lt;h1 align=&quot;center&quot; Lightpanda Browser&lt;/h1 &lt;p align=&quot;center&quot; &lt;strong The headless browser built from scratch for AI agents and automation.&lt;/strong &lt;br — +929 stars today · 39,364 stars · 1,916 forks · Language: Zig</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://lightpanda.io&amp;quot; &amp;lt;img src=&amp;quot;https://cdn.lightpanda.io/assets/images/logo/lpd logo.png&amp;quot; alt=&amp;quot;Logo&amp;quot; height=170 &amp;lt;/a &amp;lt;/p &amp;lt;h1 align=&amp;quot;center&amp;quot; Lightpanda Browser&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong The headless browser built from scratch for AI agents and automation.&amp;lt;/strong &amp;lt;br&lt;/p&gt;&lt;p&gt;🔥 +929 stars today · ⭐ &lt;b&gt;39,364&lt;/b&gt; stars · 🍴 &lt;b&gt;1,916&lt;/b&gt; forks · &lt;b&gt;Zig&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/lightpanda-io/browser&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>mattpocock/skills</title>
-      <link>https://github.com/mattpocock/skills</link>
-      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
-      <pubDate>Sun, 01 Nov 2026 05:00:29 GMT</pubDate>
-      <description>&lt;p &lt;a href=&quot;https://www.aihero.dev/s/skills newsletter&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&quot; — +883 stars today · 308,560 stars · 25,970 forks · Language: Shell</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p &amp;lt;a href=&amp;quot;https://www.aihero.dev/s/skills newsletter&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +883 stars today · ⭐ &lt;b&gt;308,560&lt;/b&gt; stars · 🍴 &lt;b&gt;25,970&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mattpocock/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>anomalyco/hex</title>
+      <link>https://github.com/anomalyco/hex</link>
+      <guid isPermaLink="true">https://github.com/anomalyco/hex</guid>
+      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
+      <description>Hex Hex is local voice dictation for Mac, Windows and Linux. Hold a key, speak, and it pastes. How it works hold the shortcut, speak, then let go Hex transcribes on your device and pastes into whatever app you're in — +1,179 stars today · 3,496 stars · 200 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;Hex Hex is local voice dictation for Mac, Windows and Linux. Hold a key, speak, and it pastes. How it works hold the shortcut, speak, then let go Hex transcribes on your device and pastes into whatever app you&amp;#x27;re in&lt;/p&gt;&lt;p&gt;🔥 +1,179 stars today · ⭐ &lt;b&gt;3,496&lt;/b&gt; stars · 🍴 &lt;b&gt;200&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/hex&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>Donchitos/Claude-Code-Game-Studios</title>
       <link>https://github.com/Donchitos/Claude-Code-Game-Studios</link>
       <guid isPermaLink="true">https://github.com/Donchitos/Claude-Code-Game-Studios</guid>
-      <pubDate>Sun, 01 Nov 2026 05:00:29 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;h1 align=&quot;center&quot; Claude Code Game Studios&lt;/h1 &lt;p align=&quot;center&quot; Turn a single Claude Code session into a full game development studio. &lt;br / 49 agents. 74 skills. One coordinated AI team. — +742 stars today · 31,303 stars · 4,287 forks · Language: Shell</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;h1 align=&amp;quot;center&amp;quot; Claude Code Game Studios&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; Turn a single Claude Code session into a full game development studio. &amp;lt;br / 49 agents. 74 skills. One coordinated AI team.&lt;/p&gt;&lt;p&gt;🔥 +742 stars today · ⭐ &lt;b&gt;31,303&lt;/b&gt; stars · 🍴 &lt;b&gt;4,287&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Donchitos/Claude-Code-Game-Studios&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;h1 align=&quot;center&quot; Claude Code Game Studios&lt;/h1 &lt;p align=&quot;center&quot; Turn a single Claude Code session into a full game development studio. &lt;br / 49 agents. 74 skills. One coordinated AI team. — +967 stars today · 32,542 stars · 4,429 forks · Language: Shell</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;h1 align=&amp;quot;center&amp;quot; Claude Code Game Studios&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; Turn a single Claude Code session into a full game development studio. &amp;lt;br / 49 agents. 74 skills. One coordinated AI team.&lt;/p&gt;&lt;p&gt;🔥 +967 stars today · ⭐ &lt;b&gt;32,542&lt;/b&gt; stars · 🍴 &lt;b&gt;4,429&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Donchitos/Claude-Code-Game-Studios&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>obra/superpowers</title>
-      <link>https://github.com/obra/superpowers</link>
-      <guid isPermaLink="true">https://github.com/obra/superpowers</guid>
-      <pubDate>Sun, 01 Nov 2026 05:00:29 GMT</pubDate>
-      <description>Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started — +665 stars today · 310,164 stars · 27,600 forks · Language: Shell</description>
-      <content:encoded>&lt;p&gt;Superpowers Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them. Table of Contents How it works Commercial Services Getting Started&lt;/p&gt;&lt;p&gt;🔥 +665 stars today · ⭐ &lt;b&gt;310,164&lt;/b&gt; stars · 🍴 &lt;b&gt;27,600&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/obra/superpowers&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>Renhuai123/ziwei-doushu</title>
+      <link>https://github.com/Renhuai123/ziwei-doushu</link>
+      <guid isPermaLink="true">https://github.com/Renhuai123/ziwei-doushu</guid>
+      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; 紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 ![CI](https://github.com/Renhuai123/ziwei doushu/actions/workflows/ci.yml) ![License: MIT](./LICENSE) ![Dataset: CC BY 4.0](./DATASET LICENSE) — +941 stars today · 13,427 stars · 2,608 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; 紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 ![CI](https://github.com/Renhuai123/ziwei doushu/actions/workflows/ci.yml) ![License: MIT](./LICENSE) ![Dataset: CC BY 4.0](./DATASET LICENSE)&lt;/p&gt;&lt;p&gt;🔥 +941 stars today · ⭐ &lt;b&gt;13,427&lt;/b&gt; stars · 🍴 &lt;b&gt;2,608&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Renhuai123/ziwei-doushu&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>vorssaint/vorssaint-utils</title>
-      <link>https://github.com/vorssaint/vorssaint-utils</link>
-      <guid isPermaLink="true">https://github.com/vorssaint/vorssaint-utils</guid>
-      <pubDate>Sun, 01 Nov 2026 05:00:29 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/assets/readme/logo dark.svg&quot; &lt;img src=&quot;docs/assets/readme/logo.svg&quot; width=&quot;220&quot; alt=&quot;Vorssaint logo&quot; &lt;/picture &lt;/p — +501 stars today · 32,012 stars · 1,543 forks · Language: Swift</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/assets/readme/logo dark.svg&amp;quot; &amp;lt;img src=&amp;quot;docs/assets/readme/logo.svg&amp;quot; width=&amp;quot;220&amp;quot; alt=&amp;quot;Vorssaint logo&amp;quot; &amp;lt;/picture &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +501 stars today · ⭐ &lt;b&gt;32,012&lt;/b&gt; stars · 🍴 &lt;b&gt;1,543&lt;/b&gt; forks · &lt;b&gt;Swift&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/vorssaint/vorssaint-utils&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>milind-soni/OpenMausBot</title>
+      <link>https://github.com/milind-soni/OpenMausBot</link>
+      <guid isPermaLink="true">https://github.com/milind-soni/OpenMausBot</guid>
+      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; OpenMausBot The open source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &amp;nbsp;·&amp;nbsp; Download &amp;nbsp;·&amp;nbsp; Open source Grok Bot alternative, compared — +922 stars today · 10,757 stars · 1,474 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; OpenMausBot The open source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &amp;amp;nbsp;·&amp;amp;nbsp; Download &amp;amp;nbsp;·&amp;amp;nbsp; Open source Grok Bot alternative, compared&lt;/p&gt;&lt;p&gt;🔥 +922 stars today · ⭐ &lt;b&gt;10,757&lt;/b&gt; stars · 🍴 &lt;b&gt;1,474&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/milind-soni/OpenMausBot&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>bregman-arie/devops-exercises</title>
-      <link>https://github.com/bregman-arie/devops-exercises</link>
-      <guid isPermaLink="true">https://github.com/bregman-arie/devops-exercises</guid>
-      <pubDate>Sun, 01 Nov 2026 05:00:29 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;images/devops exercises.png&quot;/ &lt;/p :information source: &amp;nbsp;This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE :bar chart: &amp;nbsp;There are currently 2624 exercises and questions — +342 stars today · 86,083 stars · 20,552 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;images/devops exercises.png&amp;quot;/ &amp;lt;/p :information source: &amp;amp;nbsp;This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE :bar chart: &amp;amp;nbsp;There are currently 2624 exercises and questions&lt;/p&gt;&lt;p&gt;🔥 +342 stars today · ⭐ &lt;b&gt;86,083&lt;/b&gt; stars · 🍴 &lt;b&gt;20,552&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/bregman-arie/devops-exercises&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>lightpanda-io/browser</title>
+      <link>https://github.com/lightpanda-io/browser</link>
+      <guid isPermaLink="true">https://github.com/lightpanda-io/browser</guid>
+      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://lightpanda.io&quot; &lt;img src=&quot;https://cdn.lightpanda.io/assets/images/logo/lpd logo.png&quot; alt=&quot;Logo&quot; height=170 &lt;/a &lt;/p &lt;h1 align=&quot;center&quot; Lightpanda Browser&lt;/h1 &lt;p align=&quot;center&quot; &lt;strong The headless browser built from scratch for AI agents and automation.&lt;/strong &lt;br — +825 stars today · 40,393 stars · 1,976 forks · Language: Zig</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://lightpanda.io&amp;quot; &amp;lt;img src=&amp;quot;https://cdn.lightpanda.io/assets/images/logo/lpd logo.png&amp;quot; alt=&amp;quot;Logo&amp;quot; height=170 &amp;lt;/a &amp;lt;/p &amp;lt;h1 align=&amp;quot;center&amp;quot; Lightpanda Browser&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong The headless browser built from scratch for AI agents and automation.&amp;lt;/strong &amp;lt;br&lt;/p&gt;&lt;p&gt;🔥 +825 stars today · ⭐ &lt;b&gt;40,393&lt;/b&gt; stars · 🍴 &lt;b&gt;1,976&lt;/b&gt; forks · &lt;b&gt;Zig&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/lightpanda-io/browser&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>THU-MAIC/OpenMAIC</title>
-      <link>https://github.com/THU-MAIC/OpenMAIC</link>
-      <guid isPermaLink="true">https://github.com/THU-MAIC/OpenMAIC</guid>
-      <pubDate>Sun, 01 Nov 2026 05:00:29 GMT</pubDate>
-      <description>&lt;! &lt;p align=&quot;center&quot; &lt;img src=&quot;assets/logo horizontal.png&quot; alt=&quot;OpenMAIC&quot; width=&quot;420&quot;/ &lt;/p &lt;p align=&quot;center&quot; &lt;img src=&quot;assets/banner.png&quot; alt=&quot;OpenMAIC Banner&quot; width=&quot;680&quot;/ &lt;/p — +116 stars today · 42,254 stars · 6,518 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;! &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/logo horizontal.png&amp;quot; alt=&amp;quot;OpenMAIC&amp;quot; width=&amp;quot;420&amp;quot;/ &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/banner.png&amp;quot; alt=&amp;quot;OpenMAIC Banner&amp;quot; width=&amp;quot;680&amp;quot;/ &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +116 stars today · ⭐ &lt;b&gt;42,254&lt;/b&gt; stars · 🍴 &lt;b&gt;6,518&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/THU-MAIC/OpenMAIC&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>togg53192-cmd/jailbreaks</title>
+      <link>https://github.com/togg53192-cmd/jailbreaks</link>
+      <guid isPermaLink="true">https://github.com/togg53192-cmd/jailbreaks</guid>
+      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; Jailbreaks A curated collection of system prompts, persona locks, workspace policies, and agent operating specifications for frontier, open weight, and free stealth models. &lt;/div About — +726 stars today · 13,113 stars · 1,963 forks</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; Jailbreaks A curated collection of system prompts, persona locks, workspace policies, and agent operating specifications for frontier, open weight, and free stealth models. &amp;lt;/div About&lt;/p&gt;&lt;p&gt;🔥 +726 stars today · ⭐ &lt;b&gt;13,113&lt;/b&gt; stars · 🍴 &lt;b&gt;1,963&lt;/b&gt; forks&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/togg53192-cmd/jailbreaks&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>shiyu-coder/Kronos</title>
+      <link>https://github.com/shiyu-coder/Kronos</link>
+      <guid isPermaLink="true">https://github.com/shiyu-coder/Kronos</guid>
+      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;h2 &lt;b Kronos: A Foundation Model for the Language of Financial Markets &lt;/b &lt;/h2 &lt;/div &lt;div align=&quot;center&quot; &lt;/a &lt;a href=&quot;https://huggingface.co/NeoQuasar&quot; — +630 stars today · 45,527 stars · 7,516 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;h2 &amp;lt;b Kronos: A Foundation Model for the Language of Financial Markets &amp;lt;/b &amp;lt;/h2 &amp;lt;/div &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;/a &amp;lt;a href=&amp;quot;https://huggingface.co/NeoQuasar&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +630 stars today · ⭐ &lt;b&gt;45,527&lt;/b&gt; stars · 🍴 &lt;b&gt;7,516&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/shiyu-coder/Kronos&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>beenuar/AiSOC</title>
+      <link>https://github.com/beenuar/AiSOC</link>
+      <guid isPermaLink="true">https://github.com/beenuar/AiSOC</guid>
+      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;apps/web/public/logo mark.svg&quot; alt=&quot;AiSOC&quot; width=&quot;120&quot; / AiSOC — +446 stars today · 6,353 stars · 653 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;apps/web/public/logo mark.svg&amp;quot; alt=&amp;quot;AiSOC&amp;quot; width=&amp;quot;120&amp;quot; / AiSOC&lt;/p&gt;&lt;p&gt;🔥 +446 stars today · ⭐ &lt;b&gt;6,353&lt;/b&gt; stars · 🍴 &lt;b&gt;653&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/beenuar/AiSOC&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>cjpais/Handy</title>
+      <link>https://github.com/cjpais/Handy</link>
+      <guid isPermaLink="true">https://github.com/cjpais/Handy</guid>
+      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
+      <description>Handy ![Discord](https://discord.com/invite/WVBeWsNXK4) A free, open source, and extensible speech to text application that works completely offline. — +339 stars today · 36,740 stars · 3,461 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;Handy ![Discord](https://discord.com/invite/WVBeWsNXK4) A free, open source, and extensible speech to text application that works completely offline.&lt;/p&gt;&lt;p&gt;🔥 +339 stars today · ⭐ &lt;b&gt;36,740&lt;/b&gt; stars · 🍴 &lt;b&gt;3,461&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cjpais/Handy&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>public-apis/public-apis</title>
+      <link>https://github.com/public-apis/public-apis</link>
+      <guid isPermaLink="true">https://github.com/public-apis/public-apis</guid>
+      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
+      <description>APILayer Unified Suite is now Live! 🎉 🥳 APILayer unified suite allows you to integrate production grade REST APIs using One Account, One Dashboard, and One API key. Whether you need to geocode an address, validate an email, fetch a flight, pull stock market data, or scrape a search result. — +324 stars today · 494,871 stars · 55,231 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;APILayer Unified Suite is now Live! 🎉 🥳 APILayer unified suite allows you to integrate production grade REST APIs using One Account, One Dashboard, and One API key. Whether you need to geocode an address, validate an email, fetch a flight, pull stock market data, or scrape a search result.&lt;/p&gt;&lt;p&gt;🔥 +324 stars today · ⭐ &lt;b&gt;494,871&lt;/b&gt; stars · 🍴 &lt;b&gt;55,231&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/public-apis/public-apis&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>FlashML-org/FreeToken</title>
+      <link>https://github.com/FlashML-org/FreeToken</link>
+      <guid isPermaLink="true">https://github.com/FlashML-org/FreeToken</guid>
+      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://raw.githubusercontent.com/FlashML org/FreeToken/main/assets/freetoken logo dark.svg&quot; — +242 stars today · 15,535 stars · 1,553 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://raw.githubusercontent.com/FlashML org/FreeToken/main/assets/freetoken logo dark.svg&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +242 stars today · ⭐ &lt;b&gt;15,535&lt;/b&gt; stars · 🍴 &lt;b&gt;1,553&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/FlashML-org/FreeToken&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>CopilotKit/OpenBot</title>
+      <link>https://github.com/CopilotKit/OpenBot</link>
+      <guid isPermaLink="true">https://github.com/CopilotKit/OpenBot</guid>
+      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; OpenBot The AI assistant your company can actually own. Same shape as ChatGPT, Claude or Grok, with one difference that matters: it runs on your infrastructure and you can change anything about it. Any agent stack, through AG UI. — +175 stars today · 9,642 stars · 1,193 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; OpenBot The AI assistant your company can actually own. Same shape as ChatGPT, Claude or Grok, with one difference that matters: it runs on your infrastructure and you can change anything about it. Any agent stack, through AG UI.&lt;/p&gt;&lt;p&gt;🔥 +175 stars today · ⭐ &lt;b&gt;9,642&lt;/b&gt; stars · 🍴 &lt;b&gt;1,193&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/CopilotKit/OpenBot&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>kornia/kornia</title>
+      <link>https://github.com/kornia/kornia</link>
+      <guid isPermaLink="true">https://github.com/kornia/kornia</guid>
+      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;p align=&quot;center&quot; &lt;img width=&quot;55%&quot; src=&quot;https://github.com/kornia/data/raw/main/kornia banner pixie.png&quot; / &lt;/p English 简体中文 &lt;p align=&quot;center&quot; — +101 stars today · 11,881 stars · 1,472 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img width=&amp;quot;55%&amp;quot; src=&amp;quot;https://github.com/kornia/data/raw/main/kornia banner pixie.png&amp;quot; / &amp;lt;/p English 简体中文 &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +101 stars today · ⭐ &lt;b&gt;11,881&lt;/b&gt; stars · 🍴 &lt;b&gt;1,472&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/kornia/kornia&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>hyprwm/Hyprland</title>
+      <link>https://github.com/hyprwm/Hyprland</link>
+      <guid isPermaLink="true">https://github.com/hyprwm/Hyprland</guid>
+      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
+      <description>&lt;div align = center &lt;img src=&quot;https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/header.svg&quot; width=&quot;750&quot; height=&quot;300&quot; alt=&quot;banner&quot; &lt;br [![Badge Workflow]][Workflow] [![Badge License]][License] [![Badge Pull Requests]][Pull Requests] — +38 stars today · 39,474 stars · 2,133 forks · Language: C++</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align = center &amp;lt;img src=&amp;quot;https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/header.svg&amp;quot; width=&amp;quot;750&amp;quot; height=&amp;quot;300&amp;quot; alt=&amp;quot;banner&amp;quot; &amp;lt;br [![Badge Workflow]][Workflow] [![Badge License]][License] [![Badge Pull Requests]][Pull Requests]&lt;/p&gt;&lt;p&gt;🔥 +38 stars today · ⭐ &lt;b&gt;39,474&lt;/b&gt; stars · 🍴 &lt;b&gt;2,133&lt;/b&gt; forks · &lt;b&gt;C++&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/hyprwm/Hyprland&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
