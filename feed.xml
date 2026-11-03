@@ -7,144 +7,128 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Mon, 02 Nov 2026 05:01:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 05:50:08 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
     <item>
       <title>pingdotgg/t3code</title>
       <link>https://github.com/pingdotgg/t3code</link>
       <guid isPermaLink="true">https://github.com/pingdotgg/t3code</guid>
-      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
-      <description>T3 Code T3 Code is an &quot;agent harness control surface&quot;. It enables control of the agents on your machine with a best in class mobile app (iOS, Android), web app and Electron based desktop app. — +3,094 stars today · 38,550 stars · 8,943 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;T3 Code T3 Code is an &amp;quot;agent harness control surface&amp;quot;. It enables control of the agents on your machine with a best in class mobile app (iOS, Android), web app and Electron based desktop app.&lt;/p&gt;&lt;p&gt;🔥 +3,094 stars today · ⭐ &lt;b&gt;38,550&lt;/b&gt; stars · 🍴 &lt;b&gt;8,943&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pingdotgg/t3code&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 03 Nov 2026 05:50:08 GMT</pubDate>
+      <description>T3 Code T3 Code is an &quot;agent harness control surface&quot;. It enables control of the agents on your machine with a best in class mobile app (iOS, Android), web app and Electron based desktop app. — +3,229 stars today · 42,413 stars · 9,131 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;T3 Code T3 Code is an &amp;quot;agent harness control surface&amp;quot;. It enables control of the agents on your machine with a best in class mobile app (iOS, Android), web app and Electron based desktop app.&lt;/p&gt;&lt;p&gt;🔥 +3,229 stars today · ⭐ &lt;b&gt;42,413&lt;/b&gt; stars · 🍴 &lt;b&gt;9,131&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pingdotgg/t3code&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>vercel-labs/agent-desktop</title>
+      <link>https://github.com/vercel-labs/agent-desktop</link>
+      <guid isPermaLink="true">https://github.com/vercel-labs/agent-desktop</guid>
+      <pubDate>Tue, 03 Nov 2026 05:50:08 GMT</pubDate>
+      <description>agent desktop Computer use for AI agents: read and operate desktop apps through the OS accessibility tree. &lt;p — +2,275 stars today · 10,594 stars · 710 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;agent desktop Computer use for AI agents: read and operate desktop apps through the OS accessibility tree. &amp;lt;p&lt;/p&gt;&lt;p&gt;🔥 +2,275 stars today · ⭐ &lt;b&gt;10,594&lt;/b&gt; stars · 🍴 &lt;b&gt;710&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/vercel-labs/agent-desktop&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>thedotmack/claude-mem</title>
       <link>https://github.com/thedotmack/claude-mem</link>
       <guid isPermaLink="true">https://github.com/thedotmack/claude-mem</guid>
-      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
-      <description>&lt;h1 align=&quot;center&quot; &lt;br &lt;a href=&quot;https://github.com/thedotmack/claude mem&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/public/claude mem logo for dark mode.webp&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;docs/public/claude mem logo for light mode.webp&quot; — +1,526 stars today · 109,633 stars · 9,582 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;br &amp;lt;a href=&amp;quot;https://github.com/thedotmack/claude mem&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for dark mode.webp&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for light mode.webp&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,526 stars today · ⭐ &lt;b&gt;109,633&lt;/b&gt; stars · 🍴 &lt;b&gt;9,582&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/thedotmack/claude-mem&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>patchy631/ai-engineering-hub</title>
-      <link>https://github.com/patchy631/ai-engineering-hub</link>
-      <guid isPermaLink="true">https://github.com/patchy631/ai-engineering-hub</guid>
-      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://trendshift.io/repositories/12800&quot; &lt;img src=&quot;assets/TRENDING BADGE.png&quot; alt=&quot;Trending Badge&quot; style=&quot;width: 250px; height: 55px;&quot; width=&quot;250&quot; height=&quot;55&quot;/ &lt;/a &lt;/p &lt;p align=&quot;center&quot; — +1,191 stars today · 40,467 stars · 6,500 forks · Language: Jupyter Notebook</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://trendshift.io/repositories/12800&amp;quot; &amp;lt;img src=&amp;quot;assets/TRENDING BADGE.png&amp;quot; alt=&amp;quot;Trending Badge&amp;quot; style=&amp;quot;width: 250px; height: 55px;&amp;quot; width=&amp;quot;250&amp;quot; height=&amp;quot;55&amp;quot;/ &amp;lt;/a &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,191 stars today · ⭐ &lt;b&gt;40,467&lt;/b&gt; stars · 🍴 &lt;b&gt;6,500&lt;/b&gt; forks · &lt;b&gt;Jupyter Notebook&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/patchy631/ai-engineering-hub&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>anomalyco/hex</title>
-      <link>https://github.com/anomalyco/hex</link>
-      <guid isPermaLink="true">https://github.com/anomalyco/hex</guid>
-      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
-      <description>Hex Hex is local voice dictation for Mac, Windows and Linux. Hold a key, speak, and it pastes. How it works hold the shortcut, speak, then let go Hex transcribes on your device and pastes into whatever app you're in — +1,179 stars today · 3,496 stars · 200 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;Hex Hex is local voice dictation for Mac, Windows and Linux. Hold a key, speak, and it pastes. How it works hold the shortcut, speak, then let go Hex transcribes on your device and pastes into whatever app you&amp;#x27;re in&lt;/p&gt;&lt;p&gt;🔥 +1,179 stars today · ⭐ &lt;b&gt;3,496&lt;/b&gt; stars · 🍴 &lt;b&gt;200&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anomalyco/hex&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 03 Nov 2026 05:50:08 GMT</pubDate>
+      <description>&lt;h1 align=&quot;center&quot; &lt;br &lt;a href=&quot;https://github.com/thedotmack/claude mem&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/public/claude mem logo for dark mode.webp&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;docs/public/claude mem logo for light mode.webp&quot; — +1,803 stars today · 110,999 stars · 9,678 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;br &amp;lt;a href=&amp;quot;https://github.com/thedotmack/claude mem&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for dark mode.webp&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for light mode.webp&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,803 stars today · ⭐ &lt;b&gt;110,999&lt;/b&gt; stars · 🍴 &lt;b&gt;9,678&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/thedotmack/claude-mem&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>Donchitos/Claude-Code-Game-Studios</title>
       <link>https://github.com/Donchitos/Claude-Code-Game-Studios</link>
       <guid isPermaLink="true">https://github.com/Donchitos/Claude-Code-Game-Studios</guid>
-      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;h1 align=&quot;center&quot; Claude Code Game Studios&lt;/h1 &lt;p align=&quot;center&quot; Turn a single Claude Code session into a full game development studio. &lt;br / 49 agents. 74 skills. One coordinated AI team. — +967 stars today · 32,542 stars · 4,429 forks · Language: Shell</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;h1 align=&amp;quot;center&amp;quot; Claude Code Game Studios&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; Turn a single Claude Code session into a full game development studio. &amp;lt;br / 49 agents. 74 skills. One coordinated AI team.&lt;/p&gt;&lt;p&gt;🔥 +967 stars today · ⭐ &lt;b&gt;32,542&lt;/b&gt; stars · 🍴 &lt;b&gt;4,429&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Donchitos/Claude-Code-Game-Studios&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 03 Nov 2026 05:50:08 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;h1 align=&quot;center&quot; Claude Code Game Studios&lt;/h1 &lt;p align=&quot;center&quot; Turn a single Claude Code session into a full game development studio. &lt;br / 49 agents. 74 skills. One coordinated AI team. — +1,379 stars today · 33,829 stars · 4,535 forks · Language: Shell</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;h1 align=&amp;quot;center&amp;quot; Claude Code Game Studios&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; Turn a single Claude Code session into a full game development studio. &amp;lt;br / 49 agents. 74 skills. One coordinated AI team.&lt;/p&gt;&lt;p&gt;🔥 +1,379 stars today · ⭐ &lt;b&gt;33,829&lt;/b&gt; stars · 🍴 &lt;b&gt;4,535&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Donchitos/Claude-Code-Game-Studios&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>Renhuai123/ziwei-doushu</title>
-      <link>https://github.com/Renhuai123/ziwei-doushu</link>
-      <guid isPermaLink="true">https://github.com/Renhuai123/ziwei-doushu</guid>
-      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; 紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 ![CI](https://github.com/Renhuai123/ziwei doushu/actions/workflows/ci.yml) ![License: MIT](./LICENSE) ![Dataset: CC BY 4.0](./DATASET LICENSE) — +941 stars today · 13,427 stars · 2,608 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; 紫微斗数 · 开源排盘引擎 算法是公开的传统智慧，不应该被锁在围墙里 ![CI](https://github.com/Renhuai123/ziwei doushu/actions/workflows/ci.yml) ![License: MIT](./LICENSE) ![Dataset: CC BY 4.0](./DATASET LICENSE)&lt;/p&gt;&lt;p&gt;🔥 +941 stars today · ⭐ &lt;b&gt;13,427&lt;/b&gt; stars · 🍴 &lt;b&gt;2,608&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Renhuai123/ziwei-doushu&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>milind-soni/OpenMausBot</title>
-      <link>https://github.com/milind-soni/OpenMausBot</link>
-      <guid isPermaLink="true">https://github.com/milind-soni/OpenMausBot</guid>
-      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; OpenMausBot The open source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &amp;nbsp;·&amp;nbsp; Download &amp;nbsp;·&amp;nbsp; Open source Grok Bot alternative, compared — +922 stars today · 10,757 stars · 1,474 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; OpenMausBot The open source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &amp;amp;nbsp;·&amp;amp;nbsp; Download &amp;amp;nbsp;·&amp;amp;nbsp; Open source Grok Bot alternative, compared&lt;/p&gt;&lt;p&gt;🔥 +922 stars today · ⭐ &lt;b&gt;10,757&lt;/b&gt; stars · 🍴 &lt;b&gt;1,474&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/milind-soni/OpenMausBot&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>lightpanda-io/browser</title>
-      <link>https://github.com/lightpanda-io/browser</link>
-      <guid isPermaLink="true">https://github.com/lightpanda-io/browser</guid>
-      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://lightpanda.io&quot; &lt;img src=&quot;https://cdn.lightpanda.io/assets/images/logo/lpd logo.png&quot; alt=&quot;Logo&quot; height=170 &lt;/a &lt;/p &lt;h1 align=&quot;center&quot; Lightpanda Browser&lt;/h1 &lt;p align=&quot;center&quot; &lt;strong The headless browser built from scratch for AI agents and automation.&lt;/strong &lt;br — +825 stars today · 40,393 stars · 1,976 forks · Language: Zig</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://lightpanda.io&amp;quot; &amp;lt;img src=&amp;quot;https://cdn.lightpanda.io/assets/images/logo/lpd logo.png&amp;quot; alt=&amp;quot;Logo&amp;quot; height=170 &amp;lt;/a &amp;lt;/p &amp;lt;h1 align=&amp;quot;center&amp;quot; Lightpanda Browser&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong The headless browser built from scratch for AI agents and automation.&amp;lt;/strong &amp;lt;br&lt;/p&gt;&lt;p&gt;🔥 +825 stars today · ⭐ &lt;b&gt;40,393&lt;/b&gt; stars · 🍴 &lt;b&gt;1,976&lt;/b&gt; forks · &lt;b&gt;Zig&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/lightpanda-io/browser&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>togg53192-cmd/jailbreaks</title>
-      <link>https://github.com/togg53192-cmd/jailbreaks</link>
-      <guid isPermaLink="true">https://github.com/togg53192-cmd/jailbreaks</guid>
-      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; Jailbreaks A curated collection of system prompts, persona locks, workspace policies, and agent operating specifications for frontier, open weight, and free stealth models. &lt;/div About — +726 stars today · 13,113 stars · 1,963 forks</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; Jailbreaks A curated collection of system prompts, persona locks, workspace policies, and agent operating specifications for frontier, open weight, and free stealth models. &amp;lt;/div About&lt;/p&gt;&lt;p&gt;🔥 +726 stars today · ⭐ &lt;b&gt;13,113&lt;/b&gt; stars · 🍴 &lt;b&gt;1,963&lt;/b&gt; forks&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/togg53192-cmd/jailbreaks&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>mattpocock/skills</title>
+      <link>https://github.com/mattpocock/skills</link>
+      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
+      <pubDate>Tue, 03 Nov 2026 05:50:08 GMT</pubDate>
+      <description>&lt;p &lt;a href=&quot;https://www.aihero.dev/s/skills newsletter&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&quot; — +858 stars today · 310,466 stars · 26,113 forks · Language: Shell</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p &amp;lt;a href=&amp;quot;https://www.aihero.dev/s/skills newsletter&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +858 stars today · ⭐ &lt;b&gt;310,466&lt;/b&gt; stars · 🍴 &lt;b&gt;26,113&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mattpocock/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>shiyu-coder/Kronos</title>
       <link>https://github.com/shiyu-coder/Kronos</link>
       <guid isPermaLink="true">https://github.com/shiyu-coder/Kronos</guid>
-      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;h2 &lt;b Kronos: A Foundation Model for the Language of Financial Markets &lt;/b &lt;/h2 &lt;/div &lt;div align=&quot;center&quot; &lt;/a &lt;a href=&quot;https://huggingface.co/NeoQuasar&quot; — +630 stars today · 45,527 stars · 7,516 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;h2 &amp;lt;b Kronos: A Foundation Model for the Language of Financial Markets &amp;lt;/b &amp;lt;/h2 &amp;lt;/div &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;/a &amp;lt;a href=&amp;quot;https://huggingface.co/NeoQuasar&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +630 stars today · ⭐ &lt;b&gt;45,527&lt;/b&gt; stars · 🍴 &lt;b&gt;7,516&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/shiyu-coder/Kronos&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 03 Nov 2026 05:50:08 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;h2 &lt;b Kronos: A Foundation Model for the Language of Financial Markets &lt;/b &lt;/h2 &lt;/div &lt;div align=&quot;center&quot; &lt;/a &lt;a href=&quot;https://huggingface.co/NeoQuasar&quot; — +857 stars today · 46,092 stars · 7,596 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;h2 &amp;lt;b Kronos: A Foundation Model for the Language of Financial Markets &amp;lt;/b &amp;lt;/h2 &amp;lt;/div &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;/a &amp;lt;a href=&amp;quot;https://huggingface.co/NeoQuasar&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +857 stars today · ⭐ &lt;b&gt;46,092&lt;/b&gt; stars · 🍴 &lt;b&gt;7,596&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/shiyu-coder/Kronos&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>beenuar/AiSOC</title>
-      <link>https://github.com/beenuar/AiSOC</link>
-      <guid isPermaLink="true">https://github.com/beenuar/AiSOC</guid>
-      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;apps/web/public/logo mark.svg&quot; alt=&quot;AiSOC&quot; width=&quot;120&quot; / AiSOC — +446 stars today · 6,353 stars · 653 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;apps/web/public/logo mark.svg&amp;quot; alt=&amp;quot;AiSOC&amp;quot; width=&amp;quot;120&amp;quot; / AiSOC&lt;/p&gt;&lt;p&gt;🔥 +446 stars today · ⭐ &lt;b&gt;6,353&lt;/b&gt; stars · 🍴 &lt;b&gt;653&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/beenuar/AiSOC&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>D4Vinci/Scrapling</title>
+      <link>https://github.com/D4Vinci/Scrapling</link>
+      <guid isPermaLink="true">https://github.com/D4Vinci/Scrapling</guid>
+      <pubDate>Tue, 03 Nov 2026 05:50:08 GMT</pubDate>
+      <description>&lt;! mcp name: io.github.D4Vinci/Scrapling &lt;h1 align=&quot;center&quot; &lt;a href=&quot;https://scrapling.readthedocs.io&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://raw.githubusercontent.com/D4Vinci/Scrapling/main/docs/assets/cover dark.svg?sanitize=true&quot; — +706 stars today · 93,274 stars · 9,810 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;! mcp name: io.github.D4Vinci/Scrapling &amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://scrapling.readthedocs.io&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://raw.githubusercontent.com/D4Vinci/Scrapling/main/docs/assets/cover dark.svg?sanitize=true&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +706 stars today · ⭐ &lt;b&gt;93,274&lt;/b&gt; stars · 🍴 &lt;b&gt;9,810&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/D4Vinci/Scrapling&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>cjpais/Handy</title>
-      <link>https://github.com/cjpais/Handy</link>
-      <guid isPermaLink="true">https://github.com/cjpais/Handy</guid>
-      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
-      <description>Handy ![Discord](https://discord.com/invite/WVBeWsNXK4) A free, open source, and extensible speech to text application that works completely offline. — +339 stars today · 36,740 stars · 3,461 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;Handy ![Discord](https://discord.com/invite/WVBeWsNXK4) A free, open source, and extensible speech to text application that works completely offline.&lt;/p&gt;&lt;p&gt;🔥 +339 stars today · ⭐ &lt;b&gt;36,740&lt;/b&gt; stars · 🍴 &lt;b&gt;3,461&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cjpais/Handy&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>public-apis/public-apis</title>
-      <link>https://github.com/public-apis/public-apis</link>
-      <guid isPermaLink="true">https://github.com/public-apis/public-apis</guid>
-      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
-      <description>APILayer Unified Suite is now Live! 🎉 🥳 APILayer unified suite allows you to integrate production grade REST APIs using One Account, One Dashboard, and One API key. Whether you need to geocode an address, validate an email, fetch a flight, pull stock market data, or scrape a search result. — +324 stars today · 494,871 stars · 55,231 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;APILayer Unified Suite is now Live! 🎉 🥳 APILayer unified suite allows you to integrate production grade REST APIs using One Account, One Dashboard, and One API key. Whether you need to geocode an address, validate an email, fetch a flight, pull stock market data, or scrape a search result.&lt;/p&gt;&lt;p&gt;🔥 +324 stars today · ⭐ &lt;b&gt;494,871&lt;/b&gt; stars · 🍴 &lt;b&gt;55,231&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/public-apis/public-apis&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>JustVugg/colibri</title>
+      <link>https://github.com/JustVugg/colibri</link>
+      <guid isPermaLink="true">https://github.com/JustVugg/colibri</guid>
+      <pubDate>Tue, 03 Nov 2026 05:50:08 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/colibri logo.svg&quot; width=&quot;560&quot; alt=&quot;colibrì: tiny engine, immense model&quot; &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot;https://justvugg.github.io/colibri&quot; &lt;img src=&quot;https://img.shields.io/badge/website justvugg.github.io%2Fcolibri 1f6feb&quot; alt=&quot;Website&quot; &lt;/a — +675 stars today · 46,728 stars · 5,395 forks · Language: C</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/colibri logo.svg&amp;quot; width=&amp;quot;560&amp;quot; alt=&amp;quot;colibrì: tiny engine, immense model&amp;quot; &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://justvugg.github.io/colibri&amp;quot; &amp;lt;img src=&amp;quot;https://img.shields.io/badge/website justvugg.github.io%2Fcolibri 1f6feb&amp;quot; alt=&amp;quot;Website&amp;quot; &amp;lt;/a&lt;/p&gt;&lt;p&gt;🔥 +675 stars today · ⭐ &lt;b&gt;46,728&lt;/b&gt; stars · 🍴 &lt;b&gt;5,395&lt;/b&gt; forks · &lt;b&gt;C&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/JustVugg/colibri&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>FlashML-org/FreeToken</title>
       <link>https://github.com/FlashML-org/FreeToken</link>
       <guid isPermaLink="true">https://github.com/FlashML-org/FreeToken</guid>
-      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://raw.githubusercontent.com/FlashML org/FreeToken/main/assets/freetoken logo dark.svg&quot; — +242 stars today · 15,535 stars · 1,553 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://raw.githubusercontent.com/FlashML org/FreeToken/main/assets/freetoken logo dark.svg&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +242 stars today · ⭐ &lt;b&gt;15,535&lt;/b&gt; stars · 🍴 &lt;b&gt;1,553&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/FlashML-org/FreeToken&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>CopilotKit/OpenBot</title>
-      <link>https://github.com/CopilotKit/OpenBot</link>
-      <guid isPermaLink="true">https://github.com/CopilotKit/OpenBot</guid>
-      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; OpenBot The AI assistant your company can actually own. Same shape as ChatGPT, Claude or Grok, with one difference that matters: it runs on your infrastructure and you can change anything about it. Any agent stack, through AG UI. — +175 stars today · 9,642 stars · 1,193 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; OpenBot The AI assistant your company can actually own. Same shape as ChatGPT, Claude or Grok, with one difference that matters: it runs on your infrastructure and you can change anything about it. Any agent stack, through AG UI.&lt;/p&gt;&lt;p&gt;🔥 +175 stars today · ⭐ &lt;b&gt;9,642&lt;/b&gt; stars · 🍴 &lt;b&gt;1,193&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/CopilotKit/OpenBot&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>kornia/kornia</title>
-      <link>https://github.com/kornia/kornia</link>
-      <guid isPermaLink="true">https://github.com/kornia/kornia</guid>
-      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;p align=&quot;center&quot; &lt;img width=&quot;55%&quot; src=&quot;https://github.com/kornia/data/raw/main/kornia banner pixie.png&quot; / &lt;/p English 简体中文 &lt;p align=&quot;center&quot; — +101 stars today · 11,881 stars · 1,472 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img width=&amp;quot;55%&amp;quot; src=&amp;quot;https://github.com/kornia/data/raw/main/kornia banner pixie.png&amp;quot; / &amp;lt;/p English 简体中文 &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +101 stars today · ⭐ &lt;b&gt;11,881&lt;/b&gt; stars · 🍴 &lt;b&gt;1,472&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/kornia/kornia&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 03 Nov 2026 05:50:08 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://raw.githubusercontent.com/FlashML org/FreeToken/main/assets/freetoken logo dark.svg&quot; — +653 stars today · 16,239 stars · 1,596 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://raw.githubusercontent.com/FlashML org/FreeToken/main/assets/freetoken logo dark.svg&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +653 stars today · ⭐ &lt;b&gt;16,239&lt;/b&gt; stars · 🍴 &lt;b&gt;1,596&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/FlashML-org/FreeToken&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>hyprwm/Hyprland</title>
       <link>https://github.com/hyprwm/Hyprland</link>
       <guid isPermaLink="true">https://github.com/hyprwm/Hyprland</guid>
-      <pubDate>Mon, 02 Nov 2026 05:01:45 GMT</pubDate>
-      <description>&lt;div align = center &lt;img src=&quot;https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/header.svg&quot; width=&quot;750&quot; height=&quot;300&quot; alt=&quot;banner&quot; &lt;br [![Badge Workflow]][Workflow] [![Badge License]][License] [![Badge Pull Requests]][Pull Requests] — +38 stars today · 39,474 stars · 2,133 forks · Language: C++</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align = center &amp;lt;img src=&amp;quot;https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/header.svg&amp;quot; width=&amp;quot;750&amp;quot; height=&amp;quot;300&amp;quot; alt=&amp;quot;banner&amp;quot; &amp;lt;br [![Badge Workflow]][Workflow] [![Badge License]][License] [![Badge Pull Requests]][Pull Requests]&lt;/p&gt;&lt;p&gt;🔥 +38 stars today · ⭐ &lt;b&gt;39,474&lt;/b&gt; stars · 🍴 &lt;b&gt;2,133&lt;/b&gt; forks · &lt;b&gt;C++&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/hyprwm/Hyprland&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 03 Nov 2026 05:50:08 GMT</pubDate>
+      <description>&lt;div align = center &lt;img src=&quot;https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/header.svg&quot; width=&quot;750&quot; height=&quot;300&quot; alt=&quot;banner&quot; &lt;br [![Badge Workflow]][Workflow] [![Badge License]][License] [![Badge Pull Requests]][Pull Requests] — +509 stars today · 40,056 stars · 2,159 forks · Language: C++</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align = center &amp;lt;img src=&amp;quot;https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/header.svg&amp;quot; width=&amp;quot;750&amp;quot; height=&amp;quot;300&amp;quot; alt=&amp;quot;banner&amp;quot; &amp;lt;br [![Badge Workflow]][Workflow] [![Badge License]][License] [![Badge Pull Requests]][Pull Requests]&lt;/p&gt;&lt;p&gt;🔥 +509 stars today · ⭐ &lt;b&gt;40,056&lt;/b&gt; stars · 🍴 &lt;b&gt;2,159&lt;/b&gt; forks · &lt;b&gt;C++&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/hyprwm/Hyprland&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>p-e-w/heretic</title>
+      <link>https://github.com/p-e-w/heretic</link>
+      <guid isPermaLink="true">https://github.com/p-e-w/heretic</guid>
+      <pubDate>Tue, 03 Nov 2026 05:50:08 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;img width=&quot;128&quot; alt=&quot;Heretic logo&quot; src=&quot;https://github.com/user attachments/assets/df5f2840 2f92 4991 aa57 252747d7182e&quot; / Heretic Training free language model modification Remove censorship , suppress slop, reduce sycophancy, and more.&lt;br — +420 stars today · 38,237 stars · 4,334 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img width=&amp;quot;128&amp;quot; alt=&amp;quot;Heretic logo&amp;quot; src=&amp;quot;https://github.com/user attachments/assets/df5f2840 2f92 4991 aa57 252747d7182e&amp;quot; / Heretic Training free language model modification Remove censorship , suppress slop, reduce sycophancy, and more.&amp;lt;br&lt;/p&gt;&lt;p&gt;🔥 +420 stars today · ⭐ &lt;b&gt;38,237&lt;/b&gt; stars · 🍴 &lt;b&gt;4,334&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/p-e-w/heretic&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>paperclipai/paperclip</title>
+      <link>https://github.com/paperclipai/paperclip</link>
+      <guid isPermaLink="true">https://github.com/paperclipai/paperclip</guid>
+      <pubDate>Tue, 03 Nov 2026 05:50:08 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;doc/assets/banner.jpg&quot; alt=&quot;Paperclip is the app people use to manage AI agents for work.&quot; width=&quot;720&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;a href=&quot; quickstart&quot; &lt;strong Quickstart&lt;/strong &lt;/a &amp;middot; &lt;a href=&quot;https://docs.paperclip.ing&quot; &lt;strong Docs&lt;/strong &lt;/a &amp;middot; — +412 stars today · 110,540 stars · 18,298 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;doc/assets/banner.jpg&amp;quot; alt=&amp;quot;Paperclip is the app people use to manage AI agents for work.&amp;quot; width=&amp;quot;720&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot; quickstart&amp;quot; &amp;lt;strong Quickstart&amp;lt;/strong &amp;lt;/a &amp;amp;middot; &amp;lt;a href=&amp;quot;https://docs.paperclip.ing&amp;quot; &amp;lt;strong Docs&amp;lt;/strong &amp;lt;/a &amp;amp;middot;&lt;/p&gt;&lt;p&gt;🔥 +412 stars today · ⭐ &lt;b&gt;110,540&lt;/b&gt; stars · 🍴 &lt;b&gt;18,298&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/paperclipai/paperclip&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>kornia/kornia</title>
+      <link>https://github.com/kornia/kornia</link>
+      <guid isPermaLink="true">https://github.com/kornia/kornia</guid>
+      <pubDate>Tue, 03 Nov 2026 05:50:08 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;p align=&quot;center&quot; &lt;img width=&quot;55%&quot; src=&quot;https://github.com/kornia/data/raw/main/kornia banner pixie.png&quot; / &lt;/p English 简体中文 &lt;p align=&quot;center&quot; — +412 stars today · 12,210 stars · 1,498 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img width=&amp;quot;55%&amp;quot; src=&amp;quot;https://github.com/kornia/data/raw/main/kornia banner pixie.png&amp;quot; / &amp;lt;/p English 简体中文 &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +412 stars today · ⭐ &lt;b&gt;12,210&lt;/b&gt; stars · 🍴 &lt;b&gt;1,498&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/kornia/kornia&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>karpathy/nanochat</title>
+      <link>https://github.com/karpathy/nanochat</link>
+      <guid isPermaLink="true">https://github.com/karpathy/nanochat</guid>
+      <pubDate>Tue, 03 Nov 2026 05:50:08 GMT</pubDate>
+      <description>nanochat — +321 stars today · 60,013 stars · 8,420 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;nanochat&lt;/p&gt;&lt;p&gt;🔥 +321 stars today · ⭐ &lt;b&gt;60,013&lt;/b&gt; stars · 🍴 &lt;b&gt;8,420&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/karpathy/nanochat&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>max-sixty/worktrunk</title>
+      <link>https://github.com/max-sixty/worktrunk</link>
+      <guid isPermaLink="true">https://github.com/max-sixty/worktrunk</guid>
+      <pubDate>Tue, 03 Nov 2026 05:50:08 GMT</pubDate>
+      <description>&lt;! markdownlint disable MD033 &lt;h1 &lt;img src=&quot;docs/public/logo.png&quot; alt=&quot;Worktrunk logo&quot; width=&quot;50&quot; align=&quot;absmiddle&quot; &amp;nbsp;&amp;nbsp;Worktrunk&lt;/h1 &lt;! Crates.io badge below disabled while shields.io is rate limited by crates.io — +77 stars today · 10,134 stars · 366 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;&amp;lt;! markdownlint disable MD033 &amp;lt;h1 &amp;lt;img src=&amp;quot;docs/public/logo.png&amp;quot; alt=&amp;quot;Worktrunk logo&amp;quot; width=&amp;quot;50&amp;quot; align=&amp;quot;absmiddle&amp;quot; &amp;amp;nbsp;&amp;amp;nbsp;Worktrunk&amp;lt;/h1 &amp;lt;! Crates.io badge below disabled while shields.io is rate limited by crates.io&lt;/p&gt;&lt;p&gt;🔥 +77 stars today · ⭐ &lt;b&gt;10,134&lt;/b&gt; stars · 🍴 &lt;b&gt;366&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/max-sixty/worktrunk&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
