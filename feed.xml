@@ -7,136 +7,128 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Thu, 05 Nov 2026 05:44:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:41:45 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
-    <item>
-      <title>vercel-labs/agent-desktop</title>
-      <link>https://github.com/vercel-labs/agent-desktop</link>
-      <guid isPermaLink="true">https://github.com/vercel-labs/agent-desktop</guid>
-      <pubDate>Thu, 05 Nov 2026 05:44:29 GMT</pubDate>
-      <description>agent desktop Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree. &lt;p — +2,470 stars today · 15,596 stars · 1,085 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;agent desktop Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree. &amp;lt;p&lt;/p&gt;&lt;p&gt;🔥 +2,470 stars today · ⭐ &lt;b&gt;15,596&lt;/b&gt; stars · 🍴 &lt;b&gt;1,085&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/vercel-labs/agent-desktop&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
     <item>
       <title>NVIDIA/auto-ontology</title>
       <link>https://github.com/NVIDIA/auto-ontology</link>
       <guid isPermaLink="true">https://github.com/NVIDIA/auto-ontology</guid>
-      <pubDate>Thu, 05 Nov 2026 05:44:29 GMT</pubDate>
-      <description>&lt;! SPDX FileCopyrightText: Copyright (c) 2026, NVIDIA CORPORATION &amp; AFFILIATES. All rights reserved. SPDX License Identifier: Apache 2.0 Auto Ontology — +2,050 stars today · 5,596 stars · 444 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;! SPDX FileCopyrightText: Copyright (c) 2026, NVIDIA CORPORATION &amp;amp; AFFILIATES. All rights reserved. SPDX License Identifier: Apache 2.0 Auto Ontology&lt;/p&gt;&lt;p&gt;🔥 +2,050 stars today · ⭐ &lt;b&gt;5,596&lt;/b&gt; stars · 🍴 &lt;b&gt;444&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/NVIDIA/auto-ontology&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 06 Nov 2026 05:41:45 GMT</pubDate>
+      <description>&lt;! SPDX FileCopyrightText: Copyright (c) 2026, NVIDIA CORPORATION &amp; AFFILIATES. All rights reserved. SPDX License Identifier: Apache 2.0 Auto Ontology — +2,679 stars today · 7,753 stars · 625 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;! SPDX FileCopyrightText: Copyright (c) 2026, NVIDIA CORPORATION &amp;amp; AFFILIATES. All rights reserved. SPDX License Identifier: Apache 2.0 Auto Ontology&lt;/p&gt;&lt;p&gt;🔥 +2,679 stars today · ⭐ &lt;b&gt;7,753&lt;/b&gt; stars · 🍴 &lt;b&gt;625&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/NVIDIA/auto-ontology&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>D4Vinci/Scrapling</title>
-      <link>https://github.com/D4Vinci/Scrapling</link>
-      <guid isPermaLink="true">https://github.com/D4Vinci/Scrapling</guid>
-      <pubDate>Thu, 05 Nov 2026 05:44:29 GMT</pubDate>
-      <description>&lt;! mcp name: io.github.D4Vinci/Scrapling &lt;h1 align=&quot;center&quot; &lt;a href=&quot;https://scrapling.readthedocs.io&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://raw.githubusercontent.com/D4Vinci/Scrapling/main/docs/assets/cover dark.svg?sanitize=true&quot; — +2,005 stars today · 96,889 stars · 10,158 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;! mcp name: io.github.D4Vinci/Scrapling &amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://scrapling.readthedocs.io&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://raw.githubusercontent.com/D4Vinci/Scrapling/main/docs/assets/cover dark.svg?sanitize=true&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +2,005 stars today · ⭐ &lt;b&gt;96,889&lt;/b&gt; stars · 🍴 &lt;b&gt;10,158&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/D4Vinci/Scrapling&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>JiaFeiMiao-K-Cat/DiscImageStudio</title>
-      <link>https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio</link>
-      <guid isPermaLink="true">https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio</guid>
-      <pubDate>Thu, 05 Nov 2026 05:44:29 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; 简体中文 繁體中文 English 日本語 Türkçe Español Čeština &lt;h2 全能的光盘盘面可见图像生成与刻录工具&lt;/h2 Disc Image Studio 是一个多平台的光盘盘面图像生成与刻录工具，帮助您使用任何刻录光驱在任何 DVD / CD / 单层蓝光 光盘上刻蚀出肉眼可见的图像。 ![许可证：GPL 3.0 or later](LICENSE) &lt;/div — +1,778 stars today · 6,781 stars · 242 forks · Language: C#</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; 简体中文 繁體中文 English 日本語 Türkçe Español Čeština &amp;lt;h2 全能的光盘盘面可见图像生成与刻录工具&amp;lt;/h2 Disc Image Studio 是一个多平台的光盘盘面图像生成与刻录工具，帮助您使用任何刻录光驱在任何 DVD / CD / 单层蓝光 光盘上刻蚀出肉眼可见的图像。 ![许可证：GPL 3.0 or later](LICENSE) &amp;lt;/div&lt;/p&gt;&lt;p&gt;🔥 +1,778 stars today · ⭐ &lt;b&gt;6,781&lt;/b&gt; stars · 🍴 &lt;b&gt;242&lt;/b&gt; forks · &lt;b&gt;C#&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>vercel-labs/agent-desktop</title>
+      <link>https://github.com/vercel-labs/agent-desktop</link>
+      <guid isPermaLink="true">https://github.com/vercel-labs/agent-desktop</guid>
+      <pubDate>Fri, 06 Nov 2026 05:41:45 GMT</pubDate>
+      <description>agent desktop Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree. &lt;p — +2,173 stars today · 17,212 stars · 1,220 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;agent desktop Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree. &amp;lt;p&lt;/p&gt;&lt;p&gt;🔥 +2,173 stars today · ⭐ &lt;b&gt;17,212&lt;/b&gt; stars · 🍴 &lt;b&gt;1,220&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/vercel-labs/agent-desktop&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>mattpocock/skills</title>
       <link>https://github.com/mattpocock/skills</link>
       <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
-      <pubDate>Thu, 05 Nov 2026 05:44:29 GMT</pubDate>
-      <description>&lt;p &lt;a href=&quot;https://www.aihero.dev/s/skills newsletter&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&quot; — +1,379 stars today · 313,646 stars · 26,299 forks · Language: Shell</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p &amp;lt;a href=&amp;quot;https://www.aihero.dev/s/skills newsletter&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,379 stars today · ⭐ &lt;b&gt;313,646&lt;/b&gt; stars · 🍴 &lt;b&gt;26,299&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mattpocock/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 06 Nov 2026 05:41:45 GMT</pubDate>
+      <description>&lt;p &lt;a href=&quot;https://www.aihero.dev/s/skills newsletter&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&quot; — +2,071 stars today · 315,599 stars · 26,421 forks · Language: Shell</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p &amp;lt;a href=&amp;quot;https://www.aihero.dev/s/skills newsletter&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +2,071 stars today · ⭐ &lt;b&gt;315,599&lt;/b&gt; stars · 🍴 &lt;b&gt;26,421&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mattpocock/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>thedotmack/claude-mem</title>
-      <link>https://github.com/thedotmack/claude-mem</link>
-      <guid isPermaLink="true">https://github.com/thedotmack/claude-mem</guid>
-      <pubDate>Thu, 05 Nov 2026 05:44:29 GMT</pubDate>
-      <description>&lt;h1 align=&quot;center&quot; &lt;br &lt;a href=&quot;https://github.com/thedotmack/claude mem&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/public/claude mem logo for dark mode.webp&quot; &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;docs/public/claude mem logo for light mode.webp&quot; — +1,172 stars today · 113,040 stars · 9,814 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;br &amp;lt;a href=&amp;quot;https://github.com/thedotmack/claude mem&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for dark mode.webp&amp;quot; &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;docs/public/claude mem logo for light mode.webp&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,172 stars today · ⭐ &lt;b&gt;113,040&lt;/b&gt; stars · 🍴 &lt;b&gt;9,814&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/thedotmack/claude-mem&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>D4Vinci/Scrapling</title>
+      <link>https://github.com/D4Vinci/Scrapling</link>
+      <guid isPermaLink="true">https://github.com/D4Vinci/Scrapling</guid>
+      <pubDate>Fri, 06 Nov 2026 05:41:45 GMT</pubDate>
+      <description>&lt;! mcp name: io.github.D4Vinci/Scrapling &lt;h1 align=&quot;center&quot; &lt;a href=&quot;https://scrapling.readthedocs.io&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://raw.githubusercontent.com/D4Vinci/Scrapling/main/docs/assets/cover dark.svg?sanitize=true&quot; — +1,655 stars today · 98,243 stars · 10,291 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;! mcp name: io.github.D4Vinci/Scrapling &amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://scrapling.readthedocs.io&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://raw.githubusercontent.com/D4Vinci/Scrapling/main/docs/assets/cover dark.svg?sanitize=true&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,655 stars today · ⭐ &lt;b&gt;98,243&lt;/b&gt; stars · 🍴 &lt;b&gt;10,291&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/D4Vinci/Scrapling&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>JiaFeiMiao-K-Cat/DiscImageStudio</title>
+      <link>https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio</link>
+      <guid isPermaLink="true">https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio</guid>
+      <pubDate>Fri, 06 Nov 2026 05:41:45 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; 简体中文 繁體中文 English 日本語 Türkçe Español Čeština &lt;h2 全能的光盘盘面可见图像生成与刻录工具&lt;/h2 Disc Image Studio 是一个多平台的光盘盘面图像生成与刻录工具，帮助您使用任何刻录光驱在任何 DVD / CD / 单层蓝光 光盘上刻蚀出肉眼可见的图像。 ![许可证：GPL 3.0 or later](LICENSE) &lt;/div — +984 stars today · 7,412 stars · 265 forks · Language: C#</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; 简体中文 繁體中文 English 日本語 Türkçe Español Čeština &amp;lt;h2 全能的光盘盘面可见图像生成与刻录工具&amp;lt;/h2 Disc Image Studio 是一个多平台的光盘盘面图像生成与刻录工具，帮助您使用任何刻录光驱在任何 DVD / CD / 单层蓝光 光盘上刻蚀出肉眼可见的图像。 ![许可证：GPL 3.0 or later](LICENSE) &amp;lt;/div&lt;/p&gt;&lt;p&gt;🔥 +984 stars today · ⭐ &lt;b&gt;7,412&lt;/b&gt; stars · 🍴 &lt;b&gt;265&lt;/b&gt; forks · &lt;b&gt;C#&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>floci-io/floci</title>
       <link>https://github.com/floci-io/floci</link>
       <guid isPermaLink="true">https://github.com/floci-io/floci</guid>
-      <pubDate>Thu, 05 Nov 2026 05:44:29 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;docs/assets/floci black.svg gh light mode only&quot; alt=&quot;Floci&quot; width=&quot;500&quot; / &lt;img src=&quot;docs/assets/floci white.svg gh dark mode only&quot; alt=&quot;Floci&quot; width=&quot;500&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;strong Any Cloud. Locally.&lt;/strong &lt;br / — +1,090 stars today · 29,775 stars · 3,288 forks · Language: Java</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/assets/floci black.svg gh light mode only&amp;quot; alt=&amp;quot;Floci&amp;quot; width=&amp;quot;500&amp;quot; / &amp;lt;img src=&amp;quot;docs/assets/floci white.svg gh dark mode only&amp;quot; alt=&amp;quot;Floci&amp;quot; width=&amp;quot;500&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong Any Cloud. Locally.&amp;lt;/strong &amp;lt;br /&lt;/p&gt;&lt;p&gt;🔥 +1,090 stars today · ⭐ &lt;b&gt;29,775&lt;/b&gt; stars · 🍴 &lt;b&gt;3,288&lt;/b&gt; forks · &lt;b&gt;Java&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/floci-io/floci&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>github/spec-kit</title>
-      <link>https://github.com/github/spec-kit</link>
-      <guid isPermaLink="true">https://github.com/github/spec-kit</guid>
-      <pubDate>Thu, 05 Nov 2026 05:44:29 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;https://raw.githubusercontent.com/github/spec kit/main/media/logo large.webp&quot; alt=&quot;Spec Kit Logo&quot; width=&quot;200&quot; height=&quot;200&quot;/ &lt;h1 🌱 Spec Kit&lt;/h1 &lt;h3 &lt;em Build with a spec, fix a bug, or assess an idea — with your coding agent.&lt;/em &lt;/h3 &lt;/div &lt;p align=&quot;center&quot; — +808 stars today · 147,451 stars · 13,231 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;https://raw.githubusercontent.com/github/spec kit/main/media/logo large.webp&amp;quot; alt=&amp;quot;Spec Kit Logo&amp;quot; width=&amp;quot;200&amp;quot; height=&amp;quot;200&amp;quot;/ &amp;lt;h1 🌱 Spec Kit&amp;lt;/h1 &amp;lt;h3 &amp;lt;em Build with a spec, fix a bug, or assess an idea — with your coding agent.&amp;lt;/em &amp;lt;/h3 &amp;lt;/div &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +808 stars today · ⭐ &lt;b&gt;147,451&lt;/b&gt; stars · 🍴 &lt;b&gt;13,231&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/github/spec-kit&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>harry0703/MoneyPrinterTurbo</title>
-      <link>https://github.com/harry0703/MoneyPrinterTurbo</link>
-      <guid isPermaLink="true">https://github.com/harry0703/MoneyPrinterTurbo</guid>
-      <pubDate>Thu, 05 Nov 2026 05:44:29 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频&lt;b 主题&lt;/b 或&lt;b 关键词&lt;/b ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 ![Version](https://github.com/harry0703/MoneyPrinterTurbo/releases) ![Platform](https://github.com/harry0703/MoneyPrinterTurbo/releases/latest) — +617 stars today · 139,218 stars · 22,210 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; MoneyPrinterTurbo 💸 一站式 AI 短视频生成工具 只需提供视频&amp;lt;b 主题&amp;lt;/b 或&amp;lt;b 关键词&amp;lt;/b ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。 ![Version](https://github.com/harry0703/MoneyPrinterTurbo/releases) ![Platform](https://github.com/harry0703/MoneyPrinterTurbo/releases/latest)&lt;/p&gt;&lt;p&gt;🔥 +617 stars today · ⭐ &lt;b&gt;139,218&lt;/b&gt; stars · 🍴 &lt;b&gt;22,210&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/harry0703/MoneyPrinterTurbo&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>max-sixty/worktrunk</title>
-      <link>https://github.com/max-sixty/worktrunk</link>
-      <guid isPermaLink="true">https://github.com/max-sixty/worktrunk</guid>
-      <pubDate>Thu, 05 Nov 2026 05:44:29 GMT</pubDate>
-      <description>&lt;! markdownlint disable MD033 &lt;h1 &lt;img src=&quot;docs/public/logo.png&quot; alt=&quot;Worktrunk logo&quot; width=&quot;50&quot; align=&quot;absmiddle&quot; &amp;nbsp;&amp;nbsp;Worktrunk&lt;/h1 &lt;! Crates.io badge below disabled while shields.io is rate limited by crates.io — +531 stars today · 11,162 stars · 418 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;&amp;lt;! markdownlint disable MD033 &amp;lt;h1 &amp;lt;img src=&amp;quot;docs/public/logo.png&amp;quot; alt=&amp;quot;Worktrunk logo&amp;quot; width=&amp;quot;50&amp;quot; align=&amp;quot;absmiddle&amp;quot; &amp;amp;nbsp;&amp;amp;nbsp;Worktrunk&amp;lt;/h1 &amp;lt;! Crates.io badge below disabled while shields.io is rate limited by crates.io&lt;/p&gt;&lt;p&gt;🔥 +531 stars today · ⭐ &lt;b&gt;11,162&lt;/b&gt; stars · 🍴 &lt;b&gt;418&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/max-sixty/worktrunk&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>FareedKhan-dev/kimi-k3-in-c</title>
-      <link>https://github.com/FareedKhan-dev/kimi-k3-in-c</link>
-      <guid isPermaLink="true">https://github.com/FareedKhan-dev/kimi-k3-in-c</guid>
-      <pubDate>Thu, 05 Nov 2026 05:44:29 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;h1 kimi k3 in c&lt;/h1 &lt;h3 A 2.78 trillion parameter model. One CPU. 8 GB of RAM.&lt;/h3 &lt;p Kimi K3 inference in portable C99.&lt;br No BLAS. No framework. No GPU.&lt;/p &lt;p — +351 stars today · 10,464 stars · 1,644 forks · Language: C</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;h1 kimi k3 in c&amp;lt;/h1 &amp;lt;h3 A 2.78 trillion parameter model. One CPU. 8 GB of RAM.&amp;lt;/h3 &amp;lt;p Kimi K3 inference in portable C99.&amp;lt;br No BLAS. No framework. No GPU.&amp;lt;/p &amp;lt;p&lt;/p&gt;&lt;p&gt;🔥 +351 stars today · ⭐ &lt;b&gt;10,464&lt;/b&gt; stars · 🍴 &lt;b&gt;1,644&lt;/b&gt; forks · &lt;b&gt;C&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/FareedKhan-dev/kimi-k3-in-c&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>garrytan/gstack</title>
-      <link>https://github.com/garrytan/gstack</link>
-      <guid isPermaLink="true">https://github.com/garrytan/gstack</guid>
-      <pubDate>Thu, 05 Nov 2026 05:44:29 GMT</pubDate>
-      <description>gstack — +290 stars today · 139,469 stars · 20,647 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;gstack&lt;/p&gt;&lt;p&gt;🔥 +290 stars today · ⭐ &lt;b&gt;139,469&lt;/b&gt; stars · 🍴 &lt;b&gt;20,647&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/garrytan/gstack&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>The-PR-Agent/pr-agent</title>
-      <link>https://github.com/The-PR-Agent/pr-agent</link>
-      <guid isPermaLink="true">https://github.com/The-PR-Agent/pr-agent</guid>
-      <pubDate>Thu, 05 Nov 2026 05:44:29 GMT</pubDate>
-      <description>&lt;br / &lt;div align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://raw.githubusercontent.com/The PR Agent/pr agent/main/docs/static/img/logo dark.png&quot; width=&quot;330&quot; — +280 stars today · 14,882 stars · 2,098 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;br / &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://raw.githubusercontent.com/The PR Agent/pr agent/main/docs/static/img/logo dark.png&amp;quot; width=&amp;quot;330&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +280 stars today · ⭐ &lt;b&gt;14,882&lt;/b&gt; stars · 🍴 &lt;b&gt;2,098&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/The-PR-Agent/pr-agent&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 06 Nov 2026 05:41:45 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;docs/assets/floci black.svg gh light mode only&quot; alt=&quot;Floci&quot; width=&quot;500&quot; / &lt;img src=&quot;docs/assets/floci white.svg gh dark mode only&quot; alt=&quot;Floci&quot; width=&quot;500&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;strong Any Cloud. Locally.&lt;/strong &lt;br / — +779 stars today · 30,552 stars · 3,339 forks · Language: Java</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/assets/floci black.svg gh light mode only&amp;quot; alt=&amp;quot;Floci&amp;quot; width=&amp;quot;500&amp;quot; / &amp;lt;img src=&amp;quot;docs/assets/floci white.svg gh dark mode only&amp;quot; alt=&amp;quot;Floci&amp;quot; width=&amp;quot;500&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong Any Cloud. Locally.&amp;lt;/strong &amp;lt;br /&lt;/p&gt;&lt;p&gt;🔥 +779 stars today · ⭐ &lt;b&gt;30,552&lt;/b&gt; stars · 🍴 &lt;b&gt;3,339&lt;/b&gt; forks · &lt;b&gt;Java&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/floci-io/floci&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>scenario-labs/skills</title>
       <link>https://github.com/scenario-labs/skills</link>
       <guid isPermaLink="true">https://github.com/scenario-labs/skills</guid>
-      <pubDate>Thu, 05 Nov 2026 05:44:29 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://scenario.com&quot; target=&quot; blank&quot; rel=&quot;noopener noreferrer&quot; &lt;img src=&quot;./resources/scenario logo.png&quot; height=&quot;84&quot; alt=&quot;Scenario&quot; / &lt;/a &lt;br / &lt;/p — +224 stars today · 2,577 stars · 251 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://scenario.com&amp;quot; target=&amp;quot; blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot; &amp;lt;img src=&amp;quot;./resources/scenario logo.png&amp;quot; height=&amp;quot;84&amp;quot; alt=&amp;quot;Scenario&amp;quot; / &amp;lt;/a &amp;lt;br / &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +224 stars today · ⭐ &lt;b&gt;2,577&lt;/b&gt; stars · 🍴 &lt;b&gt;251&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/scenario-labs/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 06 Nov 2026 05:41:45 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://scenario.com&quot; target=&quot; blank&quot; rel=&quot;noopener noreferrer&quot; &lt;img src=&quot;./resources/scenario logo.png&quot; height=&quot;84&quot; alt=&quot;Scenario&quot; / &lt;/a &lt;br / &lt;/p — +667 stars today · 3,208 stars · 279 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://scenario.com&amp;quot; target=&amp;quot; blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot; &amp;lt;img src=&amp;quot;./resources/scenario logo.png&amp;quot; height=&amp;quot;84&amp;quot; alt=&amp;quot;Scenario&amp;quot; / &amp;lt;/a &amp;lt;br / &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +667 stars today · ⭐ &lt;b&gt;3,208&lt;/b&gt; stars · 🍴 &lt;b&gt;279&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/scenario-labs/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>Thysrael/Horizon</title>
-      <link>https://github.com/Thysrael/Horizon</link>
-      <guid isPermaLink="true">https://github.com/Thysrael/Horizon</guid>
-      <pubDate>Thu, 05 Nov 2026 05:44:29 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;h1 🌅 Horizon&lt;/h1 &lt;p &lt;strong Enjoy the News itself. Leave others to Horizon&lt;/strong &lt;/p — +121 stars today · 12,657 stars · 1,829 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;h1 🌅 Horizon&amp;lt;/h1 &amp;lt;p &amp;lt;strong Enjoy the News itself. Leave others to Horizon&amp;lt;/strong &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +121 stars today · ⭐ &lt;b&gt;12,657&lt;/b&gt; stars · 🍴 &lt;b&gt;1,829&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Thysrael/Horizon&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>garrytan/gstack</title>
+      <link>https://github.com/garrytan/gstack</link>
+      <guid isPermaLink="true">https://github.com/garrytan/gstack</guid>
+      <pubDate>Fri, 06 Nov 2026 05:41:45 GMT</pubDate>
+      <description>gstack — +612 stars today · 140,096 stars · 20,704 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;gstack&lt;/p&gt;&lt;p&gt;🔥 +612 stars today · ⭐ &lt;b&gt;140,096&lt;/b&gt; stars · 🍴 &lt;b&gt;20,704&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/garrytan/gstack&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>MichaelCade/90DaysOfDevOps</title>
-      <link>https://github.com/MichaelCade/90DaysOfDevOps</link>
-      <guid isPermaLink="true">https://github.com/MichaelCade/90DaysOfDevOps</guid>
-      <pubDate>Thu, 05 Nov 2026 05:44:29 GMT</pubDate>
-      <description>90DaysOfDevOps &lt;p align=&quot;center&quot; &lt;img src=&quot;logo.png?raw=true&quot; alt=&quot;90DaysOfDevOps Logo&quot; width=&quot;50%&quot; height=&quot;50%&quot; / &lt;/p — +97 stars today · 30,557 stars · 6,795 forks · Language: Shell</description>
-      <content:encoded>&lt;p&gt;90DaysOfDevOps &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;logo.png?raw=true&amp;quot; alt=&amp;quot;90DaysOfDevOps Logo&amp;quot; width=&amp;quot;50%&amp;quot; height=&amp;quot;50%&amp;quot; / &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +97 stars today · ⭐ &lt;b&gt;30,557&lt;/b&gt; stars · 🍴 &lt;b&gt;6,795&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/MichaelCade/90DaysOfDevOps&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>max-sixty/worktrunk</title>
+      <link>https://github.com/max-sixty/worktrunk</link>
+      <guid isPermaLink="true">https://github.com/max-sixty/worktrunk</guid>
+      <pubDate>Fri, 06 Nov 2026 05:41:45 GMT</pubDate>
+      <description>&lt;! markdownlint disable MD033 &lt;h1 &lt;img src=&quot;docs/public/logo.png&quot; alt=&quot;Worktrunk logo&quot; width=&quot;50&quot; align=&quot;absmiddle&quot; &amp;nbsp;&amp;nbsp;Worktrunk&lt;/h1 &lt;! Crates.io badge below disabled while shields.io is rate limited by crates.io — +546 stars today · 11,608 stars · 445 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;&amp;lt;! markdownlint disable MD033 &amp;lt;h1 &amp;lt;img src=&amp;quot;docs/public/logo.png&amp;quot; alt=&amp;quot;Worktrunk logo&amp;quot; width=&amp;quot;50&amp;quot; align=&amp;quot;absmiddle&amp;quot; &amp;amp;nbsp;&amp;amp;nbsp;Worktrunk&amp;lt;/h1 &amp;lt;! Crates.io badge below disabled while shields.io is rate limited by crates.io&lt;/p&gt;&lt;p&gt;🔥 +546 stars today · ⭐ &lt;b&gt;11,608&lt;/b&gt; stars · 🍴 &lt;b&gt;445&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/max-sixty/worktrunk&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Usagi-org/ai-goofish-monitor</title>
+      <link>https://github.com/Usagi-org/ai-goofish-monitor</link>
+      <guid isPermaLink="true">https://github.com/Usagi-org/ai-goofish-monitor</guid>
+      <pubDate>Fri, 06 Nov 2026 05:41:45 GMT</pubDate>
+      <description>闲鱼智能监控系统 [中文] ｜ English 基于 Playwright 和 AI 的闲鱼多任务实时监控，提供完整的 Web 管理界面。 核心特性 Web 可视化管理 : 任务管理、账号管理、AI 标准编辑、运行日志、结果浏览 AI 驱动 : 自然语言创建任务，多模态模型深度分析商品 — +240 stars today · 17,816 stars · 2,968 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;闲鱼智能监控系统 [中文] ｜ English 基于 Playwright 和 AI 的闲鱼多任务实时监控，提供完整的 Web 管理界面。 核心特性 Web 可视化管理 : 任务管理、账号管理、AI 标准编辑、运行日志、结果浏览 AI 驱动 : 自然语言创建任务，多模态模型深度分析商品&lt;/p&gt;&lt;p&gt;🔥 +240 stars today · ⭐ &lt;b&gt;17,816&lt;/b&gt; stars · 🍴 &lt;b&gt;2,968&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Usagi-org/ai-goofish-monitor&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>microsoft/VibeVoice</title>
+      <link>https://github.com/microsoft/VibeVoice</link>
+      <guid isPermaLink="true">https://github.com/microsoft/VibeVoice</guid>
+      <pubDate>Fri, 06 Nov 2026 05:41:45 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; 🎙️ VibeVoice: Open Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice 68a2ef24a875c44be47b034f) ![TTS Report](https://openreview.net/pdf?id=FihSkzyxdv) — +223 stars today · 56,162 stars · 6,326 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; 🎙️ VibeVoice: Open Source Frontier Voice AI ![Project Page](https://microsoft.github.io/VibeVoice) ![Hugging Face](https://huggingface.co/collections/microsoft/vibevoice 68a2ef24a875c44be47b034f) ![TTS Report](https://openreview.net/pdf?id=FihSkzyxdv)&lt;/p&gt;&lt;p&gt;🔥 +223 stars today · ⭐ &lt;b&gt;56,162&lt;/b&gt; stars · 🍴 &lt;b&gt;6,326&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/microsoft/VibeVoice&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>google/skills</title>
+      <link>https://github.com/google/skills</link>
+      <guid isPermaLink="true">https://github.com/google/skills</guid>
+      <pubDate>Fri, 06 Nov 2026 05:41:45 GMT</pubDate>
+      <description>Agent Skills ![Install via skills.sh](https://skills.sh/google/skills) This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation npx skills add google/skills — +211 stars today · 22,486 stars · 1,894 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;Agent Skills ![Install via skills.sh](https://skills.sh/google/skills) This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation npx skills add google/skills&lt;/p&gt;&lt;p&gt;🔥 +211 stars today · ⭐ &lt;b&gt;22,486&lt;/b&gt; stars · 🍴 &lt;b&gt;1,894&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/google/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>ConardLi/garden-skills</title>
+      <link>https://github.com/ConardLi/garden-skills</link>
+      <guid isPermaLink="true">https://github.com/ConardLi/garden-skills</guid>
+      <pubDate>Fri, 06 Nov 2026 05:41:45 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; Garden Skills A curated collection of production ready Agent Skills for Claude Code, Cursor, Codex, and other AI coding agents. &lt;a id=&quot;skills gallery&quot; &lt;/a &lt;table &lt;tr — +175 stars today · 14,271 stars · 1,654 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; Garden Skills A curated collection of production ready Agent Skills for Claude Code, Cursor, Codex, and other AI coding agents. &amp;lt;a id=&amp;quot;skills gallery&amp;quot; &amp;lt;/a &amp;lt;table &amp;lt;tr&lt;/p&gt;&lt;p&gt;🔥 +175 stars today · ⭐ &lt;b&gt;14,271&lt;/b&gt; stars · 🍴 &lt;b&gt;1,654&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ConardLi/garden-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>vercel-labs/agent-browser</title>
+      <link>https://github.com/vercel-labs/agent-browser</link>
+      <guid isPermaLink="true">https://github.com/vercel-labs/agent-browser</guid>
+      <pubDate>Fri, 06 Nov 2026 05:41:45 GMT</pubDate>
+      <description>agent browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. &lt;p — +150 stars today · 46,048 stars · 3,151 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;agent browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. &amp;lt;p&lt;/p&gt;&lt;p&gt;🔥 +150 stars today · ⭐ &lt;b&gt;46,048&lt;/b&gt; stars · 🍴 &lt;b&gt;3,151&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/vercel-labs/agent-browser&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>lz4/lz4</title>
+      <link>https://github.com/lz4/lz4</link>
+      <guid isPermaLink="true">https://github.com/lz4/lz4</guid>
+      <pubDate>Fri, 06 Nov 2026 05:41:45 GMT</pubDate>
+      <description>LZ4 Extremely fast compression ================================ LZ4 is a lossless compression algorithm, providing compression speed 500 MB/s per core, scalable with multi core CPUs. It features an extremely fast decoder, — +23 stars today · 12,442 stars · 1,638 forks · Language: C</description>
+      <content:encoded>&lt;p&gt;LZ4 Extremely fast compression ================================ LZ4 is a lossless compression algorithm, providing compression speed 500 MB/s per core, scalable with multi core CPUs. It features an extremely fast decoder,&lt;/p&gt;&lt;p&gt;🔥 +23 stars today · ⭐ &lt;b&gt;12,442&lt;/b&gt; stars · 🍴 &lt;b&gt;1,638&lt;/b&gt; forks · &lt;b&gt;C&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/lz4/lz4&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
