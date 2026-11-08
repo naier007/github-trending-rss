@@ -7,152 +7,128 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Sat, 07 Nov 2026 05:11:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 05:06:27 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
     <item>
       <title>cloudflare/security-audit-skill</title>
       <link>https://github.com/cloudflare/security-audit-skill</link>
       <guid isPermaLink="true">https://github.com/cloudflare/security-audit-skill</guid>
-      <pubDate>Sat, 07 Nov 2026 05:11:44 GMT</pubDate>
-      <description>security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting. — +2,548 stars today · 64,343 stars · 4,170 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting.&lt;/p&gt;&lt;p&gt;🔥 +2,548 stars today · ⭐ &lt;b&gt;64,343&lt;/b&gt; stars · 🍴 &lt;b&gt;4,170&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cloudflare/security-audit-skill&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
+      <description>security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting. — +2,085 stars today · 65,973 stars · 4,291 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting.&lt;/p&gt;&lt;p&gt;🔥 +2,085 stars today · ⭐ &lt;b&gt;65,973&lt;/b&gt; stars · 🍴 &lt;b&gt;4,291&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cloudflare/security-audit-skill&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>mattpocock/skills</title>
-      <link>https://github.com/mattpocock/skills</link>
-      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
-      <pubDate>Sat, 07 Nov 2026 05:11:44 GMT</pubDate>
-      <description>&lt;p &lt;a href=&quot;https://www.aihero.dev/s/skills newsletter&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&quot; — +2,070 stars today · 316,884 stars · 26,515 forks · Language: Shell</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p &amp;lt;a href=&amp;quot;https://www.aihero.dev/s/skills newsletter&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +2,070 stars today · ⭐ &lt;b&gt;316,884&lt;/b&gt; stars · 🍴 &lt;b&gt;26,515&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mattpocock/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>milind-soni/OpenMausBot</title>
+      <link>https://github.com/milind-soni/OpenMausBot</link>
+      <guid isPermaLink="true">https://github.com/milind-soni/OpenMausBot</guid>
+      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; OpenMausBot The open source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &amp;nbsp;·&amp;nbsp; Download &amp;nbsp;·&amp;nbsp; Open source Grok Bot alternative, compared — +1,955 stars today · 17,221 stars · 2,431 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; OpenMausBot The open source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &amp;amp;nbsp;·&amp;amp;nbsp; Download &amp;amp;nbsp;·&amp;amp;nbsp; Open source Grok Bot alternative, compared&lt;/p&gt;&lt;p&gt;🔥 +1,955 stars today · ⭐ &lt;b&gt;17,221&lt;/b&gt; stars · 🍴 &lt;b&gt;2,431&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/milind-soni/OpenMausBot&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>NVIDIA/auto-ontology</title>
-      <link>https://github.com/NVIDIA/auto-ontology</link>
-      <guid isPermaLink="true">https://github.com/NVIDIA/auto-ontology</guid>
-      <pubDate>Sat, 07 Nov 2026 05:11:44 GMT</pubDate>
-      <description>&lt;! SPDX FileCopyrightText: Copyright (c) 2026, NVIDIA CORPORATION &amp; AFFILIATES. All rights reserved. SPDX License Identifier: Apache 2.0 Auto Ontology — +2,015 stars today · 9,257 stars · 736 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;! SPDX FileCopyrightText: Copyright (c) 2026, NVIDIA CORPORATION &amp;amp; AFFILIATES. All rights reserved. SPDX License Identifier: Apache 2.0 Auto Ontology&lt;/p&gt;&lt;p&gt;🔥 +2,015 stars today · ⭐ &lt;b&gt;9,257&lt;/b&gt; stars · 🍴 &lt;b&gt;736&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/NVIDIA/auto-ontology&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>google/skills</title>
-      <link>https://github.com/google/skills</link>
-      <guid isPermaLink="true">https://github.com/google/skills</guid>
-      <pubDate>Sat, 07 Nov 2026 05:11:44 GMT</pubDate>
-      <description>Agent Skills ![Install via skills.sh](https://skills.sh/google/skills) This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation npx skills add google/skills — +534 stars today · 22,920 stars · 1,928 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Agent Skills ![Install via skills.sh](https://skills.sh/google/skills) This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation npx skills add google/skills&lt;/p&gt;&lt;p&gt;🔥 +534 stars today · ⭐ &lt;b&gt;22,920&lt;/b&gt; stars · 🍴 &lt;b&gt;1,928&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/google/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>lz4/lz4</title>
-      <link>https://github.com/lz4/lz4</link>
-      <guid isPermaLink="true">https://github.com/lz4/lz4</guid>
-      <pubDate>Sat, 07 Nov 2026 05:11:44 GMT</pubDate>
-      <description>LZ4 Extremely fast compression ================================ LZ4 is a lossless compression algorithm, providing compression speed 500 MB/s per core, scalable with multi core CPUs. It features an extremely fast decoder, — +315 stars today · 12,642 stars · 1,643 forks · Language: C</description>
-      <content:encoded>&lt;p&gt;LZ4 Extremely fast compression ================================ LZ4 is a lossless compression algorithm, providing compression speed 500 MB/s per core, scalable with multi core CPUs. It features an extremely fast decoder,&lt;/p&gt;&lt;p&gt;🔥 +315 stars today · ⭐ &lt;b&gt;12,642&lt;/b&gt; stars · 🍴 &lt;b&gt;1,643&lt;/b&gt; forks · &lt;b&gt;C&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/lz4/lz4&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>sherlock-project/sherlock</title>
+      <link>https://github.com/sherlock-project/sherlock</link>
+      <guid isPermaLink="true">https://github.com/sherlock-project/sherlock</guid>
+      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;br &lt;a href=&quot;https://sherlockproject.xyz/&quot; target=&quot; blank&quot; &lt;img src=&quot;images/sherlock logo.png&quot; alt=&quot;sherlock&quot;/ &lt;/a &lt;br &lt;span Hunt down social media accounts by username across &lt;a href=&quot;https://sherlockproject.xyz/sites&quot; 400+ social networks&lt;/a &lt;/span &lt;br — +1,766 stars today · 100,938 stars · 11,933 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;br &amp;lt;a href=&amp;quot;https://sherlockproject.xyz/&amp;quot; target=&amp;quot; blank&amp;quot; &amp;lt;img src=&amp;quot;images/sherlock logo.png&amp;quot; alt=&amp;quot;sherlock&amp;quot;/ &amp;lt;/a &amp;lt;br &amp;lt;span Hunt down social media accounts by username across &amp;lt;a href=&amp;quot;https://sherlockproject.xyz/sites&amp;quot; 400+ social networks&amp;lt;/a &amp;lt;/span &amp;lt;br&lt;/p&gt;&lt;p&gt;🔥 +1,766 stars today · ⭐ &lt;b&gt;100,938&lt;/b&gt; stars · 🍴 &lt;b&gt;11,933&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/sherlock-project/sherlock&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>zed-industries/zed</title>
       <link>https://github.com/zed-industries/zed</link>
       <guid isPermaLink="true">https://github.com/zed-industries/zed</guid>
-      <pubDate>Sat, 07 Nov 2026 05:11:44 GMT</pubDate>
-      <description>Zed ![Zed](https://zed.dev) ![CI](https://github.com/zed industries/zed/actions/workflows/run tests.yml) Welcome to Zed, a high performance, multiplayer code editor from the creators of Atom and Tree sitter. Installation — +306 stars today · 93,774 stars · 11,509 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;Zed ![Zed](https://zed.dev) ![CI](https://github.com/zed industries/zed/actions/workflows/run tests.yml) Welcome to Zed, a high performance, multiplayer code editor from the creators of Atom and Tree sitter. Installation&lt;/p&gt;&lt;p&gt;🔥 +306 stars today · ⭐ &lt;b&gt;93,774&lt;/b&gt; stars · 🍴 &lt;b&gt;11,509&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/zed-industries/zed&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
+      <description>Zed ![Zed](https://zed.dev) ![CI](https://github.com/zed industries/zed/actions/workflows/run tests.yml) Welcome to Zed, a high performance, multiplayer code editor from the creators of Atom and Tree sitter. Installation — +1,114 stars today · 94,337 stars · 11,555 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;Zed ![Zed](https://zed.dev) ![CI](https://github.com/zed industries/zed/actions/workflows/run tests.yml) Welcome to Zed, a high performance, multiplayer code editor from the creators of Atom and Tree sitter. Installation&lt;/p&gt;&lt;p&gt;🔥 +1,114 stars today · ⭐ &lt;b&gt;94,337&lt;/b&gt; stars · 🍴 &lt;b&gt;11,555&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/zed-industries/zed&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>microsoft/vscode</title>
-      <link>https://github.com/microsoft/vscode</link>
-      <guid isPermaLink="true">https://github.com/microsoft/vscode</guid>
-      <pubDate>Sat, 07 Nov 2026 05:11:44 GMT</pubDate>
-      <description>Visual Studio Code Open Source (&quot;Code OSS&quot;) ![Feature Requests](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature request+sort%3Areactions %2B1 desc) ![Bugs](https://github.com/microsoft/vscode/issues?utf8=✓&amp;q=is%3Aissue+is%3Aopen+label%3Abug) The Repository — +301 stars today · 195,065 stars · 44,432 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;Visual Studio Code Open Source (&amp;quot;Code OSS&amp;quot;) ![Feature Requests](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature request+sort%3Areactions %2B1 desc) ![Bugs](https://github.com/microsoft/vscode/issues?utf8=✓&amp;amp;q=is%3Aissue+is%3Aopen+label%3Abug) The Repository&lt;/p&gt;&lt;p&gt;🔥 +301 stars today · ⭐ &lt;b&gt;195,065&lt;/b&gt; stars · 🍴 &lt;b&gt;44,432&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/microsoft/vscode&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>mattpocock/skills</title>
+      <link>https://github.com/mattpocock/skills</link>
+      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
+      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
+      <description>&lt;p &lt;a href=&quot;https://www.aihero.dev/s/skills newsletter&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&quot; — +1,100 stars today · 317,868 stars · 26,593 forks · Language: Shell</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p &amp;lt;a href=&amp;quot;https://www.aihero.dev/s/skills newsletter&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,100 stars today · ⭐ &lt;b&gt;317,868&lt;/b&gt; stars · 🍴 &lt;b&gt;26,593&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mattpocock/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>react/react</title>
-      <link>https://github.com/react/react</link>
-      <guid isPermaLink="true">https://github.com/react/react</guid>
-      <pubDate>Sat, 07 Nov 2026 05:11:44 GMT</pubDate>
-      <description>React &amp;middot; ![GitHub license](https://github.com/react/react/blob/main/LICENSE) ![npm version](https://www.npmjs.com/package/react) ![(Runtime) Build and Test](https://github.com/react/react/actions/workflows/runtime build and test.yml) ![(Compiler) TypeScript](https://github.com/react/react/act… — +248 stars today · 252,295 stars · 51,822 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;React &amp;amp;middot; ![GitHub license](https://github.com/react/react/blob/main/LICENSE) ![npm version](https://www.npmjs.com/package/react) ![(Runtime) Build and Test](https://github.com/react/react/actions/workflows/runtime build and test.yml) ![(Compiler) TypeScript](https://github.com/react/react/act…&lt;/p&gt;&lt;p&gt;🔥 +248 stars today · ⭐ &lt;b&gt;252,295&lt;/b&gt; stars · 🍴 &lt;b&gt;51,822&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/react/react&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>google/skills</title>
+      <link>https://github.com/google/skills</link>
+      <guid isPermaLink="true">https://github.com/google/skills</guid>
+      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
+      <description>Agent Skills ![Install via skills.sh](https://skills.sh/google/skills) This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation npx skills add google/skills — +443 stars today · 23,496 stars · 1,964 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;Agent Skills ![Install via skills.sh](https://skills.sh/google/skills) This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation npx skills add google/skills&lt;/p&gt;&lt;p&gt;🔥 +443 stars today · ⭐ &lt;b&gt;23,496&lt;/b&gt; stars · 🍴 &lt;b&gt;1,964&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/google/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>rust-lang/rust</title>
-      <link>https://github.com/rust-lang/rust</link>
-      <guid isPermaLink="true">https://github.com/rust-lang/rust</guid>
-      <pubDate>Sat, 07 Nov 2026 05:11:44 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://raw.githubusercontent.com/rust lang/www.rust lang.org/master/static/images/rust social wide dark.svg&quot; — +192 stars today · 121,503 stars · 17,369 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://raw.githubusercontent.com/rust lang/www.rust lang.org/master/static/images/rust social wide dark.svg&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +192 stars today · ⭐ &lt;b&gt;121,503&lt;/b&gt; stars · 🍴 &lt;b&gt;17,369&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/rust-lang/rust&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>anthropics/skills</title>
+      <link>https://github.com/anthropics/skills</link>
+      <guid isPermaLink="true">https://github.com/anthropics/skills</guid>
+      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
+      <description>Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. ![skills.sh](https://skills.sh/anthropics/skills) Skills — +390 stars today · 188,908 stars · 22,267 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;Note: This repository contains Anthropic&amp;#x27;s implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. ![skills.sh](https://skills.sh/anthropics/skills) Skills&lt;/p&gt;&lt;p&gt;🔥 +390 stars today · ⭐ &lt;b&gt;188,908&lt;/b&gt; stars · 🍴 &lt;b&gt;22,267&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>astral-sh/ruff</title>
       <link>https://github.com/astral-sh/ruff</link>
       <guid isPermaLink="true">https://github.com/astral-sh/ruff</guid>
-      <pubDate>Sat, 07 Nov 2026 05:11:44 GMT</pubDate>
-      <description>&lt;! Begin section: Overview Ruff ![Ruff](https://github.com/astral sh/ruff) ![image](https://pypi.python.org/pypi/ruff) ![image](https://github.com/astral sh/ruff/blob/main/LICENSE) ![image](https://pypi.python.org/pypi/ruff) — +169 stars today · 50,736 stars · 2,614 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;&amp;lt;! Begin section: Overview Ruff ![Ruff](https://github.com/astral sh/ruff) ![image](https://pypi.python.org/pypi/ruff) ![image](https://github.com/astral sh/ruff/blob/main/LICENSE) ![image](https://pypi.python.org/pypi/ruff)&lt;/p&gt;&lt;p&gt;🔥 +169 stars today · ⭐ &lt;b&gt;50,736&lt;/b&gt; stars · 🍴 &lt;b&gt;2,614&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/astral-sh/ruff&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
+      <description>&lt;! Begin section: Overview Ruff ![Ruff](https://github.com/astral sh/ruff) ![image](https://pypi.python.org/pypi/ruff) ![image](https://github.com/astral sh/ruff/blob/main/LICENSE) ![image](https://pypi.python.org/pypi/ruff) — +350 stars today · 51,015 stars · 2,633 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;&amp;lt;! Begin section: Overview Ruff ![Ruff](https://github.com/astral sh/ruff) ![image](https://pypi.python.org/pypi/ruff) ![image](https://github.com/astral sh/ruff/blob/main/LICENSE) ![image](https://pypi.python.org/pypi/ruff)&lt;/p&gt;&lt;p&gt;🔥 +350 stars today · ⭐ &lt;b&gt;51,015&lt;/b&gt; stars · 🍴 &lt;b&gt;2,633&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/astral-sh/ruff&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>prometheus/prometheus</title>
       <link>https://github.com/prometheus/prometheus</link>
       <guid isPermaLink="true">https://github.com/prometheus/prometheus</guid>
-      <pubDate>Sat, 07 Nov 2026 05:11:44 GMT</pubDate>
-      <description>&lt;h1 align=&quot;center&quot; style=&quot;border bottom: none&quot; &lt;a href=&quot;https://prometheus.io&quot; target=&quot; blank&quot; &lt;img alt=&quot;Prometheus&quot; src=&quot;/documentation/images/prometheus logo.svg&quot; &lt;/a &lt;br Prometheus &lt;/h1 — +148 stars today · 67,225 stars · 10,989 forks · Language: Go</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; style=&amp;quot;border bottom: none&amp;quot; &amp;lt;a href=&amp;quot;https://prometheus.io&amp;quot; target=&amp;quot; blank&amp;quot; &amp;lt;img alt=&amp;quot;Prometheus&amp;quot; src=&amp;quot;/documentation/images/prometheus logo.svg&amp;quot; &amp;lt;/a &amp;lt;br Prometheus &amp;lt;/h1&lt;/p&gt;&lt;p&gt;🔥 +148 stars today · ⭐ &lt;b&gt;67,225&lt;/b&gt; stars · 🍴 &lt;b&gt;10,989&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/prometheus/prometheus&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
+      <description>&lt;h1 align=&quot;center&quot; style=&quot;border bottom: none&quot; &lt;a href=&quot;https://prometheus.io&quot; target=&quot; blank&quot; &lt;img alt=&quot;Prometheus&quot; src=&quot;/documentation/images/prometheus logo.svg&quot; &lt;/a &lt;br Prometheus &lt;/h1 — +322 stars today · 67,476 stars · 11,009 forks · Language: Go</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; style=&amp;quot;border bottom: none&amp;quot; &amp;lt;a href=&amp;quot;https://prometheus.io&amp;quot; target=&amp;quot; blank&amp;quot; &amp;lt;img alt=&amp;quot;Prometheus&amp;quot; src=&amp;quot;/documentation/images/prometheus logo.svg&amp;quot; &amp;lt;/a &amp;lt;br Prometheus &amp;lt;/h1&lt;/p&gt;&lt;p&gt;🔥 +322 stars today · ⭐ &lt;b&gt;67,476&lt;/b&gt; stars · 🍴 &lt;b&gt;11,009&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/prometheus/prometheus&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>rails/rails</title>
-      <link>https://github.com/rails/rails</link>
-      <guid isPermaLink="true">https://github.com/rails/rails</guid>
-      <pubDate>Sat, 07 Nov 2026 05:11:44 GMT</pubDate>
-      <description>Welcome to Rails What's Rails? Rails is a web application framework that includes everything needed to create database backed web applications according to the Model View Controller (MVC) pattern. — +142 stars today · 59,049 stars · 23,833 forks · Language: Ruby</description>
-      <content:encoded>&lt;p&gt;Welcome to Rails What&amp;#x27;s Rails? Rails is a web application framework that includes everything needed to create database backed web applications according to the Model View Controller (MVC) pattern.&lt;/p&gt;&lt;p&gt;🔥 +142 stars today · ⭐ &lt;b&gt;59,049&lt;/b&gt; stars · 🍴 &lt;b&gt;23,833&lt;/b&gt; forks · &lt;b&gt;Ruby&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/rails/rails&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>ranxianglei/billion-context</title>
+      <link>https://github.com/ranxianglei/billion-context</link>
+      <guid isPermaLink="true">https://github.com/ranxianglei/billion-context</guid>
+      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
+      <description>billion context &lt;p align=&quot;center&quot; &lt;a href=&quot;./README.md&quot; English&lt;/a &lt;a href=&quot;./README.zh CN.md&quot; 中文&lt;/a &lt;/p &lt;p align=&quot;center&quot; &lt;strong Context compression plugin&lt;/strong — &lt;em billion context is all you need.&lt;/em &lt;/p — +191 stars today · 4,690 stars · 377 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;billion context &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;./README.md&amp;quot; English&amp;lt;/a &amp;lt;a href=&amp;quot;./README.zh CN.md&amp;quot; 中文&amp;lt;/a &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong Context compression plugin&amp;lt;/strong — &amp;lt;em billion context is all you need.&amp;lt;/em &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +191 stars today · ⭐ &lt;b&gt;4,690&lt;/b&gt; stars · 🍴 &lt;b&gt;377&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ranxianglei/billion-context&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>angular/angular</title>
-      <link>https://github.com/angular/angular</link>
-      <guid isPermaLink="true">https://github.com/angular/angular</guid>
-      <pubDate>Sat, 07 Nov 2026 05:11:44 GMT</pubDate>
-      <description>&lt;h1 align=&quot;center&quot; Angular The modern web developer's platform&lt;/h1 &lt;p align=&quot;center&quot; &lt;img src=&quot;adev/src/assets/images/press kit/angular icon gradient.gif&quot; alt=&quot;angular logo&quot; width=&quot;120px&quot; height=&quot;120px&quot;/ &lt;br &lt;em Angular is a development platform for building mobile and desktop web applications — +135 stars today · 101,410 stars · 28,913 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; Angular The modern web developer&amp;#x27;s platform&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;adev/src/assets/images/press kit/angular icon gradient.gif&amp;quot; alt=&amp;quot;angular logo&amp;quot; width=&amp;quot;120px&amp;quot; height=&amp;quot;120px&amp;quot;/ &amp;lt;br &amp;lt;em Angular is a development platform for building mobile and desktop web applications&lt;/p&gt;&lt;p&gt;🔥 +135 stars today · ⭐ &lt;b&gt;101,410&lt;/b&gt; stars · 🍴 &lt;b&gt;28,913&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/angular/angular&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>vercel-labs/agent-browser</title>
+      <link>https://github.com/vercel-labs/agent-browser</link>
+      <guid isPermaLink="true">https://github.com/vercel-labs/agent-browser</guid>
+      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
+      <description>agent browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. &lt;p — +190 stars today · 46,958 stars · 3,221 forks · Language: Rust</description>
+      <content:encoded>&lt;p&gt;agent browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. &amp;lt;p&lt;/p&gt;&lt;p&gt;🔥 +190 stars today · ⭐ &lt;b&gt;46,958&lt;/b&gt; stars · 🍴 &lt;b&gt;3,221&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/vercel-labs/agent-browser&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>nushell/nushell</title>
-      <link>https://github.com/nushell/nushell</link>
-      <guid isPermaLink="true">https://github.com/nushell/nushell</guid>
-      <pubDate>Sat, 07 Nov 2026 05:11:44 GMT</pubDate>
-      <description>Nushell &lt;! omit in toc ![Crates.io](https://crates.io/crates/nu) ![Build Status](https://github.com/nushell/nushell/actions) ![Nightly Build](https://github.com/nushell/nushell/actions/workflows/nightly build.yml) ![Discord](https://discord.gg/NtAbbGn) — +131 stars today · 41,012 stars · 2,344 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;Nushell &amp;lt;! omit in toc ![Crates.io](https://crates.io/crates/nu) ![Build Status](https://github.com/nushell/nushell/actions) ![Nightly Build](https://github.com/nushell/nushell/actions/workflows/nightly build.yml) ![Discord](https://discord.gg/NtAbbGn)&lt;/p&gt;&lt;p&gt;🔥 +131 stars today · ⭐ &lt;b&gt;41,012&lt;/b&gt; stars · 🍴 &lt;b&gt;2,344&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/nushell/nushell&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>mbillow/localthings</title>
+      <link>https://github.com/mbillow/localthings</link>
+      <guid isPermaLink="true">https://github.com/mbillow/localthings</guid>
+      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
+      <description>&lt;! dark mode &lt;img src=&quot;custom components/localthings/brand/dark logo@2x.png gh dark mode only&quot; alt=&quot;LocalThings Logo&quot;/ &lt;! light mode &lt;img src=&quot;custom components/localthings/brand/logo@2x.png gh light mode only&quot; alt=&quot;LocalThings Logo&quot;/ &lt;p align=&quot;center&quot; — +186 stars today · 1,093 stars · 114 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;! dark mode &amp;lt;img src=&amp;quot;custom components/localthings/brand/dark logo@2x.png gh dark mode only&amp;quot; alt=&amp;quot;LocalThings Logo&amp;quot;/ &amp;lt;! light mode &amp;lt;img src=&amp;quot;custom components/localthings/brand/logo@2x.png gh light mode only&amp;quot; alt=&amp;quot;LocalThings Logo&amp;quot;/ &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +186 stars today · ⭐ &lt;b&gt;1,093&lt;/b&gt; stars · 🍴 &lt;b&gt;114&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mbillow/localthings&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>etcd-io/etcd</title>
-      <link>https://github.com/etcd-io/etcd</link>
-      <guid isPermaLink="true">https://github.com/etcd-io/etcd</guid>
-      <pubDate>Sat, 07 Nov 2026 05:11:44 GMT</pubDate>
-      <description>etcd ![Go Report Card](https://goreportcard.com/report/github.com/etcd io/etcd) ![Coverage](https://app.codecov.io/gh/etcd io/etcd/tree/main) ![Tests](https://github.com/etcd io/etcd/actions/workflows/tests.yaml) — +128 stars today · 52,633 stars · 10,590 forks · Language: Go</description>
-      <content:encoded>&lt;p&gt;etcd ![Go Report Card](https://goreportcard.com/report/github.com/etcd io/etcd) ![Coverage](https://app.codecov.io/gh/etcd io/etcd/tree/main) ![Tests](https://github.com/etcd io/etcd/actions/workflows/tests.yaml)&lt;/p&gt;&lt;p&gt;🔥 +128 stars today · ⭐ &lt;b&gt;52,633&lt;/b&gt; stars · 🍴 &lt;b&gt;10,590&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/etcd-io/etcd&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>dsx-ai-factory/nvke</title>
+      <link>https://github.com/dsx-ai-factory/nvke</link>
+      <guid isPermaLink="true">https://github.com/dsx-ai-factory/nvke</guid>
+      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
+      <description>NVIDIA Kubernetes Engine (NVKE) ![License](LICENSE) ![Go](go.work) Run a managed Kubernetes service on your own NVIDIA GPU infrastructure. NVIDIA Kubernetes® Engine (NVKE) provides the management plane that platform teams install to create and — +123 stars today · 600 stars · 92 forks · Language: Go</description>
+      <content:encoded>&lt;p&gt;NVIDIA Kubernetes Engine (NVKE) ![License](LICENSE) ![Go](go.work) Run a managed Kubernetes service on your own NVIDIA GPU infrastructure. NVIDIA Kubernetes® Engine (NVKE) provides the management plane that platform teams install to create and&lt;/p&gt;&lt;p&gt;🔥 +123 stars today · ⭐ &lt;b&gt;600&lt;/b&gt; stars · 🍴 &lt;b&gt;92&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/dsx-ai-factory/nvke&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>symfony/symfony</title>
-      <link>https://github.com/symfony/symfony</link>
-      <guid isPermaLink="true">https://github.com/symfony/symfony</guid>
-      <pubDate>Sat, 07 Nov 2026 05:11:44 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://symfony.com&quot; target=&quot; blank&quot; &lt;img src=&quot;https://symfony.com/logos/symfony dynamic 01.svg&quot; alt=&quot;Symfony Logo&quot; &lt;/a &lt;/p [Symfony][1] is a PHP framework for web and console applications and a set of reusable PHP components . Symfony is used by thousands of web — +128 stars today · 31,467 stars · 9,949 forks · Language: PHP</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://symfony.com&amp;quot; target=&amp;quot; blank&amp;quot; &amp;lt;img src=&amp;quot;https://symfony.com/logos/symfony dynamic 01.svg&amp;quot; alt=&amp;quot;Symfony Logo&amp;quot; &amp;lt;/a &amp;lt;/p [Symfony][1] is a PHP framework for web and console applications and a set of reusable PHP components . Symfony is used by thousands of web&lt;/p&gt;&lt;p&gt;🔥 +128 stars today · ⭐ &lt;b&gt;31,467&lt;/b&gt; stars · 🍴 &lt;b&gt;9,949&lt;/b&gt; forks · &lt;b&gt;PHP&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/symfony/symfony&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>tailwindlabs/tailwindcss</title>
+      <link>https://github.com/tailwindlabs/tailwindcss</link>
+      <guid isPermaLink="true">https://github.com/tailwindlabs/tailwindcss</guid>
+      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://tailwindcss.com&quot; target=&quot; blank&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo dark.svg&quot; — +122 stars today · 98,540 stars · 7,116 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://tailwindcss.com&amp;quot; target=&amp;quot; blank&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo dark.svg&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +122 stars today · ⭐ &lt;b&gt;98,540&lt;/b&gt; stars · 🍴 &lt;b&gt;7,116&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/tailwindlabs/tailwindcss&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>mpv-player/mpv</title>
-      <link>https://github.com/mpv-player/mpv</link>
-      <guid isPermaLink="true">https://github.com/mpv-player/mpv</guid>
-      <pubDate>Sat, 07 Nov 2026 05:11:44 GMT</pubDate>
-      <description>mpv External links Overview System requirements Downloads Changelog — +37 stars today · 37,918 stars · 3,634 forks · Language: C</description>
-      <content:encoded>&lt;p&gt;mpv External links Overview System requirements Downloads Changelog&lt;/p&gt;&lt;p&gt;🔥 +37 stars today · ⭐ &lt;b&gt;37,918&lt;/b&gt; stars · 🍴 &lt;b&gt;3,634&lt;/b&gt; forks · &lt;b&gt;C&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mpv-player/mpv&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>openssl/openssl</title>
-      <link>https://github.com/openssl/openssl</link>
-      <guid isPermaLink="true">https://github.com/openssl/openssl</guid>
-      <pubDate>Sat, 07 Nov 2026 05:11:44 GMT</pubDate>
-      <description>Welcome to the OpenSSL Project ============================== [![openssl logo]][www.openssl.org] [![github actions ci badge]][github actions ci] ![Nightly OS Zoo ci badge](https://github.com/openssl/openssl/actions/workflows/os zoo.yml) — +26 stars today · 31,323 stars · 11,583 forks · Language: C</description>
-      <content:encoded>&lt;p&gt;Welcome to the OpenSSL Project ============================== [![openssl logo]][www.openssl.org] [![github actions ci badge]][github actions ci] ![Nightly OS Zoo ci badge](https://github.com/openssl/openssl/actions/workflows/os zoo.yml)&lt;/p&gt;&lt;p&gt;🔥 +26 stars today · ⭐ &lt;b&gt;31,323&lt;/b&gt; stars · 🍴 &lt;b&gt;11,583&lt;/b&gt; forks · &lt;b&gt;C&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openssl/openssl&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>meta/astryx</title>
+      <link>https://github.com/meta/astryx</link>
+      <guid isPermaLink="true">https://github.com/meta/astryx</guid>
+      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
+      <description>&lt;! SYNC CONTRACT: Architecture changes require documentation updates. &lt;div align=&quot;center&quot; &lt;img src=&quot;https://lookaside.facebook.com/assets/astryx/Astryx Banner.png&quot; alt=&quot;Astryx&quot; width=&quot;100%&quot; / Astryx — +96 stars today · 14,704 stars · 1,207 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;! SYNC CONTRACT: Architecture changes require documentation updates. &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;https://lookaside.facebook.com/assets/astryx/Astryx Banner.png&amp;quot; alt=&amp;quot;Astryx&amp;quot; width=&amp;quot;100%&amp;quot; / Astryx&lt;/p&gt;&lt;p&gt;🔥 +96 stars today · ⭐ &lt;b&gt;14,704&lt;/b&gt; stars · 🍴 &lt;b&gt;1,207&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/meta/astryx&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
