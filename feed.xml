@@ -7,128 +7,248 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Sun, 08 Nov 2026 05:06:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:18:07 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
     <item>
-      <title>cloudflare/security-audit-skill</title>
-      <link>https://github.com/cloudflare/security-audit-skill</link>
-      <guid isPermaLink="true">https://github.com/cloudflare/security-audit-skill</guid>
-      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
-      <description>security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting. — +2,085 stars today · 65,973 stars · 4,291 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;security audit A coding agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage led hunting, candidate validation, structured output, independent record verification, and target neutral reporting.&lt;/p&gt;&lt;p&gt;🔥 +2,085 stars today · ⭐ &lt;b&gt;65,973&lt;/b&gt; stars · 🍴 &lt;b&gt;4,291&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/cloudflare/security-audit-skill&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>KKKKhazix/agent-autoloop</title>
+      <link>https://github.com/KKKKhazix/agent-autoloop</link>
+      <guid isPermaLink="true">https://github.com/KKKKhazix/agent-autoloop</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>Agent Autoloop 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 中文 English 上手 · 场景模板 · 插件 · 内核 · 文档 它解决什么问题？ 平时我们用 Claude Code、Codex 这类命令行 Agent，大多是“人守着终端用”：你输一句话，盯着它跑，等它问你下一步；一旦关掉窗口或者人走开，事情就断了。 — 4,159 stars · 755 forks · Language: TypeScript · License: MIT · Created: Tue, 03 Nov 2026 08:02:11 GMT</description>
+      <content:encoded>&lt;p&gt;Agent Autoloop 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 中文 English 上手 · 场景模板 · 插件 · 内核 · 文档 它解决什么问题？ 平时我们用 Claude Code、Codex 这类命令行 Agent，大多是“人守着终端用”：你输一句话，盯着它跑，等它问你下一步；一旦关掉窗口或者人走开，事情就断了。&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;4,159&lt;/b&gt; stars · 🍴 &lt;b&gt;755&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt; · MIT&lt;/p&gt;&lt;p&gt;Topics: &lt;code&gt;ai-agents&lt;/code&gt; &lt;code&gt;automation&lt;/code&gt; &lt;code&gt;claude-code&lt;/code&gt; &lt;code&gt;cli&lt;/code&gt; &lt;code&gt;codex&lt;/code&gt; &lt;code&gt;event-driven&lt;/code&gt; &lt;code&gt;mcp&lt;/code&gt; &lt;code&gt;nodejs&lt;/code&gt; &lt;code&gt;self-hosted&lt;/code&gt; &lt;code&gt;typescript&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/KKKKhazix/agent-autoloop&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>milind-soni/OpenMausBot</title>
-      <link>https://github.com/milind-soni/OpenMausBot</link>
-      <guid isPermaLink="true">https://github.com/milind-soni/OpenMausBot</guid>
-      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; OpenMausBot The open source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &amp;nbsp;·&amp;nbsp; Download &amp;nbsp;·&amp;nbsp; Open source Grok Bot alternative, compared — +1,955 stars today · 17,221 stars · 2,431 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; OpenMausBot The open source Grok Bot alternative: your own team of AI bots, in a chat app. openmausbot.com &amp;amp;nbsp;·&amp;amp;nbsp; Download &amp;amp;nbsp;·&amp;amp;nbsp; Open source Grok Bot alternative, compared&lt;/p&gt;&lt;p&gt;🔥 +1,955 stars today · ⭐ &lt;b&gt;17,221&lt;/b&gt; stars · 🍴 &lt;b&gt;2,431&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/milind-soni/OpenMausBot&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>Minireel/HGhub</title>
+      <link>https://github.com/Minireel/HGhub</link>
+      <guid isPermaLink="true">https://github.com/Minireel/HGhub</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>关于本项目：HGhub 只是我体验 Tuari2 移动端开发时做的小玩具，开源几天后不知为何收到了大量star。 意识到可能存在的潜在危险后，我立刻更换了开源协议为 PolyForm Noncommercial 1.0.0 ，并在 Readme 中写入了大量保护自己的文段。目前 HGhub收到的star实际上德不配位。 — 3,819 stars · 1,520 forks · Language: TypeScript · License: NOASSERTION · Created: Tue, 03 Nov 2026 14:04:27 GMT</description>
+      <content:encoded>&lt;p&gt;关于本项目：HGhub 只是我体验 Tuari2 移动端开发时做的小玩具，开源几天后不知为何收到了大量star。 意识到可能存在的潜在危险后，我立刻更换了开源协议为 PolyForm Noncommercial 1.0.0 ，并在 Readme 中写入了大量保护自己的文段。目前 HGhub收到的star实际上德不配位。&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;3,819&lt;/b&gt; stars · 🍴 &lt;b&gt;1,520&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt; · NOASSERTION&lt;/p&gt;&lt;p&gt;Topics: &lt;code&gt;android&lt;/code&gt; &lt;code&gt;drama&lt;/code&gt; &lt;code&gt;free&lt;/code&gt; &lt;code&gt;movie-web-app&lt;/code&gt; &lt;code&gt;reels&lt;/code&gt; &lt;code&gt;windows&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Minireel/HGhub&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>sherlock-project/sherlock</title>
-      <link>https://github.com/sherlock-project/sherlock</link>
-      <guid isPermaLink="true">https://github.com/sherlock-project/sherlock</guid>
-      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;br &lt;a href=&quot;https://sherlockproject.xyz/&quot; target=&quot; blank&quot; &lt;img src=&quot;images/sherlock logo.png&quot; alt=&quot;sherlock&quot;/ &lt;/a &lt;br &lt;span Hunt down social media accounts by username across &lt;a href=&quot;https://sherlockproject.xyz/sites&quot; 400+ social networks&lt;/a &lt;/span &lt;br — +1,766 stars today · 100,938 stars · 11,933 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;br &amp;lt;a href=&amp;quot;https://sherlockproject.xyz/&amp;quot; target=&amp;quot; blank&amp;quot; &amp;lt;img src=&amp;quot;images/sherlock logo.png&amp;quot; alt=&amp;quot;sherlock&amp;quot;/ &amp;lt;/a &amp;lt;br &amp;lt;span Hunt down social media accounts by username across &amp;lt;a href=&amp;quot;https://sherlockproject.xyz/sites&amp;quot; 400+ social networks&amp;lt;/a &amp;lt;/span &amp;lt;br&lt;/p&gt;&lt;p&gt;🔥 +1,766 stars today · ⭐ &lt;b&gt;100,938&lt;/b&gt; stars · 🍴 &lt;b&gt;11,933&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/sherlock-project/sherlock&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>NotRexed/Hookshot</title>
+      <link>https://github.com/NotRexed/Hookshot</link>
+      <guid isPermaLink="true">https://github.com/NotRexed/Hookshot</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>&lt;h1 align=&quot;center&quot; &lt;br &lt;a &lt;img src=&quot;assets/hookshot.png&quot; alt=&quot;Hookshot&quot; width=&quot;200&quot; &lt;/a &lt;br — 3,335 stars · 315 forks · Language: C++ · License: GPL-3.0 · Created: Thu, 05 Nov 2026 12:18:58 GMT</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; &amp;lt;br &amp;lt;a &amp;lt;img src=&amp;quot;assets/hookshot.png&amp;quot; alt=&amp;quot;Hookshot&amp;quot; width=&amp;quot;200&amp;quot; &amp;lt;/a &amp;lt;br&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;3,335&lt;/b&gt; stars · 🍴 &lt;b&gt;315&lt;/b&gt; forks · &lt;b&gt;C++&lt;/b&gt; · GPL-3.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/NotRexed/Hookshot&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>zed-industries/zed</title>
-      <link>https://github.com/zed-industries/zed</link>
-      <guid isPermaLink="true">https://github.com/zed-industries/zed</guid>
-      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
-      <description>Zed ![Zed](https://zed.dev) ![CI](https://github.com/zed industries/zed/actions/workflows/run tests.yml) Welcome to Zed, a high performance, multiplayer code editor from the creators of Atom and Tree sitter. Installation — +1,114 stars today · 94,337 stars · 11,555 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;Zed ![Zed](https://zed.dev) ![CI](https://github.com/zed industries/zed/actions/workflows/run tests.yml) Welcome to Zed, a high performance, multiplayer code editor from the creators of Atom and Tree sitter. Installation&lt;/p&gt;&lt;p&gt;🔥 +1,114 stars today · ⭐ &lt;b&gt;94,337&lt;/b&gt; stars · 🍴 &lt;b&gt;11,555&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/zed-industries/zed&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto</title>
+      <link>https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto</link>
+      <guid isPermaLink="true">https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>======================================================================== Google AI Pro (5 TB) 零成本两年 (US$0.00 24个月) 全自动控制台 ======================================================================== 声明：该项目并非本人开发，仅作为圈内开源供大家分析学习使用 — 3,285 stars · 1,207 forks · Language: Python · Created: Wed, 04 Nov 2026 14:54:56 GMT</description>
+      <content:encoded>&lt;p&gt;======================================================================== Google AI Pro (5 TB) 零成本两年 (US$0.00 24个月) 全自动控制台 ======================================================================== 声明：该项目并非本人开发，仅作为圈内开源供大家分析学习使用&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;3,285&lt;/b&gt; stars · 🍴 &lt;b&gt;1,207&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>mattpocock/skills</title>
-      <link>https://github.com/mattpocock/skills</link>
-      <guid isPermaLink="true">https://github.com/mattpocock/skills</guid>
-      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
-      <description>&lt;p &lt;a href=&quot;https://www.aihero.dev/s/skills newsletter&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&quot; — +1,100 stars today · 317,868 stars · 26,593 forks · Language: Shell</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p &amp;lt;a href=&amp;quot;https://www.aihero.dev/s/skills newsletter&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://res.cloudinary.com/total typescript/image/upload/v1777382277/skills repo dark 2x.png&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +1,100 stars today · ⭐ &lt;b&gt;317,868&lt;/b&gt; stars · 🍴 &lt;b&gt;26,593&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mattpocock/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>govijr/terminal-mac</title>
+      <link>https://github.com/govijr/terminal-mac</link>
+      <guid isPermaLink="true">https://github.com/govijr/terminal-mac</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>terminal mac ![](https://github.com/sponsors/govijr) — 2,420 stars · 166 forks · Language: Swift · License: MIT · Created: Tue, 03 Nov 2026 03:22:56 GMT</description>
+      <content:encoded>&lt;p&gt;terminal mac ![](https://github.com/sponsors/govijr)&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;2,420&lt;/b&gt; stars · 🍴 &lt;b&gt;166&lt;/b&gt; forks · &lt;b&gt;Swift&lt;/b&gt; · MIT&lt;/p&gt;&lt;p&gt;Topics: &lt;code&gt;cli&lt;/code&gt; &lt;code&gt;gui&lt;/code&gt; &lt;code&gt;macos&lt;/code&gt; &lt;code&gt;shell&lt;/code&gt; &lt;code&gt;swift&lt;/code&gt; &lt;code&gt;terminal&lt;/code&gt; &lt;code&gt;tui&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/govijr/terminal-mac&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>google/skills</title>
-      <link>https://github.com/google/skills</link>
-      <guid isPermaLink="true">https://github.com/google/skills</guid>
-      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
-      <description>Agent Skills ![Install via skills.sh](https://skills.sh/google/skills) This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation npx skills add google/skills — +443 stars today · 23,496 stars · 1,964 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Agent Skills ![Install via skills.sh](https://skills.sh/google/skills) This repository contains Agent Skills for Google products and technologies, including Google Cloud. Installation npx skills add google/skills&lt;/p&gt;&lt;p&gt;🔥 +443 stars today · ⭐ &lt;b&gt;23,496&lt;/b&gt; stars · 🍴 &lt;b&gt;1,964&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/google/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>JenkinWoo/sheeridVerify</title>
+      <link>https://github.com/JenkinWoo/sheeridVerify</link>
+      <guid isPermaLink="true">https://github.com/JenkinWoo/sheeridVerify</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>sheeridVerify · 教学与研究验证流程工作台 ![Tests](https://github.com/JenkinWoo/sheeridVerify/actions/workflows/ci.yml) ![Node.js](https://nodejs.org/) ![License: ISC](LICENSE) sheeridVerify 是一个基于 Node.js 的验证流程学习项目，提供本地 Web 工作台、任务队列、浏览器表单交互及 HTTP 状态查询，供学校教学、学术研究和获得授权的流程测试使用。 — 1,881 stars · 1,004 forks · Language: JavaScript · License: ISC · Created: Fri, 06 Nov 2026 09:28:09 GMT</description>
+      <content:encoded>&lt;p&gt;sheeridVerify · 教学与研究验证流程工作台 ![Tests](https://github.com/JenkinWoo/sheeridVerify/actions/workflows/ci.yml) ![Node.js](https://nodejs.org/) ![License: ISC](LICENSE) sheeridVerify 是一个基于 Node.js 的验证流程学习项目，提供本地 Web 工作台、任务队列、浏览器表单交互及 HTTP 状态查询，供学校教学、学术研究和获得授权的流程测试使用。&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;1,881&lt;/b&gt; stars · 🍴 &lt;b&gt;1,004&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt; · ISC&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/JenkinWoo/sheeridVerify&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>anthropics/skills</title>
-      <link>https://github.com/anthropics/skills</link>
-      <guid isPermaLink="true">https://github.com/anthropics/skills</guid>
-      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
-      <description>Note: This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. ![skills.sh](https://skills.sh/anthropics/skills) Skills — +390 stars today · 188,908 stars · 22,267 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Note: This repository contains Anthropic&amp;#x27;s implementation of skills for Claude. For information about the Agent Skills standard, see agentskills.io. ![skills.sh](https://skills.sh/anthropics/skills) Skills&lt;/p&gt;&lt;p&gt;🔥 +390 stars today · ⭐ &lt;b&gt;188,908&lt;/b&gt; stars · 🍴 &lt;b&gt;22,267&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/anthropics/skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>sarpstar/cinecode</title>
+      <link>https://github.com/sarpstar/cinecode</link>
+      <guid isPermaLink="true">https://github.com/sarpstar/cinecode</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;docs/media/lockup.png&quot; alt=&quot;cinecode&quot; width=&quot;560&quot; &lt;/p &lt;p align=&quot;center&quot; &lt;b Kodla yazılmış filmler.&lt;/b &lt;br — 1,652 stars · 298 forks · Language: Python · License: MIT · Created: Tue, 03 Nov 2026 10:08:16 GMT</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/media/lockup.png&amp;quot; alt=&amp;quot;cinecode&amp;quot; width=&amp;quot;560&amp;quot; &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;b Kodla yazılmış filmler.&amp;lt;/b &amp;lt;br&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;1,652&lt;/b&gt; stars · 🍴 &lt;b&gt;298&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt; · MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/sarpstar/cinecode&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>astral-sh/ruff</title>
-      <link>https://github.com/astral-sh/ruff</link>
-      <guid isPermaLink="true">https://github.com/astral-sh/ruff</guid>
-      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
-      <description>&lt;! Begin section: Overview Ruff ![Ruff](https://github.com/astral sh/ruff) ![image](https://pypi.python.org/pypi/ruff) ![image](https://github.com/astral sh/ruff/blob/main/LICENSE) ![image](https://pypi.python.org/pypi/ruff) — +350 stars today · 51,015 stars · 2,633 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;&amp;lt;! Begin section: Overview Ruff ![Ruff](https://github.com/astral sh/ruff) ![image](https://pypi.python.org/pypi/ruff) ![image](https://github.com/astral sh/ruff/blob/main/LICENSE) ![image](https://pypi.python.org/pypi/ruff)&lt;/p&gt;&lt;p&gt;🔥 +350 stars today · ⭐ &lt;b&gt;51,015&lt;/b&gt; stars · 🍴 &lt;b&gt;2,633&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/astral-sh/ruff&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>tangerineturtle1/NX2navi</title>
+      <link>https://github.com/tangerineturtle1/NX2navi</link>
+      <guid isPermaLink="true">https://github.com/tangerineturtle1/NX2navi</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;docs/images/navi.png&quot; alt=&quot;NX2navi&quot; width=&quot;160&quot; &lt;/p NX2navi NX2navi is a static recompilation of The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 (game version 1.1.1) into a native x86 64 application for Windows, with a Vulkan renderer (docs/architecture.md). — 1,491 stars · 76 forks · Language: C · License: MIT · Created: Sat, 07 Nov 2026 10:01:23 GMT</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/images/navi.png&amp;quot; alt=&amp;quot;NX2navi&amp;quot; width=&amp;quot;160&amp;quot; &amp;lt;/p NX2navi NX2navi is a static recompilation of The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 (game version 1.1.1) into a native x86 64 application for Windows, with a Vulkan renderer (docs/architecture.md).&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;1,491&lt;/b&gt; stars · 🍴 &lt;b&gt;76&lt;/b&gt; forks · &lt;b&gt;C&lt;/b&gt; · MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/tangerineturtle1/NX2navi&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>prometheus/prometheus</title>
-      <link>https://github.com/prometheus/prometheus</link>
-      <guid isPermaLink="true">https://github.com/prometheus/prometheus</guid>
-      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
-      <description>&lt;h1 align=&quot;center&quot; style=&quot;border bottom: none&quot; &lt;a href=&quot;https://prometheus.io&quot; target=&quot; blank&quot; &lt;img alt=&quot;Prometheus&quot; src=&quot;/documentation/images/prometheus logo.svg&quot; &lt;/a &lt;br Prometheus &lt;/h1 — +322 stars today · 67,476 stars · 11,009 forks · Language: Go</description>
-      <content:encoded>&lt;p&gt;&amp;lt;h1 align=&amp;quot;center&amp;quot; style=&amp;quot;border bottom: none&amp;quot; &amp;lt;a href=&amp;quot;https://prometheus.io&amp;quot; target=&amp;quot; blank&amp;quot; &amp;lt;img alt=&amp;quot;Prometheus&amp;quot; src=&amp;quot;/documentation/images/prometheus logo.svg&amp;quot; &amp;lt;/a &amp;lt;br Prometheus &amp;lt;/h1&lt;/p&gt;&lt;p&gt;🔥 +322 stars today · ⭐ &lt;b&gt;67,476&lt;/b&gt; stars · 🍴 &lt;b&gt;11,009&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/prometheus/prometheus&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>Sandflow-ai/sand3d</title>
+      <link>https://github.com/Sandflow-ai/sand3d</link>
+      <guid isPermaLink="true">https://github.com/Sandflow-ai/sand3d</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>&lt;h1 &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://raw.githubusercontent.com/Sandflow ai/sand3d/main/docs/readme/sandflow symbol white.svg&quot; &lt;img src=&quot;https://raw.githubusercontent.com/Sandflow ai/sand3d/main/docs/readme/sandflow symbol black.svg&quot; alt=&quot;Sandflow&quot; height=&quot;26&quot; — 1,464 stars · 161 forks · Language: HTML · License: Apache-2.0 · Created: Tue, 03 Nov 2026 08:23:03 GMT</description>
+      <content:encoded>&lt;p&gt;&amp;lt;h1 &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://raw.githubusercontent.com/Sandflow ai/sand3d/main/docs/readme/sandflow symbol white.svg&amp;quot; &amp;lt;img src=&amp;quot;https://raw.githubusercontent.com/Sandflow ai/sand3d/main/docs/readme/sandflow symbol black.svg&amp;quot; alt=&amp;quot;Sandflow&amp;quot; height=&amp;quot;26&amp;quot;&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;1,464&lt;/b&gt; stars · 🍴 &lt;b&gt;161&lt;/b&gt; forks · &lt;b&gt;HTML&lt;/b&gt; · Apache-2.0&lt;/p&gt;&lt;p&gt;Topics: &lt;code&gt;3d&lt;/code&gt; &lt;code&gt;blender&lt;/code&gt; &lt;code&gt;cad&lt;/code&gt; &lt;code&gt;llm&lt;/code&gt; &lt;code&gt;procedural-modeling&lt;/code&gt; &lt;code&gt;python&lt;/code&gt; &lt;code&gt;usd&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Sandflow-ai/sand3d&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>ranxianglei/billion-context</title>
-      <link>https://github.com/ranxianglei/billion-context</link>
-      <guid isPermaLink="true">https://github.com/ranxianglei/billion-context</guid>
-      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
-      <description>billion context &lt;p align=&quot;center&quot; &lt;a href=&quot;./README.md&quot; English&lt;/a &lt;a href=&quot;./README.zh CN.md&quot; 中文&lt;/a &lt;/p &lt;p align=&quot;center&quot; &lt;strong Context compression plugin&lt;/strong — &lt;em billion context is all you need.&lt;/em &lt;/p — +191 stars today · 4,690 stars · 377 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;billion context &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;./README.md&amp;quot; English&amp;lt;/a &amp;lt;a href=&amp;quot;./README.zh CN.md&amp;quot; 中文&amp;lt;/a &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong Context compression plugin&amp;lt;/strong — &amp;lt;em billion context is all you need.&amp;lt;/em &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +191 stars today · ⭐ &lt;b&gt;4,690&lt;/b&gt; stars · 🍴 &lt;b&gt;377&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ranxianglei/billion-context&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>livliv-dev/player</title>
+      <link>https://github.com/livliv-dev/player</link>
+      <guid isPermaLink="true">https://github.com/livliv-dev/player</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;media/livliv player wordmark white.svg&quot; &lt;img alt=&quot;LivLiv Player&quot; src=&quot;media/livliv player wordmark 2000.png&quot; width=&quot;360&quot; &lt;/picture &lt;/p — 1,353 stars · 142 forks · Language: TypeScript · License: Apache-2.0 · Created: Wed, 04 Nov 2026 03:28:33 GMT</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;media/livliv player wordmark white.svg&amp;quot; &amp;lt;img alt=&amp;quot;LivLiv Player&amp;quot; src=&amp;quot;media/livliv player wordmark 2000.png&amp;quot; width=&amp;quot;360&amp;quot; &amp;lt;/picture &amp;lt;/p&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;1,353&lt;/b&gt; stars · 🍴 &lt;b&gt;142&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt; · Apache-2.0&lt;/p&gt;&lt;p&gt;Topics: &lt;code&gt;avatar&lt;/code&gt; &lt;code&gt;character&lt;/code&gt; &lt;code&gt;face-tracking&lt;/code&gt; &lt;code&gt;lip-sync&lt;/code&gt; &lt;code&gt;pngtuber&lt;/code&gt; &lt;code&gt;vrm&lt;/code&gt; &lt;code&gt;vtuber&lt;/code&gt; &lt;code&gt;webgl2&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/livliv-dev/player&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>vercel-labs/agent-browser</title>
-      <link>https://github.com/vercel-labs/agent-browser</link>
-      <guid isPermaLink="true">https://github.com/vercel-labs/agent-browser</guid>
-      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
-      <description>agent browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. &lt;p — +190 stars today · 46,958 stars · 3,221 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;agent browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. &amp;lt;p&lt;/p&gt;&lt;p&gt;🔥 +190 stars today · ⭐ &lt;b&gt;46,958&lt;/b&gt; stars · 🍴 &lt;b&gt;3,221&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/vercel-labs/agent-browser&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>CzJam/gjgjxweb</title>
+      <link>https://github.com/CzJam/gjgjxweb</link>
+      <guid isPermaLink="true">https://github.com/CzJam/gjgjxweb</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>搞机工具箱 Web 网页版 Android 玩机工具 &lt;p align=&quot;center&quot; &lt;a href=&quot;https://www.bilibili.com/video/BV1TB456ZEoo&quot; 使用教程&lt;/a &amp;emsp;&amp;emsp;&lt;a href=&quot;https://czjam.github.io/gjgjxweb/&quot; 在线体验&lt;/a &lt;/p 《搞机工具箱》是一款ADB图形化工具。 — 1,292 stars · 112 forks · Language: HTML · License: GPL-3.0 · Created: Tue, 03 Nov 2026 02:00:54 GMT</description>
+      <content:encoded>&lt;p&gt;搞机工具箱 Web 网页版 Android 玩机工具 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://www.bilibili.com/video/BV1TB456ZEoo&amp;quot; 使用教程&amp;lt;/a &amp;amp;emsp;&amp;amp;emsp;&amp;lt;a href=&amp;quot;https://czjam.github.io/gjgjxweb/&amp;quot; 在线体验&amp;lt;/a &amp;lt;/p 《搞机工具箱》是一款ADB图形化工具。&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;1,292&lt;/b&gt; stars · 🍴 &lt;b&gt;112&lt;/b&gt; forks · &lt;b&gt;HTML&lt;/b&gt; · GPL-3.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/CzJam/gjgjxweb&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>mbillow/localthings</title>
-      <link>https://github.com/mbillow/localthings</link>
-      <guid isPermaLink="true">https://github.com/mbillow/localthings</guid>
-      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
-      <description>&lt;! dark mode &lt;img src=&quot;custom components/localthings/brand/dark logo@2x.png gh dark mode only&quot; alt=&quot;LocalThings Logo&quot;/ &lt;! light mode &lt;img src=&quot;custom components/localthings/brand/logo@2x.png gh light mode only&quot; alt=&quot;LocalThings Logo&quot;/ &lt;p align=&quot;center&quot; — +186 stars today · 1,093 stars · 114 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;! dark mode &amp;lt;img src=&amp;quot;custom components/localthings/brand/dark logo@2x.png gh dark mode only&amp;quot; alt=&amp;quot;LocalThings Logo&amp;quot;/ &amp;lt;! light mode &amp;lt;img src=&amp;quot;custom components/localthings/brand/logo@2x.png gh light mode only&amp;quot; alt=&amp;quot;LocalThings Logo&amp;quot;/ &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +186 stars today · ⭐ &lt;b&gt;1,093&lt;/b&gt; stars · 🍴 &lt;b&gt;114&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mbillow/localthings&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>libracoder/kiri</title>
+      <link>https://github.com/libracoder/kiri</link>
+      <guid isPermaLink="true">https://github.com/libracoder/kiri</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;brand/logo/kiri horizontal dark.svg&quot; &lt;img src=&quot;brand/logo/kiri horizontal light.svg&quot; alt=&quot;Kiri&quot; width=&quot;220&quot; &lt;/picture &lt;/p — 1,268 stars · 81 forks · Language: Rust · License: Apache-2.0 · Created: Mon, 02 Nov 2026 16:11:30 GMT</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;brand/logo/kiri horizontal dark.svg&amp;quot; &amp;lt;img src=&amp;quot;brand/logo/kiri horizontal light.svg&amp;quot; alt=&amp;quot;Kiri&amp;quot; width=&amp;quot;220&amp;quot; &amp;lt;/picture &amp;lt;/p&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;1,268&lt;/b&gt; stars · 🍴 &lt;b&gt;81&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt; · Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/libracoder/kiri&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>dsx-ai-factory/nvke</title>
-      <link>https://github.com/dsx-ai-factory/nvke</link>
-      <guid isPermaLink="true">https://github.com/dsx-ai-factory/nvke</guid>
-      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
-      <description>NVIDIA Kubernetes Engine (NVKE) ![License](LICENSE) ![Go](go.work) Run a managed Kubernetes service on your own NVIDIA GPU infrastructure. NVIDIA Kubernetes® Engine (NVKE) provides the management plane that platform teams install to create and — +123 stars today · 600 stars · 92 forks · Language: Go</description>
-      <content:encoded>&lt;p&gt;NVIDIA Kubernetes Engine (NVKE) ![License](LICENSE) ![Go](go.work) Run a managed Kubernetes service on your own NVIDIA GPU infrastructure. NVIDIA Kubernetes® Engine (NVKE) provides the management plane that platform teams install to create and&lt;/p&gt;&lt;p&gt;🔥 +123 stars today · ⭐ &lt;b&gt;600&lt;/b&gt; stars · 🍴 &lt;b&gt;92&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/dsx-ai-factory/nvke&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>mmdoctor/google-pro-helper</title>
+      <link>https://github.com/mmdoctor/google-pro-helper</link>
+      <guid isPermaLink="true">https://github.com/mmdoctor/google-pro-helper</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>Google Pro Helper 本仓库收录两个独立版本：浏览器扩展版与批量版，分别保留各自的目录结构和原有代码。 版本 目录 简介 浏览器扩展版 extension 在浏览器中使用的扩展项目，包含扩展清单、弹窗页面、脚本与图标。 批量版 batch 用于批量账号任务管理的本地控制台项目，包含网页界面、后端、启动脚本与测试。 目录结构 — 1,264 stars · 452 forks · Language: Python · Created: Thu, 05 Nov 2026 04:52:28 GMT</description>
+      <content:encoded>&lt;p&gt;Google Pro Helper 本仓库收录两个独立版本：浏览器扩展版与批量版，分别保留各自的目录结构和原有代码。 版本 目录 简介 浏览器扩展版 extension 在浏览器中使用的扩展项目，包含扩展清单、弹窗页面、脚本与图标。 批量版 batch 用于批量账号任务管理的本地控制台项目，包含网页界面、后端、启动脚本与测试。 目录结构&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;1,264&lt;/b&gt; stars · 🍴 &lt;b&gt;452&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mmdoctor/google-pro-helper&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>tailwindlabs/tailwindcss</title>
-      <link>https://github.com/tailwindlabs/tailwindcss</link>
-      <guid isPermaLink="true">https://github.com/tailwindlabs/tailwindcss</guid>
-      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;a href=&quot;https://tailwindcss.com&quot; target=&quot; blank&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo dark.svg&quot; — +122 stars today · 98,540 stars · 7,116 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://tailwindcss.com&amp;quot; target=&amp;quot; blank&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo dark.svg&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +122 stars today · ⭐ &lt;b&gt;98,540&lt;/b&gt; stars · 🍴 &lt;b&gt;7,116&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/tailwindlabs/tailwindcss&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>Leviidev/Henge</title>
+      <link>https://github.com/Leviidev/Henge</link>
+      <guid isPermaLink="true">https://github.com/Leviidev/Henge</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;docs/icon.png&quot; width=&quot;120&quot; height=&quot;120&quot; alt=&quot;Henge&quot; &lt;/p &lt;h1 align=&quot;center&quot; Henge&lt;/h1 &lt;p align=&quot;center&quot; macOS on your iPhone and iPad.&lt;/p &lt;p align=&quot;center&quot; — 1,228 stars · 93 forks · Language: C · License: GPL-2.0 · Created: Mon, 02 Nov 2026 01:13:51 GMT</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/icon.png&amp;quot; width=&amp;quot;120&amp;quot; height=&amp;quot;120&amp;quot; alt=&amp;quot;Henge&amp;quot; &amp;lt;/p &amp;lt;h1 align=&amp;quot;center&amp;quot; Henge&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; macOS on your iPhone and iPad.&amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;1,228&lt;/b&gt; stars · 🍴 &lt;b&gt;93&lt;/b&gt; forks · &lt;b&gt;C&lt;/b&gt; · GPL-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Leviidev/Henge&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>meta/astryx</title>
-      <link>https://github.com/meta/astryx</link>
-      <guid isPermaLink="true">https://github.com/meta/astryx</guid>
-      <pubDate>Sun, 08 Nov 2026 05:06:27 GMT</pubDate>
-      <description>&lt;! SYNC CONTRACT: Architecture changes require documentation updates. &lt;div align=&quot;center&quot; &lt;img src=&quot;https://lookaside.facebook.com/assets/astryx/Astryx Banner.png&quot; alt=&quot;Astryx&quot; width=&quot;100%&quot; / Astryx — +96 stars today · 14,704 stars · 1,207 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;! SYNC CONTRACT: Architecture changes require documentation updates. &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;https://lookaside.facebook.com/assets/astryx/Astryx Banner.png&amp;quot; alt=&amp;quot;Astryx&amp;quot; width=&amp;quot;100%&amp;quot; / Astryx&lt;/p&gt;&lt;p&gt;🔥 +96 stars today · ⭐ &lt;b&gt;14,704&lt;/b&gt; stars · 🍴 &lt;b&gt;1,207&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/meta/astryx&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>voyager-so/vork</title>
+      <link>https://github.com/voyager-so/vork</link>
+      <guid isPermaLink="true">https://github.com/voyager-so/vork</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>&lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/images/readme header dark.png&quot; &lt;img alt=&quot;vork by Voyager&quot; src=&quot;docs/images/readme header light.png&quot; width=&quot;800&quot; &lt;/picture vork, the Voyager rendering kernel, is a headless 3D and VFX engine built for agents. — 1,169 stars · 88 forks · Language: Rust · License: NOASSERTION · Created: Thu, 05 Nov 2026 22:37:07 GMT</description>
+      <content:encoded>&lt;p&gt;&amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/images/readme header dark.png&amp;quot; &amp;lt;img alt=&amp;quot;vork by Voyager&amp;quot; src=&amp;quot;docs/images/readme header light.png&amp;quot; width=&amp;quot;800&amp;quot; &amp;lt;/picture vork, the Voyager rendering kernel, is a headless 3D and VFX engine built for agents.&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;1,169&lt;/b&gt; stars · 🍴 &lt;b&gt;88&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt; · NOASSERTION&lt;/p&gt;&lt;p&gt;Topics: &lt;code&gt;3d&lt;/code&gt; &lt;code&gt;ai-agents&lt;/code&gt; &lt;code&gt;gpu&lt;/code&gt; &lt;code&gt;metal&lt;/code&gt; &lt;code&gt;ray-tracing&lt;/code&gt; &lt;code&gt;rendering&lt;/code&gt; &lt;code&gt;rust&lt;/code&gt; &lt;code&gt;slang&lt;/code&gt; &lt;code&gt;vfx&lt;/code&gt; &lt;code&gt;vulkan&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/voyager-so/vork&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>shanselman/gputaskman</title>
+      <link>https://github.com/shanselman/gputaskman</link>
+      <guid isPermaLink="true">https://github.com/shanselman/gputaskman</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>gputaskman An htop for what's inside your GPU, not just how full it is. Windows + NVIDIA/AMD, with Linux and WSL support (NVIDIA everywhere, AMD on native Linux; see Linux and WSL) and macOS on Apple Silicon (see macOS). A terminal UI — 1,149 stars · 57 forks · Language: Python · License: MIT · Created: Tue, 03 Nov 2026 00:49:34 GMT</description>
+      <content:encoded>&lt;p&gt;gputaskman An htop for what&amp;#x27;s inside your GPU, not just how full it is. Windows + NVIDIA/AMD, with Linux and WSL support (NVIDIA everywhere, AMD on native Linux; see Linux and WSL) and macOS on Apple Silicon (see macOS). A terminal UI&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;1,149&lt;/b&gt; stars · 🍴 &lt;b&gt;57&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt; · MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/shanselman/gputaskman&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>egoist/mygo-music</title>
+      <link>https://github.com/egoist/mygo-music</link>
+      <guid isPermaLink="true">https://github.com/egoist/mygo-music</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>MyGo Music A native desktop music player written in Go with MyGo, no WebView. It plays your local files out of the box, and everything else comes from plugins. Features Local files (MP3, FLAC, Ogg Vorbis, WAV, and ALAC, FLAC or AAC in .m4a and .aac) with tags, covers and .lrc lyrics — 1,022 stars · 165 forks · Language: Go · License: AGPL-3.0 · Created: Wed, 04 Nov 2026 13:27:14 GMT</description>
+      <content:encoded>&lt;p&gt;MyGo Music A native desktop music player written in Go with MyGo, no WebView. It plays your local files out of the box, and everything else comes from plugins. Features Local files (MP3, FLAC, Ogg Vorbis, WAV, and ALAC, FLAC or AAC in .m4a and .aac) with tags, covers and .lrc lyrics&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;1,022&lt;/b&gt; stars · 🍴 &lt;b&gt;165&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt; · AGPL-3.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/egoist/mygo-music&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>DIYgod/pinky</title>
+      <link>https://github.com/DIYgod/pinky</link>
+      <guid isPermaLink="true">https://github.com/DIYgod/pinky</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/icon/pinky macos 1024.png&quot; width=&quot;112&quot; alt=&quot;&quot; &lt;/p &lt;h1 align=&quot;center&quot; Pinky&lt;/h1 &lt;p align=&quot;center&quot; &lt;b Let any AI agent use your iPhone or Android phone, from macOS, Windows or Linux, with you in the loop.&lt;/b &lt;/p — 1,018 stars · 105 forks · Language: Go · License: Apache-2.0 · Created: Fri, 06 Nov 2026 16:53:14 GMT</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/icon/pinky macos 1024.png&amp;quot; width=&amp;quot;112&amp;quot; alt=&amp;quot;&amp;quot; &amp;lt;/p &amp;lt;h1 align=&amp;quot;center&amp;quot; Pinky&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;b Let any AI agent use your iPhone or Android phone, from macOS, Windows or Linux, with you in the loop.&amp;lt;/b &amp;lt;/p&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;1,018&lt;/b&gt; stars · 🍴 &lt;b&gt;105&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt; · Apache-2.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/DIYgod/pinky&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>sostenesfreitas/ocarina-recomp</title>
+      <link>https://github.com/sostenesfreitas/ocarina-recomp</link>
+      <guid isPermaLink="true">https://github.com/sostenesfreitas/ocarina-recomp</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>Ocarina Recomp Read in English Ocarina rodando nativo no Windows, sem emulador. O código do jogo é traduzido para C e compilado como um programa do Windows. Os gráficos do Switch 2 são convertidos para Vulkan. Tudo isso acontece no seu PC, a partir do seu próprio arquivo do jogo . [!IMPORTANT] — 993 stars · 64 forks · Language: C · License: GPL-3.0 · Created: Fri, 06 Nov 2026 22:24:03 GMT</description>
+      <content:encoded>&lt;p&gt;Ocarina Recomp Read in English Ocarina rodando nativo no Windows, sem emulador. O código do jogo é traduzido para C e compilado como um programa do Windows. Os gráficos do Switch 2 são convertidos para Vulkan. Tudo isso acontece no seu PC, a partir do seu próprio arquivo do jogo . [!IMPORTANT]&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;993&lt;/b&gt; stars · 🍴 &lt;b&gt;64&lt;/b&gt; forks · &lt;b&gt;C&lt;/b&gt; · GPL-3.0&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/sostenesfreitas/ocarina-recomp&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>Th0rgal/satmux</title>
+      <link>https://github.com/Th0rgal/satmux</link>
+      <guid isPermaLink="true">https://github.com/Th0rgal/satmux</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>satmux TCP multiplexer and 1 RTT HTTP/TLS relay for geostationary (GEO) inflight Wi Fi (Inmarsat GX, Viasat, Panasonic, SITA). Pure Python 3 stdlib, zero external dependencies. Measured inflight over Inmarsat GX Ka band ( 620 ms RTT, SITA AS206433 Amsterdam ground station): — 967 stars · 45 forks · Language: Python · License: MIT · Created: Sat, 07 Nov 2026 16:09:41 GMT</description>
+      <content:encoded>&lt;p&gt;satmux TCP multiplexer and 1 RTT HTTP/TLS relay for geostationary (GEO) inflight Wi Fi (Inmarsat GX, Viasat, Panasonic, SITA). Pure Python 3 stdlib, zero external dependencies. Measured inflight over Inmarsat GX Ka band ( 620 ms RTT, SITA AS206433 Amsterdam ground station):&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;967&lt;/b&gt; stars · 🍴 &lt;b&gt;45&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt; · MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Th0rgal/satmux&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>WoYun520/gif-factory</title>
+      <link>https://github.com/WoYun520/gif-factory</link>
+      <guid isPermaLink="true">https://github.com/WoYun520/gif-factory</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>GIF 工厂 像素与游戏 · 插画与二次元 · 真人与宠物 · 材质与吉祥物 · 卡片与变画 · 海报与文字 · 品牌短片 · 动态绘本 挑一种风格，给一张参考图，把角色、相片和想法做成 GIF，也能延伸成动态绘本。 像素小人、人物与宠物、粘土吉祥物、光栅变画、漫画动态海报。 先看效果，再换成你自己的角色和主题；拿不准就先做一张。 6 个 GIF 分类 · 9 个 GIF 风格入口 · 56 个动态案例，另有动态绘本和品牌短片 — 914 stars · 108 forks · Language: Python · License: MIT · Created: Thu, 05 Nov 2026 04:08:24 GMT</description>
+      <content:encoded>&lt;p&gt;GIF 工厂 像素与游戏 · 插画与二次元 · 真人与宠物 · 材质与吉祥物 · 卡片与变画 · 海报与文字 · 品牌短片 · 动态绘本 挑一种风格，给一张参考图，把角色、相片和想法做成 GIF，也能延伸成动态绘本。 像素小人、人物与宠物、粘土吉祥物、光栅变画、漫画动态海报。 先看效果，再换成你自己的角色和主题；拿不准就先做一张。 6 个 GIF 分类 · 9 个 GIF 风格入口 · 56 个动态案例，另有动态绘本和品牌短片&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;914&lt;/b&gt; stars · 🍴 &lt;b&gt;108&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt; · MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/WoYun520/gif-factory&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>IainKay/ram-altman</title>
+      <link>https://github.com/IainKay/ram-altman</link>
+      <guid isPermaLink="true">https://github.com/IainKay/ram-altman</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>Ram Altman A bash script that writes to Sam Altman once a day to report the RAM he missed. Read the sample emails at ram altman.lol , no install needed. ![Website: ram altman.lol](https://ram altman.lol) — 837 stars · 18 forks · Language: Shell · License: Unlicense · Created: Thu, 05 Nov 2026 16:16:41 GMT</description>
+      <content:encoded>&lt;p&gt;Ram Altman A bash script that writes to Sam Altman once a day to report the RAM he missed. Read the sample emails at ram altman.lol , no install needed. ![Website: ram altman.lol](https://ram altman.lol)&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;837&lt;/b&gt; stars · 🍴 &lt;b&gt;18&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt; · Unlicense&lt;/p&gt;&lt;p&gt;Topics: &lt;code&gt;bash&lt;/code&gt; &lt;code&gt;cron&lt;/code&gt; &lt;code&gt;dram&lt;/code&gt; &lt;code&gt;email&lt;/code&gt; &lt;code&gt;humor&lt;/code&gt; &lt;code&gt;linux&lt;/code&gt; &lt;code&gt;meminfo&lt;/code&gt; &lt;code&gt;memory&lt;/code&gt; &lt;code&gt;monitoring&lt;/code&gt; &lt;code&gt;openai&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/IainKay/ram-altman&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>jhaizhou-ops/S2Arm</title>
+      <link>https://github.com/jhaizhou-ops/S2Arm</link>
+      <guid isPermaLink="true">https://github.com/jhaizhou-ops/S2Arm</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;docs/images/s2arm wordmark.png&quot; width=&quot;420&quot; alt=&quot;S2Arm&quot; &lt;/p — 789 stars · 178 forks · Language: C# · License: Apache-2.0 · Created: Sun, 08 Nov 2026 05:49:46 GMT</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/images/s2arm wordmark.png&amp;quot; width=&amp;quot;420&amp;quot; alt=&amp;quot;S2Arm&amp;quot; &amp;lt;/p&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;789&lt;/b&gt; stars · 🍴 &lt;b&gt;178&lt;/b&gt; forks · &lt;b&gt;C#&lt;/b&gt; · Apache-2.0&lt;/p&gt;&lt;p&gt;Topics: &lt;code&gt;apple-silicon&lt;/code&gt; &lt;code&gt;arm64&lt;/code&gt; &lt;code&gt;game-porting&lt;/code&gt; &lt;code&gt;ios&lt;/code&gt; &lt;code&gt;ipados&lt;/code&gt; &lt;code&gt;macos&lt;/code&gt; &lt;code&gt;metal&lt;/code&gt; &lt;code&gt;s2arm&lt;/code&gt; &lt;code&gt;static-recompilation&lt;/code&gt; &lt;code&gt;switch&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/jhaizhou-ops/S2Arm&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>AssassinCreator/steam-stash-value-report-card</title>
+      <link>https://github.com/AssassinCreator/steam-stash-value-report-card</link>
+      <guid isPermaLink="true">https://github.com/AssassinCreator/steam-stash-value-report-card</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;assets/banner.png&quot; alt=&quot;stashcard: value your Steam stash in the terminal, print it as a report card you can share&quot; width=&quot;100%&quot; &lt;/p &lt;p align=&quot;center&quot; &lt;img alt=&quot;python 3.11+&quot; src=&quot;https://img.shields.io/badge/python 3.11%2B 7CF0B6?style=flat&amp;labelColor=0B0F17&quot; — 788 stars · 56 forks · Language: Python · License: MIT · Created: Mon, 02 Nov 2026 00:40:47 GMT</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;assets/banner.png&amp;quot; alt=&amp;quot;stashcard: value your Steam stash in the terminal, print it as a report card you can share&amp;quot; width=&amp;quot;100%&amp;quot; &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img alt=&amp;quot;python 3.11+&amp;quot; src=&amp;quot;https://img.shields.io/badge/python 3.11%2B 7CF0B6?style=flat&amp;amp;labelColor=0B0F17&amp;quot;&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;788&lt;/b&gt; stars · 🍴 &lt;b&gt;56&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt; · MIT&lt;/p&gt;&lt;p&gt;Topics: &lt;code&gt;cli&lt;/code&gt; &lt;code&gt;inventory&lt;/code&gt; &lt;code&gt;price-check&lt;/code&gt; &lt;code&gt;python&lt;/code&gt; &lt;code&gt;report-card&lt;/code&gt; &lt;code&gt;steam&lt;/code&gt; &lt;code&gt;steam-market&lt;/code&gt; &lt;code&gt;valuation&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/AssassinCreator/steam-stash-value-report-card&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>jamesondh/chimera-vocal-synth</title>
+      <link>https://github.com/jamesondh/chimera-vocal-synth</link>
+      <guid isPermaLink="true">https://github.com/jamesondh/chimera-vocal-synth</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>CHIMERA A physical modeling voice synthesizer in the browser. Every sound comes from a simulated airway (lungs, vocal folds or syrinx, a branched vocal tract, lips, nose), not from samples. The engine is Rust, compiled to WebAssembly for an AudioWorklet; the same code runs natively — 760 stars · 87 forks · Language: Rust · License: MIT · Created: Thu, 05 Nov 2026 19:10:42 GMT</description>
+      <content:encoded>&lt;p&gt;CHIMERA A physical modeling voice synthesizer in the browser. Every sound comes from a simulated airway (lungs, vocal folds or syrinx, a branched vocal tract, lips, nose), not from samples. The engine is Rust, compiled to WebAssembly for an AudioWorklet; the same code runs natively&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;760&lt;/b&gt; stars · 🍴 &lt;b&gt;87&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt; · MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/jamesondh/chimera-vocal-synth&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>sassiestrhihno/boxshelf-beta</title>
+      <link>https://github.com/sassiestrhihno/boxshelf-beta</link>
+      <guid isPermaLink="true">https://github.com/sassiestrhihno/boxshelf-beta</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>Boxshelf beta ⬇ Download the latest release · Source code (GPL 3.0) · Source zip of the latest version Boxshelf is a TV style launcher for your emulators, Steam games and media apps. Your games sit on a 3D shelf with — 633 stars · 16 forks · Created: Thu, 05 Nov 2026 04:50:13 GMT</description>
+      <content:encoded>&lt;p&gt;Boxshelf beta ⬇ Download the latest release · Source code (GPL 3.0) · Source zip of the latest version Boxshelf is a TV style launcher for your emulators, Steam games and media apps. Your games sit on a 3D shelf with&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;633&lt;/b&gt; stars · 🍴 &lt;b&gt;16&lt;/b&gt; forks&lt;/p&gt;&lt;p&gt;Topics: &lt;code&gt;android-handheld&lt;/code&gt; &lt;code&gt;ayn-thor&lt;/code&gt; &lt;code&gt;box-art&lt;/code&gt; &lt;code&gt;electron&lt;/code&gt; &lt;code&gt;emulation&lt;/code&gt; &lt;code&gt;emulator-frontend&lt;/code&gt; &lt;code&gt;game-launcher&lt;/code&gt; &lt;code&gt;retro-gaming&lt;/code&gt; &lt;code&gt;steam-deck&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/sassiestrhihno/boxshelf-beta&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>JosssphZhou/poki</title>
+      <link>https://github.com/JosssphZhou/poki</link>
+      <guid isPermaLink="true">https://github.com/JosssphZhou/poki</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;docs/images/poki icon.png&quot; width=&quot;72&quot; height=&quot;72&quot; alt=&quot;Poki icon&quot; &lt;/p &lt;h1 align=&quot;center&quot; Poki uses your iPhone like you do&lt;/h1 &lt;p align=&quot;center&quot; &lt;img src=&quot;docs/images/poki home.gif&quot; width=&quot;720&quot; alt=&quot;Poki website home page animation&quot; — 621 stars · 127 forks · Language: JavaScript · License: AGPL-3.0 · Created: Thu, 05 Nov 2026 15:04:31 GMT</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/images/poki icon.png&amp;quot; width=&amp;quot;72&amp;quot; height=&amp;quot;72&amp;quot; alt=&amp;quot;Poki icon&amp;quot; &amp;lt;/p &amp;lt;h1 align=&amp;quot;center&amp;quot; Poki uses your iPhone like you do&amp;lt;/h1 &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/images/poki home.gif&amp;quot; width=&amp;quot;720&amp;quot; alt=&amp;quot;Poki website home page animation&amp;quot;&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;621&lt;/b&gt; stars · 🍴 &lt;b&gt;127&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt; · AGPL-3.0&lt;/p&gt;&lt;p&gt;Topics: &lt;code&gt;ai-agents&lt;/code&gt; &lt;code&gt;automation&lt;/code&gt; &lt;code&gt;ios&lt;/code&gt; &lt;code&gt;iphone&lt;/code&gt; &lt;code&gt;mcp&lt;/code&gt; &lt;code&gt;model-context-protocol&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/JosssphZhou/poki&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>AtomIllusionistDwell/watson-username-footprint-finder</title>
+      <link>https://github.com/AtomIllusionistDwell/watson-username-footprint-finder</link>
+      <guid isPermaLink="true">https://github.com/AtomIllusionistDwell/watson-username-footprint-finder</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;docs/images/banner.png&quot; alt=&quot;Watson: Stop googling. Start knowing.&quot; width=&quot;100%&quot; &lt;/p &lt;p align=&quot;center&quot; — 572 stars · 78 forks · Language: TypeScript · License: MIT · Created: Thu, 05 Nov 2026 05:20:24 GMT</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;docs/images/banner.png&amp;quot; alt=&amp;quot;Watson: Stop googling. Start knowing.&amp;quot; width=&amp;quot;100%&amp;quot; &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;572&lt;/b&gt; stars · 🍴 &lt;b&gt;78&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt; · MIT&lt;/p&gt;&lt;p&gt;Topics: &lt;code&gt;digital-footprint&lt;/code&gt; &lt;code&gt;electron&lt;/code&gt; &lt;code&gt;people-search&lt;/code&gt; &lt;code&gt;react&lt;/code&gt; &lt;code&gt;reverse-lookup&lt;/code&gt; &lt;code&gt;sherlock&lt;/code&gt; &lt;code&gt;social-media-search&lt;/code&gt; &lt;code&gt;username-lookup&lt;/code&gt; &lt;code&gt;windows&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/AtomIllusionistDwell/watson-username-footprint-finder&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>janestreet/agent_skills</title>
+      <link>https://github.com/janestreet/agent_skills</link>
+      <guid isPermaLink="true">https://github.com/janestreet/agent_skills</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>Agent skills from Jane Street A collection of skills for AI agents and chatbots. Each skill is a directory containing a SKILL.md file with instructions for the agent. Skills socratic tutor — turns an LLM into a strict personal tutor that teaches a — 560 stars · 39 forks · License: MIT · Created: Tue, 03 Nov 2026 16:50:21 GMT</description>
+      <content:encoded>&lt;p&gt;Agent skills from Jane Street A collection of skills for AI agents and chatbots. Each skill is a directory containing a SKILL.md file with instructions for the agent. Skills socratic tutor — turns an LLM into a strict personal tutor that teaches a&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;560&lt;/b&gt; stars · 🍴 &lt;b&gt;39&lt;/b&gt; forks · MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/janestreet/agent_skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>majorminorlabs/hermes-voice</title>
+      <link>https://github.com/majorminorlabs/hermes-voice</link>
+      <guid isPermaLink="true">https://github.com/majorminorlabs/hermes-voice</guid>
+      <pubDate>Mon, 09 Nov 2026 05:18:07 GMT</pubDate>
+      <description>Hermes Voice Talk to one of your Hermes Agent profiles out loud, through Home Assistant Assist, on an old Amazon Echo running echo dot assist. On an Echo Show, the screen follows along: what it heard, the answer as it is written, the tools Hermes is — 555 stars · 35 forks · Language: Python · License: MIT · Created: Thu, 05 Nov 2026 05:28:37 GMT</description>
+      <content:encoded>&lt;p&gt;Hermes Voice Talk to one of your Hermes Agent profiles out loud, through Home Assistant Assist, on an old Amazon Echo running echo dot assist. On an Echo Show, the screen follows along: what it heard, the answer as it is written, the tools Hermes is&lt;/p&gt;&lt;p&gt;⭐ &lt;b&gt;555&lt;/b&gt; stars · 🍴 &lt;b&gt;35&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt; · MIT&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/majorminorlabs/hermes-voice&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
