@@ -7,88 +7,112 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Thu, 12 Nov 2026 06:21:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 05:41:52 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
     <item>
       <title>meta/astryx</title>
       <link>https://github.com/meta/astryx</link>
       <guid isPermaLink="true">https://github.com/meta/astryx</guid>
-      <pubDate>Thu, 12 Nov 2026 06:21:28 GMT</pubDate>
-      <description>&lt;! SYNC CONTRACT: Architecture changes require documentation updates. &lt;div align=&quot;center&quot; &lt;img src=&quot;https://lookaside.facebook.com/assets/astryx/Astryx Banner.png&quot; alt=&quot;Astryx&quot; width=&quot;100%&quot; / Astryx — +2,776 stars today · 25,445 stars · 1,982 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;! SYNC CONTRACT: Architecture changes require documentation updates. &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;https://lookaside.facebook.com/assets/astryx/Astryx Banner.png&amp;quot; alt=&amp;quot;Astryx&amp;quot; width=&amp;quot;100%&amp;quot; / Astryx&lt;/p&gt;&lt;p&gt;🔥 +2,776 stars today · ⭐ &lt;b&gt;25,445&lt;/b&gt; stars · 🍴 &lt;b&gt;1,982&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/meta/astryx&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 13 Nov 2026 05:41:52 GMT</pubDate>
+      <description>&lt;! SYNC CONTRACT: Architecture changes require documentation updates. &lt;div align=&quot;center&quot; &lt;img src=&quot;https://lookaside.facebook.com/assets/astryx/Astryx Banner.png&quot; alt=&quot;Astryx&quot; width=&quot;100%&quot; / Astryx — +1,830 stars today · 26,812 stars · 2,081 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;! SYNC CONTRACT: Architecture changes require documentation updates. &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;https://lookaside.facebook.com/assets/astryx/Astryx Banner.png&amp;quot; alt=&amp;quot;Astryx&amp;quot; width=&amp;quot;100%&amp;quot; / Astryx&lt;/p&gt;&lt;p&gt;🔥 +1,830 stars today · ⭐ &lt;b&gt;26,812&lt;/b&gt; stars · 🍴 &lt;b&gt;2,081&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/meta/astryx&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>we-promise/sure</title>
       <link>https://github.com/we-promise/sure</link>
       <guid isPermaLink="true">https://github.com/we-promise/sure</guid>
-      <pubDate>Thu, 12 Nov 2026 06:21:28 GMT</pubDate>
-      <description>![Ask DeepWiki](https://deepwiki.com/we promise/sure) ![View performance data on Skylight](https://oss.skylight.io/app/applications/s6PEZSKwcklL) ![Dosu](https://app.dosu.dev/a72bdcfd 15f5 4edc bd85 ea0daa6c3adc/ask) — +1,078 stars today · 13,163 stars · 970 forks · Language: Ruby</description>
-      <content:encoded>&lt;p&gt;![Ask DeepWiki](https://deepwiki.com/we promise/sure) ![View performance data on Skylight](https://oss.skylight.io/app/applications/s6PEZSKwcklL) ![Dosu](https://app.dosu.dev/a72bdcfd 15f5 4edc bd85 ea0daa6c3adc/ask)&lt;/p&gt;&lt;p&gt;🔥 +1,078 stars today · ⭐ &lt;b&gt;13,163&lt;/b&gt; stars · 🍴 &lt;b&gt;970&lt;/b&gt; forks · &lt;b&gt;Ruby&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/we-promise/sure&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 13 Nov 2026 05:41:52 GMT</pubDate>
+      <description>![Ask DeepWiki](https://deepwiki.com/we promise/sure) ![View performance data on Skylight](https://oss.skylight.io/app/applications/s6PEZSKwcklL) ![Dosu](https://app.dosu.dev/a72bdcfd 15f5 4edc bd85 ea0daa6c3adc/ask) — +967 stars today · 14,112 stars · 1,061 forks · Language: Ruby</description>
+      <content:encoded>&lt;p&gt;![Ask DeepWiki](https://deepwiki.com/we promise/sure) ![View performance data on Skylight](https://oss.skylight.io/app/applications/s6PEZSKwcklL) ![Dosu](https://app.dosu.dev/a72bdcfd 15f5 4edc bd85 ea0daa6c3adc/ask)&lt;/p&gt;&lt;p&gt;🔥 +967 stars today · ⭐ &lt;b&gt;14,112&lt;/b&gt; stars · 🍴 &lt;b&gt;1,061&lt;/b&gt; forks · &lt;b&gt;Ruby&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/we-promise/sure&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>addyosmani/agent-skills</title>
       <link>https://github.com/addyosmani/agent-skills</link>
       <guid isPermaLink="true">https://github.com/addyosmani/agent-skills</guid>
-      <pubDate>Thu, 12 Nov 2026 06:21:28 GMT</pubDate>
-      <description>Agent Skills Production grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. — +787 stars today · 116,126 stars · 12,171 forks · Language: JavaScript</description>
-      <content:encoded>&lt;p&gt;Agent Skills Production grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.&lt;/p&gt;&lt;p&gt;🔥 +787 stars today · ⭐ &lt;b&gt;116,126&lt;/b&gt; stars · 🍴 &lt;b&gt;12,171&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/addyosmani/agent-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>vercel-labs/agent-browser</title>
-      <link>https://github.com/vercel-labs/agent-browser</link>
-      <guid isPermaLink="true">https://github.com/vercel-labs/agent-browser</guid>
-      <pubDate>Thu, 12 Nov 2026 06:21:28 GMT</pubDate>
-      <description>agent browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. &lt;p — +708 stars today · 50,033 stars · 3,492 forks · Language: Rust</description>
-      <content:encoded>&lt;p&gt;agent browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. &amp;lt;p&lt;/p&gt;&lt;p&gt;🔥 +708 stars today · ⭐ &lt;b&gt;50,033&lt;/b&gt; stars · 🍴 &lt;b&gt;3,492&lt;/b&gt; forks · &lt;b&gt;Rust&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/vercel-labs/agent-browser&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>homeassistant-ai/ha-mcp</title>
-      <link>https://github.com/homeassistant-ai/ha-mcp</link>
-      <guid isPermaLink="true">https://github.com/homeassistant-ai/ha-mcp</guid>
-      <pubDate>Thu, 12 Nov 2026 06:21:28 GMT</pubDate>
-      <description>Breaking change (v7.3.0): ha config set yaml has been moved to beta. &lt;div align=&quot;center&quot; &lt;img src=&quot;https://raw.githubusercontent.com/homeassistant ai/ha mcp/master/docs/img/ha mcp logo.png&quot; alt=&quot;Home Assistant MCP Server Logo&quot; width=&quot;300&quot;/ HA MCP — Manage Home Assistant with AI — +645 stars today · 7,515 stars · 457 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Breaking change (v7.3.0): ha config set yaml has been moved to beta. &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;https://raw.githubusercontent.com/homeassistant ai/ha mcp/master/docs/img/ha mcp logo.png&amp;quot; alt=&amp;quot;Home Assistant MCP Server Logo&amp;quot; width=&amp;quot;300&amp;quot;/ HA MCP — Manage Home Assistant with AI&lt;/p&gt;&lt;p&gt;🔥 +645 stars today · ⭐ &lt;b&gt;7,515&lt;/b&gt; stars · 🍴 &lt;b&gt;457&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/homeassistant-ai/ha-mcp&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>shadcn/improve</title>
-      <link>https://github.com/shadcn/improve</link>
-      <guid isPermaLink="true">https://github.com/shadcn/improve</guid>
-      <pubDate>Thu, 12 Nov 2026 06:21:28 GMT</pubDate>
-      <description>improve An agent skill that audits any codebase and writes implementation plans for other agents to execute. — +361 stars today · 11,129 stars · 452 forks</description>
-      <content:encoded>&lt;p&gt;improve An agent skill that audits any codebase and writes implementation plans for other agents to execute.&lt;/p&gt;&lt;p&gt;🔥 +361 stars today · ⭐ &lt;b&gt;11,129&lt;/b&gt; stars · 🍴 &lt;b&gt;452&lt;/b&gt; forks&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/shadcn/improve&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>ZhuLinsen/daily_stock_analysis</title>
-      <link>https://github.com/ZhuLinsen/daily_stock_analysis</link>
-      <guid isPermaLink="true">https://github.com/ZhuLinsen/daily_stock_analysis</guid>
-      <pubDate>Thu, 12 Nov 2026 06:21:28 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; 📈 股票智能分析系统 ![GitHub stars](https://github.com/ZhuLinsen/daily stock analysis/stargazers) ![arXiv](https://arxiv.org/abs/2608.26990) ![CI](https://github.com/ZhuLinsen/daily stock analysis/actions/workflows/ci.yml) ![License: MIT](https://opensource.org/licenses/MIT) — +278 stars today · 70,626 stars · 56,979 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; 📈 股票智能分析系统 ![GitHub stars](https://github.com/ZhuLinsen/daily stock analysis/stargazers) ![arXiv](https://arxiv.org/abs/2608.26990) ![CI](https://github.com/ZhuLinsen/daily stock analysis/actions/workflows/ci.yml) ![License: MIT](https://opensource.org/licenses/MIT)&lt;/p&gt;&lt;p&gt;🔥 +278 stars today · ⭐ &lt;b&gt;70,626&lt;/b&gt; stars · 🍴 &lt;b&gt;56,979&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ZhuLinsen/daily_stock_analysis&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 13 Nov 2026 05:41:52 GMT</pubDate>
+      <description>Agent Skills Production grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. — +816 stars today · 116,810 stars · 12,218 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;Agent Skills Production grade engineering skills for AI coding agents. Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development.&lt;/p&gt;&lt;p&gt;🔥 +816 stars today · ⭐ &lt;b&gt;116,810&lt;/b&gt; stars · 🍴 &lt;b&gt;12,218&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/addyosmani/agent-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>GoogleChrome/modern-web-guidance-src</title>
       <link>https://github.com/GoogleChrome/modern-web-guidance-src</link>
       <guid isPermaLink="true">https://github.com/GoogleChrome/modern-web-guidance-src</guid>
-      <pubDate>Thu, 12 Nov 2026 06:21:28 GMT</pubDate>
-      <description>&lt;img src=&quot;./.github/img/modern web guidance.svg&quot; alt=&quot;Modern Web Guidance&quot; width=&quot;30&quot; height=&quot;30&quot; Modern Web Guidance (Source) This repo is the source repository for GoogleChrome/modern web guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents. — +159 stars today · 1,971 stars · 149 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;img src=&amp;quot;./.github/img/modern web guidance.svg&amp;quot; alt=&amp;quot;Modern Web Guidance&amp;quot; width=&amp;quot;30&amp;quot; height=&amp;quot;30&amp;quot; Modern Web Guidance (Source) This repo is the source repository for GoogleChrome/modern web guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents.&lt;/p&gt;&lt;p&gt;🔥 +159 stars today · ⭐ &lt;b&gt;1,971&lt;/b&gt; stars · 🍴 &lt;b&gt;149&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/GoogleChrome/modern-web-guidance-src&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 13 Nov 2026 05:41:52 GMT</pubDate>
+      <description>&lt;img src=&quot;./.github/img/modern web guidance.svg&quot; alt=&quot;Modern Web Guidance&quot; width=&quot;30&quot; height=&quot;30&quot; Modern Web Guidance (Source) This repo is the source repository for GoogleChrome/modern web guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents. — +739 stars today · 3,474 stars · 216 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;img src=&amp;quot;./.github/img/modern web guidance.svg&amp;quot; alt=&amp;quot;Modern Web Guidance&amp;quot; width=&amp;quot;30&amp;quot; height=&amp;quot;30&amp;quot; Modern Web Guidance (Source) This repo is the source repository for GoogleChrome/modern web guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents.&lt;/p&gt;&lt;p&gt;🔥 +739 stars today · ⭐ &lt;b&gt;3,474&lt;/b&gt; stars · 🍴 &lt;b&gt;216&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/GoogleChrome/modern-web-guidance-src&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>openai/codex-security</title>
       <link>https://github.com/openai/codex-security</link>
       <guid isPermaLink="true">https://github.com/openai/codex-security</guid>
-      <pubDate>Thu, 12 Nov 2026 06:21:28 GMT</pubDate>
-      <description>Codex Security Codex Security helps you find, investigate, and fix vulnerabilities in your code. Use its security workflows in Codex, or automate them with the @openai/codex security CLI and TypeScript SDK. In Codex: choose a security workflow. — +52 stars today · 11,918 stars · 948 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;Codex Security Codex Security helps you find, investigate, and fix vulnerabilities in your code. Use its security workflows in Codex, or automate them with the @openai/codex security CLI and TypeScript SDK. In Codex: choose a security workflow.&lt;/p&gt;&lt;p&gt;🔥 +52 stars today · ⭐ &lt;b&gt;11,918&lt;/b&gt; stars · 🍴 &lt;b&gt;948&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex-security&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 13 Nov 2026 05:41:52 GMT</pubDate>
+      <description>Codex Security Codex Security helps you find, investigate, and fix vulnerabilities in your code. Use its security workflows in Codex, or automate them with the @openai/codex security CLI and TypeScript SDK. In Codex: choose a security workflow. — +643 stars today · 12,603 stars · 985 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;Codex Security Codex Security helps you find, investigate, and fix vulnerabilities in your code. Use its security workflows in Codex, or automate them with the @openai/codex security CLI and TypeScript SDK. In Codex: choose a security workflow.&lt;/p&gt;&lt;p&gt;🔥 +643 stars today · ⭐ &lt;b&gt;12,603&lt;/b&gt; stars · 🍴 &lt;b&gt;985&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/openai/codex-security&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>TheAlgorithms/Java</title>
-      <link>https://github.com/TheAlgorithms/Java</link>
-      <guid isPermaLink="true">https://github.com/TheAlgorithms/Java</guid>
-      <pubDate>Thu, 12 Nov 2026 06:21:28 GMT</pubDate>
-      <description>The Algorithms Java ![Build](https://github.com/TheAlgorithms/Java/actions/workflows/build.yml) ![codecov](https://codecov.io/gh/TheAlgorithms/Java) ![Discord chat](https://discord.gg/c7MnfGFGa6) ![Gitpod ready to code](https://gitpod.io/ https://github.com/TheAlgorithms/Java) — +51 stars today · 67,136 stars · 21,517 forks · Language: Java</description>
-      <content:encoded>&lt;p&gt;The Algorithms Java ![Build](https://github.com/TheAlgorithms/Java/actions/workflows/build.yml) ![codecov](https://codecov.io/gh/TheAlgorithms/Java) ![Discord chat](https://discord.gg/c7MnfGFGa6) ![Gitpod ready to code](https://gitpod.io/ https://github.com/TheAlgorithms/Java)&lt;/p&gt;&lt;p&gt;🔥 +51 stars today · ⭐ &lt;b&gt;67,136&lt;/b&gt; stars · 🍴 &lt;b&gt;21,517&lt;/b&gt; forks · &lt;b&gt;Java&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/TheAlgorithms/Java&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>Alishahryar1/free-claude-code</title>
+      <link>https://github.com/Alishahryar1/free-claude-code</link>
+      <guid isPermaLink="true">https://github.com/Alishahryar1/free-claude-code</guid>
+      <pubDate>Fri, 13 Nov 2026 05:41:52 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;h1 &lt;picture &lt;source media=&quot;(prefers color scheme: light)&quot; srcset=&quot;assets/free claude code wordmark light.svg&quot; &lt;img src=&quot;assets/free claude code wordmark dark.svg&quot; alt=&quot;Free Claude Code&quot; width=&quot;610&quot; &lt;/picture — +415 stars today · 69,484 stars · 10,789 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;h1 &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: light)&amp;quot; srcset=&amp;quot;assets/free claude code wordmark light.svg&amp;quot; &amp;lt;img src=&amp;quot;assets/free claude code wordmark dark.svg&amp;quot; alt=&amp;quot;Free Claude Code&amp;quot; width=&amp;quot;610&amp;quot; &amp;lt;/picture&lt;/p&gt;&lt;p&gt;🔥 +415 stars today · ⭐ &lt;b&gt;69,484&lt;/b&gt; stars · 🍴 &lt;b&gt;10,789&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Alishahryar1/free-claude-code&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>CopilotKit/OpenBot</title>
+      <link>https://github.com/CopilotKit/OpenBot</link>
+      <guid isPermaLink="true">https://github.com/CopilotKit/OpenBot</guid>
+      <pubDate>Fri, 13 Nov 2026 05:41:52 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;img src=&quot;app/src/assets/openbot logo.png&quot; alt=&quot;&quot; width=&quot;72&quot; OpenBot AI coworkers. Ready for the enterprise. A modular, self hostable workspace for AI coworkers.&lt;br Choose your models. Bring your agents. Own your infrastructure. — +298 stars today · 11,782 stars · 1,452 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;app/src/assets/openbot logo.png&amp;quot; alt=&amp;quot;&amp;quot; width=&amp;quot;72&amp;quot; OpenBot AI coworkers. Ready for the enterprise. A modular, self hostable workspace for AI coworkers.&amp;lt;br Choose your models. Bring your agents. Own your infrastructure.&lt;/p&gt;&lt;p&gt;🔥 +298 stars today · ⭐ &lt;b&gt;11,782&lt;/b&gt; stars · 🍴 &lt;b&gt;1,452&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/CopilotKit/OpenBot&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>pookjw/HermesEnabler</title>
+      <link>https://github.com/pookjw/HermesEnabler</link>
+      <guid isPermaLink="true">https://github.com/pookjw/HermesEnabler</guid>
+      <pubDate>Fri, 13 Nov 2026 05:41:52 GMT</pubDate>
+      <description>HermesEnabler 2 English · Tiếng Việt · 한국어 · 简体中文 · 繁體中文 · 日本語 · Español · Français · Deutsch · Português Supported only on watchOS 27.0 through 27.3 beta 1. Installation macOS — +218 stars today · 1,619 stars · 144 forks · Language: Objective-C</description>
+      <content:encoded>&lt;p&gt;HermesEnabler 2 English · Tiếng Việt · 한국어 · 简体中文 · 繁體中文 · 日本語 · Español · Français · Deutsch · Português Supported only on watchOS 27.0 through 27.3 beta 1. Installation macOS&lt;/p&gt;&lt;p&gt;🔥 +218 stars today · ⭐ &lt;b&gt;1,619&lt;/b&gt; stars · 🍴 &lt;b&gt;144&lt;/b&gt; forks · &lt;b&gt;Objective-C&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/pookjw/HermesEnabler&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>ggml-org/llama.cpp</title>
+      <link>https://github.com/ggml-org/llama.cpp</link>
+      <guid isPermaLink="true">https://github.com/ggml-org/llama.cpp</guid>
+      <pubDate>Fri, 13 Nov 2026 05:41:52 GMT</pubDate>
+      <description>llama.cpp &lt;div align=&quot;center&quot; &lt;b LLM inference in C/C++&lt;/b ![License: MIT](https://opensource.org/licenses/MIT) ![Release](https://github.com/ggml org/llama.cpp/releases?q=tag:v0) ![Nightly](https://github.com/ggml org/llama.cpp/releases?q=b) — +176 stars today · 134,673 stars · 25,519 forks · Language: C++</description>
+      <content:encoded>&lt;p&gt;llama.cpp &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;b LLM inference in C/C++&amp;lt;/b ![License: MIT](https://opensource.org/licenses/MIT) ![Release](https://github.com/ggml org/llama.cpp/releases?q=tag:v0) ![Nightly](https://github.com/ggml org/llama.cpp/releases?q=b)&lt;/p&gt;&lt;p&gt;🔥 +176 stars today · ⭐ &lt;b&gt;134,673&lt;/b&gt; stars · 🍴 &lt;b&gt;25,519&lt;/b&gt; forks · &lt;b&gt;C++&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ggml-org/llama.cpp&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>QwenLM/qwen-code</title>
+      <link>https://github.com/QwenLM/qwen-code</link>
+      <guid isPermaLink="true">https://github.com/QwenLM/qwen-code</guid>
+      <pubDate>Fri, 13 Nov 2026 05:41:52 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; ![npm version](https://www.npmjs.com/package/@qwen code/qwen code) ![License](./LICENSE) ![Node.js Version](https://nodejs.org/) ![Downloads](https://www.npmjs.com/package/@qwen code/qwen code) — +151 stars today · 29,942 stars · 3,409 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; ![npm version](https://www.npmjs.com/package/@qwen code/qwen code) ![License](./LICENSE) ![Node.js Version](https://nodejs.org/) ![Downloads](https://www.npmjs.com/package/@qwen code/qwen code)&lt;/p&gt;&lt;p&gt;🔥 +151 stars today · ⭐ &lt;b&gt;29,942&lt;/b&gt; stars · 🍴 &lt;b&gt;3,409&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/QwenLM/qwen-code&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>nvm-sh/nvm</title>
+      <link>https://github.com/nvm-sh/nvm</link>
+      <guid isPermaLink="true">https://github.com/nvm-sh/nvm</guid>
+      <pubDate>Fri, 13 Nov 2026 05:41:52 GMT</pubDate>
+      <description>&lt;a href=&quot;https://github.com/nvm sh/logos&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;https://raw.githubusercontent.com/nvm sh/logos/HEAD/nvm logo white.svg&quot; / &lt;img src=&quot;https://raw.githubusercontent.com/nvm sh/logos/HEAD/nvm logo color.svg&quot; height=&quot;50&quot; alt=&quot;nvm project logo&quot; / — +63 stars today · 96,048 stars · 10,761 forks · Language: Shell</description>
+      <content:encoded>&lt;p&gt;&amp;lt;a href=&amp;quot;https://github.com/nvm sh/logos&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;https://raw.githubusercontent.com/nvm sh/logos/HEAD/nvm logo white.svg&amp;quot; / &amp;lt;img src=&amp;quot;https://raw.githubusercontent.com/nvm sh/logos/HEAD/nvm logo color.svg&amp;quot; height=&amp;quot;50&amp;quot; alt=&amp;quot;nvm project logo&amp;quot; /&lt;/p&gt;&lt;p&gt;🔥 +63 stars today · ⭐ &lt;b&gt;96,048&lt;/b&gt; stars · 🍴 &lt;b&gt;10,761&lt;/b&gt; forks · &lt;b&gt;Shell&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/nvm-sh/nvm&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>nodejs/node</title>
+      <link>https://github.com/nodejs/node</link>
+      <guid isPermaLink="true">https://github.com/nodejs/node</guid>
+      <pubDate>Fri, 13 Nov 2026 05:41:52 GMT</pubDate>
+      <description>Node.js Node.js is an open source, cross platform JavaScript runtime environment. For information on using Node.js, see the [Node.js website][]. The Node.js project uses an open governance model. The [OpenJS Foundation][] provides support for the project. — +62 stars today · 123,637 stars · 38,061 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;Node.js Node.js is an open source, cross platform JavaScript runtime environment. For information on using Node.js, see the [Node.js website][]. The Node.js project uses an open governance model. The [OpenJS Foundation][] provides support for the project.&lt;/p&gt;&lt;p&gt;🔥 +62 stars today · ⭐ &lt;b&gt;123,637&lt;/b&gt; stars · 🍴 &lt;b&gt;38,061&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/nodejs/node&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>ashhart/TensorFold</title>
+      <link>https://github.com/ashhart/TensorFold</link>
+      <guid isPermaLink="true">https://github.com/ashhart/TensorFold</guid>
+      <pubDate>Fri, 13 Nov 2026 05:41:52 GMT</pubDate>
+      <description>TensorFold TensorFold serves language models from a Zig binary on Apple Silicon and NVIDIA GPUs. The engine reads checkpoints, tokenizes requests and runs Metal or CUDA kernels directly. Serving needs no Python or MLX installation. — +54 stars today · 1,998 stars · 396 forks · Language: Zig</description>
+      <content:encoded>&lt;p&gt;TensorFold TensorFold serves language models from a Zig binary on Apple Silicon and NVIDIA GPUs. The engine reads checkpoints, tokenizes requests and runs Metal or CUDA kernels directly. Serving needs no Python or MLX installation.&lt;/p&gt;&lt;p&gt;🔥 +54 stars today · ⭐ &lt;b&gt;1,998&lt;/b&gt; stars · 🍴 &lt;b&gt;396&lt;/b&gt; forks · &lt;b&gt;Zig&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ashhart/TensorFold&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
