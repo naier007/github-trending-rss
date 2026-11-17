@@ -7,104 +7,128 @@
     <language>zh-CN</language>
     <generator>github-trending-rss/1.0.0</generator>
     <ttl>1440</ttl>
-    <lastBuildDate>Mon, 16 Nov 2026 05:28:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 07:06:22 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/naier007/github-trending-rss/main/feed.xml"/>
-    <item>
-      <title>GoogleChrome/modern-web-guidance-src</title>
-      <link>https://github.com/GoogleChrome/modern-web-guidance-src</link>
-      <guid isPermaLink="true">https://github.com/GoogleChrome/modern-web-guidance-src</guid>
-      <pubDate>Mon, 16 Nov 2026 05:28:53 GMT</pubDate>
-      <description>&lt;img src=&quot;./.github/img/modern web guidance.svg&quot; alt=&quot;Modern Web Guidance&quot; width=&quot;30&quot; height=&quot;30&quot; Modern Web Guidance (Source) This repo is the source repository for GoogleChrome/modern web guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents. — +1,219 stars today · 7,389 stars · 626 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;img src=&amp;quot;./.github/img/modern web guidance.svg&amp;quot; alt=&amp;quot;Modern Web Guidance&amp;quot; width=&amp;quot;30&amp;quot; height=&amp;quot;30&amp;quot; Modern Web Guidance (Source) This repo is the source repository for GoogleChrome/modern web guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents.&lt;/p&gt;&lt;p&gt;🔥 +1,219 stars today · ⭐ &lt;b&gt;7,389&lt;/b&gt; stars · 🍴 &lt;b&gt;626&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/GoogleChrome/modern-web-guidance-src&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
     <item>
       <title>dream-num/univer</title>
       <link>https://github.com/dream-num/univer</link>
       <guid isPermaLink="true">https://github.com/dream-num/univer</guid>
-      <pubDate>Mon, 16 Nov 2026 05:28:53 GMT</pubDate>
-      <description>&lt;a id=&quot;readme top&quot; &lt;/a &lt;p align=&quot;center&quot; &lt;img src=&quot;./docs/img/readme/hero banner.png&quot; alt=&quot;Univer Office SDK&quot; width=&quot;960&quot; / &lt;/p &lt;h1 align=&quot;center&quot; Build your own AI office with Univer Office SDK.&lt;/h1 — +988 stars today · 26,504 stars · 2,413 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;a id=&amp;quot;readme top&amp;quot; &amp;lt;/a &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;./docs/img/readme/hero banner.png&amp;quot; alt=&amp;quot;Univer Office SDK&amp;quot; width=&amp;quot;960&amp;quot; / &amp;lt;/p &amp;lt;h1 align=&amp;quot;center&amp;quot; Build your own AI office with Univer Office SDK.&amp;lt;/h1&lt;/p&gt;&lt;p&gt;🔥 +988 stars today · ⭐ &lt;b&gt;26,504&lt;/b&gt; stars · 🍴 &lt;b&gt;2,413&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/dream-num/univer&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>backnotprop/plannotator</title>
-      <link>https://github.com/backnotprop/plannotator</link>
-      <guid isPermaLink="true">https://github.com/backnotprop/plannotator</guid>
-      <pubDate>Mon, 16 Nov 2026 05:28:53 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;.github/assets/banner.webp&quot; alt=&quot;Plannotator&quot; width=&quot;640&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;strong Everything you need to annotate and stay in the loop with your agents&lt;/strong &lt;br/ &lt;strong Inbox Surface • Artifacts • Code Review&lt;/strong &lt;br/ — +866 stars today · 12,008 stars · 1,109 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;.github/assets/banner.webp&amp;quot; alt=&amp;quot;Plannotator&amp;quot; width=&amp;quot;640&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong Everything you need to annotate and stay in the loop with your agents&amp;lt;/strong &amp;lt;br/ &amp;lt;strong Inbox Surface • Artifacts • Code Review&amp;lt;/strong &amp;lt;br/&lt;/p&gt;&lt;p&gt;🔥 +866 stars today · ⭐ &lt;b&gt;12,008&lt;/b&gt; stars · 🍴 &lt;b&gt;1,109&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/backnotprop/plannotator&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>ChromeDevTools/chrome-devtools-mcp</title>
-      <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
-      <guid isPermaLink="true">https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
-      <pubDate>Mon, 16 Nov 2026 05:28:53 GMT</pubDate>
-      <description>Chrome DevTools for agents ![npm chrome devtools mcp package](https://npmjs.org/package/chrome devtools mcp) Chrome DevTools for agents ( chrome devtools mcp ) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It is available as a — +717 stars today · 57,158 stars · 4,822 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;Chrome DevTools for agents ![npm chrome devtools mcp package](https://npmjs.org/package/chrome devtools mcp) Chrome DevTools for agents ( chrome devtools mcp ) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It is available as a&lt;/p&gt;&lt;p&gt;🔥 +717 stars today · ⭐ &lt;b&gt;57,158&lt;/b&gt; stars · 🍴 &lt;b&gt;4,822&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ChromeDevTools/chrome-devtools-mcp&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>tradermonty/claude-trading-skills</title>
-      <link>https://github.com/tradermonty/claude-trading-skills</link>
-      <guid isPermaLink="true">https://github.com/tradermonty/claude-trading-skills</guid>
-      <pubDate>Mon, 16 Nov 2026 05:28:53 GMT</pubDate>
-      <description>Claude Trading Skills Data handling: Privacy policy · Security policy Claude Trading Skills started as a personal project to use AI to improve my own trading process. Claude Trading Skills is a Claude Skills based trading workflow toolkit for time constrained individual investors. — +706 stars today · 5,736 stars · 1,195 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;Claude Trading Skills Data handling: Privacy policy · Security policy Claude Trading Skills started as a personal project to use AI to improve my own trading process. Claude Trading Skills is a Claude Skills based trading workflow toolkit for time constrained individual investors.&lt;/p&gt;&lt;p&gt;🔥 +706 stars today · ⭐ &lt;b&gt;5,736&lt;/b&gt; stars · 🍴 &lt;b&gt;1,195&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/tradermonty/claude-trading-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>alibaba/open-code-review</title>
-      <link>https://github.com/alibaba/open-code-review</link>
-      <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
-      <pubDate>Mon, 16 Nov 2026 05:28:53 GMT</pubDate>
-      <description>&lt;div align=&quot;center&quot; &lt;a href=&quot;https://open codereview.ai&quot; &lt;img src=&quot;imgs/logo core.svg&quot; alt=&quot;OpenCodeReview logo&quot; width=&quot;180&quot; / &lt;/a &lt;h1 OpenCodeReview&lt;/h1 &lt;/div — +691 stars today · 52,324 stars · 4,160 forks · Language: Go</description>
-      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://open codereview.ai&amp;quot; &amp;lt;img src=&amp;quot;imgs/logo core.svg&amp;quot; alt=&amp;quot;OpenCodeReview logo&amp;quot; width=&amp;quot;180&amp;quot; / &amp;lt;/a &amp;lt;h1 OpenCodeReview&amp;lt;/h1 &amp;lt;/div&lt;/p&gt;&lt;p&gt;🔥 +691 stars today · ⭐ &lt;b&gt;52,324&lt;/b&gt; stars · 🍴 &lt;b&gt;4,160&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/alibaba/open-code-review&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Tencent/LoopForge</title>
-      <link>https://github.com/Tencent/LoopForge</link>
-      <guid isPermaLink="true">https://github.com/Tencent/LoopForge</guid>
-      <pubDate>Mon, 16 Nov 2026 05:28:53 GMT</pubDate>
-      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;docs/assets/readme/hero en dark.svg&quot; — +423 stars today · 1,766 stars · 298 forks · Language: Go</description>
-      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;docs/assets/readme/hero en dark.svg&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +423 stars today · ⭐ &lt;b&gt;1,766&lt;/b&gt; stars · 🍴 &lt;b&gt;298&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Tencent/LoopForge&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>ag-ui-protocol/ag-ui</title>
-      <link>https://github.com/ag-ui-protocol/ag-ui</link>
-      <guid isPermaLink="true">https://github.com/ag-ui-protocol/ag-ui</guid>
-      <pubDate>Mon, 16 Nov 2026 05:28:53 GMT</pubDate>
-      <description>&lt;img src=&quot;https://github.com/user attachments/assets/ebc0dd08 8732 4519 9b6c 452ce54d8058&quot; alt=&quot;ag ui Logo&quot; width=&quot;22&quot;/ AG UI: The Agent User Interaction Protocol AG UI is an open, lightweight, event based protocol that standardizes how AI agents connect to user facing applications. — +355 stars today · 18,094 stars · 1,852 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;&amp;lt;img src=&amp;quot;https://github.com/user attachments/assets/ebc0dd08 8732 4519 9b6c 452ce54d8058&amp;quot; alt=&amp;quot;ag ui Logo&amp;quot; width=&amp;quot;22&amp;quot;/ AG UI: The Agent User Interaction Protocol AG UI is an open, lightweight, event based protocol that standardizes how AI agents connect to user facing applications.&lt;/p&gt;&lt;p&gt;🔥 +355 stars today · ⭐ &lt;b&gt;18,094&lt;/b&gt; stars · 🍴 &lt;b&gt;1,852&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ag-ui-protocol/ag-ui&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>google-labs-code/stitch-skills</title>
-      <link>https://github.com/google-labs-code/stitch-skills</link>
-      <guid isPermaLink="true">https://github.com/google-labs-code/stitch-skills</guid>
-      <pubDate>Mon, 16 Nov 2026 05:28:53 GMT</pubDate>
-      <description>Stitch Design Skills A collection of agent skills and plugins for Google Stitch, following the Agent Skills open standard. Compatible with coding agents such as Codex, Antigravity, Gemini CLI, Claude Code, Cursor, and OpenCode (manual install). Quick Start 1. Install Plugins (Recommended) — +247 stars today · 9,430 stars · 1,150 forks · Language: TypeScript</description>
-      <content:encoded>&lt;p&gt;Stitch Design Skills A collection of agent skills and plugins for Google Stitch, following the Agent Skills open standard. Compatible with coding agents such as Codex, Antigravity, Gemini CLI, Claude Code, Cursor, and OpenCode (manual install). Quick Start 1. Install Plugins (Recommended)&lt;/p&gt;&lt;p&gt;🔥 +247 stars today · ⭐ &lt;b&gt;9,430&lt;/b&gt; stars · 🍴 &lt;b&gt;1,150&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/google-labs-code/stitch-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA/SkillEvaluator</title>
-      <link>https://github.com/NVIDIA/SkillEvaluator</link>
-      <guid isPermaLink="true">https://github.com/NVIDIA/SkillEvaluator</guid>
-      <pubDate>Mon, 16 Nov 2026 05:28:53 GMT</pubDate>
-      <description>SkillEvaluator ![License](LICENSE) ![Python](https://www.python.org/) ![PyPI](https://pypi.org/project/skillevaluator/) ![Documentation](https://docs.nvidia.com/skills/skillevaluator/) ![Paper](https://arxiv.org/abs/2608.20614) — +122 stars today · 1,888 stars · 254 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;SkillEvaluator ![License](LICENSE) ![Python](https://www.python.org/) ![PyPI](https://pypi.org/project/skillevaluator/) ![Documentation](https://docs.nvidia.com/skills/skillevaluator/) ![Paper](https://arxiv.org/abs/2608.20614)&lt;/p&gt;&lt;p&gt;🔥 +122 stars today · ⭐ &lt;b&gt;1,888&lt;/b&gt; stars · 🍴 &lt;b&gt;254&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/NVIDIA/SkillEvaluator&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 17 Nov 2026 07:06:22 GMT</pubDate>
+      <description>&lt;a id=&quot;readme top&quot; &lt;/a &lt;p align=&quot;center&quot; &lt;img src=&quot;./docs/img/readme/hero banner.png&quot; alt=&quot;Univer Office SDK&quot; width=&quot;960&quot; / &lt;/p &lt;h1 align=&quot;center&quot; Build your own AI office with Univer Office SDK.&lt;/h1 — +1,828 stars today · 28,265 stars · 2,559 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;a id=&amp;quot;readme top&amp;quot; &amp;lt;/a &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;./docs/img/readme/hero banner.png&amp;quot; alt=&amp;quot;Univer Office SDK&amp;quot; width=&amp;quot;960&amp;quot; / &amp;lt;/p &amp;lt;h1 align=&amp;quot;center&amp;quot; Build your own AI office with Univer Office SDK.&amp;lt;/h1&lt;/p&gt;&lt;p&gt;🔥 +1,828 stars today · ⭐ &lt;b&gt;28,265&lt;/b&gt; stars · 🍴 &lt;b&gt;2,559&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/dream-num/univer&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>elementalsouls/Claude-BugHunter</title>
       <link>https://github.com/elementalsouls/Claude-BugHunter</link>
       <guid isPermaLink="true">https://github.com/elementalsouls/Claude-BugHunter</guid>
-      <pubDate>Mon, 16 Nov 2026 05:28:53 GMT</pubDate>
-      <description>claude bughunter — +98 stars today · 6,672 stars · 1,009 forks · Language: Python</description>
-      <content:encoded>&lt;p&gt;claude bughunter&lt;/p&gt;&lt;p&gt;🔥 +98 stars today · ⭐ &lt;b&gt;6,672&lt;/b&gt; stars · 🍴 &lt;b&gt;1,009&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/elementalsouls/Claude-BugHunter&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 17 Nov 2026 07:06:22 GMT</pubDate>
+      <description>claude bughunter — +1,094 stars today · 7,748 stars · 1,211 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;claude bughunter&lt;/p&gt;&lt;p&gt;🔥 +1,094 stars today · ⭐ &lt;b&gt;7,748&lt;/b&gt; stars · 🍴 &lt;b&gt;1,211&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/elementalsouls/Claude-BugHunter&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>ggml-org/ggml</title>
-      <link>https://github.com/ggml-org/ggml</link>
-      <guid isPermaLink="true">https://github.com/ggml-org/ggml</guid>
-      <pubDate>Mon, 16 Nov 2026 05:28:53 GMT</pubDate>
-      <description>ggml &lt;div align=&quot;center&quot; &lt;img src=&quot;https://raw.githubusercontent.com/ggml org/media/refs/heads/master/logo/ggml logo.jpg&quot; width=&quot;256&quot; height=&quot;256&quot; alt=&quot;ggml logo&quot; / &lt;b Tensor library for machine learning&lt;/b ![License: MIT](https://opensource.org/licenses/MIT) — +43 stars today · 15,979 stars · 2,035 forks · Language: C++</description>
-      <content:encoded>&lt;p&gt;ggml &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;https://raw.githubusercontent.com/ggml org/media/refs/heads/master/logo/ggml logo.jpg&amp;quot; width=&amp;quot;256&amp;quot; height=&amp;quot;256&amp;quot; alt=&amp;quot;ggml logo&amp;quot; / &amp;lt;b Tensor library for machine learning&amp;lt;/b ![License: MIT](https://opensource.org/licenses/MIT)&lt;/p&gt;&lt;p&gt;🔥 +43 stars today · ⭐ &lt;b&gt;15,979&lt;/b&gt; stars · 🍴 &lt;b&gt;2,035&lt;/b&gt; forks · &lt;b&gt;C++&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ggml-org/ggml&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <title>alibaba/open-code-review</title>
+      <link>https://github.com/alibaba/open-code-review</link>
+      <guid isPermaLink="true">https://github.com/alibaba/open-code-review</guid>
+      <pubDate>Tue, 17 Nov 2026 07:06:22 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;a href=&quot;https://open codereview.ai&quot; &lt;img src=&quot;imgs/logo core.svg&quot; alt=&quot;OpenCodeReview logo&quot; width=&quot;180&quot; / &lt;/a &lt;h1 OpenCodeReview&lt;/h1 &lt;/div — +951 stars today · 53,175 stars · 4,355 forks · Language: Go</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://open codereview.ai&amp;quot; &amp;lt;img src=&amp;quot;imgs/logo core.svg&amp;quot; alt=&amp;quot;OpenCodeReview logo&amp;quot; width=&amp;quot;180&amp;quot; / &amp;lt;/a &amp;lt;h1 OpenCodeReview&amp;lt;/h1 &amp;lt;/div&lt;/p&gt;&lt;p&gt;🔥 +951 stars today · ⭐ &lt;b&gt;53,175&lt;/b&gt; stars · 🍴 &lt;b&gt;4,355&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/alibaba/open-code-review&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA/SkillEvaluator</title>
+      <link>https://github.com/NVIDIA/SkillEvaluator</link>
+      <guid isPermaLink="true">https://github.com/NVIDIA/SkillEvaluator</guid>
+      <pubDate>Tue, 17 Nov 2026 07:06:22 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; !SkillEvaluator &lt;h4 Evaluate and improve AI agent skills and plugins: quality, security, overlap, compatibility, and real impact across agents&lt;/h4 ![License](LICENSE) ![Python](https://www.python.org/) ![PyPI](https://pypi.org/project/skillevaluator/) — +873 stars today · 2,983 stars · 418 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; !SkillEvaluator &amp;lt;h4 Evaluate and improve AI agent skills and plugins: quality, security, overlap, compatibility, and real impact across agents&amp;lt;/h4 ![License](LICENSE) ![Python](https://www.python.org/) ![PyPI](https://pypi.org/project/skillevaluator/)&lt;/p&gt;&lt;p&gt;🔥 +873 stars today · ⭐ &lt;b&gt;2,983&lt;/b&gt; stars · 🍴 &lt;b&gt;418&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/NVIDIA/SkillEvaluator&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>ChromeDevTools/chrome-devtools-mcp</title>
+      <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
+      <guid isPermaLink="true">https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
+      <pubDate>Tue, 17 Nov 2026 07:06:22 GMT</pubDate>
+      <description>Chrome DevTools for agents ![npm chrome devtools mcp package](https://npmjs.org/package/chrome devtools mcp) Chrome DevTools for agents ( chrome devtools mcp ) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It is available as a — +841 stars today · 57,819 stars · 4,857 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;Chrome DevTools for agents ![npm chrome devtools mcp package](https://npmjs.org/package/chrome devtools mcp) Chrome DevTools for agents ( chrome devtools mcp ) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It is available as a&lt;/p&gt;&lt;p&gt;🔥 +841 stars today · ⭐ &lt;b&gt;57,819&lt;/b&gt; stars · 🍴 &lt;b&gt;4,857&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ChromeDevTools/chrome-devtools-mcp&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>tradermonty/claude-trading-skills</title>
+      <link>https://github.com/tradermonty/claude-trading-skills</link>
+      <guid isPermaLink="true">https://github.com/tradermonty/claude-trading-skills</guid>
+      <pubDate>Tue, 17 Nov 2026 07:06:22 GMT</pubDate>
+      <description>Claude Trading Skills Data handling: Privacy policy · Security policy Claude Trading Skills started as a personal project to use AI to improve my own trading process. Claude Trading Skills is a Claude Skills based trading workflow toolkit for time constrained individual investors. — +837 stars today · 6,542 stars · 1,373 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;Claude Trading Skills Data handling: Privacy policy · Security policy Claude Trading Skills started as a personal project to use AI to improve my own trading process. Claude Trading Skills is a Claude Skills based trading workflow toolkit for time constrained individual investors.&lt;/p&gt;&lt;p&gt;🔥 +837 stars today · ⭐ &lt;b&gt;6,542&lt;/b&gt; stars · 🍴 &lt;b&gt;1,373&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/tradermonty/claude-trading-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>ag-ui-protocol/ag-ui</title>
+      <link>https://github.com/ag-ui-protocol/ag-ui</link>
+      <guid isPermaLink="true">https://github.com/ag-ui-protocol/ag-ui</guid>
+      <pubDate>Tue, 17 Nov 2026 07:06:22 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; &lt;a href=&quot;https://docs.ag ui.com&quot; &lt;img alt=&quot;AG UI&quot; src=&quot;.github/readme/wordmark.svg&quot; width=&quot;320&quot; &lt;/a The open protocol that connects any agent to any app. — +791 stars today · 19,457 stars · 2,007 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;a href=&amp;quot;https://docs.ag ui.com&amp;quot; &amp;lt;img alt=&amp;quot;AG UI&amp;quot; src=&amp;quot;.github/readme/wordmark.svg&amp;quot; width=&amp;quot;320&amp;quot; &amp;lt;/a The open protocol that connects any agent to any app.&lt;/p&gt;&lt;p&gt;🔥 +791 stars today · ⭐ &lt;b&gt;19,457&lt;/b&gt; stars · 🍴 &lt;b&gt;2,007&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ag-ui-protocol/ag-ui&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>backnotprop/plannotator</title>
+      <link>https://github.com/backnotprop/plannotator</link>
+      <guid isPermaLink="true">https://github.com/backnotprop/plannotator</guid>
+      <pubDate>Tue, 17 Nov 2026 07:06:22 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;img src=&quot;.github/assets/banner.webp&quot; alt=&quot;Plannotator&quot; width=&quot;640&quot; / &lt;/p &lt;p align=&quot;center&quot; &lt;strong Everything you need to annotate and stay in the loop with your agents&lt;/strong &lt;br/ &lt;strong Inbox Surface • Artifacts • Code Review&lt;/strong &lt;br/ — +696 stars today · 12,774 stars · 1,263 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;.github/assets/banner.webp&amp;quot; alt=&amp;quot;Plannotator&amp;quot; width=&amp;quot;640&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;strong Everything you need to annotate and stay in the loop with your agents&amp;lt;/strong &amp;lt;br/ &amp;lt;strong Inbox Surface • Artifacts • Code Review&amp;lt;/strong &amp;lt;br/&lt;/p&gt;&lt;p&gt;🔥 +696 stars today · ⭐ &lt;b&gt;12,774&lt;/b&gt; stars · 🍴 &lt;b&gt;1,263&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/backnotprop/plannotator&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>google-labs-code/stitch-skills</title>
+      <link>https://github.com/google-labs-code/stitch-skills</link>
+      <guid isPermaLink="true">https://github.com/google-labs-code/stitch-skills</guid>
+      <pubDate>Tue, 17 Nov 2026 07:06:22 GMT</pubDate>
+      <description>Stitch Design Skills A collection of agent skills and plugins for Google Stitch, following the Agent Skills open standard. Compatible with coding agents such as Codex, Antigravity, Gemini CLI, Claude Code, Cursor, and OpenCode (manual install). Quick Start 1. Install Plugins (Recommended) — +529 stars today · 9,833 stars · 1,277 forks · Language: TypeScript</description>
+      <content:encoded>&lt;p&gt;Stitch Design Skills A collection of agent skills and plugins for Google Stitch, following the Agent Skills open standard. Compatible with coding agents such as Codex, Antigravity, Gemini CLI, Claude Code, Cursor, and OpenCode (manual install). Quick Start 1. Install Plugins (Recommended)&lt;/p&gt;&lt;p&gt;🔥 +529 stars today · ⭐ &lt;b&gt;9,833&lt;/b&gt; stars · 🍴 &lt;b&gt;1,277&lt;/b&gt; forks · &lt;b&gt;TypeScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/google-labs-code/stitch-skills&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>kajisho5/ffmpeg-skill</title>
+      <link>https://github.com/kajisho5/ffmpeg-skill</link>
+      <guid isPermaLink="true">https://github.com/kajisho5/ffmpeg-skill</guid>
+      <pubDate>Tue, 17 Nov 2026 07:06:22 GMT</pubDate>
+      <description>&lt;p align=&quot;center&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;brand/logo/ffmpeg skill horizontal on dark.svg&quot; &lt;img src=&quot;brand/logo/ffmpeg skill horizontal.svg&quot; height=&quot;72&quot; alt=&quot;ffmpeg skill&quot; &lt;/picture &lt;/p — +367 stars today · 7,191 stars · 651 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;brand/logo/ffmpeg skill horizontal on dark.svg&amp;quot; &amp;lt;img src=&amp;quot;brand/logo/ffmpeg skill horizontal.svg&amp;quot; height=&amp;quot;72&amp;quot; alt=&amp;quot;ffmpeg skill&amp;quot; &amp;lt;/picture &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +367 stars today · ⭐ &lt;b&gt;7,191&lt;/b&gt; stars · 🍴 &lt;b&gt;651&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/kajisho5/ffmpeg-skill&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>google-research/paper-orchestra</title>
+      <link>https://github.com/google-research/paper-orchestra</link>
+      <guid isPermaLink="true">https://github.com/google-research/paper-orchestra</guid>
+      <pubDate>Tue, 17 Nov 2026 07:06:22 GMT</pubDate>
+      <description>&lt;div align=&quot;center&quot; 🎻 PaperOrchestra: A Multi Agent Framework for Automated AI Research Paper Writing&lt;/div &lt;div align=&quot;center&quot; Yiwen Song&lt;sup 1&lt;/sup , Yale Song&lt;sup 1&lt;/sup , Tomas Pfister&lt;sup 1&lt;/sup , and Jinsung Yoon&lt;sup 1&lt;/sup &lt;/div &lt;div align=&quot;center&quot; &lt;sup 1&lt;/sup Google Cloud AI Research&lt;/div — +313 stars today · 1,827 stars · 295 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;&amp;lt;div align=&amp;quot;center&amp;quot; 🎻 PaperOrchestra: A Multi Agent Framework for Automated AI Research Paper Writing&amp;lt;/div &amp;lt;div align=&amp;quot;center&amp;quot; Yiwen Song&amp;lt;sup 1&amp;lt;/sup , Yale Song&amp;lt;sup 1&amp;lt;/sup , Tomas Pfister&amp;lt;sup 1&amp;lt;/sup , and Jinsung Yoon&amp;lt;sup 1&amp;lt;/sup &amp;lt;/div &amp;lt;div align=&amp;quot;center&amp;quot; &amp;lt;sup 1&amp;lt;/sup Google Cloud AI Research&amp;lt;/div&lt;/p&gt;&lt;p&gt;🔥 +313 stars today · ⭐ &lt;b&gt;1,827&lt;/b&gt; stars · 🍴 &lt;b&gt;295&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/google-research/paper-orchestra&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>DeanChensj/jiangshan-map</title>
+      <link>https://github.com/DeanChensj/jiangshan-map</link>
+      <guid isPermaLink="true">https://github.com/DeanChensj/jiangshan-map</guid>
+      <pubDate>Tue, 17 Nov 2026 07:06:22 GMT</pubDate>
+      <description>Chronicles of the Realm · 江山时序 &lt;p align=&quot;left&quot; &lt;strong English&lt;/strong · &lt;a href=&quot;README ZH.md&quot; 简体中文 (Chinese)&lt;/a · &lt;a href=&quot;README ZH HANT.md&quot; 繁體中文 (Traditional Chinese)&lt;/a · &lt;a href=&quot;README JA.md&quot; 日本語 (Japanese)&lt;/a &lt;/p — +288 stars today · 7,261 stars · 870 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;Chronicles of the Realm · 江山时序 &amp;lt;p align=&amp;quot;left&amp;quot; &amp;lt;strong English&amp;lt;/strong · &amp;lt;a href=&amp;quot;README ZH.md&amp;quot; 简体中文 (Chinese)&amp;lt;/a · &amp;lt;a href=&amp;quot;README ZH HANT.md&amp;quot; 繁體中文 (Traditional Chinese)&amp;lt;/a · &amp;lt;a href=&amp;quot;README JA.md&amp;quot; 日本語 (Japanese)&amp;lt;/a &amp;lt;/p&lt;/p&gt;&lt;p&gt;🔥 +288 stars today · ⭐ &lt;b&gt;7,261&lt;/b&gt; stars · 🍴 &lt;b&gt;870&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/DeanChensj/jiangshan-map&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>mvanhorn/last30days-skill</title>
+      <link>https://github.com/mvanhorn/last30days-skill</link>
+      <guid isPermaLink="true">https://github.com/mvanhorn/last30days-skill</guid>
+      <pubDate>Tue, 17 Nov 2026 07:06:22 GMT</pubDate>
+      <description>/last30days English Français Deutsch Español Português (Brasil) 日本語 简体中文 العربية &lt;p align=&quot;center&quot; &lt;img src=&quot;media/pr assets/last30days ad.gif&quot; width=&quot;720&quot; alt=&quot;last30days an AI agent led search engine that searches people, not editors&quot; / &lt;/p &lt;p align=&quot;center&quot; — +135 stars today · 68,362 stars · 6,081 forks · Language: Python</description>
+      <content:encoded>&lt;p&gt;/last30days English Français Deutsch Español Português (Brasil) 日本語 简体中文 العربية &amp;lt;p align=&amp;quot;center&amp;quot; &amp;lt;img src=&amp;quot;media/pr assets/last30days ad.gif&amp;quot; width=&amp;quot;720&amp;quot; alt=&amp;quot;last30days an AI agent led search engine that searches people, not editors&amp;quot; / &amp;lt;/p &amp;lt;p align=&amp;quot;center&amp;quot;&lt;/p&gt;&lt;p&gt;🔥 +135 stars today · ⭐ &lt;b&gt;68,362&lt;/b&gt; stars · 🍴 &lt;b&gt;6,081&lt;/b&gt; forks · &lt;b&gt;Python&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/mvanhorn/last30days-skill&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>sveltejs/svelte</title>
+      <link>https://github.com/sveltejs/svelte</link>
+      <guid isPermaLink="true">https://github.com/sveltejs/svelte</guid>
+      <pubDate>Tue, 17 Nov 2026 07:06:22 GMT</pubDate>
+      <description>&lt;a href=&quot;https://svelte.dev&quot; &lt;picture &lt;source media=&quot;(prefers color scheme: dark)&quot; srcset=&quot;assets/banner dark.png&quot; &lt;img src=&quot;assets/banner.png&quot; alt=&quot;Svelte web development for the rest of us&quot; / &lt;/picture &lt;/a — +115 stars today · 89,110 stars · 6,134 forks · Language: JavaScript</description>
+      <content:encoded>&lt;p&gt;&amp;lt;a href=&amp;quot;https://svelte.dev&amp;quot; &amp;lt;picture &amp;lt;source media=&amp;quot;(prefers color scheme: dark)&amp;quot; srcset=&amp;quot;assets/banner dark.png&amp;quot; &amp;lt;img src=&amp;quot;assets/banner.png&amp;quot; alt=&amp;quot;Svelte web development for the rest of us&amp;quot; / &amp;lt;/picture &amp;lt;/a&lt;/p&gt;&lt;p&gt;🔥 +115 stars today · ⭐ &lt;b&gt;89,110&lt;/b&gt; stars · 🍴 &lt;b&gt;6,134&lt;/b&gt; forks · &lt;b&gt;JavaScript&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/sveltejs/svelte&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>getarcaneapp/arcane</title>
+      <link>https://github.com/getarcaneapp/arcane</link>
+      <guid isPermaLink="true">https://github.com/getarcaneapp/arcane</guid>
+      <pubDate>Tue, 17 Nov 2026 07:06:22 GMT</pubDate>
+      <description>[!NOTE] The main branch is the v3 version of Arcane See the release/2.x.x branch for the last 2.x release. [!IMPORTANT] Feature requests have moved to Discussions. Open new requests and upvote existing ones there; issues are only used for Bug reports now to help maintain priority on those issues. — +46 stars today · 8,919 stars · 456 forks · Language: Go</description>
+      <content:encoded>&lt;p&gt;[!NOTE] The main branch is the v3 version of Arcane See the release/2.x.x branch for the last 2.x release. [!IMPORTANT] Feature requests have moved to Discussions. Open new requests and upvote existing ones there; issues are only used for Bug reports now to help maintain priority on those issues.&lt;/p&gt;&lt;p&gt;🔥 +46 stars today · ⭐ &lt;b&gt;8,919&lt;/b&gt; stars · 🍴 &lt;b&gt;456&lt;/b&gt; forks · &lt;b&gt;Go&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/getarcaneapp/arcane&quot;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
